@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cluster
-permalink: /cluster/
+permalink: /image-website/cluster/
 ---
 
 # The GPU Cluster
