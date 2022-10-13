@@ -1,3 +1,5 @@
 _site
 devcontainer
+devcontainer.json
 .sass-cache
+.DS_Store
