@@ -10,7 +10,7 @@ Dikus Robot lab is the place for experimenting with robotics of all kinds.
 Our robot lab has a growing assortment of different robotics platforms. Notably a number of Arlos(link) and a UR5e robot arm, as well as a few Crazyflie microdrones. 
 The lab is also equipped with an optitrack motion capture system for tracking robot movements.
 
-the lab should be used primarily for testing robotics platforms so any repair-work etc. should be done in the [toolshop](/toolshop)
+the lab should be used primarily for testing robotics platforms so any repair-work etc. should be done in the [toolshop](/image-website/toolshop/)
 
 __the UR5e:__ the UR5e is a cobot and as such it is much safer than the standard industrial robot. it is still a potentially dangerous (and definitely expensive) machine, so make sure you have received the mandatory safety instructions before using this.  
 

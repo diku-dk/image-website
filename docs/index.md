@@ -5,4 +5,4 @@
 layout: page
 ---
 
-Presentation website for the Image section.
+Research section covering fields of Image Analysis, Computational Modelling, and Geometry.
