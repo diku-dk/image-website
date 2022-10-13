@@ -4,7 +4,7 @@ The files within the docs folder are publicly displayed on the Image section's w
 
 # Add publication
 
-To add a publication, open the "publications.md" file and add a element to the publications list using the following structure:
+To add a publication, open the "_data/publications.yml" file and add a element to the publications list using the following structure:
 
 ```
     -   title:
