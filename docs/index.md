@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title:
 layout: page
+title: Image section
+permalink: /
 ---
 
 # Image Analysis, Computational Modelling, and Geometry
