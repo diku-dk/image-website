@@ -7,7 +7,7 @@ title: Image section
 permalink: /
 ---
 
-# Image Analysis, Computational Modelling, and Geometry
+# Image Analysis, Computational Modelling, and Geometry - Test
 
 ![Image Section Logo](../images/ImageLogo.png)
 
