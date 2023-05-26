@@ -8,6 +8,9 @@ permalink: /
 ---
 
 # Image Analysis, Computational Modelling, and Geometry
+
+![Image Section Logo](../images/ImageLogo.png)
+
 The IMAGE section hosts researchers in image analysis and processing, computer vision, computer simulation, numerical optimization, machine learning, computational modelling, geometry and geometric statistics. The work ranges from theoretical analyses, over algorithm development, to solving concrete problems for science, industry and society. We are part of the recently launched SCIENCE AI Centre at the University of Copenhagen.
 
 For formal information about the IMAGE section please look at our department  [web-site](https://di.ku.dk/english/research/image/). On this site we present public complementary information. Private information for employees can be found on [github](https://github.com/diku-dk/IMAGE).
