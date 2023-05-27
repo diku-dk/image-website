@@ -15,8 +15,8 @@ jobs:
 
             - name: Run Docker image and update file
               run: |
-                  docker run --rm dascalutudor/scholar-scraper:latest > updated-publications.yaml
-                  mv updated-publications.yaml docs/_data/publications.yaml && echo "mv command successful" || echo "mv command failed"
+                  docker run --rm dascalutudor/scholar-scraper:latest > updated-publications.yml
+                  mv updated-publications.yml docs/_data/publications.yaml && echo "mv command successful" || echo "mv command failed"
 
             - name: Configure Git
               run: |
@@ -25,8 +25,8 @@ jobs:
 
             - name: Commit changes
               run: |
-                  git add docs/_data/publications.yaml
-                  git commit -m "Update publications.yaml"
+                  git add docs/_data/publications.yml
+                  git commit -m "Update publications.yml"
 
             - name: Push changes
               uses: ad-m/github-push-action@v0.6.0
