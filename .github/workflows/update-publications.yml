@@ -4,6 +4,12 @@ on:
     schedule:
         - cron: "0 0 1 * *"
     workflow_dispatch:
+    push:
+        paths:
+            - "env"
+    pull_request:
+        paths:
+            - "env"
 
 jobs:
     update-publications:
