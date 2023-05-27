@@ -28,6 +28,10 @@ jobs:
                   git add docs/_data/publications.yaml
                   git commit -m "Update publications.yaml" || true
 
+            - name: Pull latest changes
+              run: |
+                  git pull --rebase origin <branch_name>
+
             - name: Push changes
               uses: ad-m/github-push-action@v0.6.0
               with:
