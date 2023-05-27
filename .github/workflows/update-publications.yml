@@ -26,13 +26,10 @@ jobs:
             - name: Commit changes
               run: |
                   git add docs/_data/publications.yaml
-                  git commit -m "Update publications.yaml" || true
-
-            - name: Pull latest changes
-              run: |
-                  git pull --rebase origin main
+                  git commit -m "Update publications.yaml"
 
             - name: Push changes
               uses: ad-m/github-push-action@v0.6.0
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
+                  branch: "main"
