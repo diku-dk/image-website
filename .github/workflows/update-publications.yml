@@ -16,7 +16,7 @@ jobs:
             - name: Run Docker image and update file
               run: |
                   docker run --rm dascalutudor/scholar-scraper:latest > updated-publications.yaml
-                  mv updated-publications.yaml docs/_data/publications.yaml
+                  mv updated-publications.yaml docs/_data/publications.yaml && echo "mv command successful" || echo "mv command failed"
 
             - name: Configure Git
               run: |
