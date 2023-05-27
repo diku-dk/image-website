@@ -1,1 +1,296 @@
-[]
+- title: "Postprocessing of MRIs Using FreeSurfer in Epilepsy Surgery Patients Provides\
+    \ an Excellent Imaging Marker of Hippocampal Sclerosis but Fails to Separate Subtypes"
+  author: "AG Kloster, G Opheim, KÅ Alfstad, KB Larsen, P Niehusmann, E Holm, ..."
+  year: 2023
+  journal: "Acta Neurologica Scandinavica 2023"
+- title: "Cerebral Palsy–Early Diagnosis and Intervention Trial: Protocol for the\
+    \ Prospective Multicentre CP-EDIT Study with focus on diagnosis, prognostic factors,\
+    \ and intervention"
+  author: "CE Hoei-Hansen, L Weber, M Johansen, R Fabricius, JK Hansen, ..."
+  year: 2023
+  journal: ""
+- title: "10 years of reproducibility in biomedical research: how can we achieve generalizability\
+    \ and fairness?"
+  author: "AS Wagner, C Maumet, M Ganz, CG van Praag"
+  year: 2023
+  journal: "20th IEEE International Symposium on Biomedical Imaging (ISBI 2023)"
+- title: "A 178-clinical-center experiment of integrating AI solutions for lung pathology\
+    \ diagnosis"
+  author: "B Ibragimov, K Arzamasov, B Maksudov, S Kiselev, A Mongolin, ..."
+  year: 2023
+  journal: "Scientific Reports 13 (1), 1135"
+- title: "Are demographically invariant models and representations in medical imaging\
+    \ fair?"
+  author: "E Petersen, E Ferrante, M Ganz, A Feragen"
+  year: 2023
+  journal: "arXiv preprint arXiv:2305.01397"
+- title: "SE (3) Group Convolutional Neural Networks and a Study on Group Convolutions\
+    \ and Equivariance for DWI Segmentation"
+  author: "R Liu, F Lauze, E Bekkers, K Erleben, S Darkner"
+  year: 2023
+  journal: ""
+- title: "A hybrid approach to full-scale reconstruction of renal arterial network"
+  author: "P Xu, NH Holstein-Rathlou, SB Søgaard, C Gundlach, CM Sørensen, ..."
+  year: 2023
+  journal: "Scientific Reports 13 (1), 7569"
+- title: "AI-based dimensional neuroimaging system for characterizing heterogeneity\
+    \ in brain structure and function in major depressive disorder: COORDINATE-MDD\
+    \ consortium design and …"
+  author: "CHY Fu, G Erus, Y Fan, M Antoniades, D Arnone, SR Arnott, T Chen, ..."
+  year: 2023
+  journal: "BMC psychiatry 23 (1), 1-18"
+- title: "Method and system of global position prediction for imu motion capture"
+  author: "P Schreiner, K Erleben, S Darkner"
+  year: 2023
+  journal: "US Patent App. 17/892,009"
+- title: "Deep Learning-Assisted Localisation of Nanoparticles in synthetically generated\
+    \ two-photon microscopy images"
+  author: "R Netterstrøm, N Kutuzov, S Darkner, MJ Pallesen, MJ Lauritzen, ..."
+  year: 2023
+  journal: "arXiv preprint arXiv:2303.16903"
+- title: "The efficiency of artificial intelligence methods for finding radiographic\
+    \ features in different endodontic treatments-a systematic review"
+  author: "S Ramezanzade, T Laurentiu, A Bakhshandah, B Ibragimov, T Kvist, ..."
+  year: 2023
+  journal: "Acta Odontologica Scandinavica, 1-14"
+- title: "Differentiable Depth for Real2Sim Calibration of Soft Body Simulations"
+  author: "K Arnavaz, MK Nielsen, PG Kry, M Macklin, K Erleben"
+  year: 2023
+  journal: "Computer Graphics Forum 42 (1), 277-289"
+- title: "Deep phenotyping towards precision psychiatry of first-episode depression—\
+    the Brain Drugs-Depression cohort"
+  author: "KHR Jensen, VH Dam, M Ganz, PMD Fisher, CT Ip, A Sankar, ..."
+  year: 2023
+  journal: "BMC psychiatry 23 (1), 151"
+- title: "Changes in Radiologists’ Gaze Patterns Against Lung X-rays with Different\
+    \ Abnormalities: a Randomized Experiment"
+  author: "I Pershin, T Mustafaev, D Ibragimova, B Ibragimov"
+  year: 2023
+  journal: "Journal of Digital Imaging, 1-9"
+- title: "HaN‐Seg: The head and neck organ‐at‐risk CT & MR segmentation dataset"
+  author: "G Podobnik, P Strojan, P Peterlin, B Ibragimov, T Vrtovec"
+  year: 2023
+  journal: "Medical Physics"
+- title: "On (assessing) the fairness of risk score models"
+  author: "E Petersen, M Ganz, SH Holm, A Feragen"
+  year: 2023
+  journal: "arXiv preprint arXiv:2302.08851"
+- title: "Prediction of brain age using structural magnetic resonance imaging: A comparison\
+    \ of accuracy and test-retest reliability of publicly available software packages"
+  author: "RP Dörfel, JM Arenas-Gomez, PM Fisher, M Ganz, GM Knudsen, ..."
+  year: 2023
+  journal: "bioRxiv.01. 26.525514"
+- title: "Association between the loudness dependence of auditory evoked potential,\
+    \ serotonergic neurotransmission and treatment outcome in patients with depression"
+  author: "CT Ip, M Ganz, B Ozenne, S Olbrich, V Beliveau, VH Dam, ..."
+  year: 2023
+  journal: "European Neuropsychopharmacology 70, 32-44"
+- title: "Auto-segmentation of Hip Joints Using MultiPlanar UNet with Transfer Learning"
+  author: "P Xu, F Moshfeghifar, T Gholamalizadeh, MB Nielsen, K Erleben, ..."
+  year: 2022
+  journal: "Medical Image Learning with Limited and Noisy Data: First International\
+    \ …"
+- title: "Psilocybin modulation of time-varying functional connectivity is associated\
+    \ with plasma psilocin and subjective effects"
+  author: "AS Olsen, A Lykkebo-Valløe, B Ozenne, MK Madsen, DS Stenbæk, ..."
+  year: 2022
+  journal: "NeuroImage 264, 119716"
+- title: "Multi-landmark environment analysis with reinforcement learning for pelvic\
+    \ abnormality detection and quantification"
+  author: "IEI Bekkouch, B Maksudov, S Kiselev, T Mustafaev, T Vrtovec, ..."
+  year: 2022
+  journal: "Medical Image Analysis 78, 102417"
+- title: "Mapping neurotransmitter systems to the structural and functional organization\
+    \ of the human neocortex"
+  author: "JY Hansen, G Shafiei, RD Markello, K Smart, SML Cox, M Nørgaard, ..."
+  year: 2022
+  journal: "Nature Neuroscience, 1-13"
+- title: "Open and reproducible neuroimaging: from study inception to publication"
+  author: "G Niso, R Botvinik-Nezer, S Appelhoff, A De La Vega, O Esteban, JA Etzel,\
+    \ ..."
+  year: 2022
+  journal: "NeuroImage, 119623"
+- title: "Hippocampal volume changes in a pharmacological sex-hormone manipulation\
+    \ risk model for depression in women"
+  author: "C Borgsted, E Hoegsted, S Henningsson, A Pinborg, M Ganz, VG Frokjaer"
+  year: 2022
+  journal: "Hormones and Behavior 145, 105234"
+- title: "Artificial Intelligence for the Analysis of Workload-Related Changes in\
+    \ Radiologists’ Gaze Patterns"
+  author: "I Pershin, M Kholiavchenko, B Maksudov, T Mustafaev, D Ibragimova, ..."
+  year: 2022
+  journal: "IEEE Journal of Biomedical and Health Informatics 26 (9), 4541-4550"
+- title: "PROGRESS IN BIOMEDICAL OPTICS AND IMAGING-PROCEEDINGS OF SPIE"
+  author: "I Pershin, B Maksudov, T Mustafaev, B Ibragimov, M Kholiavchenko"
+  year: 2022
+  journal: ""
+- title: "Accuracy and consistency of intensity-based deformable image registration\
+    \ in 4DCT for tumor motion estimation in liver radiotherapy planning"
+  author: "JD Tascón-Vidarte, LB Stick, M Josipovic, S Risum, J Jomier, K Erleben,\
+    \ ..."
+  year: 2022
+  journal: "Plos one 17 (7), e0271064"
+- title: "Physics-based loss and machine learning approach in application to non-Newtonian\
+    \ fluids flow modeling"
+  author: "E Kornaeva, A Kornaev, A Fetisov, I Stebakov, B Ibragimov"
+  year: 2022
+  journal: "2022 IEEE Congress on Evolutionary Computation (CEC), 1-8"
+- title: "Parotid gland segmentation with nnU-Net: deployment scenario and inter-observer\
+    \ variability analysis"
+  author: "G Podobnik, P Strojan, P Peterlin, B Ibragimov, T Vrtovec"
+  year: 2022
+  journal: "Medical Imaging 2022: Image Processing 12032, 444-451"
+- title: "AI-based analysis of radiologist’s eye movements for fatigue estimation:\
+    \ a pilot study on chest X-rays"
+  author: "I Pershin, M Kholiavchenko, B Maksudov, T Mustafaev, B Ibragimov"
+  year: 2022
+  journal: "Medical Imaging 2022: Image Perception, Observer Performance, and Technology\
+    \ …"
+- title: "A direct geometry processing cartilage generation method using segmented\
+    \ bone models from datasets with poor cartilage visibility"
+  author: "F Moshfeghifar, MK Nielsen, JD Tascón-Vidarte, S Darkner, K Erleben"
+  year: 2022
+  journal: "Computational Biomechanics for Medicine: Towards Translation and Better\
+    \ …"
+- title: "Pseudo-Label Guided Image Synthesis for Semi-Supervised COVID-19 Pneumonia\
+    \ Infection Segmentation"
+  author: "F Lyu, M Ye, JF Carlsen, K Erleben, S Darkner, PC Yuen"
+  year: 2022
+  journal: "IEEE Transactions on Medical Imaging"
+- title: "A deep learning framework for vertebral morphometry and Cobb angle measurement\
+    \ with external validation"
+  author: "D Alukaev, S Kiselev, T Mustafaev, A Ainur, B Ibragimov, T Vrtovec"
+  year: 2022
+  journal: "European Spine Journal 31 (8), 2115-2124"
+- title: "Semi-supervised Medical Image Classification with Temporal Knowledge-Aware\
+    \ Regularization"
+  author: "Q Yang, X Liu, Z Chen, B Ibragimov, Y Yuan"
+  year: 2022
+  journal: "Medical Image Computing and Computer Assisted Intervention–MICCAI 2022:\
+    \ 25th …"
+- title: "Spinopelvic measurements of sagittal balance with deep learning: systematic\
+    \ review and critical evaluation"
+  author: "T Vrtovec, B Ibragimov"
+  year: 2022
+  journal: "European Spine Journal 31 (8), 2031-2045"
+- title: "cRedAnno+: Annotation Exploitation in Self-Explanatory Lung Nodule Diagnosis"
+  author: "J Lu, C Yin, K Erleben, MB Nielsen, S Darkner"
+  year: 2022
+  journal: "arXiv preprint arXiv:2210.16097"
+- title: "Segmentation of Organs-At-Risk from Ct and Mr Images of the Head and Neck:\
+    \ Baseline Results"
+  author: "G Podobnik, B Ibragimov, P Strojan, P Peterlin, T Vrtovec"
+  year: 2022
+  journal: "2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI), 1-4"
+- title: "Feature Robustness and Sex Differences in Medical Imaging: A Case Study\
+    \ in MRI-Based Alzheimer’s Disease Detection"
+  author: "E Petersen, A Feragen, ML da Costa Zemsch, A Henriksen, ..."
+  year: 2022
+  journal: "Medical Image Computing and Computer Assisted Intervention–MICCAI 2022:\
+    \ 25th …"
+- title: "PET-BIDS, an extension to the brain imaging data structure for positron\
+    \ emission tomography"
+  author: "M Norgaard, GJ Matheson, HD Hansen, A Thomas, G Searle, G Rizzo, ..."
+  year: 2022
+  journal: "Scientific data 9 (1), 65"
+- title: "Group Convolutional Neural Networks for DWI Segmentation"
+  author: "R Liu, F Lauze, E Bekkers, K Erleben, S Darkner"
+  year: 2022
+  journal: "Geometric Deep Learning in Medical Image Analysis, 96-106"
+- title: "Contact and friction simulation for computer graphics"
+  author: "S Andrews, K Erleben, Z Ferguson"
+  year: 2022
+  journal: "ACM SIGGRAPH 2022 Courses, 1-172"
+- title: "Predicting antidepressant treatment outcome in major depressive disorder\
+    \ using multi-domain data: A NeuroPharm study"
+  author: "B Ozenne, VH Dam, M Ganz, E Beaman, V Beliveau, K Köhler-Forsberg, ..."
+  year: 2022
+  journal: "Neuroscience Applied 1, 100196"
+- title: "LibHip: An open-access hip joint model repository suitable for finite element\
+    \ method simulation"
+  author: "F Moshfeghifar, T Gholamalizadeh, Z Ferguson, T Schneider, MB Nielsen,\
+    \ ..."
+  year: 2022
+  journal: "Computer methods and programs in biomedicine 226, 107140"
+- title: "Improved automated lesion segmentation in whole-body FDG/PET-CT via Test-Time\
+    \ Augmentation"
+  author: "S Amiri, B Ibragimov"
+  year: 2022
+  journal: "arXiv preprint arXiv:2210.07761"
+- title: "Emotional faces processing in major depressive disorder and prediction of\
+    \ antidepressant treatment response: A NeuroPharm study"
+  author: "PM Fisher, B Ozenne, M Ganz, VG Frokjaer, VNH Dam, BW Penninx, ..."
+  year: 2022
+  journal: "Journal of Psychopharmacology 36 (5), 626-636"
+- title: "Open-Full-Jaw: An open-access dataset and pipeline for finite element models\
+    \ of human jaw"
+  author: "T Gholamalizadeh, F Moshfeghifar, Z Ferguson, T Schneider, D Panozzo, ..."
+  year: 2022
+  journal: "Computer Methods and Programs in Biomedicine 224, 107009"
+- title: "Neuroanatomical dimensions in medication-free individuals with major depressive\
+    \ disorder and treatment response to SSRI antidepressant medications or placebo"
+  author: "M Antoniades, C Fu, G Erus, J Garcia, Y Fan, D Arnone, S Arnott, T Chen,\
+    \ ..."
+  year: 2022
+  journal: ""
+- title: "Reducing Annotation Need in Self-explanatory Models for Lung Nodule Diagnosis"
+  author: "J Lu, C Yin, O Krause, K Erleben, MB Nielsen, S Darkner"
+  year: 2022
+  journal: "Interpretability of Machine Intelligence in Medical Image Computing: 5th\
+    \ …"
+- title: "Bundle geodesic convolutional neural network for diffusion-weighted imaging\
+    \ segmentation"
+  author: "R Liu, F Lauze, K Erleben, RW Berg, S Darkner"
+  year: 2022
+  journal: "Journal of Medical Imaging 9 (6), 064002"
+- title: "Evaluating the match of image quality metrics with radiological assessment\
+    \ in a dataset with and without motion artifacts"
+  author: "H Eichhorn, S Chemnitz-Thomsen, E Vouros, N Shekhrajka, R Frost, ..."
+  year: 2022
+  journal: "ISMRM 2022"
+- title: "Gaze-based attention to improve the classification of lung diseases"
+  author: "M Kholiavchenko, I Pershin, B Maksudov, T Mustafaev, Y Yuan, ..."
+  year: 2022
+  journal: "Medical Imaging 2022: Image Processing 12032, 77-80"
+- title: "Evaluating the performance of markerless prospective motion correction and\
+    \ selective reacquisition in a general clinical protocol for brain MRI"
+  author: "H Eichhorn, R Frost, A Kongsgaard, K Kettless, J Slipsager, S Glimberg,\
+    \ ..."
+  year: 2022
+  journal: "PsyArXiv"
+- title: "Benefits of auxiliary information in deep learning-based teeth segmentation"
+  author: "TL Dascalu, A Kuznetsov, B Ibragimov"
+  year: 2022
+  journal: "Medical Imaging 2022: Image Processing 12032, 805-813"
+- title: "Coupling friction with visual appearance"
+  author: "S Andrews, L Nassif, K Erleben, PG Kry"
+  year: 2021
+  journal: "Proceedings of the ACM on Computer Graphics and Interactive Techniques\
+    \ 4 (3 …"
+- title: "Global position prediction for interactive motion capture"
+  author: "P Schreiner, M Perepichka, H Lewis, S Darkner, PG Kry, K Erleben, ..."
+  year: 2021
+  journal: "Proceedings of the ACM on Computer Graphics and Interactive Techniques\
+    \ 4 (3 …"
+- title: "Automating cardiothoracic ratio measurements in chest X-rays"
+  author: "S Kiselev, B Maksudov, T Mustafaev, R Kuleev, B Ibragimov"
+  year: 2021
+  journal: "2021 International Conference\" Nonlinearity, Information and Robotics\"\
+    (NIR), 1-4"
+- title: "A multi-patient analysis of the center of rotation trajectories using finite\
+    \ element models of the human mandible"
+  author: "T Gholamalizadeh, S Darkner, PL Søndergaard, K Erleben"
+  year: 2021
+  journal: "Plos one 16 (11), e0259794"
+- title: "Contact modeling from images using cut finite element solvers"
+  author: "S Claus, P Kerfriden, F Moshfeghifar, S Darkner, K Erleben, C Wong"
+  year: 2021
+  journal: "Advanced Modeling and Simulation in Engineering Sciences 8 (1), 1-23"
+- title: "Mutual-prototype adaptation for cross-domain polyp segmentation"
+  author: "C Yang, X Guo, M Zhu, B Ibragimov, Y Yuan"
+  year: 2021
+  journal: "IEEE Journal of Biomedical and Health Informatics 25 (10), 3886-3897"
+- title: "Adversarial reconstruction loss for domain generalization"
+  author: "IEI Bekkouch, DC Nicolae, A Khan, SMA Kazmi, AM Khattak, B Ibragimov"
+  year: 2021
+  journal: "IEEE Access 9, 42424-42437"
