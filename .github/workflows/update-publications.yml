@@ -15,7 +15,7 @@ jobs:
 
             - name: Run Docker image and update file
               run: |
-                  docker run --rm scholar-scraper:latest > updated-publications.yaml
+                  docker run --rm dascalutudor/scholar-scraper:latest > updated-publications.yaml
                   mv updated-publications.yaml _data/publications.yaml
 
             - name: Configure Git
