@@ -25,7 +25,7 @@ jobs:
 
             - name: Commit changes
               run: |
-                  git add _data/publications.yaml
+                  git add docs/_data/publications.yaml
                   git commit -m "Update publications.yaml" || true
 
             - name: Push changes
