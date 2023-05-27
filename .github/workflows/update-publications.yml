@@ -30,7 +30,7 @@ jobs:
 
             - name: Pull latest changes
               run: |
-                  git pull --rebase origin <branch_name>
+                  git pull --rebase origin main
 
             - name: Push changes
               uses: ad-m/github-push-action@v0.6.0
