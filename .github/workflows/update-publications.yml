@@ -1,4 +1,4 @@
-name: Update Publications
+name: update-publications
 
 on:
     schedule:
@@ -15,7 +15,7 @@ jobs:
 
             - name: Run Docker image and update file
               run: |
-                  docker run --rm dascalutudor/scholar-scraper:latest > updated-publications.yml
+                  docker run --env-file env --rm dascalutudor/scholar-scraper:latest > updated-publications.yml
                   mv updated-publications.yml docs/_data/publications.yml && echo "mv command successful" || echo "mv command failed"
 
             - name: Configure Git
