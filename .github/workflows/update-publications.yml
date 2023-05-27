@@ -1,0 +1,33 @@
+name: Update Publications
+
+on:
+    schedule:
+        - cron: "0 0 1 * *"
+
+jobs:
+    update-publications:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v2
+
+            - name: Run Docker image and update file
+              run: |
+                  docker run --rm scholar-scraper:latest > updated-publications.yaml
+                  mv updated-publications.yaml _data/publications.yaml
+
+            - name: Configure Git
+              run: |
+                  git config --global user.name "GitHub Actions"
+                  git config --global user.email "actions@github.com"
+
+            - name: Commit changes
+              run: |
+                  git add _data/publications.yaml
+                  git commit -m "Update publications.yaml" || true
+
+            - name: Push changes
+              uses: ad-m/github-push-action@v0.6.0
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
