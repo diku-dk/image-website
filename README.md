@@ -2,21 +2,9 @@
 
 The files within the docs folder are publicly displayed on the Image section's website.
 
-# Add publication
+# Add publications
 
-To add a publication, open the "_data/publications.yml" file and add a element to the publications list using the following structure:
-
-```
-    -   title:
-        author:
-        journal:
-        year:
-        paper_link:
-        video_link:
-        code_link:
-```
-
-The properties "paper_link", "video_link" and "code_link" are optional.
+To include your latest publications from Google Scholar, update the list of author ids included in the "env" file. To find your author id, navigate to your google scholar page and extract the id from the user query parameter in the URL. "user=<your_id>". Then, include a comma followed by your author id in the env > AUTHOR list, i.e ",<your_id>".
 
 # Run site locally
 
