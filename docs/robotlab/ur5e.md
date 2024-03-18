@@ -2,6 +2,7 @@
 layout: page
 title: Robotlab - UR5e
 permalink: /robotlab/ur5e
+published: false
 ---
 
 # Universal Robotics UR5e Cobots
@@ -18,7 +19,7 @@ The basic interaction with UR5e can be done via the teach pendant attached to th
 * Settings: check and set various parameters, e.g. IP address of __controller__ in the network. You will need the address in configuring your driver or program. 
 
 <div>
-<img src="./_data/ur5eTeachPendant.png" width="640" height="480"/>
+<img src="./assets/img/ur5eTeachPendant.png" width="640" height="480"/>
 </div>
 
 ## Progamming with UR5e 

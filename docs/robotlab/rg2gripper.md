@@ -2,6 +2,7 @@
 layout: page
 title: Robotlab - OnRobot RG2
 permalink: /robotlab/rg2gripper
+published: false
 ---
 
 # OnRobot RG2 Gripper
@@ -12,22 +13,22 @@ OnRobot RG2 is eletric two-fingered gripper that supports a max grasp width of 1
 * Mount the flange adapter to UR5e. Use the pin to ensure the alignment of holes.
 
 <div>
-<img src="./_data/IMG_0631.jpeg" width="300" height="400"/>
-<img src="./_data/IMG_0632.jpeg" width="300" height="400"/>
+<img src="./assets/img/IMG_0631.jpeg" width="300" height="400"/>
+<img src="./assets/img/IMG_0632.jpeg" width="300" height="400"/>
 </div>
 
 * Tighten four screws to fix the adapter. Mount RG2 gripper to the adapter. Note to mate the rod and hook tongue first and you will hear a click sound indicating the gripper is fully mounted. Gently push the gripper to ensure the lock mechanism works as intended.
 
 <div>
-<img src="./_data/IMG_0633.jpeg" width="300" height="400"/>
-<img src="./_data/IMG_0635.jpeg" width="300" height="400"/>
+<img src="./assets/img/IMG_0633.jpeg" width="300" height="400"/>
+<img src="./assets/img/IMG_0635.jpeg" width="300" height="400"/>
 </div>
 
 * Unscrew the socket covers on the flange adapter and robot arm. Plug the sockets with the kit cable so the grippers can be controlled through the robot I/O. 
 
 <div>
-<img src="./_data/IMG_0638.jpeg" width="300" height="400"/>
-<img src="./_data/IMG_0639.jpeg" width="533" height="400"/>
+<img src="./assets/img/IMG_0638.jpeg" width="300" height="400"/>
+<img src="./assets/img/IMG_0639.jpeg" width="533" height="400"/>
 </div>
 * To unmount the gripper, press the button between the gripper and flange adapter and then reverse the mounting motion.
 
