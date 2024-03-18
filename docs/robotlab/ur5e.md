@@ -5,7 +5,7 @@ permalink: /robotlab/ur5e
 ---
 
 # Universal Robotics UR5e Cobots
-UR5e robots are light-weight collaborative robot arms with 6 joints and can deliver submillimeter-level motion accuracy. E-series indicate the model is shipped with embedded force-torque sensor that could be used for certain taskes. There are so far 3 UR5e robots in the labspace connected to the lab network hub. This page provides a brief introduction on how to use the robot and program them with the lab or your own computers (often referred as __remote computer__). Refer to [the official user manual](https://www.universal-robots.com/download/manuals-e-seriesur20ur30/user/ur5e/59/user-manual-ur5e-e-series-sw-59-english-international-en/) for more extensive descriptions.
+UR5e robots are light-weight collaborative robot arms with 6 joints and can move a payload up to 5kg with submillimeter-level motion accuracy. E-series indicate the model is shipped with embedded force-torque sensor that could be used for certain taskes. There are so far 3 UR5e robots in the labspace connected to the lab network hub. This page provides a brief introduction on how to use the robot and program them with the lab or your own computers (often referred as __remote computer__). Refer to [the official user manual](https://www.universal-robots.com/download/manuals-e-seriesur20ur30/user/ur5e/59/user-manual-ur5e-e-series-sw-59-english-international-en/) for more extensive descriptions.
 
 ## Basic Usage
 The basic interaction with UR5e can be done via the teach pendant attached to the control box (usually referred as __controller__). Picture and instructions below show the basic steps to use it:
