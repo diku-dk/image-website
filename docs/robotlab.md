@@ -12,7 +12,9 @@ The lab is also equipped with an optitrack motion capture system for tracking ro
 
 The lab should be used primarily for testing robotics platforms so any repair work etc. should be done in the [toolshop](/image-website/toolshop/).
 
-__the UR5e:__ the UR5e is a cobot and as such it is much safer than the standard industrial robot. It is still a potentially dangerous (and definitely expensive) machine, so make sure you have received the mandatory safety instructions before using this.  
+__the UR5e:__ the [UR5e](./robotlab/ur5e) is a cobot and as such it is much safer than the standard industrial robot. It is still a potentially dangerous (and definitely expensive) machine, so make sure you have received the mandatory safety instructions before using this. 
+
+__OnRobot RG2__ the [OnRobot RG2](./robotlab/rg2gripper) is eletric two-fingered gripper that can be mounted on UR5e to grasp and release objects.
 
 __The Arlos:__ Arlo is an open landdrone platform for teaching and research. We have app. 10 Arlos. These are used in the robot course and thus it should be respected that in block 1 they are reserved for this purpose. This also means that there will be significntly more activity in the lab in this period, so plan ahead.
 
