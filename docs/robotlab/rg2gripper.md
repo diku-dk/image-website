@@ -4,7 +4,6 @@ title: Robotlab - OnRobot RG2
 permalink: /robotlab/rg2gripper
 ---
 
-# OnRobot RG2 Gripper
 OnRobot RG2 is eletric two-fingered gripper that supports a max grasp width of 110mm and 2kg/5kg for force/form grip. The lab space has mount adapters and cables for using it together with [UR5e](./ur5e). This includes commanding grasp width and force through teach pendant or remote computer. This page contains a short description about mounting/unmounting, setup and programming with python on the remote computer. A full user manual can be found from [the official website](https://onrobot.com/en/downloads).
 
 ## Mount/Unmount RG2 to/from UR5e
@@ -44,7 +43,7 @@ Using robot I/O to control the gripper needs to install URCap to the teaching pe
 
 Ideally, one would like to control the grip/release of the gripper from a remote computer, e.g. with Python/C++ APIs. Unfortunately, no official support seems to be there. There are, however, solutions discussed in the community.
 
-### ur-rtde
+### ur_rtde
 
 ur-rtde provides APIs to command the robot and read/write I/O interfaces. The command is exclusive to UR5e itself so we will need an extended script to run on the controller, listening to certain I/O port and then executing the URCap function accordingly. There are two ways of running such an extended script on controller/teach pendant, see [the issue and related discussion on ur_rtde](https://gitlab.com/sdurobotics/ur_rtde/-/issues/108). The lab space has implemented the manually loaded custom script solution as the other is facing some problem of setting a local script, possibly related to [an active issue](https://gitlab.com/sdurobotics/ur_rtde/-/issues/297). 
 
@@ -84,7 +83,7 @@ for _ in range (5):
     rtde_io.setInputIntRegister(18, 0)          #finish execution
 ```
 
-The above program simply repeat a sequence of linear motions and grip/release actions. Specifically, the code writes width and force and sends a signal to execute the commanded values. Note the signal needs to be revoked afterwards. Otherwise the gripper branch will block listening to other UR5e API calls (should be improved on the script side). A good practice could be packing the register writing operations in some "grasp()" and "release()" functions in a Robot.
+The above program simply repeats a sequence of linear motions and grip/release actions. Specifically, the code writes width and force and sends a signal to execute the commanded values. Note the signal needs to be revoked afterwards. Otherwise the gripper branch will block listening to other UR5e API calls (should be improved on the script side). A good practice could be packing the register writing operations in some "grasp()" and "release()" functions in a Robot.
 
 ### ROS Driver
 
