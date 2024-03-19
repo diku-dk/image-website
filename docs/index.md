@@ -17,14 +17,14 @@ For formal information about the IMAGE section please look at our department  [w
 
 Want to see what we do? Have a look at some of our publications. 
 
-- [Publications](publications.md)
+- [Publications]({{ site.baseurl }}{% link publications.md %})
 
 ## Infrastructure
 IMAGE provides a wide range of physical and virtual reserach infrastructure. 
 
-- [Robot lab space](robotlab.md)
-- [Toolshop](toolshop.md)
-- [GPU Cluster](cluster.md)
+- [Robot lab space]({{ site.baseurl }}{% link robotlab.md %})
+- [Toolshop]({{ site.baseurl }}{% link toolshop.md %})
+- [GPU Cluster]({{ site.baseurl }}{% link cluster.md %})
 
 ## Open Data and Open Source
 Researchers from IMAGE has been part of creating many open source projects and data-sets that are freely available online. Below is a subset of those repositories.

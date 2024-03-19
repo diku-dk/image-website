@@ -38,3 +38,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+header_pages:
+  - publications.md
+  - cluster.md
+  - robotlab.md
+  - toolshop.md
