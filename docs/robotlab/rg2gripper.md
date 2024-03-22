@@ -49,7 +49,7 @@ ur-rtde provides APIs to command the robot and read/write I/O interfaces. The co
 
 Basically, all have to do is to open a script named "robot_control_plus_rg2.script" on the teach pendant and run it. The script is largely credited to the discussion [here](https://gitlab.com/sdurobotics/ur_rtde/-/issues/100). ur_rtde also requests to switch to "remote control mode" from "local mode". To do this, tap the icon like the teach pendant close to the upper right corner on the screen.
 
-The script listens to the integer register 18 to call the URCap RG2 function, which can receive both grip width and force values. The two values can be specified by writing to float integer 18 and 19. With all that in mind, we can write a snippet of python code to control both UR5e and the gripper via ur_rtde:
+The script listens to the integer register 18 to call the URCap RG2 function, which can receive both grip width and force values. The two values can be specified by writing to float register 18 and 19. With all that in mind, we can write a snippet of python code to control both UR5e and the gripper via ur_rtde:
 
 ```python
 import time
@@ -83,7 +83,7 @@ for _ in range (5):
     rtde_io.setInputIntRegister(18, 0)          #finish execution
 ```
 
-The above program simply repeats a sequence of linear motions and grip/release actions. Specifically, the code writes width and force and sends a signal to execute the commanded values. Note the signal needs to be revoked afterwards. Otherwise the gripper branch will block listening to other UR5e API calls (should be improved on the script side). A good practice could be packing the register writing operations in some "grasp()" and "release()" functions in a Robot.
+The above program simply repeats a sequence of linear motions and grip/release actions. Specifically, the code writes width and force and sends a signal to execute the commanded values. Note the signal needs to be revoked afterwards. Otherwise the gripper branch will block listening to other UR5e API calls (should be improved on the script side). A good practice could be packing the register writing operations in some "grasp()" and "release()" functions in a Robot class.
 
 ### ROS Driver
 
