@@ -9,3 +9,5 @@ UFactory xArm6 is among a series of light-weight multi-DOFs robots with simple p
 <div>
 <img src="./assets/img/IMG_0684.jpeg" width="432" height="576"/>
 </div>
+
+The lab space does not have its native gripper and suction cup kit. However, its toolplate and RS 485 connection should be compatible to lab grippers. There are examples for using external device such as [Robotiq grippers](http://help.ufactory.cc/en/articles/3997200-guide-to-use-the-robotiq-gripper-on-ufactory-xarm). Similar programming should be possible for grippers like OnRobot RG2 or other devices supporting serial communication. 

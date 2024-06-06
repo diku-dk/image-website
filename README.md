@@ -8,6 +8,10 @@ To include your latest publications from Google Scholar, update the list of auth
 
 For more details regarding the scraping mechanism, refer to [scholar-scraper](https://github.com/tudordascalu/scholar-scraper).
 
+# Development
+
+Follow [the jekyll website tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) to develop and compile the pages locally.
+
 # Run site locally
 
-To run the site locally, we can use docker.
+To run the site locally, we can use docker. 
