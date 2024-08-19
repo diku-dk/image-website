@@ -26,7 +26,7 @@ __TerraBot:__ [TERRA]({{ site.baseurl }}{% link robotlab/terrabot.md %}) is a ho
 
 __Crazyflies:__ the crazyflies are micro-sized drones that can be used for projects, but it should be noted that they are fragile, and even though we have 8 of them and some spare parts, please be cautious when using them.
 
-__the optitrack system:__  the system consist of 8 cameras positioned to give a good coverage of the entire lab, centered on the middle of the floor. Do not under any circumstances move any of the cameras. They will have to be re calibrated and can be potentially damaged if moved. The lab space at Sigursgade has a similar system used for research on human interaction. 
+__Moption Capture system:__  [Optitrack]({{ site.baseurl }}{% link robotlab/optitrack.md %}) system consist of 8 cameras positioned to give a good coverage of the entire lab, centered on the middle of the floor. Do not under any circumstances move any of the cameras. They will have to be re calibrated and can be potentially damaged if moved. The lab space at Sigursgade has a similar system used for research on human interaction. 
 
 
 
