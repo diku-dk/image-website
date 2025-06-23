@@ -3,7 +3,7 @@ layout: page
 title: Robotlab - Piab Vacuum Kit
 permalink: /robotlab/piabgripper
 ---
-
+# Version 1
 [Piab](https://www.piab.com) provides vacuum technologies for lifting and moving objects in automation applications. The lab space has received a package of vacuum cups and soft grippers that may suit different payloads and object geometries. The grippers can be connected to robot arms such as [UR5e](./ur5e) and actuated with vacuum ejector (the red aspirator in the picture) or piCOMPACT I/O link (the device in the picture). Note you would need air compressor as in the picture below and pneumatic solenoid valves to control on/off of the grip. Consult the lab manager on how to use them properly.
 
 <div>
@@ -66,3 +66,61 @@ ser.close()
 ```
 
 A good practice could be wrap the serial communication into a grip() function. Note that valve-on means closing the gripper or activating the suction since the compressed air is used to create vacuum. You might want to name the command differently if that creates confusion.
+
+# Version 2
+The new version of the setup use a 6-channel piCOMPACTx10 and is actuated by the digital output of the robot arm UR5e. This makes it suitable for controlling robot and pump form the same digital interface.
+The following code cyclicly switches the pump ON and OFF for a defined amount of cycles, with an interval of 2 seconds. The standard digital output pin decides the direction of the air flow.
+
+```python
+import rtde_io
+import rtde_receive
+import time
+
+IP="ROBOT_IP"
+_io = rtde_io.RTDEIOInterface(IP)
+_r = rtde_receive.RTDEReceiveInterface(IP)
+
+to_psi= lambda V:(V-4/5)*101/2 # linear relationship between voltage and pressure 
+pressure=[]
+voltage=[]
+
+def wait_and_log(seconds):
+    counter=0
+    step=0.01
+    while counter<seconds: 
+        voltage.append(_r.getStandardAnalogInput0()) #read voltage
+        pressure.append(to_psi(_r.getStandardAnalogInput0())) #convert to pressure
+        time.sleep(step)
+        counter+=step
+
+def print_pin_state(pin):
+    # Get the state of the pin
+    state = _r.getDigitalOutState(pin)
+    if state:
+        print(f"Pin {pin} is HIGH")
+    else:
+        print(f"Pin {pin} is LOW")
+
+
+#Chose the pin of the standard digital output
+mode="suck"
+if mode=="blow":
+    pin=0
+elif mode=="suck":
+    pin=1
+else:
+    print("Invalid mode. Use 'blow' or 'suck'.")
+
+seconds=2
+counter=0
+while counter<10:# ten on off cycles
+    _io.setStandardDigitalOut(pin, True) #start
+
+    wait_and_log(seconds)
+
+    _io.setStandardDigitalOut(pin, False)#stop
+
+    wait_and_log(seconds)
+    counter+=1
+```
+
