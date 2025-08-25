@@ -16,7 +16,7 @@ __the UR5e:__ the [UR5e]({{ site.baseurl }}{% link robotlab/ur5e.md %}) is a cob
 
 __OnRobot RG2:__ the [OnRobot RG2]({{ site.baseurl }}{% link robotlab/rg2gripper.md %}) is eletric two-fingered gripper that can be mounted on UR5e to grasp and release objects.
 
-__Piab Pneumatic Gripper Kit:__ the [Piab Pneumatic Gripper Kit]({{ site.baseurl }}{% link robotlab/piabgripper.md %}) is a set of vacuum ejector, suction cups and soft grippers for grasping and releasing objects. You may need to use them together with compressors and valves in the lab. 
+__Piab Pneumatic Gripper Kit:__ the [Piab Pneumatic Gripper Kit]({{ site.baseurl }}{% link robotlab/piabgripper.md %}) is a set of vacuum ejector, suction cups and soft grippers for grasping and releasing objects. You may need to use them together with compressors and valves in the lab. The version 2 of the setup freatures a proportional regulator to control the input pressure to a 6-channel pump that can be operated by the python API of the robot UR5e.
 
 __uFactory xArm6:__ [xArm6]({{ site.baseurl }}{% link robotlab/xarm6.md %}) is a light-weight cobot with similar degrees-of-freedom and payload as UR5e. It is possible to use above grippers although they are not natively supported. Read the detailed instruction or contact the lab manager to find a solution for using an end-effector. 
 
