@@ -68,8 +68,12 @@ ser.close()
 A good practice could be wrap the serial communication into a grip() function. Note that valve-on means closing the gripper or activating the suction since the compressed air is used to create vacuum. You might want to name the command differently if that creates confusion.
 
 # Version 2
-The new version of the setup use a 6-channel piCOMPACTx10 and is actuated by the digital output of the robot arm UR5e. This makes it suitable for controlling robot and pump form the same digital interface.
-The following code cyclicly switches the pump ON and OFF for a defined amount of cycles, with an interval of 2 seconds. The standard digital output pin decides the direction of the air flow.
+The new version of the setup use a 6-channel piCOMPACTx10 and is actuated by the digital output of the robot arm UR5e.
+The input to the pump is compressed air which pressure is controlledy by a FESTO (8046299) proportional-pressure regulator mappint an electrical input form 0-10 V to pressure 0-6 Bar (0-87 psi).
+This setup is suitable to control robot, regulator and pump from the control box of the UR5e. The regulator is controlled by an analog output and the pump by a digital output.
+
+
+The following code first enables the input pressure from the regulator and then cyclicly switches the pump ON and OFF for a defined amount of cycles, with an interval of 2 seconds. The standard digital output pin decides the direction of the air flow.
 
 ```python
 import rtde_io
@@ -79,7 +83,8 @@ import time
 IP="ROBOT_IP"
 _io = rtde_io.RTDEIOInterface(IP)
 _r = rtde_receive.RTDEReceiveInterface(IP)
-
+# proportional reguulator fully open
+_io.setAnalogOutputVoltage(0,1) # Analog outoput 0,  10V (voltage is controlled with a float 0 to 1)
 to_psi= lambda V:(V-4/5)*101/2 # linear relationship between voltage and pressure 
 pressure=[]
 voltage=[]
