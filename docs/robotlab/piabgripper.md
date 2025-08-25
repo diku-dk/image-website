@@ -69,7 +69,7 @@ A good practice could be wrap the serial communication into a grip() function. N
 
 # Version 2
 The new version of the setup use a 6-channel piCOMPACTx10 and is actuated by the digital output of the robot arm UR5e.
-The input to the pump is compressed air which pressure is controlledy by a FESTO (8046299) proportional-pressure regulator mappint an electrical input form 0-10 V to pressure 0-6 Bar (0-87 psi).
+The input to the pump is compressed air which pressure is controlledy by a FESTO (8046299) proportional-pressure regulator mapping an electrical input form 0-10 V to pressure 0-6 Bar (0-87 psi).
 This setup is suitable to control robot, regulator and pump from the control box of the UR5e. The regulator is controlled by an analog output and the pump by a digital output.
 
 
