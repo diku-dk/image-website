@@ -85,7 +85,15 @@ _io = rtde_io.RTDEIOInterface(IP)
 _r = rtde_receive.RTDEReceiveInterface(IP)
 # proportional reguulator fully open
 _io.setAnalogOutputVoltage(0,1) # Analog outoput 0,  10V (voltage is controlled with a float 0 to 1)
-to_psi= lambda V:(V-4/5)*101/2 # linear relationship between voltage and pressure 
+
+
+def to_psi(V):
+    return (V - 4/5) * 53.0657 # Adjusted for the pump's voltage to pressure relationship
+
+def regulator_to_psi(V):
+    return V/10*87 # Adjusted for the regulator's voltage to pressure relationship
+
+
 pressure=[]
 voltage=[]
 
