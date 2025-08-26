@@ -3,6 +3,99 @@ layout: page
 title: Robotlab - Piab Vacuum Kit
 permalink: /robotlab/piabgripper
 ---
+
+<div style="max-width: 800px; margin: auto;">
+# Version 2 – Pneumatic Control Setup with UR control box
+
+## Overview
+This setup integrates robot arm and pneumatic grip in a single framework featuring a unified python interface.  The setup consists of the componetnts listed below.
+- **Universal Robot control box**: Electrical Interface with standalone tablet controller and ethernet/WiFi control through code API
+- **Robot arm**: UR5e with 3d Printed support to attach the piab-suction cups, Raspberry Pi and two attached Picametas and a.  
+- **Air supply**: Compressed air source
+- **Pressure regulator**: FESTO proportional-pressure regulator (8046299) Analog output (AO) of the UR5e
+- **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF control is done through digital output (DO) of the UR5e  
+---
+
+
+## Electrical Connections
+PLOT
+
+## Pneumatic Connections
+PLOT
+
+
+## Digital Interface
+- Pressure Regulator (0–10 V → 0–6 bar / 0–87 psi) → **UR control box Analog Output 0 (AO0)** 
+- Suction pump (ON/OFF) → **UR control box Digital Outputs (DO0:blow, DO1:suck)** 
+---
+
+## Script Behavior
+The following Python script:  
+1. Opens the regulator fully (10 V).  
+2. Cycles the pump ON and OFF for 10 repetitions with a 2-second interval.  
+3. Logs regulator voltage and corresponding pressure in real time.  
+4. Allows selection between `"suck"` and `"blow"` modes (depending on which pump channel is wired).  
+
+---
+
+## Python Example
+
+```python
+import rtde_io
+import rtde_receive
+import time
+
+IP = "ROBOT_IP"
+_io = rtde_io.RTDEIOInterface(IP)
+_r = rtde_receive.RTDEReceiveInterface(IP)
+
+# Open regulator fully (10 V mapped to ~87 psi / 6 bar)
+_io.setAnalogOutputVoltage(0, 1.0)  # 1.0 = 10 V (range is 0.0–1.0)
+
+def to_psi(V):
+    """Convert pump voltage reading to pressure in psi."""
+    return (V - 4/5) * 53.0657  # Adjusted calibration
+
+def regulator_to_psi(V):
+    """Convert regulator voltage (0–10 V) to pressure in psi (0–87)."""
+    return (V / 10) * 87
+
+pressure, voltage = [], []
+
+def wait_and_log(seconds):
+    """Log regulator input and corresponding pressure for 'seconds' duration."""
+    counter, step = 0, 0.01
+    while counter < seconds:
+        v = _r.getStandardAnalogInput0()
+        voltage.append(v)
+        pressure.append(to_psi(v))
+        time.sleep(step)
+        counter += step
+
+def print_pin_state(pin):
+    """Print the current digital output pin state."""
+    state = _r.getDigitalOutState(pin)
+    print(f"Pin {pin} is {'HIGH' if state else 'LOW'}")
+
+# Choose air flow mode: 'suck' or 'blow'
+mode = "suck"
+if mode == "blow":
+    pin = 0
+elif mode == "suck":
+    pin = 1
+else:
+    raise ValueError("Invalid mode. Use 'blow' or 'suck'.")
+
+seconds = 2
+for i in range(10):  # ten on/off cycles
+    _io.setStandardDigitalOut(pin, True)   # Pump ON
+    wait_and_log(seconds)
+    _io.setStandardDigitalOut(pin, False)  # Pump OFF
+    wait_and_log(seconds)
+
+
+
+
 # Version 1
 [Piab](https://www.piab.com) provides vacuum technologies for lifting and moving objects in automation applications. The lab space has received a package of vacuum cups and soft grippers that may suit different payloads and object geometries. The grippers can be connected to robot arms such as [UR5e](./ur5e) and actuated with vacuum ejector (the red aspirator in the picture) or piCOMPACT I/O link (the device in the picture). Note you would need air compressor as in the picture below and pneumatic solenoid valves to control on/off of the grip. Consult the lab manager on how to use them properly.
 
@@ -67,73 +160,4 @@ ser.close()
 
 A good practice could be wrap the serial communication into a grip() function. Note that valve-on means closing the gripper or activating the suction since the compressed air is used to create vacuum. You might want to name the command differently if that creates confusion.
 
-# Version 2
-The new version of the setup use a 6-channel piCOMPACTx10 and is actuated by the digital output of the robot arm UR5e.
-The input to the pump is compressed air which pressure is controlledy by a FESTO (8046299) proportional-pressure regulator mapping an electrical input form 0-10 V to pressure 0-6 Bar (0-87 psi).
-This setup is suitable to control robot, regulator and pump from the control box of the UR5e. The regulator is controlled by an analog output and the pump by a digital output.
-
-
-The following code first enables the input pressure from the regulator and then cyclicly switches the pump ON and OFF for a defined amount of cycles, with an interval of 2 seconds. The standard digital output pin decides the direction of the air flow.
-
-```python
-import rtde_io
-import rtde_receive
-import time
-
-IP="ROBOT_IP"
-_io = rtde_io.RTDEIOInterface(IP)
-_r = rtde_receive.RTDEReceiveInterface(IP)
-# proportional reguulator fully open
-_io.setAnalogOutputVoltage(0,1) # Analog outoput 0,  10V (voltage is controlled with a float 0 to 1)
-
-
-def to_psi(V):
-    return (V - 4/5) * 53.0657 # Adjusted for the pump's voltage to pressure relationship
-
-def regulator_to_psi(V):
-    return V/10*87 # Adjusted for the regulator's voltage to pressure relationship
-
-
-pressure=[]
-voltage=[]
-
-def wait_and_log(seconds):
-    counter=0
-    step=0.01
-    while counter<seconds: 
-        voltage.append(_r.getStandardAnalogInput0()) #read voltage
-        pressure.append(to_psi(_r.getStandardAnalogInput0())) #convert to pressure
-        time.sleep(step)
-        counter+=step
-
-def print_pin_state(pin):
-    # Get the state of the pin
-    state = _r.getDigitalOutState(pin)
-    if state:
-        print(f"Pin {pin} is HIGH")
-    else:
-        print(f"Pin {pin} is LOW")
-
-
-#Chose the pin of the standard digital output
-mode="suck"
-if mode=="blow":
-    pin=0
-elif mode=="suck":
-    pin=1
-else:
-    print("Invalid mode. Use 'blow' or 'suck'.")
-
-seconds=2
-counter=0
-while counter<10:# ten on off cycles
-    _io.setStandardDigitalOut(pin, True) #start
-
-    wait_and_log(seconds)
-
-    _io.setStandardDigitalOut(pin, False)#stop
-
-    wait_and_log(seconds)
-    counter+=1
-```
-
+</div>
