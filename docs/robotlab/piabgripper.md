@@ -17,7 +17,6 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 - **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF control is done through digital output (DO) of the UR5e
 
   
----
 
 ## Electrical Connections
 PLOT
@@ -30,8 +29,6 @@ PLOT
 - Suction pump (ON/OFF) → **UR control box Digital Outputs (DO0:blow, DO1:suck)**
 
 
----
-
 
 ## Python Example
 The following Python script:  
@@ -41,7 +38,6 @@ The following Python script:
 4. Allows selection between `"suck"` and `"blow"` modes (depending on which pump channel is wired).
 
 
----
 
 ```python
 import rtde_io
