@@ -15,7 +15,8 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 - **Air supply**: Compressed air source
 - **Pressure regulator**: FESTO proportional-pressure regulator (8046299) Analog output (AO) of the UR5e
 - **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF control is done through digital output (DO) of the UR5e
-- 
+
+  
 ---
 
 ## Electrical Connections
@@ -37,7 +38,9 @@ The following Python script:
 1. Opens the regulator fully (10 V).  
 2. Cycles the pump ON and OFF for 10 repetitions with a 2-second interval.  
 3. Logs regulator voltage and corresponding pressure in real time.  
-4. Allows selection between `"suck"` and `"blow"` modes (depending on which pump channel is wired).  
+4. Allows selection between `"suck"` and `"blow"` modes (depending on which pump channel is wired).
+
+
 ---
 
 ```python
