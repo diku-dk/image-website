@@ -4,7 +4,7 @@ title: Robotlab - Piab Vacuum Kit
 permalink: /robotlab/piabgripper
 ---
 
-<div style="max-width: 800px; margin: auto;">
+<div style="max-width: 1000px; margin: auto;">
 # Version 2 – Pneumatic Control Setup with UR control box
 
 ## Overview
