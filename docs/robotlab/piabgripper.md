@@ -14,27 +14,31 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 - **Robot arm**: UR5e with 3d Printed support to attach the piab-suction cups, Raspberry Pi and two attached Picametas and a.  
 - **Air supply**: Compressed air source
 - **Pressure regulator**: FESTO proportional-pressure regulator (8046299) Analog output (AO) of the UR5e
-- **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF control is done through digital output (DO) of the UR5e  
+- **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF control is done through digital output (DO) of the UR5e
+- 
 ---
 
 ## Electrical Connections
 PLOT
+
 ## Pneumatic Connections
 PLOT
+
 ## Digital Interface
 - Pressure Regulator (0–10 V → 0–6 bar / 0–87 psi) → **UR control box Analog Output 0 (AO0)** 
-- Suction pump (ON/OFF) → **UR control box Digital Outputs (DO0:blow, DO1:suck)** 
+- Suction pump (ON/OFF) → **UR control box Digital Outputs (DO0:blow, DO1:suck)**
+
+
 ---
 
-## Script Behavior
+
+## Python Example
 The following Python script:  
 1. Opens the regulator fully (10 V).  
 2. Cycles the pump ON and OFF for 10 repetitions with a 2-second interval.  
 3. Logs regulator voltage and corresponding pressure in real time.  
 4. Allows selection between `"suck"` and `"blow"` modes (depending on which pump channel is wired).  
 ---
-
-## Python Example
 
 ```python
 import rtde_io
