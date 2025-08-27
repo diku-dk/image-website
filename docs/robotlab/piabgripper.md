@@ -13,8 +13,11 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 - **Universal Robot control box**: Electrical Interface with standalone tablet controller and ethernet/WiFi control through code API
 - **Robot arm**: UR5e with 3d Printed support to attach the piab-suction cups, Raspberry Pi and two attached Picametas and a.  
 - **Air supply**: Compressed air source
-- **Pressure regulator**: FESTO proportional-pressure regulator (8046299) Analog output (AO) of the UR5e
-- **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF control is done through digital output (DO) of the UR5e
+- **Pressure regulator**: FESTO proportional-pressure regulator (8046299) maps an input voltage to a proportional pressure of air in output.  
+  ![FESTO regulator](assets/img/festo_regulator.jpg)
+
+- **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF suction with energy saving control.  
+  ![piCOMPACTx10 pump](assets/img/piab_pump.jpg)
 
   
 
