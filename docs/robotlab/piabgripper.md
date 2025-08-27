@@ -40,7 +40,7 @@ The following Python script:
 1. Opens the regulator fully (10 V).  
 2. Cycles the pump ON and OFF for 10 repetitions with a 2-second interval.  
 3. Logs regulator voltage and corresponding pressure in real time.  
-4. Allows selection between `"suck"` and `"blow"` modes (depending on which pump channel is wired).
+4. Allows selection between `"suck"` and `"blow"` modes (suction already has a blow-out function when it goes OFF, "blow" might be not necessary for our scope).
 
 
 
