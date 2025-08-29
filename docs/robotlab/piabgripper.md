@@ -19,15 +19,21 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 <img src="assets/img/compressor.jpg"/>
 </div> 
 
-- **Pressure regulator**: FESTO proportional-pressure regulator (8046299) maps an input voltage to a proportional pressure of air in output.
+- **Condensation collector**: Collects water molecules from the air to protect the electric pump. It can regulate the pressure through a knob.
 <div>
-  <img src="assets/img/festo_regulator.jpg" style="width:100%; height:auto;"/>
+<img src="assets/img/hand_regulator.jpg"/>
+</div> 
+
+- **Pressure regulator**: FESTO proportional pressure regulator (8046299) maps an input voltage to a proportional pressure of air in output.
+<div>
+<img src="assets/img/festo_regulator.jpg"/>
 </div>
 
 - **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF suction with energy saving control.  
 <div>
 <img src="assets/img/piab_pump.jpg"/>
 </div>
+
   
 ## Electrical Connections
 PLOT
