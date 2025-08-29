@@ -7,15 +7,21 @@ permalink: /robotlab/piabgripper
 
 # Version 2 – Pneumatic Control Setup with UR control box
 
-## Overview
-
 This setup integrates robot arm and pneumatic grip in a single framework featuring a unified python interface.  The setup consists of the componetnts listed below.
 - **Universal Robot control box**: Electrical Interface with standalone tablet controller and ethernet/WiFi control through code API
-- **Robot arm**: UR5e with 3d Printed support to attach the piab-suction cups, Raspberry Pi and two attached Picametas and a.  
-- **Air supply**: Compressed air source
-- **Pressure regulator**: FESTO proportional-pressure regulator (8046299) maps an input voltage to a proportional pressure of air in output.  
+- **Robot arm**: UR5e with 3d Printed support to attach the piab-suction cups, Raspberry Pi and two attached Picameras and a.
 <div>
-<img src="assets/img/festo_regulator.jpg"/>
+<img src="assets/img/roy_batty.jpg"/>
+</div> 
+
+- **Air supply**: Compressed air source.
+<div>
+<img src="assets/img/compressor.jpg"/>
+</div> 
+
+- **Pressure regulator**: FESTO proportional-pressure regulator (8046299) maps an input voltage to a proportional pressure of air in output.
+<div>
+  <img src="assets/img/festo_regulator.jpg" style="width:100%; height:auto;"/>
 </div>
 
 - **Suction pump**: Pump piCOMPACTx10 (6-channel) vacuum pump attached to the suction cup. ON/OFF suction with energy saving control.  
