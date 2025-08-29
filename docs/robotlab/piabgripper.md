@@ -34,6 +34,12 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 <img src="assets/img/piab_pump.jpg"/>
 </div>
 
+- **Raspberry Pi 5**: Microprocessor to control two cameras. Connects to the laptop through Wifi or Ethernet.
+
+- **Picamera Module 3**: Camera pointing the table. Autofocus at minimum 10 cm distance
+
+- **Picamera Module 3 Wide**: Camera pointing the suction cup. Autofocus at minumum 5 cm distance
+
   
 ## Electrical Connections
 PLOT
