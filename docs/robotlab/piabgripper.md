@@ -41,11 +41,15 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 - **Picamera Module 3 Wide**: Camera pointing the suction cup. Autofocus at minumum 5 cm distance
 
   
-## Electrical Connections
-PLOT
-
 ## Pneumatic Connections
-PLOT
+<div>
+<img src="assets/img/electrical_connection.png"/>
+</div> 
+
+## Electrical Connections
+<div>
+<img src="assets/img/pneumatic_connection.png"/>
+</div> 
 
 ## Digital Interface
 - Pressure Regulator (0–10 V → 0–6 bar / 0–87 psi) → **UR control box Analog Output 0 (AO0)** 
