@@ -52,9 +52,11 @@ This setup integrates robot arm and pneumatic grip in a single framework featuri
 </div> 
 
 ## Digital Interface
+The control box interfaces the PC through IP address and python libraries.
 - Pressure Regulator (0–10 V → 0–6 bar / 0–87 psi) → **UR control box Analog Output 0 (AO0)** 
 - Suction pump (ON/OFF) → **UR control box Digital Outputs (DO0:blow, DO1:suck)**
 
+The PC interfaces into Raspberry Pi through ssh. A python script allows the streaming of the images and needs to start running before logging the videos into the main script.
 
 
 ## Python Example
