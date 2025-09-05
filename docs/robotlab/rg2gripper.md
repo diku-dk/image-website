@@ -24,6 +24,8 @@ OnRobot RG2 is eletric two-fingered gripper that supports a max grasp width of 1
 
 * Unscrew the socket covers on the flange adapter and robot arm. Plug the sockets with the kit cable so the grippers can be controlled through the robot I/O. 
 
+__CAUTION: use the threaded coupling ring on the connectors to fixate/release the insertion. There is a small pad at the socket to ensure you are inserting with the correct orientation. Insert gently! Do not insert by "rotating" the connector with brute force, you are likely doing it wrongly and risking damage the connector pins if you found that was what you had to do!__
+
 <div>
 <img src="./assets/img/IMG_0638.jpeg" width="288" height="384"/>
 <img src="./assets/img/IMG_0639.jpeg" width="384" height="384"/>
