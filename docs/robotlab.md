@@ -26,6 +26,8 @@ __TerraBot:__ [TERRA]({{ site.baseurl }}{% link robotlab/terrabot.md %}) is a ho
 
 __Crazyflies:__ the [crazyflies]({{ site.baseurl }}{% link robotlab/crazyflie.md %}) are micro-sized drones that can be used for projects, but it should be noted that they are fragile, and even though we have 10 of them and some spare parts, please be cautious when using them.
 
+__Holybro X650:__ the [Holybro]({{ site.baseurl }}{% link robotlab/holybro.md %}) X650 is sizable drone with a diagonal length of 1m. It can be used for projects involving customised sensors and onboard computing. We have 10 of them and some spare parts, please be cautious as the drones are much more powerful than crazyflies in terms of propellers and fly height.
+
 __Moption Capture system:__  [Optitrack]({{ site.baseurl }}{% link robotlab/optitrack.md %}) system consist of 8 cameras positioned to give a good coverage of the entire lab, centered on the middle of the floor. Do not under any circumstances move any of the cameras. They will have to be re calibrated and can be potentially damaged if moved. The lab space at Sigursgade has a similar system used for research on human interaction. 
 
 
