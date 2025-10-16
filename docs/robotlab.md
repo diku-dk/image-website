@@ -24,7 +24,7 @@ __The Arlos:__ Arlo is an open landdrone platform for teaching and research. We 
 
 __TerraBot:__ [TERRA]({{ site.baseurl }}{% link robotlab/terrabot.md %}) is a home-made differential-drive mobile platform similar to the Arlos. Ask the owner or the lab manager for its availability if you found its features suit your project better.
 
-__Crazyflies:__ the crazyflies are micro-sized drones that can be used for projects, but it should be noted that they are fragile, and even though we have 8 of them and some spare parts, please be cautious when using them.
+__Crazyflies:__ the [crazyflies]({{ site.baseurl }}{% link robotlab/crazyflie.md %}) are micro-sized drones that can be used for projects, but it should be noted that they are fragile, and even though we have 10 of them and some spare parts, please be cautious when using them.
 
 __Moption Capture system:__  [Optitrack]({{ site.baseurl }}{% link robotlab/optitrack.md %}) system consist of 8 cameras positioned to give a good coverage of the entire lab, centered on the middle of the floor. Do not under any circumstances move any of the cameras. They will have to be re calibrated and can be potentially damaged if moved. The lab space at Sigursgade has a similar system used for research on human interaction. 
 
