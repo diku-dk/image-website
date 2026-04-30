@@ -11,7 +11,7 @@ The MoCap system has been connected to a computer (the "motive" computer) via a 
 * Start the Motive application and check if the markers are visible and trackable in the GUI;
 * Create named rigid-bodies or tracker sets for parsing the data. Note that Motive can remember created objects.
 
-The data should be streamed if everything goes smoothly. Check options in the datastreaming tab if this was not the case. The official website has a detailed documentation about these options (https://docs.optitrack.com/motive/data-streaming). Basically, Motive is using the second network adapter (default IP should be 192.168.1.37) as a server so any other computers connecting to the RobotLab network can work as a client to read the data through standard socket programming. 
+The data should be streamed if everything goes smoothly. Check options in the datastreaming tab if this was not the case. The official website has a detailed documentation about these options (https://docs.optitrack.com/motive/data-streaming). Basically, Motive is using the second network adapter (for example, IP 192.168.1.37, check the actual one from the data stream panel in Motive) as a server so any other computers connecting to the RobotLab network can work as a client to read the data through standard socket programming. 
 
 Unsurprisingly, someone has created code libraries to handle the network setup and data parsing. You can choose one of below or search online for others that might integrate best with your program:
 
