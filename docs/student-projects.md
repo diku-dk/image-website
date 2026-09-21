@@ -33,6 +33,7 @@ The board below shows the current projects. This board is a read-only showcase: 
     height: 160px;
     object-fit: cover;
     display: block;
+    cursor: zoom-in;
   }
   .project-card .project-body {
     padding: 12px 16px 16px 16px;
@@ -157,6 +158,44 @@ The board below shows the current projects. This board is a read-only showcase: 
     font-size: 0.85em;
     color: #555;
   }
+  .lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background: rgba(0, 0, 0, 0.82);
+    cursor: zoom-out;
+  }
+  .lightbox[hidden] {
+    display: none;
+  }
+  .lightbox img {
+    max-width: min(1100px, 94vw);
+    max-height: 88vh;
+    width: auto;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+    background: #fff;
+  }
+  .lightbox-close {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    padding: 4px 10px;
+    border: none;
+    background: none;
+    color: #fff;
+    font-size: 2em;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .lightbox-close:hover {
+    color: #ccc;
+  }
 </style>
 
 <div class="project-filters" id="project-filters" hidden>
@@ -201,6 +240,11 @@ The board below shows the current projects. This board is a read-only showcase: 
     </div>
   </div>
   {% endfor %}
+</div>
+
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Project image" hidden>
+  <button type="button" class="lightbox-close" aria-label="Close">&times;</button>
+  <img src="" alt="">
 </div>
 
 <script>
@@ -307,6 +351,34 @@ The board below shows the current projects. This board is a read-only showcase: 
     if (statusSelect) statusSelect.value = '';
     applyFilters();
   });
+
+  var lightbox = document.getElementById('lightbox');
+  var lightboxImage = lightbox ? lightbox.querySelector('img') : null;
+
+  function closeLightbox() {
+    lightbox.hidden = true;
+    lightboxImage.src = '';
+    lightboxImage.alt = '';
+    document.body.style.overflow = '';
+  }
+
+  if (lightbox && lightboxImage) {
+    board.addEventListener('click', function (event) {
+      var image = event.target.closest ? event.target.closest('img') : null;
+      if (!image) return;
+
+      lightboxImage.src = image.src;
+      lightboxImage.alt = image.alt || '';
+      lightbox.hidden = false;
+      document.body.style.overflow = 'hidden';
+    });
+
+    lightbox.addEventListener('click', closeLightbox);
+
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && !lightbox.hidden) closeLightbox();
+    });
+  }
 
   filters.hidden = false;
   applyFilters();
