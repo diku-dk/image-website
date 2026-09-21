@@ -210,6 +210,15 @@ The board below shows the current projects. This board is a read-only showcase: 
 
   var cards = Array.prototype.slice.call(board.querySelectorAll('.project-card'));
   var filters = document.getElementById('project-filters');
+
+  for (var i = cards.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var swap = cards[i];
+    cards[i] = cards[j];
+    cards[j] = swap;
+  }
+  cards.forEach(function (card) { board.appendChild(card); });
+
   var count = document.getElementById('project-count');
   var empty = document.getElementById('project-empty');
   var statusSelect = document.querySelector('select[data-filter="status"]');
