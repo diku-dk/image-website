@@ -1,0 +1,44 @@
+# To add a student project, append an entry below and put the cover image in assets/img/projects/.
+# levels and topics are lists: a project can be open to several levels and cover several topics.
+# Set status to "open" or "taken". Open projects are listed first on the page.
+# image paths are relative to docs/, e.g. assets/img/projects/my_project.png
+
+- title: Placeholder project 1
+  image: assets/img/lung_structures.png
+  topics:
+    - Medical imaging
+  levels:
+    - BSc
+  status: open
+  description: Replace this with a short description of the project. One or two sentences is enough to spark interest. Maybe you need a lot more. so what happpens, i dont know. What if we keep going... on... and on... and on. Maybe we should stop now. But what if we don't? We'll never know. Maybe we should stop now. But what if we don't? We'll never know. 
+  supervisor: Some Supervisor
+  contact: some@di.ku.dk
+
+- title: Placeholder project 2
+  image: assets/img/IMG_0180.png
+  topics:
+    - Computer vision
+  levels:
+    - BSc
+    - MSc
+  status: open
+  description: Second placeholder entry, open to both BSc and MSc students.
+  supervisor: Another Supervisor
+  contact: another@di.ku.dk
+
+- title: Placeholder project 3
+  image: assets/img/IMG_1946.png
+  topics:
+    - Robot learning
+    - Reinforcement learning
+    - Control
+    - Planning
+    - Robotics
+    - Computer vision
+    - Medical stuff
+  levels:
+    - MSc
+  status: taken
+  description: Third placeholder entry, a taken project spanning two topics and two levels.
+  supervisor: Third Supervisor
+  contact: third@di.ku.dk
