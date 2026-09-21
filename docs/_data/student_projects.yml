@@ -2,43 +2,296 @@
 # levels and topics are lists: a project can be open to several levels and cover several topics.
 # Set status to "open" or "taken". Open projects are listed first on the page.
 # image paths are relative to docs/, e.g. assets/img/projects/my_project.png
-
-- title: Placeholder project 1
-  image: assets/img/lung_structures.png
+- title: Is conditioning possible for a trained diffusion model / flow matching?
+  image: assets/img/projects/is-conditioning-possible-for-a-trained-diffusion-model-flow.jpg
   topics:
-    - Medical imaging
+  - Generative models
   levels:
-    - BSc
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
   status: open
-  description: Replace this with a short description of the project. One or two sentences is enough to spark interest. Maybe you need a lot more. so what happpens, i dont know. What if we keep going... on... and on... and on. Maybe we should stop now. But what if we don't? We'll never know. Maybe we should stop now. But what if we don't? We'll never know. 
-  supervisor: Some Supervisor
-  contact: some@di.ku.dk
-
-- title: Placeholder project 2
-  image: assets/img/IMG_0180.png
-  topics:
-    - Computer vision
+  description: Explore current methods in low dimensional spaces, where analytical answers are known.
+  supervisor: Julius Kirkegaard
+  contact: juki@di.ku.dk
+- title: Amortized Global Fitting
+  image: assets/img/projects/amortized-global-fitting.jpg
+  topics: []
   levels:
-    - BSc
-    - MSc
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
   status: open
-  description: Second placeholder entry, open to both BSc and MSc students.
-  supervisor: Another Supervisor
-  contact: another@di.ku.dk
-
-- title: Placeholder project 3
-  image: assets/img/IMG_1946.png
-  topics:
-    - Robot learning
-    - Reinforcement learning
-    - Control
-    - Planning
-    - Robotics
-    - Computer vision
-    - Medical stuff
+  description: Speed up Amylofit.
+  supervisor: Julius Kirkegaard
+  contact: juki@di.ku.dk
+- title: Generalize deeptangle
+  image: assets/img/projects/generalize-deeptangle.jpg
+  topics: []
   levels:
-    - MSc
-  status: taken
-  description: Third placeholder entry, a taken project spanning two topics and two levels.
-  supervisor: Third Supervisor
-  contact: third@di.ku.dk
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: See github.com/kirkegaardlab/deeptangle. Different types of projects on both research and software side of things.
+  supervisor: Julius Kirkegaard
+  contact: juki@di.ku.dk
+- title: Synthetic data of algal flagella beating.
+  image: assets/img/projects/synthetic-data-of-algal-flagella-beating.jpg
+  topics: []
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  supervisor: Julius Kirkegaard
+  contact: juki@di.ku.dk
+- title: Gaussian splatting for microscopy (supervised jointly with Bernhard Kerbl)
+  image: assets/img/projects/gaussian-splatting-for-microscopy-supervised-jointly-with-be.jpg
+  topics:
+  - Microscopy
+  - Computer graphics
+  levels:
+  - Master Thesis
+  status: open
+  description: “Computational confocal microscopy” with Gaussian splats.
+  supervisor: Julius Kirkegaard
+  contact: juki@di.ku.dk
+- title: Mask-free training of masked diffusion
+  image: assets/img/projects/mask-free-training-of-masked-diffusion.jpg
+  topics: []
+  levels:
+  - Master Thesis
+  - Master Project
+  status: open
+  description: Please find me in my office (3-2-11) if this title captures your attention. Happy to explain in person.
+  supervisor: Julius Kirkegaard
+  contact: juki@di.ku.dk
+- title: Improving skeletonization algorithms for pixel-thin segmentations
+  image: assets/img/projects/improving-skeletonization-algorithms-for-pixel-thin-segmenta.jpg
+  topics:
+  - Image segmentation
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  supervisor: Julius Kirkegaard
+  contact: juki@di.ku.dk
+- title: Eye-tracking in radiology
+  image: assets/img/projects/eye-tracking-in-radiology.jpg
+  topics:
+  - Eye tracking
+  levels: []
+  status: open
+  description: This project uses eye tracking to understand how people read images.
+  supervisor: Bulat Ibragimov
+  contact: bulat@di.ku.dk
+- title: Dental image analysis
+  image: assets/img/projects/dental-image-analysis.jpg
+  topics:
+  - Medical image analysis
+  levels: []
+  status: open
+  description: This project focuses on the use of AI in dental image analysis and treatment planning.
+  supervisor: Bulat Ibragimov
+  contact: bulat@di.ku.dk
+- title: 'ElectroEncephalography Simulations done right: simulate neural evoked responses for statistical modelling'
+  topics:
+  - Brain imaging
+  - Simulation
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Develop scripts to automatically generate known brain events using state of the art tools in ElectroEncephalography (EEG) simulations.
+  supervisor: Cyril Pernet
+  contact: cyril.pernet@nru.dk
+- title: Learning to reconstruct Brain Data for QC
+  topics:
+  - Brain imaging
+  - Machine learning
+  levels:
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Use data science and machine learning to build an autoencoder that detects outliers in brain data (MRI, PET, EEG) and apply it to real data.
+  supervisor: Cyril Pernet
+  contact: cyril.pernet@nru.dk
+- title: Predicting response to treatment in depression - a brain imaging approach
+  topics:
+  - Brain imaging
+  - Machine learning
+  levels:
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Apply your ML skills to brain imaging data!
+  supervisor: Cyril Pernet
+  contact: cyril.pernet@nru.dk
+- title: Developing normative models of brain neurotransmitters.
+  image: assets/img/projects/developing-normative-models-of-brain-neurotransmitters.jpg
+  topics:
+  - Brain imaging
+  levels:
+  - Master Project
+  - Master Thesis
+  - Bachelor Thesis
+  status: open
+  description: Apply state of the art normative tools to positron emission tomography data in health and depression.
+  supervisor: Cyril Pernet
+  contact: cyril.pernet@nru.dk
+- title: Reinforcement learning in machines and humans
+  topics:
+  - Reinforcement learning
+  levels:
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Test and validate a reinforcement learning paradigm and the computational model of human behaviour.
+  supervisor: Cyril Pernet
+  contact: cyril.pernet@nru.dk
+- title: Simulation for Robots
+  image: assets/img/projects/simulation-for-robots.jpg
+  topics:
+  - Robotics
+  - Simulation
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: 'Think of simulation as a robot''s rehearsal space: practice thousands of times virtually, predicting outcomes and perfecting movements, to develop and validate control algorithms safely.'
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
+- title: 'Medical Robotics: Simulation & Mapping'
+  image: assets/img/projects/medical-robotics-simulation-mapping.jpg
+  topics:
+  - Medical robotics
+  - Simulation
+  levels:
+  - Master Thesis
+  - Master Project
+  status: open
+  description: Develop ultra-realistic simulation environments for colonoscopy training, using digital twins of the colon and 3D Gaussian splatting so robots and clinicians can practice safely.
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
+- title: Flying Drones as a Team
+  image: assets/img/projects/flying-drones-as-a-team.jpg
+  topics:
+  - Robotics
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Program a team of drones to move in a coordinated way, implementing barrier-function or consensus-based control so they fly without colliding.
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
+- title: 'Teach Robots to Understand You: Building Language-Controlled Robot Arms'
+  image: assets/img/projects/teach-robots-to-understand-you-building-language-controlled.jpg
+  topics:
+  - Robotics
+  - Natural language processing
+  levels:
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Build a complete system where a robot arm responds to natural language commands, combining language and vision models with real manipulation tasks.
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
+- title: 'Robots in the Lab: Automating Science So Scientists Can Focus on Discovery'
+  image: assets/img/projects/robots-in-the-lab-automating-science-so-scientists-can-focus.jpg
+  topics:
+  - Robotics
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: 'Put robot arms to work in real scientific workflows: automate sample scanning and handling so scientists can focus on discovery.'
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
+- title: Processing of larger than memory images
+  image: assets/img/projects/processing-of-larger-than-memory-images.jpg
+  topics:
+  - Microscopy
+  - Image processing
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Recent microscope and synchrotron images can be extremely large. Explore methods and a FSharp library for processing images larger than memory.
+  supervisor: Jon Sporring
+  contact: sporring@di.ku.dk
+- title: Segment and analyse Human Organ Atlas data
+  image: assets/img/projects/segment-and-analyse-human-organ-atlas-data.jpg
+  topics:
+  - Image segmentation
+  - Medical imaging
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Work further with segmenting scans from the Human Organ Atlas, an exceptional collection of full human organ scans at micrometer resolution.
+  supervisor: Jon Sporring
+  contact: sporring@di.ku.dk
+- title: Scaling laws in human organs
+  image: assets/img/projects/scaling-laws-in-human-organs.jpg
+  topics:
+  - Medical imaging
+  - Geometry
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Identify and measure scaling laws in Human Organ Atlas data; scaling laws describe how biological properties change with size or volume.
+  supervisor: Jon Sporring
+  contact: sporring@di.ku.dk
+- title: Reconstruction of the coronary artery tree
+  image: assets/img/projects/reconstruction-of-the-coronary-artery-tree.jpg
+  topics:
+  - Medical imaging
+  - Image segmentation
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Reconstruct the coronary artery tree from 2-dimensional angiogram movies, continuing previous work on simulation and vessel segmentation.
+  supervisor: Jon Sporring
+  contact: sporring@di.ku.dk
+- title: Automate generation of 3D-printed neck support for radiotherapy treatments.
+  image: assets/img/projects/automate-generation-of-3d-printed-neck-support-for-radiother.jpg
+  topics:
+  - Radiotherapy
+  - Medical imaging
+  levels: []
+  status: open
+  description: In this project, we will use the planning scan to design a 3D-printed, patient-specific neck support that extends to include the shoulders.
+  supervisor: Jens Petersen
+  contact: phup@di.ku.dk
+- title: Investigate Refusal Behavior of LLMs in Medical Tasks
+  topics:
+  - Natural language processing
+  levels:
+  - Master Thesis
+  - Master Project
+  status: open
+  description: 'Explore refusal behavior of LLMs in medical contexts: are refusals distributed equally across patient subgroups, and how does prompting in low-resource languages like Danish affect refusal?'
+  supervisor: Alissa Valentine
+  contact: alissa.valentine@di.ku.dk
+- title: Develop Lexicon for Multilingual Biased Language Detection
+  topics:
+  - Natural language processing
+  levels:
+  - Master Thesis
+  - Master Project
+  status: open
+  description: Existing lexicons for biased language in medicine are English-only. This project explores methods to translate lexicons of harmful words to other languages.
+  supervisor: Alissa Valentine
+  contact: alissa.valentine@di.ku.dk
