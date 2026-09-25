@@ -84,7 +84,7 @@ Want to see what we do? Have a look at some of our publications.
 [All publications &rarr;]({{ site.baseurl }}{% link publications.md %})
 
 ## Student Projects
-The section regularly publishes projects for BSc, MSc, and PhD students.
+The section regularly publishes projects for BSc and MSc students.
 
 - [Student Projects]({{ site.baseurl }}{% link student-projects.md %})
 
