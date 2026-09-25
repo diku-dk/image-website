@@ -4,5 +4,10 @@ FROM ruby:2.7-alpine3.15
 RUN apk update
 RUN apk add --no-cache build-base gcc cmake git
 
-# Update the Ruby bundler and install Jekyll
-RUN gem update bundler && gem install bundler jekyll
+# Install the bundler version pinned in Gemfile.lock
+RUN gem install bundler -v 2.3.23
+
+# Install the Jekyll gems pinned in Gemfile.lock
+WORKDIR /site
+COPY Gemfile Gemfile.lock ./
+RUN bundle install
