@@ -1,6 +1,6 @@
 # To add a student project, append an entry below and put the cover image in assets/img/projects/.
 # levels and topics are lists: a project can be open to several levels and cover several topics.
-# Set status to "open" or "taken". Open projects are listed first on the page.
+# Set status to "open" or "taken". Cards are shuffled on each page load.
 # image paths are relative to docs/, e.g. assets/img/projects/my_project.png
 - title: Is conditioning possible for a trained diffusion model / flow matching?
   image: assets/img/projects/is-conditioning-possible-for-a-trained-diffusion-model-flow.jpg
