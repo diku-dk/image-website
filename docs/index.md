@@ -6,8 +6,7 @@ layout: page
 title: Image section
 permalink: /
 ---
-
-# Image Analysis, Computational Modelling, and Geometry
+## Image Analysis, Computational Modelling, and Geometry
 
 ![Image Section Logo](assets/img/ImageLogo.png)
 
@@ -20,11 +19,11 @@ Want to see what we do? Have a look at some of our publications.
 <style>
   .post-title,
   .post-content h1 {
-    font-size: 1.5em;
+    font-size: 2.5em;
     line-height: 1.25;
   }
   .post .post-content h2 {
-    font-size: 1.35em;
+    font-size: 2em;
   }
   .latest-pubs {
     display: flex;
