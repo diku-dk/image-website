@@ -7,6 +7,102 @@ The IMAGE section regularly publishes project opportunities for BSc and MSc stud
 
 The board below shows the current projects. This board is a read-only showcase: if you are interested in a project, contact the supervisor directly by e-mail.
 
+<div class="faq-box">
+  <h2 class="faq-heading">FAQ</h2>
+  <button type="button" class="faq-question" data-answer="faq-answer-1">
+    <span class="faq-question-text">How to find a supervisor?</span>
+    <span class="faq-arrow" aria-hidden="true">+</span>
+  </button>
+  <button type="button" class="faq-question" data-answer="faq-answer-2">
+    <span class="faq-question-text">How to find a topic for a project or thesis?</span>
+    <span class="faq-arrow" aria-hidden="true">+</span>
+  </button>
+  <button type="button" class="faq-question" data-answer="faq-answer-3">
+    <span class="faq-question-text">How to prepare for a project and thesis in computer graphics and simulation?</span>
+    <span class="faq-arrow" aria-hidden="true">+</span>
+  </button>
+</div>
+
+<div id="faq-answer-1" class="faq-answer" markdown="1" hidden>
+Start as early as possible by reaching out to a supervisor. It is difficult to find a good match between student, supervisor and the dream project/thesis topic. Hence, student should expect that this can take some time.
+
+One can start already when one has an idea about what kind of "computer science topic" that really interests oneself, or when one knows what area to specialise in. Do not wait until the very last block before your thesis is supposed to start.
+
+It is often a good idea to find a supervisor that does research in an area aligned with one's interests. Hence, it is a good idea to get to learn the relevant people that are working in the IMAGE research section. Potential supervisors do not have infinite capacity, so it is a good idea to matchmake with them early on to ensure they have time for supervision. In many cases it really helps a supervisor to make space for more students if the student's project or thesis is highly aligned with the research done by the supervisor.
+
+It is often a good idea to start a dialogue with a potential supervisor about which projects or theses are possible, or how to prepare for a thesis topic, taking specific courses, etc. When reaching out to a potential supervisor it is therefore a good idea to be able to put some words on what one's interests are and what type of work one is really good at doing.
+
+One can get a coarse overview from the official IMAGE research section web-site about which fields and topics are available: [Image Analysis, Computational Modelling and Geometry](https://di.ku.dk/english/research/image/).
+
+The IMAGE research section covers a wide diversity of topics ranging from image analysis, computer vision, machine learning, computational modelling, geometry and geometric statistics, computer graphics, simulation and robotics, and many more.
+
+Once a student has found an interesting theme, the same web-site provides an overview of the members of the IMAGE research section. From this one can locate their personal web-pages and find more detailed information about the type of research they are doing. Once a potential match has been found, sending the potential supervisor an email asking about possibilities of doing projects and theses in the chosen area is a good way to get a first meeting.
+</div>
+
+<div id="faq-answer-2" class="faq-answer" markdown="1" hidden>
+In principle a student can define a project or thesis problem themselves in any computer science area they wish to specialise in. It can however be challenging to locate a supervisor with a research area that covers the proposed idea. This creates a bit of a chicken-and-egg challenge in finding a topic to work on and finding a supervisor.
+
+One way to regularise this problem is to not get too detailed on the idea, but rather think of the idea as a direction, an elevator pitch, for locating a supervisor. Once a supervisor has been found, the details of the idea are often developed together with the supervisor. This has the added benefit of drawing on the supervisor's experience when formulating the details of the project description and learning outcomes.
+</div>
+
+<div id="faq-answer-3" class="faq-answer" markdown="1" hidden>
+**Do courses**
+
+At DIKU there are several courses that can be relevant for working in this area. They are a great way to build up basic foundational skills and meet teachers that can become potential supervisors. Many elective courses reflect research areas or interests of the teachers.
+
+- **Graphics:** Introduction to Computer Graphics gives a good understanding of a rendering pipeline, light models, geometry transformations and boundary representations such as meshes or parametric surfaces. The course is good for learning many basic concepts and terminology.
+- **CMIS:** Computational Methods in Simulation is a toolbox course that teaches one the main classical approaches for solving partial differential equations. These are often the algorithmic building blocks used when building simulators or creating methods for physics-based computer animation.
+- **NO:** Numerical Optimization is an indispensable tool in many research areas. The problems solved in computer graphics and simulation are often modelled as optimization problems, and hence this course is extremely valuable in order to solve problems from day one.
+- **CG:** The Computational Geometry course is very good at ensuring an overview of algorithms and data-structures used for spatial queries, such as collision detection or range queries, and locating nearest neighbours. These types of queries are often building blocks when building a simulator or an animation engine.
+- **SIP:** The Signal and Image Processing course teaches many basic concepts about dealing with signals. This is highly relevant when connecting to kernels and basis functions used in simulation and animation, or working with motion data, which is basically high dimensional analog signals. The course is not directly touching on graphics use cases, but the fundamentals are important and generic.
+- **DADIU:** The DADIU course is great for students that wish to have a taste of real-world game development. The course works more like an artificial internship where students will work in large game development teams of more than 15 people. The teams include a director, animators, level designers, game designers, compositors, programmers and more. The course is good if one wishes to learn about making games. Further, it gives one good experiences with game engines and other tools used in the field.
+- **SiRL:** The Simulation-based Reinforcement Learning course touches on how rigid body simulators are used in machine learning to control the motion of robots. The techniques taught focus on hybrid methods of blending simulation and machine learning. This is general methodology that is also applied in the animation context of learning to control animated characters.
+- **MIA:** The Medical Imaging course gives a firm idea of the whole modelling process that lies behind creating models for biomechanics simulations. This includes a basic understanding of how medical images are converted into boundary representations through registration and segmentation. This is relevant if one wishes to work with biomechanical simulation.
+
+**Play with animation and game engine software (aka 3D modelling software)**
+
+Besides taking courses relevant to one's interest, it can be a good idea to have fun with some hobbies. These could be to learn to do some basic modelling and rendering using software such as [Blender](https://www.blender.org). This is just one example of modelling and animation software, many more exist, but this one is open source and has over the years created quite many online tutorials that make it easy for newcomers to get into the world of computer graphics terminology and the workflows used when creating digital content. If one is more game oriented, then there are likewise game engines such as Unity or Unreal that one can get for free and which have extensive learning resources for getting started. Animation software or game engine experience is great for learning how things are used in the real world and it helps to build up a vocabulary.
+
+**Check out SIGGRAPH, SCA and SGP conferences**
+
+The research field of computer graphics and simulation is captured by the SIGGRAPH conference. This is a great place to find research papers that cover one's interest and get some ideas about what is timely and interesting to work on. A starting project can easily be to re-create results from a paper, compare one paper against another, or simply to implement a method from a paper.
+
+SIGGRAPH has many education resources as well. In particular, their course program is quite developed and often targets newcomers. Hence, try and search for SIGGRAPH courses that cover your interests, read the notes, watch the video lectures, and play with the example code. [Here is a link to get you started](https://dl.acm.org/doi/proceedings/10.1145/3532720).
+
+For some courses the authors have made their own web-sites to provide even more info. Here are a few links:
+
+- [SIGGRAPH contact course](https://siggraphcontact.github.io/)
+- [Dynamic Deformables](https://www.tkim.graphics/DYNAMIC_DEFORMABLES/)
+- [SIGGRAPH 2022 course](https://dl.acm.org/doi/10.1145/3532720.3535643)
+- [SIGGRAPH 2019 course](https://dl.acm.org/doi/10.1145/3305366.3328050)
+- [Geometric computing in Python](https://geometryprocessing.github.io/geometric-computing-python/)
+- [Blackbox computing in Python](https://geometryprocessing.github.io/blackbox-computing-python/)
+
+The Symposium on Computer Animation (SCA) is a more specialised venue where you can find more research papers on animation topics.
+
+The Symposium on Geometry Processing (SGP) is a more specialised venue for papers with a focus on geometry. SGP has for years been running a graduate school, which is basically extended talks covering basic topics, to help newcomers get into the field. COVID-19 caused many of these talks to now be available online: [SGP YouTube channel](https://www.youtube.com/@geometryprocess8782).
+
+SGP has recently started a summer school program too: [school.geometryprocessing.org](http://school.geometryprocessing.org/).
+
+**Do small fun projects**
+
+Computer graphics and simulation is both very theoretical and very practical. Hence, improving programming skills by gaining practical experience is time well spent. It is also a good opportunity to learn some of the libraries and tools that will make your life easier later in a project or thesis. Here are two examples of libraries to play with that may be useful later on:
+
+- [libigl](https://libigl.github.io/)
+- [Polyscope](https://polyscope.run/)
+
+It does not really matter exactly what you play around with, but gaining the experience of working with implementing math concepts into efficient code is something one is only going to benefit from.
+</div>
+
+<div class="faq-modal" id="faq-modal" role="dialog" aria-modal="true" aria-labelledby="faq-modal-title" hidden>
+  <button type="button" class="faq-modal-close" id="faq-modal-close" aria-label="Close">&times;</button>
+  <div class="faq-modal-content">
+    <h3 class="faq-modal-title" id="faq-modal-title"></h3>
+    <div class="faq-modal-body" id="faq-modal-body"></div>
+  </div>
+</div>
+
+
 <style>
   .post-title,
   .post-content h1 {
@@ -157,6 +253,98 @@ The board below shows the current projects. This board is a read-only showcase: 
     margin: 12px 0 0 0;
     font-size: 0.85em;
     color: #555;
+  }
+  .faq-box {
+    margin-top: 28px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+  }
+  .faq-box .faq-heading {
+    margin: 0;
+    padding: 14px 16px;
+    border-bottom: 1px solid #e0e0e0;
+    font-size: 1.15em;
+    color: #33475b;
+  }
+  .faq-question {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 14px 16px;
+    border: none;
+    border-top: 1px solid #eee;
+    background: none;
+    font-family: inherit;
+    font-size: 0.95em;
+    color: #33475b;
+    text-align: left;
+    cursor: pointer;
+  }
+  .faq-question:hover {
+    background: #f7f9fb;
+  }
+  .faq-arrow {
+    flex: 0 0 auto;
+    font-size: 1.3em;
+    line-height: 1;
+    color: #8794a3;
+  }
+  .faq-answer[hidden] {
+    display: none;
+  }
+  .faq-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 1001;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background: rgba(0, 0, 0, 0.82);
+  }
+  .faq-modal[hidden] {
+    display: none;
+  }
+  .faq-modal-content {
+    width: 100%;
+    max-width: 720px;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 24px 28px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+  }
+  .faq-modal-content .faq-modal-title {
+    margin: 0 0 12px 0;
+    font-size: 1.15em;
+    color: #33475b;
+  }
+  .faq-modal-body p:first-child {
+    margin-top: 0;
+  }
+  .faq-modal-body li {
+    margin-bottom: 6px;
+  }
+  .faq-modal-close {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    padding: 4px 10px;
+    border: none;
+    background: none;
+    color: #fff;
+    font-size: 2em;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .faq-modal-close:hover {
+    color: #ccc;
   }
   .lightbox {
     position: fixed;
@@ -377,6 +565,41 @@ The board below shows the current projects. This board is a read-only showcase: 
 
     document.addEventListener('keydown', function (event) {
       if (event.key === 'Escape' && !lightbox.hidden) closeLightbox();
+    });
+  }
+
+  var faqModal = document.getElementById('faq-modal');
+  var faqTitle = document.getElementById('faq-modal-title');
+  var faqBody = document.getElementById('faq-modal-body');
+
+  function closeFaq() {
+    faqModal.hidden = true;
+    faqBody.innerHTML = '';
+    document.body.style.overflow = '';
+  }
+
+  if (faqModal && faqTitle && faqBody) {
+    Array.prototype.slice.call(document.querySelectorAll('.faq-question')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        var answer = document.getElementById(button.getAttribute('data-answer'));
+        if (!answer) return;
+
+        var questionText = button.querySelector('.faq-question-text');
+        faqTitle.textContent = questionText ? questionText.textContent : '';
+        faqBody.innerHTML = answer.innerHTML;
+        faqModal.hidden = false;
+        document.body.style.overflow = 'hidden';
+      });
+    });
+
+    document.getElementById('faq-modal-close').addEventListener('click', closeFaq);
+
+    faqModal.addEventListener('click', function (event) {
+      if (event.target === faqModal) closeFaq();
+    });
+
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && !faqModal.hidden) closeFaq();
     });
   }
 
