@@ -2981,6 +2981,7 @@
   journal: Physical Review Research
 - title: Method of tracking a plurality of objects
   author: M PERNI, QAE Peter, PK Challa, T Kartanas, P SORMANNI, ...
+  authors_full: ''
   year: 2022
   journal: US Patent
 - title: Superspreading of airborne pathogens in a heterogeneous world
@@ -3123,6 +3124,177 @@
   author: C Nielsen, JB Kirkegaard, H Lemche
   year: 1766
   journal: Pallas
+- title: 189. Precision Functional Mapping in Obsessive-Compulsive Disorder
+  author: M Vaghi, M Norgaard, S Shim, JAH Rios, P Bissett, C Rodriguez, ...
+  authors_full: Matilde Vaghi, Martin Norgaard, Sunjae Shim, Jaime Ali H. Rios, Patrick Bissett, Carolyn Rodriguez, Russell Poldrack
+  year: 2026
+  journal: Biological Psychiatry 99 (10), S179-S180
+- title: Quality assessment and control of unprocessed anatomical, functional and diffusion MRI of the human brain using MRIQC
+  author: MKP Hagen, C Provins, E MacNicol, JK Li, T Gomez, M Garcia, SH Seeley, ...
+  authors_full: McKenzie Paige Hagen, Celine Provins, Eilidh MacNicol, Jamie Li, Teresa Gomez, Melanie Garcia, Saren Seeley, Jon Haitz Legarreta, Martin Norgaard, Patrick Bissett, Russell A. Poldrack, Ariel G Rokem, Oscar Esteban
+  year: 2026
+  journal: Nature Protocols
+- title: '[11C]PS13 PET shows that age is positively correlated with constitutively expressed cyclooxygenase-1 in the brain'
+  author: P Parcon, M Scrabis, M Nørgaard, A Galassi, P Zanotti-Fregonara, ...
+  authors_full: Paul Parcon, Mia Scrabis, Martin Nørgaard, Anthony Galassi, Paolo Zanotti-Fregonara, Jeih-San Liow, Robert B Innis, Min-Jeong Kim
+  year: 2026
+  journal: Journal of Cerebral Blood Flow & Metabolism, 0271678X261444895
+- title: 'NiQuery: Stop searching your neuroimaging datasets. Start testing your hypotheses'
+  author: JH Legarreta, R Blair, C Markiewicz, A Rokem, M Norgaard, O Esteban
+  year: 2026
+  journal: OSF
+- title: 'Molecular connectivity studies of cerebral glucose metabolism and blood flow: a scoping review'
+  author: C Cavaliere, A Galli, C Meneghini, M Severino, DE Peretti, M Nørgaard, ...
+  authors_full: Carlo Cavaliere, Alice Galli, Chiara Meneghini, Mario Severino, Débora Elisa Peretti, Martin Nørgaard, Chunmeng Tang, Anna Lisa Martini, Marjorie Bardiau, Matthieu Doyen, Gabriel Gonzalez-Escamilla, Tatiana Horwitz, Matej Perovnik, Michael Rullmann, Daniel Talmasov, Tommaso Volpi, Zhilei Xu, Vince Calhoun, Xin Di, Simon B Eickhoff, Christian Habeck, Sharna Jamadar, Daniela Perani, Vesna Sossi, Igor Yakushev, Arianna Sala, Joana B Pereira, Mattia Veronese, Silvia Paola Caminiti
+  year: 2026
+  journal: Neuroscience & Biobehavioral Reviews
+- title: Positron Emission Tomography Quantification in Healthy Humans of Cyclooxygenase-2 (COX-2), a Potential Biomarker of Neuroinflammation
+  author: X Yan, M Norgaard, C Morse, J Liow, J Hong, S Telu, M Kim, A Galassi, ...
+  authors_full: Xuefeng Yan, Martin Norgaard, Cheryl Morse, Jeih-san Liow, Jinsoo Hong, Sanjay Telu, Min-jeong Kim, Anthony Galassi, Ningping Feng, Ted Usdin, Shawn Wu, Andrea Zhang, Lester Manly, Madeline Jenkins, Adrian Lee, Sami Zoghbi, Victor Pike, Robert Innis
+  year: 2025
+  journal: Journal of Nuclear Medicine 66 (supplement 1)
+- title: '[11C] PS13 PET shows that age is positively correlated with constitutively expressed cyclooxygenase-1 in the brain'
+  author: M Kim, P Parcon, M Scrabis, M Norgaard, A Galassi, D Taboada, ...
+  authors_full: Paul Parcon, Mia Scrabis, Martin Nørgaard, Anthony Galassi, Paolo Zanotti-Fregonara, Jeih-San Liow, Robert B Innis, Min-Jeong Kim
+  year: 2025
+  journal: Journal of Nuclear Medicine 66 (supplement 1)
+- title: Frontostriatal salience network expands as executive networks contract in Obsessive-Compulsive Disorder
+  author: MM Vaghi, M Norgaard, S Shim, JAH Rios, PG Bissett, CI Rodriguez, ...
+  authors_full: Matilde M. Vaghi, Martin Norgaard, Sunjae Shim, Jaime Ali H. Rios, Patrick G. Bissett, Carolyn I. Rodriguez, Russell A. Poldrack
+  year: 2025
+  journal: bioRxiv
+- title: '355. PET2BIDS: the Key to PET Neuroimaging Data Standardization, Collaboration, and AI Integration'
+  author: M Scrabis, A Galassi, R Innis, M Norgaard
+  year: 2025
+  journal: Biological Psychiatry 97 (9), S242-S243
+- title: 'Molecular connectivity studies in neurotransmission: a scoping review'
+  author: M Severino, DE Peretti, M Bardiau, C Cavaliere, M Doyen, ...
+  authors_full: Mario Severino, Débora Elisa Peretti, Marjorie Bardiau, Carlo Cavaliere, Matthieu Doyen, Gabriel Gonzalez-Escamilla, Tatiana Horowitz, Martin Nørgaard, Jhony Alejandro Mejia Perez, Matej Perovnik, Michael Rullmann, Dilara Steenken, Daniel Talmasov, Chunmeng Tang, Tommaso Volpi, Zhilei Xu, Alessandra Bertoldo, Vince D Calhoun, Silvia Paola Caminiti, Xin Di, Christian Habeck, Sharna Jamadar, Daniela Perani, Arianna Sala, Vesna Sossi, Igor Yakushev, Joana B Pereira, Mattia Veronese
+  year: 2025
+  journal: Imaging Neuroscience 3, imag_a_00530
+- title: Can I have your data? Recommendations and practical tips for sharing neuroimaging data upon a direct personal request
+  author: AS Jwa, M Norgaard, RA Poldrack
+  year: 2025
+  journal: Imaging Neuroscience 3, imag_a_00508
+- title: PET quantification in healthy humans of cyclooxygenase-2, a potential biomarker of neuroinflammation
+  author: X Yan, M Noergaard, CL Morse, JS Liow, J Hong, D Greve, S Telu, ...
+  authors_full: Xuefeng Yan, Martin Noergaard, Cheryl L. Morse, Jeih-San Liow, Jinsoo Hong, Douglas Greve, Sanjay Telu, Min-Jeong Kim, Jose A. Montero Santamaria, Anthony Galassi, Ningping Feng, Sarah K. Williams Avram, Ted B. Usdin, Shawn Wu, Andrea Zhang, Lester S. Manly, Madeline Jenkins, Maia Van Buskirk, Adrian Lee, Sami S. Zoghbi, Victor W. Pike, Paolo Zanotti-Fregonara, Robert B. Innis
+  year: 2025
+  journal: Journal of Nuclear Medicine
+- title: GHAZANFARI N. 1, LIOW JS 1, KIM MJ 1, 2, CURETON R. 1, LEE A. 1
+  author: C KNOER, M JENKINS, J HONG, JAM SANTAMARIA, HU SHETTY, ...
+  authors_full: C KNOER, M JENKINS, J HONG, JAM SANTAMARIA, HU SHETTY, A GALASSI, P WIGHTON, M NØRGAARD, DN GREVE, SS ZOGHBI, VW PIKE, RB INNIS, P ZANOTTI-FREGONARA
+  year: 2025
+  journal: JOURNAL OF NUCLEAR MEDICINE
+- title: '[11C]PS13 Demonstrates Pharmacologically Selective and Substantial Binding to Cyclooxygenase-1 in the Human Brain'
+  author: N Ghazanfari, JS Liow, MJ Kim, R Cureton, A Lee, C Knoer, M Jenkins, ...
+  authors_full: Nafiseh Ghazanfari, Jeih-San Liow, Min-Jeong Kim, Raven Cureton, Adrian Lee, Carson Knoer, Madeline Jenkins, Jinsoo Hong, Jose A Montero Santamaria, H Umesha Shetty, Anthony Galassi, Paul Wighton, Martin Nørgaard, Douglas N Greve, Sami S Zoghbi, Victor W Pike, Robert B Innis, Paolo Zanotti-Fregonara
+  year: 2025
+  journal: Journal of Nuclear Medicine
+- title: 'eddymotion: An open implementation of FSL''s eddy with volume-to-volume artifact estimation for neuroimaging beyond diffusion MRI'
+  author: LG JH, E Savary, CJ Markiewicz, A Rokem, M Norgaard, O Esteban
+  year: 2024
+  journal: ''
+- title: Guided synthesis of labeled brain MRI data using latent diffusion models for segmentation of enlarged ventricles
+  author: T Ruschke, JF Carlsen, AE Hansen, U Lindberg, AM Hindsholm, ...
+  authors_full: Tim Ruschke, Jonathan Frederik Carlsen, Adam Espe Hansen, Ulrich Lindberg, Amalie Monberg Hindsholm, Martin Norgaard, Claes Nøhr Ladefoged
+  year: 2024
+  journal: arXiv preprint arXiv:2411.01351
+- title: '[11C] PS13 shows pharmacologically selective binding to cyclooxygenase-1 (COX-1) in the human brain'
+  author: N Ghazanfari, M Norgaard, JS Liow, R Cureton, J Hong, JAM Santamaria, ...
+  authors_full: Nafiseh Ghazanfari, Martin Norgaard, Jeih-San Liow, Raven Cureton, Jinsoo Hong, Jose Angel Montero Santamaria, H Umesha Shetty, Anthony Galassi, Paul Wighton, Sami Zoghbi, VICTOR PIKE, Robert Innis, Paolo Zanotti Fregonara
+  year: 2024
+  journal: Journal of Nuclear Medicine 65 (supplement 2)
+- title: 'Associations between behavioral and emotional problems and brain morphology in early adolescence: A neuroimaging study using the NRU Serotonin Atlas'
+  author: D Koc, M Nørgaard, M Ganz, R Muetzel, H El Marroun, H Tiemeier, ...
+  authors_full: Dogukan Koc, Martin Nørgaard, Melanie Ganz, Ryan Muetzel, Hanan El Marroun, Henning Tiemeier, Vibe G Frokjaer
+  year: 2024
+  journal: OSF
+- title: Delivering Rules-Based Workflows for Science
+  author: D Marchant, M Blomqvist, P Jensen, I Lilholm, M Nørgaard
+  year: 2023
+  journal: Proceedings of the SC'23 Workshops of the International Conference on High …
+- title: Correspondence between gene expression and neurotransmitter receptor and transporter density in the human brain
+  author: JY Hansen, RD Markello, L Tuominen, M Nørgaard, E Kuzmin, ...
+  authors_full: Justine Y. Hansen, Ross D. Markello, Lauri Tuominen, Martin Nørgaard, Elena Kuzmin, Nicola Palomero-Gallagher, Alain Dagher, Bratislav Misic
+  year: 2022
+  journal: NeuroImage
+- title: bids-matlab
+  author: R Gau, G Flandin, A Janke, tanguyduval, R Oostenveld, C Madan, ...
+  authors_full: Rémi Gau, Guillaume Flandin, Andrew Janke, tanguyduval, Robert Oostenveld, Christopher Madan, Guiomar Niso Galán, Michał Szczepanik, Henk Mutsaerts, Nikita Beliy, Martin Norgaard, Cyril Pernet, Phillips Chrisophe
+  year: 2022
+  journal: https://doi.org/10.5281/zenodo.5910585
+- title: 'Nipype: a flexible, lightweight and extensible neuroimaging data processing framework in Python'
+  author: KJ Gorgolewski, O Esteban, CJ Markiewicz, E Ziegler, DG Ellis, MP Notter, ...
+  authors_full: Krzysztof Gorgolewski, Christopher D. Burns, Cindee Madison, Dav Clark, Yaroslav O. Halchenko, Michael L. Waskom, Satrajit S. Ghosh
+  year: 2022
+  journal: 10.5281/zenodo.6834519
+- title: Automated segmentation of deep brain nuclei using convolutional neural networks and susceptibility weighted imaging
+  author: V Beliveau, M Nørgaard, C Birkl, K Seppi, C Scherfler
+  year: 2021
+  journal: Human Brain Mapping
+- title: 'Reproducibility of findings in modern PET neuroimaging: insight from the NRM2018 grand challenge'
+  author: M Veronese, G Rizzo, M Belzunce, J Schubert, G Searle, A Whittington, ...
+  authors_full: Mattia Veronese, Gaia Rizzo, Martin Belzunce, Julia Schubert, Graham Searle, Alex Whittington, Ayla Mansur, Joel Dunn, Andrew Reader, Roger N Gunn
+  year: 2021
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: 'nipy/nipype: 1.5. 1'
+  author: O Esteban, CJ Markiewicz, C Burns, M Goncalves, D Jarecka, E Ziegler, ...
+  authors_full: Oscar Esteban, Christopher J Markiewicz, Christopher Burns, Mathias Goncalves, Dorota Jarecka, Erik Ziegler, Shoshana Berleant, David Gage Ellis, Basile Pinsard, Cindee Madison, Michael Waskom, Michael Philipp Notter, Daniel Clark, Alexandre Manhães-Savio, Dav Clark, Kesshi Jordan, Michael Dayan, Yaroslav O Halchenko, Fred Loney, Taylor Salo, Blake E Dewey, Hans Johnson, Salma Bougacha, Anisha Keshavan, Benjamin Yvernault, Carlo Hamalainen, Horea Christian, Rastko Ćirić, Mathieu Dubois, Michael Joseph, Ben Cipollini, Steven Tilley II, Matteo Visconti di Oleggio Castello, Jason Wong, Alejandro De La Vega, Jakub Kaczmarzyk, Julia M Huntenburg, Michael G Clark, Erin Benderoff, Drew Erickson, James D Kent, Michael Hanke, Steven Giavasis, Brendan Moloney, B Nolan Nichols, Rosalia Tungaraza, Caroline Frohlich, Demian Wassermann, Gilles de Hollander, Arman Eshaghi, Jarrod Millman, Matteo Mancini, Dylan M Nielson, Gael Varoquaux, Aimi Watanabe, David Mordom, Jérémy Guillon, Serge
+    Koudoro, Andrey Chetverikov, Ariel Rokem, Benjamin Acland, Jessica Forbes, Ross Markello, Ashley Gillman, Xiang-Zhen Kong, Daniel Geisler, John Salvatore, Alexandre Gramfort, Anna Doll, Colin Buchanan, Elizabeth DuPre, Siqi Liu, Alexander Schaefer, Jens Kleesiek, Sharad Sikka, Yannick Schwartz, John A Lee, Aaron Mattfeld, Adam Richie-Halford, Franz Liem, Martin Felipe Perez-Guevara, Anibal Sólon Heinsfeld, Christian Haselgrove, Joke Durnez, Leonie Lampe, Russell Poldrack, Tristan Glatard, Alejandro Tabas, Chad Cumba, Fernando Pérez-García, Ross Blair, Shariq Iqbal, David Welch, William Triplett, Ali Ghayoor, R Cameron Craddock, Carlos Correa, Dimitri Papadopoulos Orfanos, Jörg Stadler, Joshua Warner, Lucinda M Sisk, Marcel Falkiewicz, Paul Sharp, Simon Rothmei, Sin Kim, Alejandro Weinstein, Ari E Kahn, Erik Kastman, Katherine Bottenhorn, Martin Grignard, L Nathan Perkins, Oliver Contier, Dale Zhou, Dmytro Bielievtsov, Gavin Cooper, Hrvoje Stojic, Janosch Linkersdörfer, Lea Waller, Mandy
+    Renfro, Oliver Hinds, Olivia Stanley, René Küttner, Wolfgang M Pauli, Daniel Glen, Adam Kimbler, Benjamin Meyers, Claire Tarbert, Daniel Ginsburg, Daniel Haehn, Daniel S Margulies, Feilong Ma, Ian B Malone, Lukas Snoek, Matthew Brett, Matthew Cieslak, Michael Hallquist, Miguel Molina-Romero, Murat Bilgel, Nat Lee, Souheil Inati, Stephan Gerhard, Sulantha Mathotaarachchi, Victor Saase, Andrew Van, Christopher John Steele, Eduard Ort, Eric Condamine, Garikoitz Lerma-Usabiaga, Isaac Schwabacher, Jaime Arias
+  year: 2020
+  journal: Zenodo
+- title: Estimating PET partial volume full-width-half-maximum directly from human data
+  author: DN Greve, M Schain, M Ganz, M Nørgaard, C Svarer, G Knudsen
+  year: 2020
+  journal: ''
+- title: Optimizing Preprocessing Pipelines in PET/MR Neuroimaging
+  author: M Nørgaard
+  year: 2019
+  journal: 'København: Eget forlag'
+- title: HIGH-THROUGHPUT RAT BRAIN PET IMAGING AND AUTOMATIC SPATIAL NORMALIZATION OF THE DOPAMINE D2/3 RECEPTOR LIGAND [18F] FALLYPRIDE
+  author: D Lange, IM Tejada, M Xiong, B Hillebrand, M Norgaard, S Baerentzen, ...
+  authors_full: D Lange, IM Tejada, M Xiong, B Hillebrand, M Norgaard, S Baerentzen, V Shalgunov, ET L’Estrade, SH Keller, MM Herth, C Svarer, M Palmer
+  year: 2019
+  journal: ''
+- title: Seasonality-resilient individuals downregulate their cerebral 5-HT transporter binding in winter – A longitudinal combined 11 C-DASB and 11 C-SB207145 PET study
+  author: Mc Mahon B, Nørgaard M, Svarer C, Andersen SB, Madsen MK, Baaré WFC, Madsen ...
+  authors_full: Mc Mahon B, Nørgaard M, Svarer C, Andersen SB, Madsen MK, Baaré WFC, Madsen J, Frokjaer VG, Knudsen GM
+  year: 2018
+  journal: Eur Neuropsychopharmacol
+- title: 'Low 5-HT1B receptor binding in the migraine brain: A PET study'
+  author: M Deen, HD Hansen, A Hougaard, S da Cunha-Bang, M Nørgaard, ...
+  authors_full: Marie Deen, Hanne D Hansen, Anders Hougaard, Sofi da Cunha-Bang, Martin Nørgaard, Claus Svarer, Sune H Keller, Carsten Thomsen, Messoud Ashina, Gitte M Knudsen
+  year: 2018
+  journal: Cephalalgia
+- title: 'High brain serotonin levels in migraine between attacks: A 5-HT4 receptor binding PET study'
+  author: M Deen, HD Hansen, A Hougaard, M Nørgaard, H Eiberg, S Lehel, ...
+  authors_full: Marie Deen, Hanne D. Hansen, Anders Hougaard, Martin Nørgaard, Hans Eiberg, Szabolcs Lehel, Messoud Ashina, Gitte M. Knudsen
+  year: 2018
+  journal: 'NeuroImage: Clinical'
+- title: 'Seasonality-resilient individuals downregulate their cerebral serotonin transporter binding in winter while 5-HT levels appear unchanged: A longitudinal combined 11C-DASB and …'
+  author: B Mc Mahon, M Nørgaard, C Svarer, SB Andersen, MK Madsen, ...
+  authors_full: Brenda Mc Mahon, Martin Nørgaard, Claus Svarer, Sofie Bech Andersen, Martin Korsbak Madsen, William Frans Christian Baaré, Jacob Madsen, Vibe Gedsø Frøkjær, Gitte Moos Knudsen
+  year: 2017
+  journal: ''
+- title: Feasibility of multiparametric imaging with PET/MR in head and neck squamous cell carcinoma
+  author: JH Rasmussen, M Nørgaard, AE Hansen, IR Vogelius, MC Aznar, ...
+  authors_full: Jacob H. Rasmussen, Martin Nørgaard, Adam E. Hansen, Ivan R. Vogelius, Marianne C. Aznar, Helle H. Johannesen, Junia Costa, Astrid M.E. Engberg, Andreas Kjær, Lena Specht, Barbara M. Fischer
+  year: 2017
+  journal: Journal of Nuclear Medicine
+- title: Non-Parametric Bayesian Modeling of Complex Networks using a Bernoulli-Poisson Model
+  author: TN Nielsen, M Nørgaard
+  year: 2014
+  journal: ''
+- title: 'Dynamics of Complex Topological Excitable Networks: Parallel Computing on Graphical Processing Units'
+  author: M Nørgaard, AN Olesen, AG Gonzalez
+  year: 2014
+  journal: ''
+- title: Real-Time Automatic Detection of Childhood Epilepsy Seizures on an Android Device
+  author: M Nørgaard, JS Møller, AG Gonzalez
+  year: 2014
+  journal: ''
 - title: 'Transforming Hyperspectral Images Into Chemical Maps: A Novel End‐to‐End Deep Learning Approach.'
   author: OC Galbo Engstrøm, M Albano‐Gaglio, E Schou Dreier, Y Bouzembrak, ...
   authors_full: Ole‐Christian Galbo Engstrøm, Michela Albano‐Gaglio, Erik Schou Dreier, Yamine Bouzembrak, Maria Font‐i‐Furnols, Puneet Mishra, Kim Steenstrup Pedersen
@@ -3158,6 +3330,7 @@
   journal: arXiv preprint arXiv:2408.02427
 - title: Investigating the Role of ADGRV1 in ALS Using a Novel Mouse Model
   author: S Hasselholt, HJT Stephensen, D Janssen, AH Andersen, A Dubois, ...
+  authors_full: ''
   year: 2024
   journal: ''
 - title: Statistical investigations into the geometry and homology of random programs
@@ -3191,6 +3364,7 @@
   journal: bioRxiv.06. 08.544169
 - title: Iron Oxide Nanoparticles as a Contrast Agent for Synchrotron Imaging of Sperm
   author: MB Lindhøj, SR Cooper, AS Anker, A Bonnin, M Kristensen, K Qvortrup, ...
+  authors_full: ''
   year: 2023
   journal: arXiv preprint arXiv:2309.03908
 - title: Multimodal dance style transfer
@@ -3220,5 +3394,6 @@
   journal: Proceedings of the Asian Conference on Computer Vision, 2967-2983
 - title: Structural and functional changes in a genetic model of amyotrophic lateral sclerosis
   author: S Hasselholt, HJT Stephensen, D Janssen, A Hasselholt, A Dubois, ...
+  authors_full: ''
   year: 2022
   journal: ''
