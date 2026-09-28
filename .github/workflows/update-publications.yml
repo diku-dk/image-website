@@ -28,6 +28,11 @@ jobs:
             - name: Merge scraped publications into the existing list
               run: python3 .github/scripts/merge_publications.py
 
+            - name: Enrich truncated author lists
+              env:
+                  SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+              run: python3 .github/scripts/enrich_authors.py
+
             - name: Configure Git
               run: |
                   git config --global user.name "GitHub Actions"

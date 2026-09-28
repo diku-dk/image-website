@@ -15,7 +15,7 @@ import yaml
 EXISTING = Path("docs/_data/publications.yml")
 UPDATED = Path("updated-publications.yml")
 
-FIELDS = ("title", "author", "year", "journal")
+FIELDS = ("title", "author", "authors_full", "year", "journal")
 
 
 def normalize(title):
