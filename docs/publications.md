@@ -144,7 +144,7 @@ Browse the section's publications. Newest first, one year at a time. Use the sea
     <div class="pub-cards">
       {% assign year_pubs = site.data.publications | where: "year", year %}
       {% for publication in year_pubs %}
-      <a class="pub-card" href="https://scholar.google.com/scholar?q={{ publication.title | url_encode }}" target="_blank" rel="noopener noreferrer" title="Search on Google Scholar" data-search="{{ publication.title | downcase | escape }} {{ publication.author | downcase | escape }} {{ publication.journal | downcase | escape }} {{ publication.year }}">
+      <a class="pub-card" href="https://scholar.google.com/scholar?q={{ publication.title | url_encode }}" target="_blank" rel="noopener noreferrer" title="Search on Google Scholar" data-search="{{ publication.title | downcase | escape }} {{ publication.author | downcase | escape }} {{ publication.authors_full | downcase | escape }} {{ publication.journal | downcase | escape }} {{ publication.year }}">
         <h3 class="pub-title">{{ publication.title }}</h3>
         <p class="pub-authors">{{ publication.author }}</p>
         {% if publication.journal != "" %}
