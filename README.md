@@ -6,7 +6,7 @@ The files within the docs folder are publicly displayed on the Image section's w
 
 To include your latest publications from Google Scholar, update the list of author ids included in the "env" file. To find your author id, navigate to your google scholar page and extract the id from the "user" query parameter in the URL. "user=<your_id>". Then, include a comma followed by your author id in the env > AUTHOR list, i.e ",<your_id>".
 
-For more details regarding the scraping mechanism, refer to [scholar-scraper](https://github.com/tudordascalu/scholar-scraper).
+The workflow fetches publications through the [SerpApi Google Scholar Author API](https://serpapi.com/google-scholar-author-api). The repository needs a secret named `SERPAPI_API_KEY` (Settings → Secrets and variables → Actions, or `gh secret set SERPAPI_API_KEY`); the free plan covers the monthly usage. If the fetch returns no publications, the workflow fails without changing the file.
 
 The monthly workflow merges newly scraped publications into `docs/_data/publications.yml` instead of replacing the file, so entries that the scraper no longer returns (for example older publications) are kept.
 
