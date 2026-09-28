@@ -1,423 +1,2131 @@
-- title: Prevalence of malformations of cortical development in patients with suspected epilepsy based on a clinical MRI dataset
-  author: L Coll, J Diaz-i-Calvete, A Schiavone, H Kaas, M Prener, V Beliveau, ...
-  year: 2026
-  journal: medRxiv.08. 19.26360591
-- title: 'GPU Memory and Utilization Estimation for Training-Aware Resource Management: Opportunities and Limitations'
-  author: E Yousefzadeh-Asl-Miandoab, R Karimzadeh, D Yorulmaz, B Ibragimov, ...
-  year: 2026
-  journal: Proceedings of the Sixth European Workshop on Machine Learning and Systems …
-- title: Time trends in cardiac doses in 10,000 patients receiving curative thoracic radiation therapy between 2009 and 2020
-  author: N Forbes, BB Irankunda, C Terrones-Campos, A Smith, J Reekie, ...
-  year: 2026
-  journal: Clinical Oncology, 104324
-- title: 'Neuroanatomical dimensions in recent-onset depression: clinical profiles, inflammatory markers, and proteomic ageing'
-  author: PA Lalousis, L Moles, M Antoniades, W Xiao, ACM Couch, G Erus, ...
-  year: 2026
-  journal: medRxiv.06. 01.26354320
-- title: Learning Multi-Robot Coordination with Invariant Consensus Stabilization
-  author: H Yin, CK Verginis, D Kragic
-  year: 2026
-  journal: Proceedings of Machine Learning Research vol 331, 1-14
-- title: Deep Learning‐Based Automated Bowel Wall Thickness Measurement in Intestinal Ultrasound for Inflammatory Bowel Disease
-  author: JH Karrer, J Ruiz‐Molsgaard, BL Møller, J Burisch, GR Madsen, K Theede, ...
-  year: 2026
-  journal: JCC Plus 1 (5), e70062
-- title: Prediction of pulpal sequelae in cracked teeth with reversible pulpitis using machine learning models
-  author: S Wu, T Dascalu, RF Seet, PY Chan, N Yu, J Hartanto, B Ibragimov
-  year: 2026
-  journal: Journal of Endodontics
-- title: Alternating Spatial‐Temporal Optimization for Continuous Collision Detection of Signed Distance Fields
-  author: RG Nielsen, K Erleben
-  year: 2026
-  journal: Computer Graphics Forum, e70570
-- title: 'The Impact of Training Dental Students to Use an Artificial Intelligence–Based Platform for Pulp Exposure Prediction Prior to Deep Caries Excavation: A Proof‐of‐Concept …'
-  author: S Ramezanzade, TL Dascalu, A Bakhshandeh, SE Uribe, B Ibragimov, ...
-  year: 2026
-  journal: International Endodontic Journal 59 (6), 1248-1256
-- title: Clinically validated dataset of 435 human colons segmented from CT colonography
-  author: M Finocchiaro, R Stern, R Vilhelmsborg, AG Smith, J Petersen, K Cold, ...
-  year: 2026
-  journal: Scientific Data 13 (1), 199
-- title: 'CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection'
-  author: Z Cheng, H Wei, H Yin, X Xu, B Yu, J Zhou, J Lu
-  year: 2026
-  journal: arXiv preprint arXiv:2604.07457
-- title: 'Reduced beam hardening in urogenital imaging with photon-counting CT: a retrospective direct comparison with conventional CT'
-  author: EGS Brandt, FC Müller, YJW Nielsen, AM Ewald, B Ibragimov, H Thomsen, ...
-  year: 2026
-  journal: Acta Radiologica 67 (6), 540-547
-- title: Regional Inequities and Cultural Sensitivity in AI Models for Psychiatric Care
-  author: A Valentine, H Coupland, E Petersen, E Beaman, M Osler, A Feragen, ...
-  year: 2026
-  journal: OSF
-- title: 'MedPruner: Training-Free Hierarchical Token Pruning for Efficient 3D Medical Image Understanding in Vision-Language Models'
-  author: S Liu, Z Ye, Y Lin, C Hu, W Geng, X Han, B Ibragimov, Y Zheng, Y Yuan
-  year: 2026
-  journal: arXiv preprint arXiv:2603.11625
-- title: Age-dependent acceleration of structural brain aging in medication-free major depressive disorder linked to neuroanatomical phenotype findings from COORDINATE-MDD consortium
-  author: B Sharma, PL Ballester, L Minuzzi, W Xiao, M Antoniades, D Srinivasan, ...
-  year: 2026
-  journal: MedRxiv
-- title: 'Dosimetric assessment of deep learning based organ-at-risk segmentation: insights from the HaN-Seg challenge'
-  author: G Podobnik, B Ibragimov, P Peterlin, P Strojan, T Vrtovec
-  year: 2026
-  journal: Radiotherapy and Oncology, 111387
 - title: Predicting Radiologist Expertise from 3D Gaze Patterns During CT Interpretation
   author: L Khaertdinova, A Anikina, C Mello-Thoms, B Ibragimov
   year: 2026
-  journal: arXiv preprint arXiv:2608.23836
-- title: Preoperative limbic cortical thinning in mesial temporal lobe epilepsy surgical candidates is associated with pre‐existing and de novo postoperative depression
-  author: P Fink‐Jensen, B Ozenne, A Kloster, B Jespersen, K Vinter, G Rubboli, ...
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: 'MedPruner: Training-Free Hierarchical Token Pruning for Efficient 3D Medical Image Understanding in Vision-Language Models'
+  author: S Liu, Z Ye, Y Lin, C Hu, W Geng, X Han, B Ibragimov, Y Zheng, Y Yuan
   year: 2026
-  journal: Epileptic Disorders
-- title: Inter-individual variability of neurotransmitter receptor and transporter density in the human brain
-  author: JY Hansen, J Tuisku, J Johansson, Z Chang, CJ McGinnity, V Beliveau, ...
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Deep Learning‐Based Automated Bowel Wall Thickness Measurement in Intestinal Ultrasound for Inflammatory Bowel Disease
+  author: JH Karrer, J Ruiz‐Molsgaard, BL Møller, J Burisch, GR Madsen, K Theede, ...
   year: 2026
-  journal: Brain Structure and Function 231 (1), 13
-- title: 'Improved pancreatic imaging with photon-counting CT: a retrospective comparison with conventional CT'
-  author: EGS Brandt, F Christoph Müller, YJW Nielsen, AM Ewald, B Ibragimov, ...
-  year: 2026
-  journal: Acta Radiologica, 02841851261458363
-- title: 'Neurophysiological correlates of neuroanatomical dimensions in major depressive disorder: EEG markers of brain function and treatment outcome'
-  author: W Xiao, RD Woodham, M Antoniades, D Srinivasan, Y Fan, G Erus, ...
-  year: 2026
-  journal: Biological Psychiatry Global Open Science, 100750
-- title: 'EXPRESS: Building an open infrastructure for molecular neuroimaging: standards and tools from the OpenNeuroPET initiative'
-  author: M Ganz, M Norgaard, C Pernet, GJ Matheson, A Galassi, EG Ceballos, ...
-  year: 2026
-  journal: Journal of Cerebral Blood Flow & Metabolism, 0271678X261490245
-- title: 'MOSAIC: A Multilingual, Taxonomy-Agnostic, and Computationally Efficient Approach for Radiological Report Classification in Low-Resource Settings'
-  author: A Schiavone, M Fraccaro, LM Pehrson, S Ingala, R Bonnevie, MB Nielsen, ...
-  year: 2026
-  journal: The 8th Workshop on Clinical Natural Language Processing (Clinical NLP …
-- title: 'Revisiting multi-nodal radiomics with advanced feature learning for lymphoma classification: a multi-center study'
-  author: R Karimzadeh, S Hasanabadi, M Cheraghi, M Bakhshayesh Karam, ...
-  year: 2026
-  journal: Physics in Medicine & Biology 71 (12), 125014
+  journal: JCC Plus
 - title: 'Clinical Outcome of Non‐Surgical Endodontic Treatment Performed by Undergraduate Dental Students: A Retrospective Observational Cohort Study'
   author: S Ramezanzade, A Bakhshandeh, B Ibragimov, H Fransson, T Dascalu, ...
   year: 2026
   journal: International Endodontic Journal
-- title: 'Prediction of brain age using structural magnetic resonance imaging: a comparison of clinical utility of publicly available software packages'
-  author: RP Dorfel, B Ozenne, M Ganz, JE Svensson, P Plaven-Sigray
+- title: 'Political Bias in Decentralized Prediction Markets: Evidence from Trump-Related Contracts on Polymarket'
+  author: SS Skovgaard, NW Junge, B Ibragimov
   year: 2026
-  journal: EBIOMEDICINE 123
+  journal: Available at SSRN
 - title: Explanation-Guided Reconstruction of Missing Clinical Features for Survival Prediction in Pancreatic Cancer
   author: R Karimzadeh, S Kollbeck, EGS Brandt, MB Andersen, CF Müller, ...
   year: 2026
   journal: IEEE Journal of Biomedical and Health Informatics
-- title: A dataset of clinical pediatric brain MRI with and without motion correction
-  author: L Coll, T Waagstein Madsen, K Skak Madsen, M Ganz
+- title: 'Revisiting multi-nodal radiomics with advanced feature learning for lymphoma classification: a multi-center study'
+  author: R Karimzadeh, S Hasanabadi, M Cheraghi, M Bakhshayesh Karam, ...
   year: 2026
-  journal: Scientific Data
-- title: Independent evaluation of deep learning models for detecting focal cortical dysplasia
-  author: H Kaas, M Prener, M Ganz, GM Knudsen, LH Pinborg, V Beliveau
+  journal: Physics in Medicine & Biology
+- title: 'Improved pancreatic imaging with photon-counting CT: a retrospective comparison with conventional CT'
+  author: EGS Brandt, F Christoph Müller, YJW Nielsen, AM Ewald, B Ibragimov, ...
   year: 2026
-  journal: Epilepsy Research, 107778
-- title: 'MERA: Multimodal and Multiscale self-Explanatory model with considerably reduced annotation for lung nodule diagnosis'
-  author: J Lu, C Yin, S Ingala, K Erleben, MB Nielsen, S Darkner
+  journal: Acta Radiologica
+- title: 'Reduced beam hardening in urogenital imaging with photon-counting CT: a retrospective direct comparison with conventional CT'
+  author: EGS Brandt, FC Müller, YJW Nielsen, AM Ewald, B Ibragimov, H Thomsen, ...
   year: 2026
-  journal: Biomedical Signal Processing and Control 121, 110339
+  journal: Acta Radiologica
+- title: 'The Impact of Training Dental Students to Use an Artificial Intelligence–Based Platform for Pulp Exposure Prediction Prior to Deep Caries Excavation: A Proof‐of‐Concept …'
+  author: S Ramezanzade, TL Dascalu, A Bakhshandeh, SE Uribe, B Ibragimov, ...
+  year: 2026
+  journal: International Endodontic Journal
+- title: 'GPU Memory and Utilization Estimation for Training-Aware Resource Management: Opportunities and Limitations'
+  author: E Yousefzadeh-Asl-Miandoab, R Karimzadeh, D Yorulmaz, B Ibragimov, ...
+  year: 2026
+  journal: Proceedings of the Sixth European Workshop on Machine Learning and Systems …
 - title: 'Visual search patterns in 3D pancreatic imaging: an eye tracking study'
   author: A Anikina, L Khaertdinova, T Balschmidt, MB Andersen, CF Müller, ...
   year: 2026
   journal: 'Medical Imaging 2026: Image Perception, Observer Performance, and Technology …'
-- title: Psilocybin acutely reduces low-frequency BOLD power and frequency-specific connectivity
-  author: AS Olsen, K Larsen, DEW McCulloch, M Ganz, MK Madsen, B Ozenne, ...
+- title: 'Dosimetric assessment of deep learning based organ-at-risk segmentation: insights from the HaN-Seg challenge'
+  author: G Podobnik, B Ibragimov, P Peterlin, P Strojan, T Vrtovec
   year: 2026
-  journal: bioRxiv.04. 09.717379
-- title: 'Associations of serotonin-related brain morphology in early adolescence with behavioral and emotional problems: a population-based neuroimaging study'
-  author: D Koc, M Nørgaard, M Ganz, R Muetzel, H El Marroun, H Tiemeier, ...
+  journal: Radiotherapy and Oncology
+- title: Prediction of pulpal sequelae in cracked teeth with reversible pulpitis using machine learning models
+  author: S Wu, T Dascalu, RF Seet, PY Chan, N Yu, J Hartanto, B Ibragimov
   year: 2026
-  journal: Neuroscience Applied 5, 106001
-- title: Brain MRI Dataset Featuring a Full Clinical Protocol With and Without Intentional Motion
-  author: K Skak Madsen, T Ruschke, H Eichhorn, P Rising, M Ganz
-  year: 2026
-  journal: Scientific Data
-- title: Policy-space interpolation for physics-based characters
-  author: M Rocca, S Andrews, K Erleben
-  year: 2025
-  journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques 8 (4 …
-- title: 'Transforming Hyperspectral Images Into Chemical Maps: A Novel End‐to‐End Deep Learning Approach.'
-  author: OC Galbo Engstrøm, M Albano‐Gaglio, E Schou Dreier, Y Bouzembrak, ...
-  year: 2025
-  journal: Journal of Chemometrics 39 (8), 1
-- title: 'Towards Safe Reinforcement Learning with Reduced Conservativeness: A Case Study on Drone Flight Control'
-  author: L Hadjiloizou, MC Welle, H Yin, D Kragic
-  year: 2025
-  journal: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems …
-- title: Learning Interpretable Robot Policies from Demonstration
-  author: DC Dominguez
-  year: 2025
-  journal: Ph. D. dissertation, Örebro University
-- title: 'MIPLS2: Exploiting PLS2 to impute missing values in a two-block system with multiple response variables'
-  author: A Tashk, KM Sørensen, SB Engelsen, KS Pedersen, CE Eskildsen
-  year: 2025
-  journal: Analytica Chimica Acta 1364, 344134
-- title: Longitudinal Anatomical Attention Maps for Recognizing Diagnostic Errors from Radiologists’ Eye Movements
-  author: A Anikina, D Ibragimova, T Mustafaev, C Mello-Thoms, B Ibragimov
-  year: 2025
-  journal: International Conference on Medical Image Computing and Computer-Assisted …
-- title: Neural Kinematic Bases for Fluids
-  author: Y Liu, Z Fang, S Darkner, N Aigerman, K Erleben, P Kry, T Schneider
-  year: 2025
-  journal: Proceedings of the SIGGRAPH Asia 2025 Conference Papers, 1-10
-- title: Clinicians’ agreement on extrapulmonary radiographic findings in chest X-rays using a diagnostic labelling scheme
-  author: LM Pehrson, D Li, A Mayar, M Fraccaro, R Bonnevie, PJ Sørensen, ...
-  year: 2025
-  journal: Diagnostics 15 (7), 902
-- title: 'AI-guided delineation of gross tumor volume for body tumors: A systematic review'
-  author: LM Pehrson, J Petersen, NS Panduro, CA Lauridsen, JF Carlsen, ...
-  year: 2025
-  journal: Diagnostics 15 (7), 846
-- title: The Phantom of the Elytra--Phylogenetic Trait Extraction from Images of Rove Beetles Using Deep Learning--Is the Mask Enough?
-  author: R Hunt, KS Pedersen
-  year: 2025
-  journal: arXiv preprint arXiv:2502.04541
-- title: 'GC-VLN: Instruction as graph constraints for training-free vision-and-language navigation'
-  author: H Yin, H Wei, X Xu, W Guo, J Zhou, J Lu
-  year: 2025
-  journal: arXiv preprint arXiv:2509.10454
-- title: 'Beyond predefined actions: Integrating behavior trees and dynamic movement primitives for robot learning from demonstration'
-  author: DC Domínguez, E Schaffernicht, T Stoyanov
-  year: 2025
-  journal: arXiv preprint arXiv:2505.08625
+  journal: Journal of Endodontics
 - title: 'rNCA: Self-Repairing Segmentation Masks'
   author: M Silbernagel, A Alonso, J Petersen, B Ibragimov, M de Bruijne, ...
   year: 2025
   journal: arXiv preprint arXiv:2512.13397
-- title: 'Integrating deep learning derived morphological traits and molecular data for total-evidence phylogenetics: lessons from digitized collections'
-  author: R Hunt, JL Reyes-Hernández, JJ Shaw, A Solodovnikov, KS Pedersen
-  year: 2025
-  journal: Systematic Biology 74 (3), 453-468
-- title: A Time Series Dataset of NIR Spectra and RGB and NIR-HSI Images of the Barley Germination Process
-  author: OCG Engstrøm, ES Dreier, BM Jespersen, KS Pedersen
-  year: 2025
-  journal: arXiv preprint arXiv:2504.16658
-- title: Toward a full-scale model of renal hemodynamics using a reconstructed vascular tree
-  author: P Xu, S Darkner, O Sosnovtseva, NH Holstein-Rathlou
-  year: 2025
-  journal: American Journal of Physiology-Renal Physiology 328 (5), F702-F723
-- title: Alignment techniques for percutaneous access
-  author: E Ayvali, B IBRAGIMOV, S Plewe, JZ BONE, M Drahos, Y Malinin
-  year: 2025
-  journal: US Patent 12,465,431
-- title: SE(3) group convolutional neural networks and a study on group convolutions and equivariance for DWI segmentation
-  author: R Liu, F Lauze, EJ Bekkers, S Darkner, K Erleben
-  year: 2025
-  journal: Frontiers in Artificial Intelligence 8, 1369717
-- title: 'Transforming Hyperspectral Images Into Chemical Maps: An End-to-End Deep Learning Approach.'
-  author: OCG Engstrøm, M Albano-Gaglio, ES Dreier, Y Bouzembrak, ...
-  year: 2025
-  journal: CoRR
 - title: Endoscopic anatomical feature tracking
   author: E Ayvali, YE Menglong, B IBRAGIMOV, DB Berman
   year: 2025
-  journal: US Patent App. 19/304,384
-- title: The First WARA Robotics Mobile Manipulation Challenge-Lessons Learned
-  author: DC Domínguez, M Iannotta, A Kashyap, S Sun, Y Yang, C Cella, ...
+  journal: US Patent App. 19/304
+- title: Alignment techniques for percutaneous access
+  author: E Ayvali, B IBRAGIMOV, S Plewe, JZ BONE, M Drahos, Y Malinin
   year: 2025
-  journal: 2025 European Conference on Mobile Robots (ECMR), 1-8
-- title: 'Collision constraints and diffeomorphisms: dealing with physics in deformable image registration'
-  author: T Alscher, J Petersen, F Lauze, K Erleben, S Darkner
-  year: 2025
-  journal: IEEE Access 13, 139236-139255
-- title: Evaluation of a volume and intensity-based FLAIR algorithm developed to assist in DWI-FLAIR mismatch assessment in wake-up stroke
-  author: CJM Offersen, J Johansen, AH Brandt, TC Truelsen, S Darkner, A Pai, ...
-  year: 2025
-  journal: European Journal of Radiology Artificial Intelligence, 100037
-- title: 'HQColon: A Hybrid Interactive Machine Learning Pipeline for High Quality Colon Labeling and Segmentation'
-  author: M Finocchiaro, R Stern, AG Smith, J Petersen, K Erleben, M Ganz
-  year: 2025
-  journal: arXiv preprint arXiv:2502.21183
-- title: Neuroanatomical dimensions in major depression linked to cognition, adverse life events, self-harm, metabolomics and genetics
-  author: W Xiao, RD Woodham, Y Cui, J Wen, M Antoniades, D Srinivasan, Y Fan, ...
-  year: 2025
-  journal: Communications medicine 5 (1), 502
-- title: Real-time iteration scheme for diffusion policy
-  author: Y Duan, H Yin, D Kragic
-  year: 2025
-  journal: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems …
-- title: 'PiMPiC: An Overlap-Aware Contrastive Learning Framework for 3D Patch-Based Medical Image Segmentation'
-  author: R Karimzadeh, E Yousefzadeh-Asl-Miandoab, H Arabi, P Tözün, ...
-  year: 2025
-  journal: MICCAI Workshop on Data Engineering in Medical Imaging, 21-31
-- title: Policy-space diffusion for physics-based character animation
-  author: M Rocca, S Darkner, K Erleben, S Andrews
-  year: 2025
-  journal: ACM Transactions on Graphics 44 (3), 1-18
-- title: Agreement of image quality metrics with radiological evaluation in the presence of motion artifacts
-  author: E Marchetto, H Eichhorn, D Gallichan, JA Schnabel, M Ganz
-  year: 2025
-  journal: Magnetic Resonance Materials in Physics, Biology and Medicine 38 (6), 991-1002
-- title: Machine Learning for Longitudinal Brain-Age Prediction
-  author: M Wegmann, M Ganz, JE Svensson, P Plavén-Sigray, RP Dörfel
-  year: 2025
-  journal: medRxiv.12. 10.25341964
-- title: 'Unfolding the literature: A review of robotic cloth manipulation'
-  author: A Longhini, Y Wang, I Garcia-Camacho, D Blanco-Mulero, M Moletta, ...
-  year: 2025
-  journal: Annual Review of Control, Robotics, and Autonomous Systems 8 (1), 295-322
+  journal: US Patent
 - title: 'Extremal Contours: Gradient-driven contours for compact visual attribution'
   author: R Karimzadeh, A Alonso, F Zdyb, JB Kirkegaard, B Ibragimov
   year: 2025
   journal: arXiv preprint arXiv:2511.01411
-- title: A systematic comparison between FEBio and PolyFEM for biomechanical systems
-  author: L Martin, P Jain, Z Ferguson, T Gholamalizadeh, F Moshfeghifar, ...
-  year: 2024
-  journal: Computer methods and programs in biomedicine 244, 107938
-- title: Goal-conditioned offline reinforcement learning via metric learning
-  author: A Reichlin, M Vasco, H Yin, D Kragic
-  year: 2024
-  journal: arXiv preprint arXiv 2402
-- title: Goal-Conditioned Reinforcement Learning from Sub-Optimal Data on Metric Spaces
-  author: A Reichlin, M Vasco, H Yin, D Kragic
-  year: 2024
-  journal: arXiv preprint arXiv:2402.10820
-- title: 'SmartField: A Danish Initiative for Advanced N2O Emission Accounting and Mitigation in Agriculture'
-  author: AB Vaerge, K Butterbach-Bahl, J Olesen, D Abalos, C Dold, S Darkner, ...
-  year: 2024
-  journal: AGU Fall Meeting Abstracts 2024 (1569), B33C-1569
-- title: Locally orderless networks
-  author: J Sporring, P Xu, J Lu, F Lauze, S Darkner
-  year: 2024
-  journal: arXiv preprint arXiv:2406.13514
-- title: Interactive perception for deformable object manipulation
-  author: Z Weng, P Zhou, H Yin, A Kravberg, A Varava, D Navarro-Alarcon, ...
-  year: 2024
-  journal: IEEE Robotics and Automation Letters 9 (9), 7763-7770
-- title: Scalable motion style transfer with constrained diffusion generation
-  author: W Yin, Y Yu, H Yin, D Kragic, M Björkman
-  year: 2024
-  journal: Proceedings of the AAAI Conference on Artificial Intelligence 38 (9), 10234 …
-- title: In vivo deep learning estimation of diffusion coefficients of nanoparticles
-  author: JB Kirkegaard, NP Kutuzov, R Netterstrøm, S Darkner, M Lauritzen, ...
-  year: 2024
+- title: 'PiMPiC: An Overlap-Aware Contrastive Learning Framework for 3D Patch-Based Medical Image Segmentation'
+  author: R Karimzadeh, E Yousefzadeh-Asl-Miandoab, H Arabi, P Tözün, ...
+  year: 2025
+  journal: MICCAI Workshop on Data Engineering in Medical Imaging
+- title: Longitudinal Anatomical Attention Maps for Recognizing Diagnostic Errors from Radiologists’ Eye Movements
+  author: A Anikina, D Ibragimova, T Mustafaev, C Mello-Thoms, B Ibragimov
+  year: 2025
   journal: International Conference on Medical Image Computing and Computer-Assisted …
-- title: 'Xfibrosis: Explicit vessel-fiber modeling for fibrosis staging from liver pathology images'
-  author: C Yin, S Liu, F Lyu, J Lu, S Darkner, VWS Wong, PC Yuen
+- title: 'CARMA: Collocation-Aware Resource Manager'
+  author: E Yousefzadeh-Asl-Miandoab, FM Ciorba, P Tözün
+  year: 2025
+  journal: arXiv preprint arXiv:2508.19073
+- title: 'CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator'
+  author: E Yousefzadeh-Asl-Miandoab, R Karimzadeh, B Ibragimov, FM Ciorba, ...
+  year: 2025
+  journal: 'arXiv e-prints, arXiv: 2508.19073'
+- title: 'The value of artificial intelligence in PSMA PET: a pathway to improved efficiency and results.'
+  author: H Dadgar, X Hong, R Karimzadeh, B Ibragimov, J Majidpour, H Arabi, ...
+  year: 2025
+  journal: 'The Quarterly Journal of Nuclear Medicine and Molecular Imaging: Official …'
+- title: Uncertainty Estimation in Cardio Landmark Detection and Heart Disease Diagnosis on Chest X-Ray Images
+  author: D Lvov, I Stebakov, A Kornaev, I Pershin, T Mustafaev, D Afonchikov, ...
+  year: 2025
+  journal: IEEE Access
+- title: The relationship between eye tracking features and transfer learning in modeling decision prediction of radiologists reading mammograms
+  author: K Kelat, SE Gerard, B Ibragimov, C Mello-Thoms
+  year: 2025
+  journal: 'Medical Imaging 2025: Image Perception, Observer Performance, and Technology …'
+- title: 'Dentassignnet: Assignment network for dental cast labeling in the presence of dental abnormalities'
+  author: T Dascalu, S Ramezanzade, A Bakhshandeh, L Bjørndal, R Iurcov, ...
+  year: 2025
+  journal: IEEE journal of biomedical and health informatics
+- title: Prediction of Radiological Diagnostic Errors from Eye Tracking Data Using Graph Neural Networks and Gaze-Guided Transformers
+  author: T Mustafaev, C Mello-Thoms, B Ibragimov
+  year: 2025
+  journal: 'Graphs in Biomedical Image Analysis: 6th International Workshop, GRAIL 2024 …'
+- title: 'Improving the Real-time Classification of Disease Severity in Ulcerative Colitis: Artificial Intelligence as the Trigger for a Second Opinion'
+  author: B Lo, B Møller, C Igel, S Wildt, I Vind, F Bendtsen, J Burisch, B Ibragimov
+  year: 2025
+  journal: Official journal of the American College of Gastroenterology| ACG, 10.14309
+- title: Prediction of radiological decision errors from longitudinal analysis of gaze and image features
+  author: A Anikina, D Ibragimova, T Mustafaev, C Mello-Thoms, B Ibragimov
+  year: 2025
+  journal: Artificial intelligence in medicine
+- title: Gaze assistance for efficient segmentation correction of medical images
+  author: L Khaertdinova, T Shmykova, I Pershin, A Laryukov, A Khanov, ...
+  year: 2025
+  journal: IEEE Access
+- title: 'NEMt: Fast targeted explanations for medical image models via neural explanation masks'
+  author: BL Møller, S Amiri, C Igel, KK Wickstrøm, R Jenssen, M Keicher, ...
+  year: 2025
+  journal: Northern Lights Deep Learning Conference
+- title: 'Short-term Outcome of Non-surgical Endodontic Treatments Performed by Pre-graduate Students Over 13 Years: a Retrospective Study at the University of Copenhagen'
+  author: S Ramezanzade, T Dascalu, A Bakhshandeh, B Ibragimov, H Fransson, ...
+  year: 2025
+  journal: 22nd Biennial Congress of the European Society of Endodontology (ESE …
+- title: Automatic calculation of cardiometric coefficients on chest X-ray images
+  author: A Kornaev, D Lvov, I Pershin, S Kiselev, D Afonchikov, I Bariev, ...
   year: 2024
-  journal: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …
-- title: Learning goal-conditioned policies from sub-optimal offline data via metric learning
-  author: A Reichlin, M Vasco, H Yin, D Kragic
+  journal: IEEE Access
+- title: Imaging the pancreas with photon-counting CT–A review of normal pancreatic anatomy
+  author: EGS Brandt, CF Müller, H Thomsen, AB Rodell, B Ibragimov, ...
   year: 2024
-  journal: arXiv preprint arXiv:2402.10820
+  journal: European Journal of Radiology
+- title: Artificial neural networks as a natural tool in solution of variational problems in hydrodynamics
+  author: I Stebakov, A Kornaev, E Kornaeva, N Litvinenko, Y Kazakov, O Ivanov, ...
+  year: 2024
+  journal: IEEE Access
+- title: Centerline-guided reinforcement learning model for pancreatic duct identifications
+  author: S Amiri, R Karimzadeh, T Vrtovec, E Gudmann Steuble Brandt, ...
+  year: 2024
+  journal: Journal of Medical Imaging
+- title: Building an AI support tool for real-time ulcerative colitis diagnosis
+  author: BL Møller, BZS Lo, J Burisch, F Bendtsen, I Vind, B Ibragimov, C Igel
+  year: 2024
+  journal: KI-Künstliche Intelligenz
+- title: Gaze-assisted medical image segmentation
+  author: L Khaertdinova, I Pershin, T Shmykova, B Ibragimov
+  year: 2024
+  journal: arXiv preprint arXiv:2410.17920
+- title: Approaching in vivo blood count tests with capillaroscopy and deep learning
+  author: A Kornaev, I Makovik, E Kornaeva, M Volkov, N Margaryants, E Potapova, ...
+  year: 2024
+  journal: TechRxiv
+- title: Reinforcement learning‐based anatomical maps for pancreas subregion and duct segmentation
+  author: S Amiri, T Vrtovec, T Mustafaev, CL Deufel, HS Thomsen, MH Sillesen, ...
+  year: 2024
+  journal: Medical physics
+- title: 'Generating synthetic computed tomography for radiotherapy: SynthRAD2023 challenge report'
+  author: EMC Huijben, ML Terpstra, S Pai, A Thummerer, P Koopmans, M Afonso, ...
+  year: 2024
+  journal: Medical image analysis
+- title: 'HaN-Seg: the head and neck organ-at-risk CT and MR segmentation challenge'
+  author: G Podobnik, B Ibragimov, E Tappeiner, C Lee, JS Kim, Z Mesbah, ...
+  year: 2024
+  journal: Radiotherapy and Oncology
+- title: 'Learn Together Stop Apart: An Inclusive Approach to Ensemble Pruning'
+  author: B Ibragimov, G Gusev
+  year: 2024
+  journal: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …
+- title: Uplift modelling via gradient boosting
+  author: B Ibragimov, A Vakhrushev
+  year: 2024
+  journal: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …
+- title: 'AI-initiated second opinions: a framework for advanced caries treatment planning'
+  author: T Dascalu, S Ramezanzade, A Bakhshandeh, L Bjørndal, B Ibragimov
+  year: 2024
+  journal: BMC Oral Health
+- title: 'Finding NEM-U: Explaining unsupervised representation learning through neural network generated explanation masks'
+  author: BL Møller, C Igel, KK Wickstrøm, J Sporring, R Jenssen, B Ibragimov
+  year: 2024
+  journal: Forty-first International Conference on Machine Learning
+- title: Deep implicit statistical shape models for 3D lumbar vertebrae image delineation
+  author: D Ocepek, G Podobnik, B Ibragimov, T Vrtovec
+  year: 2024
+  journal: 'Medical Imaging 2024: Image Processing'
+- title: Recognition of radiological decision errors from eye movement during chest X-ray readings
+  author: A Anikina, I Pershin, T Mustafaev, B Ibragimov
+  year: 2024
+  journal: 'Medical Imaging 2024: Image Perception, Observer Performance, and Technology …'
+- title: 'vOARiability: Interobserver and intermodality variability analysis in OAR contouring from head and neck CT and MR images'
+  author: G Podobnik, B Ibragimov, P Peterlin, P Strojan, T Vrtovec
+  year: 2024
+  journal: Medical physics
+- title: 'The use of machine learning in eye tracking studies in medical imaging: A review'
+  author: B Ibragimov, C Mello-Thoms
+  year: 2024
+  journal: IEEE journal of biomedical and health informatics
+- title: Cross-modal conceptualization in bottleneck models
+  author: D Alukaev, S Kiselev, I Pershin, B Ibragimov, V Ivanov, A Kornaev, I Titov
+  year: 2023
+  journal: Proceedings of the 2023 Conference on Empirical Methods in Natural Language …
+- title: Test-Time Augmentation Towards Improved Cross-Center PET/CT Segmentations by the Swin UNETR
+  author: F Yousefirizi, S Amiri, B Ibragimov, C Gowdy, C Uribe, A Rahmim
+  year: 2023
+  journal: 2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and …
+- title: 'Prediction of pulp exposure before caries excavation using artificial intelligence: Deep learning-based image data versus standard dental radiographs'
+  author: S Ramezanzade, TL Dascalu, B Ibragimov, A Bakhshandeh, L Bjørndal
+  year: 2023
+  journal: Journal of Dentistry
+- title: Multimodal CT and MR segmentation of head and neck organs-at-risk
+  author: G Podobnik, P Strojan, P Peterlin, B Ibragimov, T Vrtovec
+  year: 2023
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Assignment theory-augmented neural network for dental arch labeling
+  author: T Dascalu, B Ibragimov
+  year: 2023
+  journal: International conference on medical image computing and computer-assisted …
+- title: A sequential framework for detection and classification of abnormal teeth in panoramic x-rays
+  author: T Dascalu, S Ramezanzade, A Bakhshandeh, L Bjorndal, B Ibragimov
+  year: 2023
+  journal: arXiv preprint arXiv:2309.00027
+- title: Target anatomical feature localization
+  author: E Ayvali, YE Menglong, B IBRAGIMOV, DB Berman
+  year: 2023
+  journal: US Patent
+- title: The efficiency of artificial intelligence methods for finding radiographic features in different endodontic treatments-a systematic review
+  author: S Ramezanzade, T Laurentiu, A Bakhshandah, B Ibragimov, T Kvist, ...
+  year: 2023
+  journal: Acta Odontologica Scandinavica
+- title: Deep learning for detection of clinical operations in robot-assisted percutaneous renal access
+  author: B Ibragimov, J Zhen, E Ayvali
+  year: 2023
+  journal: IEEE Access
+- title: Machine Learning for Image-Based Radiotherapy Outcome Prediction
+  author: B Ibragimov
+  year: 2023
+  journal: Artificial Intelligence in Radiation Oncology and Biomedical Physics
+- title: Phase segmentation of a percutaneous medical procedure
+  author: E Ayvali, B IBRAGIMOV
+  year: 2023
+  journal: US Patent App. 18/186
+- title: Two-dimensional image registration
+  author: E Ayvali, B IBRAGIMOV
+  year: 2023
+  journal: US Patent App. 18/067
+- title: Three-dimensional instrument pose estimation
+  author: E Ayvali, B IBRAGIMOV, J Li
+  year: 2023
+  journal: US Patent App. 18/067
+- title: Three-dimensional model reconstruction
+  author: E Ayvali, B IBRAGIMOV
+  year: 2023
+  journal: US Patent App. 18/067
+- title: Contrastive learning approach to predict radiologist's error based on gaze data
+  author: I Pershin, T Mustafaev, B Ibragimov
+  year: 2023
+  journal: 2023 IEEE Congress on Evolutionary Computation (CEC)
+- title: 'Changes in radiologists’ gaze patterns against lung x-rays with different abnormalities: a randomized experiment'
+  author: I Pershin, T Mustafaev, D Ibragimova, B Ibragimov
+  year: 2023
+  journal: Journal of Digital Imaging
+- title: '3DTeethSeg''22: 3D teeth scan segmentation and labeling challenge'
+  author: A Ben-Hamadou, O Smaoui, A Rekik, S Pujades, E Boyer, H Lim, M Kim, ...
+  year: 2023
+  journal: arXiv preprint arXiv:2305.18277
+- title: 'HaN‐Seg: The head and neck organ‐at‐risk CT and MR segmentation dataset'
+  author: G Podobnik, P Strojan, P Peterlin, B Ibragimov, T Vrtovec
+  year: 2023
+  journal: Medical physics
+- title: A 178-clinical-center experiment of integrating AI solutions for lung pathology diagnosis
+  author: B Ibragimov, K Arzamasov, B Maksudov, S Kiselev, A Mongolin, ...
+  year: 2023
+  journal: Scientific Reports
+- title: AI-based extraction of radiologists gaze patterns corresponding to lung regions
+  author: I Pershin, B Maksudov, T Mustafaev, B Ibragimov
+  year: 2022
+  journal: International Conference on Intelligent Systems Design and Applications
+- title: Improved automated lesion segmentation in whole-body FDG/PET-CT via test-time augmentation
+  author: S Amiri, B Ibragimov
+  year: 2022
+  journal: arXiv preprint arXiv:2210.07761
+- title: Semi-supervised medical image classification with temporal knowledge-aware regularization
+  author: Q Yang, X Liu, Z Chen, B Ibragimov, Y Yuan
+  year: 2022
+  journal: International conference on medical image computing and computer-assisted …
+- title: A deep learning framework for vertebral morphometry and Cobb angle measurement with external validation
+  author: D Alukaev, S Kiselev, T Mustafaev, A Ainur, B Ibragimov, T Vrtovec
+  year: 2022
+  journal: European spine journal
+- title: 'Spinopelvic measurements of sagittal balance with deep learning: systematic review and critical evaluation'
+  author: T Vrtovec, B Ibragimov
+  year: 2022
+  journal: European Spine Journal
+- title: Physics-based loss and machine learning approach in application to non-Newtonian fluids flow modeling
+  author: E Kornaeva, A Kornaev, A Fetisov, I Stebakov, B Ibragimov
+  year: 2022
+  journal: 2022 IEEE Congress on Evolutionary Computation (CEC)
+- title: Artificial intelligence for the analysis of workload-related changes in radiologists’ gaze patterns
+  author: I Pershin, M Kholiavchenko, B Maksudov, T Mustafaev, D Ibragimova, ...
+  year: 2022
+  journal: IEEE Journal of Biomedical and Health Informatics
+- title: 'Neuralsympcheck: A symptom checking and disease diagnostic neural model with logic regularization'
+  author: A Nesterov, B Ibragimov, D Umerenkov, A Shelmanov, G Zubkova, ...
+  year: 2022
+  journal: International Conference on Artificial Intelligence in Medicine
+- title: Multi-landmark environment analysis with reinforcement learning for pelvic abnormality detection and quantification
+  author: IEI Bekkouch, B Maksudov, S Kiselev, T Mustafaev, T Vrtovec, ...
+  year: 2022
+  journal: Medical Image Analysis
+- title: Gaze-based attention to improve the classification of lung diseases
+  author: M Kholiavchenko, I Pershin, B Maksudov, T Mustafaev, Y Yuan, ...
+  year: 2022
+  journal: 'Medical Imaging 2022: Image Processing'
+- title: Benefits of auxiliary information in deep learning-based teeth segmentation
+  author: TL Dascalu, A Kuznetsov, B Ibragimov
+  year: 2022
+  journal: 'Medical Imaging 2022: Image Processing'
+- title: 'Parotid gland segmentation with nnU-Net: deployment scenario and inter-observer variability analysis'
+  author: G Podobnik, P Strojan, P Peterlin, B Ibragimov, T Vrtovec
+  year: 2022
+  journal: 'Medical Imaging 2022: Image Processing'
+- title: 'AI-based analysis of radiologist’s eye movements for fatigue estimation: a pilot study on chest X-rays'
+  author: I Pershin, M Kholiavchenko, B Maksudov, T Mustafaev, B Ibragimov
+  year: 2022
+  journal: 'Medical Imaging 2022: Image Perception, Observer Performance, and Technology …'
+- title: 'Segmentation of organs-at-risk from Ct and Mr images of the head and neck: baseline results'
+  author: G Podobnik, B Ibragimov, P Strojan, P Peterlin, T Vrtovec
+  year: 2022
+  journal: 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)
+- title: PROGRESS IN BIOMEDICAL OPTICS AND IMAGING-PROCEEDINGS OF SPIE
+  author: I Pershin, B Maksudov, T Mustafaev, B Ibragimov, M Kholiavchenko
+  year: 2022
+  journal: ''
+- title: Automating cardiothoracic ratio measurements in chest X-rays
+  author: S Kiselev, B Maksudov, T Mustafaev, R Kuleev, B Ibragimov
+  year: 2021
+  journal: 2021 International Conference" Nonlinearity, Information and Robotics"(NIR)
+- title: Mutual-prototype adaptation for cross-domain polyp segmentation
+  author: C Yang, X Guo, M Zhu, B Ibragimov, Y Yuan
+  year: 2021
+  journal: IEEE Journal of Biomedical and Health Informatics
+- title: Adversarial reconstruction loss for domain generalization
+  author: IEI Bekkouch, DC Nicolae, A Khan, SMA Kazmi, AM Khattak, B Ibragimov
+  year: 2021
+  journal: IEEE Access
+- title: Multi-agent shape models for hip landmark detection in MR scans
+  author: IEI Bekkouch, T Aidinovich, T Vrtovec, R Kuleev, B Ibragimov
+  year: 2021
+  journal: 'Medical Imaging 2021: Image Processing'
+- title: Developing and validating COVID-19 adverse outcome risk prediction models from a bi-national European cohort of 5594 patients
+  author: E Jimenez-Solem, TS Petersen, C Hansen, C Hansen, C Lioma, C Igel, ...
+  year: 2021
+  journal: Scientific reports
+- title: 'Extracting clinical information from chest X-ray reports: A case study for Russian language'
+  author: E Kivotova, B Maksudov, R Kuleev, B Ibragimov
+  year: 2020
+  journal: 2020 international conference nonlinearity, information and robotics (NIR)
+- title: Adopting Confident Learning to Eliminate Uncertainty in Chest X-ray Images for Lung Nodules Prediction
+  author: M Kholiavchenko, B Maksudov, I Sirazitdinov, T Mustafaev, R Kuleev, ...
+  year: 2020
+  journal: International Journal of Radiation Oncology, Biology, Physics
+- title: Automated Localization of Lung Nodules from Chest X-rays With Deep Neural Networks
+  author: B Maksudov, S Kiselev, M Kholiavchenko, T Mustafaev, R Kuleev, ...
+  year: 2020
+  journal: International Journal of Radiation Oncology, Biology, Physics
+- title: Joint spatial-wavelet dual-stream network for super-resolution
+  author: Z Chen, X Guo, C Yang, B Ibragimov, Y Yuan
+  year: 2020
+  journal: International conference on medical image computing and computer-assisted …
+- title: 'Deep learning for diagnosis and segmentation of pneumothorax: the results on the kaggle competition and validation against radiologists'
+  author: A Tolkachev, I Sirazitdinov, M Kholiavchenko, T Mustafaev, B Ibragimov
+  year: 2020
+  journal: IEEE Journal of Biomedical and Health Informatics
+- title: Evaluation of deep learning methods for bone suppression from dual energy chest radiography
+  author: I Sirazitdinov, K Kubrak, S Kiselev, A Tolkachev, M Kholiavchenko, ...
+  year: 2020
+  journal: International Conference on Artificial Neural Networks
+- title: Low dose 4D-CT super-resolution reconstruction via inter-plane motion estimation based on optical flow
+  author: H Liu, Y Lin, B Ibragimov, C Zhang
+  year: 2020
+  journal: Biomedical Signal Processing and Control
+- title: 'Auto‐segmentation of organs at risk for head and neck radiotherapy planning: from atlas‐based to deep learning methods'
+  author: T Vrtovec, D Močnik, P Strojan, F Pernuš, B Ibragimov
+  year: 2020
+  journal: Medical physics 47 (9), e929-e950
+- title: Deep learning for identification of critical regions associated with toxicities after liver stereotactic body radiation therapy
+  author: B Ibragimov, DAS Toesca, DT Chang, Y Yuan, AC Koong, L Xing, ...
+  year: 2020
+  journal: Medical physics
+- title: Automated hepatobiliary toxicity prediction after liver stereotactic body radiation therapy with deep learning-based portal vein segmentation
+  author: B Ibragimov, DAS Toesca, DT Chang, Y Yuan, AC Koong, L Xing
+  year: 2020
+  journal: Neurocomputing
+- title: Contour-aware multi-label chest X-ray organ segmentation
+  author: M Kholiavchenko, I Sirazitdinov, K Kubrak, R Badrutdinova, R Kuleev, ...
+  year: 2020
+  journal: International Journal of Computer Assisted Radiology and Surgery
+- title: Densely connected neural network with unbalanced discriminant and category sensitive constraints for polyp recognition
+  author: Y Yuan, W Qin, B Ibragimov, G Zhang, B Han, MQH Meng, L Xing
+  year: 2019
+  journal: IEEE transactions on automation science and engineering
+- title: Deep neural network ensemble for pneumonia localization from a large-scale chest x-ray database
+  author: I Sirazitdinov, M Kholiavchenko, T Mustafaev, Y Yixuan, R Kuleev, ...
+  year: 2019
+  journal: Computers & electrical engineering
+- title: Data augmentation for chest pathologies classification
+  author: I Sirazitdinov, M Kholiavchenko, R Kuleev, B Ibragimov
+  year: 2019
+  journal: 2019 IEEE 16th international symposium on biomedical imaging (ISBI 2019 …
+- title: Neural networks for deep radiotherapy dose analysis and prediction of liver SBRT outcomes
+  author: B Ibragimov, DAS Toesca, Y Yuan, AC Koong, DT Chang, L Xing
+  year: 2019
+  journal: IEEE journal of biomedical and health informatics
+- title: Prostate cancer classification with multiparametric MRI transfer learning model
+  author: Y Yuan, W Qin, M Buyyounouski, B Ibragimov, S Hancock, B Han, L Xing
+  year: 2019
+  journal: Medical physics
+- title: Minimal variance sampling in stochastic gradient boosting
+  author: B Ibragimov, G Gusev
+  year: 2019
+  journal: Advances in Neural Information Processing Systems
+- title: Predicting Survival after Liver SBRT by Deep Learning-Based Analysis of Treatment Dose Plans
+  author: B Ibragimov, D Toesca, DT Chang, AC Koong, L Xing
+  year: 2018
+  journal: International Journal of Radiation Oncology, Biology, Physics
+- title: Learning deconvolutional deep neural network for high resolution medical image reconstruction
+  author: H Liu, J Xu, Y Wu, Q Guo, B Ibragimov, L Xing
+  year: 2018
+  journal: Information Sciences
+- title: Development of deep neural network for individualized hepatobiliary toxicity prediction after liver SBRT
+  author: B Ibragimov, D Toesca, D Chang, Y Yuan, A Koong, L Xing
+  year: 2018
+  journal: Medical physics
+- title: Deep 3D dose analysis for prediction of outcomes after liver stereotactic body radiation therapy
+  author: B Ibragimov, DAS Toesca, Y Yuan, AC Koong, DT Chang, L Xing
+  year: 2018
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: 'RIIS-DenseNet: Rotation-invariant and image similarity constrained densely connected convolutional network for polyp detection'
+  author: Y Yuan, W Qin, B Ibragimov, B Han, L Xing
+  year: 2018
+  journal: International conference on medical image computing and computer-assisted …
+- title: Segmentation of parotid glands from registered CT and MR images
+  author: D Močnik, B Ibragimov, L Xing, P Strojan, B Likar, F Pernuš, T Vrtovec
+  year: 2018
+  journal: Physica Medica
+- title: Convolutional Neural Networks for Identifying Correlation Between Dose Patterns Associated with Poor Survival and Early Local Recurrence After Metastatic Liver SBRT
+  author: B Ibragimov, Y Yuan, D Toesca, D Chang, A Koong, L Xing
+  year: 2018
+  journal: MEDICAL PHYSICS 45 (6), E415-E415
+- title: Superpixel-based and boundary-sensitive convolutional neural network for automated liver segmentation
+  author: W Qin, J Wu, F Han, Y Yuan, W Zhao, B Ibragimov, J Gu, L Xing
+  year: 2018
+  journal: Physics in Medicine & Biology
+- title: Strategies for prediction and mitigation of radiation-induced liver toxicity
+  author: DAS Toesca, B Ibragimov, AJ Koong, L Xing, AC Koong, DT Chang
+  year: 2018
+  journal: Journal of radiation research 59 (suppl_1), i40-i49
+- title: Combining deep learning with anatomical analysis for segmentation of the portal vein for liver SBRT planning
+  author: B Ibragimov, D Toesca, D Chang, A Koong, L Xing
+  year: 2017
+  journal: Physics in Medicine & Biology
+- title: Deep learning-based autosegmentation of portal vein for prediction of central liver toxicity after SBRT
+  author: B Ibragimov, DAS Toesca, DT Chang, AC Koong, L Xing
+  year: 2017
+  journal: International Journal of Radiation Oncology, Biology, Physics 99 (2), E672
+- title: Intervertebral disc segmentation in MR images with 3D convolutional networks
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2017
+  journal: 'Medical Imaging 2017: Image Processing'
+- title: Segmentation of pathological structures by landmark-assisted deformable models
+  author: B Ibragimov, R Korez, B Likar, F Pernuš, L Xing, T Vrtovec
+  year: 2017
+  journal: IEEE transactions on medical imaging
+- title: Segmentation of organs‐at‐risks in head and neck CT images using convolutional neural networks
+  author: B Ibragimov, L Xing
+  year: 2017
+  journal: Medical physics
+- title: Augmenting atlas-based liver segmentation for radiotherapy treatment planning by incorporating image features proximal to the atlas contours
+  author: D Li, L Liu, J Chen, H Li, Y Yin, B Ibragimov, L Xing
+  year: 2017
+  journal: Physics in Medicine & Biology
+- title: Landmark-based statistical shape representations
+  author: B Ibragimov, T Vrtovec
+  year: 2017
+  journal: Statistical shape and deformation analysis
+- title: Fully automated quantitative cephalometry using convolutional neural networks
+  author: SÖ Arık, B Ibragimov, L Xing
+  year: 2017
+  journal: Journal of Medical Imaging
+- title: 'Evaluation and comparison of 3D intervertebral disc localization and segmentation methods for 3D T2 MR data: A grand challenge'
+  author: G Zheng, C Chu, DL Belavý, B Ibragimov, R Korez, T Vrtovec, H Hutt, ...
+  year: 2017
+  journal: Medical image analysis
+- title: Development of a novel deep learning algorithm for autosegmentation of clinical tumor volume and organs at risk in head and neck radiation therapy planning
+  author: B Ibragimov, F Pernuš, P Strojan, L Xing
+  year: 2016
+  journal: International Journal of Radiation Oncology, Biology, Physics 96 (2), S226
+- title: A benchmark for comparison of dental radiography analysis algorithms
+  author: CW Wang, CT Huang, JH Lee, CH Li, SW Chang, MJ Siao, TM Lai, ...
+  year: 2016
+  journal: Medical image analysis
+- title: 'TH‐CD‐206‐05: Machine‐Learning Based Segmentation of Organs at Risks for Head and Neck Radiotherapy Planning'
+  author: B Ibragimov, F Pernus, P Strojan, L Xing
+  year: 2016
+  journal: Medical physics 43 (6Part46)
+- title: Accurate landmark-based segmentation by incorporating landmark misdetections
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2016
+  journal: 2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)
+- title: A multi-center milestone study of clinical vertebral CT segmentation
+  author: J Yao, JE Burns, D Forsberg, A Seitel, A Rasoulian, P Abolmaesumi, ...
+  year: 2016
+  journal: Computerized medical imaging and graphics
+- title: Deformable model-based segmentation of intervertebral discs from MR spine images by using the SSC descriptor
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: International Workshop and Challenge on Computational Methods and Clinical …
+- title: Computerized cephalometry by game theory with shape-and appearance-based landmark refinement
+  author: B Ibragimov, B Likar, F Pernus, T Vrtovec
+  year: 2015
+  journal: Proceedings of International Symposium on Biomedical imaging (ISBI)
+- title: Optimal reinforcement of training datasets in semi-supervised landmark-based segmentation
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: 'Medical Imaging 2015: Image Processing'
+- title: 'Evaluation and comparison of anatomical landmark detection methods for cephalometric x-ray images: a grand challenge'
+  author: CW Wang, CT Huang, MC Hsieh, CH Li, SW Chang, WC Li, R Vandaele, ...
+  year: 2015
+  journal: IEEE transactions on medical imaging
+- title: Interpolation-based shape-constrained deformable model approach for segmentation of vertebrae from CT spine images
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: Recent advances in computational methods and clinical applications for spine …
+- title: Interpolation-based detection of lumbar vertebrae in CT spine images
+  author: B Ibragimov, R Korez, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: Recent Advances in Computational Methods and Clinical Applications for Spine …
+- title: An improved shape-constrained deformable model for segmentation of vertebrae from CT lumbar spine images
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: Recent Advances in Computational Methods and Clinical Applications for Spine …
+- title: Segmentation of tongue muscles from super-resolution magnetic resonance images
+  author: B Ibragimov, JL Prince, EZ Murano, J Woo, M Stone, B Likar, F Pernuš, ...
+  year: 2015
+  journal: Medical image analysis
+- title: A framework for automated spine and vertebrae interpolation-based detection and model-based segmentation
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: IEEE transactions on medical imaging
+- title: Segmentation of vertebrae from 3D spine images by applying concepts from transportation and game theories
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2014
+  journal: Computational Methods and Clinical Applications for Spine Imaging …
+- title: Automatic cephalometric X-ray landmark detection by applying game theory and random forests
+  author: B Ibragimov, B Likar, F Pernus, T Vrtovec
+  year: 2014
+  journal: Proc. ISBI Int. Symp. on Biomedical Imaging
+- title: Shape representation for efficient landmark-based segmentation in 3-D
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2014
+  journal: IEEE transactions on medical imaging
+- title: 'Segmentation of Medical Images by Game-theoretic Approaches: PhD Thesis'
+  author: B Ibragimov
+  year: 2014
+  journal: B. Ibragimov
+- title: Statistical shape representation with landmark clustering by solving the assignment problem
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2013
+  journal: 'Medical Imaging 2013: Image Processing'
+- title: A game-theoretic framework for landmark-based image segmentation
+  author: B Ibragimov, B Likar, F Pernus
+  year: 2012
+  journal: IEEE Transactions on Medical Imaging
+- title: Automated measurement of anterior and posterior acetabular sector angles
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2012
+  journal: 'Medical Imaging 2012: Computer-Aided Diagnosis'
+- title: Segmentation of lung fields by game theory and dynamic programming
+  author: B Ibragimov, T Vrtovec, B Likar, F Pernuš
+  year: 2011
+  journal: the 4th International Workshop on Pulmonary Image Analysis, PIA
+- title: Boundary detection by linear programming with application to lung fields segmentation
+  author: B Ibragimov, B Likar, F Pernuš
+  year: 2011
+  journal: 'Medical Imaging 2011: Image Processing'
+- title: 'ARCGym: Benchmarking Deep Reinforcement Learning in Autonomous Robotic Colonoscopy'
+  author: G Ji, M Finocchiaro, K Erleben, H Yin
+  year: 2026
+  journal: IEEE Robotics and Automation Letters
+- title: Alternating Spatial‐Temporal Optimization for Continuous Collision Detection of Signed Distance Fields
+  author: RG Nielsen, K Erleben
+  year: 2026
+  journal: Computer Graphics Forum
+- title: 'MERA: Multimodal and Multiscale self-Explanatory model with considerably reduced annotation for lung nodule diagnosis'
+  author: J Lu, C Yin, S Ingala, K Erleben, MB Nielsen, S Darkner
+  year: 2026
+  journal: Biomedical Signal Processing and Control
+- title: Clinically validated dataset of 435 human colons segmented from CT colonography
+  author: M Finocchiaro, R Stern, R Vilhelmsborg, AG Smith, J Petersen, K Cold, ...
+  year: 2026
+  journal: Scientific Data
+- title: Neural Kinematic Bases for Fluids
+  author: Y Liu, Z Fang, S Darkner, N Aigerman, K Erleben, P Kry, T Schneider
+  year: 2025
+  journal: Proceedings of the SIGGRAPH Asia 2025 Conference Papers
+- title: Policy-space interpolation for physics-based characters
+  author: M Rocca, S Andrews, K Erleben
+  year: 2025
+  journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques 8 (4 …
+- title: 'Collision constraints and diffeomorphisms: dealing with physics in deformable image registration'
+  author: T Alscher, J Petersen, F Lauze, K Erleben, S Darkner
+  year: 2025
+  journal: IEEE Access
+- title: Policy-space diffusion for physics-based character animation
+  author: M Rocca, S Darkner, K Erleben, S Andrews
+  year: 2025
+  journal: ACM Transactions on Graphics
+- title: 'HQColon: A Hybrid Interactive Machine Learning Pipeline for High Quality Colon Labeling and Segmentation'
+  author: M Finocchiaro, R Stern, AG Smith, J Petersen, K Erleben, M Ganz
+  year: 2025
+  journal: arXiv preprint arXiv:2502.21183
+- title: SE(3) group convolutional neural networks and a study on group convolutions and equivariance for DWI segmentation
+  author: R Liu, F Lauze, EJ Bekkers, S Darkner, K Erleben
+  year: 2025
+  journal: Frontiers in Artificial Intelligence
+- title: 'ADAPT: AI‐Driven Artefact Purging Technique for IMU Based Motion Capture'
+  author: P Schreiner, R Netterstrøm, H Yin, S Darkner, K Erleben
+  year: 2024
+  journal: Computer Graphics Forum
 - title: Differentiable Rendering as a Way to Program Cable-Driven Soft Robots
   author: K Arnavaz, K Erleben
   year: 2024
   journal: arXiv preprint arXiv:2404.07590
-- title: Reducing Variance in Meta-Learning via Laplace Approximation for Regression Tasks
-  author: A Reichlin, G Tegnér, M Vasco, H Yin, M Björkman, D Kragic
+- title: A systematic comparison between FEBio and PolyFEM for biomechanical systems
+  author: L Martin, P Jain, Z Ferguson, T Gholamalizadeh, F Moshfeghifar, ...
   year: 2024
-  journal: arXiv preprint arXiv:2410.01476
-- title: 'Lm2d: Lyrics-and music-driven dance synthesis'
-  author: W Yin, X Zhao, Y Yu, H Yin, D Kragic, M Björkman
-  year: 2024
-  journal: arXiv preprint arXiv:2403.09407
-- title: Evaluating behavior trees
-  author: S Gugliermo, D Cáceres Domínguez, M Iannotta, T Stoyanov, ...
-  year: 2024
-  journal: Robotics and Autonomous Systems, 104714
-- title: 'ADAPT: AI‐Driven Artefact Purging Technique for IMU Based Motion Capture'
-  author: P Schreiner, R Netterstrøm, H Yin, S Darkner, K Erleben
-  year: 2024
-  journal: Computer Graphics Forum 43 (8), e15172
-- title: 'Ikpls: Improved kernel partial least squares and fast cross-validation algorithms for python with cpu and gpu implementations using numpy and jax'
-  author: OCG Engstrøm, ES Dreier, BM Jespersen, KS Pedersen
-  year: 2024
-  journal: Journal of Open Source Software 9 (99), 6533
-- title: Cardiac dose-volume analysis of 9,411 patients with registry data for cardiovascular disease and overall survival
-  author: N Forbes, C Terrones-Campos, AG Smith, J Reekie, S Darkner, ...
-  year: 2024
-  journal: medRxiv.08. 16.24312108
-- title: 'Multimodal dance style transfer: W. Yin et al.'
-  author: W Yin, H Yin, K Baraka, D Kragic, M Björkman
-  year: 2023
-  journal: Machine Vision and Applications 34 (4), 48
-- title: Analyzing Near-Infrared Hyperspectral Imaging for Protein Content Regression and Grain Variety Classification Using Bulk References and Varying Grain-to-Background Ratios
-  author: OC Galbo Engstrøm, E Schou Dreier, B Møller Jespersen, ...
-  year: 2023
-  journal: 'arXiv e-prints, arXiv: 2311.04042'
-- title: Music-and Lyrics-driven Dance Synthesis
-  author: W Yin, Q Yao, Y Yu, H Yin, D Kragic, M Björkman
-  year: 2023
-  journal: arXiv preprint arXiv:2310.00455
-- title: 'Refractive pose refinement: Generalising the geometric relation between camera and refractive interface'
-  author: X Hu, F Lauze, KS Pedersen
-  year: 2023
-  journal: International Journal of Computer Vision 131 (6), 1448-1476
+  journal: Computer methods and programs in biomedicine
 - title: Extremely weakly-supervised blood vessel segmentation with physiologically based synthesis and domain adaptation
   author: P Xu, B Lee, O Sosnovtseva, CM Sørensen, K Erleben, S Darkner
   year: 2023
-  journal: Workshop on Medical Image Learning with Limited and Noisy Data, 191-201
-- title: Learning Geometric Representations of Objects via Interaction
-  author: A Reichlin, GL Marchetti, H Yin, A Varava, D Kragic
+  journal: Workshop on Medical Image Learning with Limited and Noisy Data
+- title: Deep-learning-based segmentation of individual tooth and bone with periodontal ligament interface details for simulation purposes
+  author: P Xu, T Gholamalizadeh, F Moshfeghifar, S Darkner, K Erleben
   year: 2023
-  journal: Joint European Conference on Machine Learning and Knowledge Discovery in …
-- title: Method and system of global position prediction for imu motion capture
-  author: P Schreiner, K Erleben, S Darkner
+  journal: IEEE Access
+- title: Collision-constrained deformable image registration framework for discontinuity management
+  author: T Alscher, K Erleben, S Darkner
   year: 2023
-  journal: US Patent App. 17/892,009
-- title: An automatic DWI/FLAIR mismatch assessment of stroke patients
-  author: J Johansen, CM Offersen, JF Carlsen, S Ingala, AE Hansen, MB Nielsen, ...
-  year: 2023
-  journal: Diagnostics 14 (1), 69
+  journal: Plos one
 - title: A hybrid approach to full-scale reconstruction of renal arterial network
   author: P Xu, NH Holstein-Rathlou, SB Søgaard, C Gundlach, CM Sørensen, ...
   year: 2023
-  journal: Scientific Reports 13 (1), 7569
-- title: Dance style transfer with cross-modal transformer
-  author: W Yin, H Yin, K Baraka, D Kragic, M Björkman
+  journal: Scientific Reports
+- title: 'cRedAnno+: Annotation Exploitation In Self-Explanatory Lung Nodule Diagnosis'
+  author: J Lu, C Yin, K Erleben, MB Nielsen, S Darkner
   year: 2023
-  journal: 2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …
+  journal: 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)
 - title: Deep Learning-Assisted Localisation of Nanoparticles in synthetically generated two-photon microscopy images
   author: R Netterstrøm, N Kutuzov, S Darkner, MJ Pallesen, MJ Lauritzen, ...
   year: 2023
   journal: arXiv preprint arXiv:2303.16903
-- title: Collision-constrained deformable image registration framework for discontinuity management
-  author: T Alscher, K Erleben, S Darkner
+- title: Method and system of global position prediction for imu motion capture
+  author: P Schreiner, K Erleben, S Darkner
   year: 2023
-  journal: Plos one 18 (8), e0290243
+  journal: US Patent App. 17/892
+- title: Differentiable depth for real2sim calibration of soft body simulations
+  author: K Arnavaz, MK Nielsen, PG Kry, M Macklin, K Erleben
+  year: 2023
+  journal: Computer Graphics Forum
+- title: Group convolutional neural networks for DWI segmentation
+  author: R Liu, F Lauze, E Bekkers, K Erleben, S Darkner
+  year: 2022
+  journal: Geometric deep learning in medical image analysis
+- title: Bundle geodesic convolutional neural network for diffusion-weighted imaging segmentation
+  author: R Liu, F Lauze, K Erleben, RW Berg, S Darkner
+  year: 2022
+  journal: Journal of Medical Imaging
+- title: 'LibHip: An open-access hip joint model repository suitable for finite element method simulation'
+  author: F Moshfeghifar, T Gholamalizadeh, Z Ferguson, T Schneider, MB Nielsen, ...
+  year: 2022
+  journal: Computer methods and programs in biomedicine
+- title: Pseudo-label guided image synthesis for semi-supervised covid-19 pneumonia infection segmentation
+  author: F Lyu, M Ye, JF Carlsen, K Erleben, S Darkner, PC Yuen
+  year: 2022
+  journal: IEEE Transactions on Medical Imaging
+- title: Reducing Annotation Need in Self-explanatory Models for Lung Nodule Diagnosis
+  author: J Lu, C Yin, O Krause, K Erleben, MB Nielsen, S Darkner
+  year: 2022
+  journal: International Workshop on Interpretability of Machine Intelligence in …
+- title: Auto-segmentation of hip joints using multiplanar UNet with transfer learning
+  author: P Xu, F Moshfeghifar, T Gholamalizadeh, MB Nielsen, K Erleben, ...
+  year: 2022
+  journal: Workshop on Medical Image Learning with Limited and Noisy Data
+- title: 'Open-Full-Jaw: An open-access dataset and pipeline for finite element models of human jaw'
+  author: T Gholamalizadeh, F Moshfeghifar, Z Ferguson, T Schneider, D Panozzo, ...
+  year: 2022
+  journal: Computer Methods and Programs in Biomedicine
+- title: Contact and friction simulation for computer graphics
+  author: S Andrews, K Erleben, Z Ferguson
+  year: 2022
+  journal: ACM SIGGRAPH 2022 Courses
+- title: Accuracy and consistency of intensity-based deformable image registration in 4DCT for tumor motion estimation in liver radiotherapy planning
+  author: JD Tascón-Vidarte, LB Stick, M Josipovic, S Risum, J Jomier, K Erleben, ...
+  year: 2022
+  journal: Plos one
+- title: Numerical methods for linear complementarity problems in physics-based animation
+  author: S Niebe, K Erleben
+  year: 2022
+  journal: Springer Nature
+- title: Guide for Software and Selecting Methods
+  author: S Niebe, K Erleben
+  year: 2022
+  journal: Numerical Methods for Linear Complementarity Problems in Physics-Based …
+- title: Fast Vortex Particle Method for Fluid-Character Interaction.
+  author: A Meldgaard, S Darkner, K Erleben
+  year: 2022
+  journal: Graphics Interface
+- title: A multi-patient analysis of the center of rotation trajectories using finite element models of the human mandible
+  author: T Gholamalizadeh, S Darkner, PL Søndergaard, K Erleben
+  year: 2021
+  journal: Plos one
+- title: Coupling friction with visual appearance
+  author: S Andrews, L Nassif, K Erleben, PG Kry
+  year: 2021
+  journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques 4 (3 …
+- title: Global position prediction for interactive motion capture
+  author: P Schreiner, M Perepichka, H Lewis, S Darkner, PG Kry, K Erleben, ...
+  year: 2021
+  journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques 4 (3 …
+- title: Network for DWI Segmentation from Single Scan Learning
+  author: R Liu, F Lauze, K Erleben, S Darkner
+  year: 2021
+  journal: 'Computational Diffusion MRI: 12th International Workshop, CDMRI 2021, Held …'
+- title: Bundle geodesic convolutional neural network for DWI segmentation from single scan learning
+  author: R Liu, F Lauze, K Erleben, S Darkner
+  year: 2021
+  journal: International Workshop on Computational Diffusion MRI
+- title: Cine-MRI Simulation to Evaluate Tumor Tracking
+  author: JD Tascón-Vidarte, I Wahlstedt, J Jomier, K Erleben, IR Vogelius, ...
+  year: 2021
+  journal: International Workshop on Simulation and Synthesis in Medical Imaging
+- title: A direct geometry processing cartilage generation method using segmented bone models from datasets with poor cartilage visibility
+  author: F Moshfeghifar, MK Nielsen, JD Tascón-Vidarte, S Darkner, K Erleben
+  year: 2021
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: 'Mandibular teeth movement variations in tipping scenario: A finite element study on several patients'
+  author: T Gholamalizadeh, S Darkner, PM Cattaneo, P Søndergaard, K Erleben
+  year: 2021
+  journal: 'Computational Biomechanics for Medicine: Solid and Fluid Mechanics Informing …'
+- title: Contact modeling from images using cut finite element solvers
+  author: S Claus, P Kerfriden, F Moshfeghifar, S Darkner, K Erleben, C Wong
+  year: 2021
+  journal: Advanced Modeling and Simulation in Engineering Sciences
+- title: Locking-proof tetrahedra
+  author: M Frâncu, A Asgeirsson, K Erleben, MJL Rønnow
+  year: 2021
+  journal: ACM Transactions on Graphics (TOG)
+- title: 'gradsim: Differentiable simulation for system identification and visuomotor control'
+  author: KM Jatavallabhula, M Macklin, F Golemo, V Voleti, L Petrini, M Weiss, ...
+  year: 2021
+  journal: arXiv preprint arXiv:2104.02646
+- title: https://gradsim. github. io
+  author: KM Jatavallabhula, M Macklin, F Golemo, V Voleti, L Petrini, M Weiss, ...
+  year: 2021
+  journal: arXiv preprint arXiv:2104.02646
+- title: Primal/dual descent methods for dynamics
+  author: M Macklin, K Erleben, M Müller, N Chentanez, S Jeschke, TY Kim
+  year: 2020
+  journal: Computer Graphics Forum
+- title: Local optimization for robust signed distance field collision
+  author: M Macklin, K Erleben, M Müller, N Chentanez, S Jeschke, Z Corse
+  year: 2020
+  journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques 3 (1 …
+- title: Stefan Jeschke
+  author: S Jeschke, C Wojtan, N Chentanez, M Müller, M Macklin, C Hafner, ...
+  year: 2020
+  journal: Proceedings of the ACM on Computer Graphics and Interactive Techniques
+- title: The Matchstick Model for Anisotropic Friction Cones
+  author: K Erleben, M Macklin, S Andrews, PG Kry
+  year: 2020
+  journal: Computer Graphics Forum
+- title: High fidelity simulation of corotational linear FEM for incompressible materials
+  author: M Frâncu, A Asgeirsson, K Erleben
+  year: 2019
+  journal: Proceedings of the 12th ACM SIGGRAPH Conference on Motion, Interaction and …
+- title: Non-smooth newton methods for deformable multi-body dynamics
+  author: M Macklin, K Erleben, M Müller, N Chentanez, S Jeschke, V Makoviychuk
+  year: 2019
+  journal: ACM Transactions on Graphics (TOG)
+- title: Automated acquisition of anisotropic friction
+  author: K Dreßel, K Erleben, P Kry, S Andrews
+  year: 2019
+  journal: 2019 16th Conference on Computer and Robot Vision (CRV)
+- title: Data driven inverse kinematics of soft robots using local models
+  author: F Holsten, MP Engell-Nørregård, S Darkner, K Erleben
+  year: 2019
+  journal: 2019 International conference on robotics and automation (ICRA)
+- title: A validated physical model for real-time simulation of soft robotic snakes
+  author: R Gasoto, M Macklin, X Liu, Y Sun, K Erleben, C Onal, J Fu
+  year: 2019
+  journal: 2019 International Conference on Robotics and Automation (ICRA)
+- title: Solving inverse kinematics using exact Hessian matrices
+  author: K Erleben, S Andrews
+  year: 2019
+  journal: Computers & Graphics
+- title: Methodology for assessing mesh-based contact point methods
+  author: K Erleben
+  year: 2018
+  journal: ACM Transactions on Graphics (TOG)
+- title: Local Models for Data Driven Inverse Kinematics of Soft Robots.
+  author: F Holsten, S Darkner, MP Engell-Nørregård, K Erleben
+  year: 2018
+  journal: Symposium on Computer Animation (Posters)
+- title: 'VRIPHYS 18: 14th Workshop on Virtual Reality Interactions and Physical Simulations'
+  author: S Andrews, K Erleben, F Jaillet, G Zachmann
+  year: 2018
+  journal: 'VRIPHYS 18: 14h Workshop on Virtual Reality Interactions and Physical …'
+- title: Foreword to the Special Section on VRIPHYS 2018
+  author: S Andrews, K Erleben, F Jaillet, G Zachmann
+  year: 2018
+  journal: Computers and Graphics 76, A3-A4
+- title: Automatic Geometry Correction for a Kinect-Projector System in Dynamic Environment
+  author: F Jaillet, G Zachmann, K Erleben, S Andrews
+  year: 2018
+  journal: Workshop on Virtual Reality Interaction and Physical Simulation VRIPHYS
+- title: Chunked bounding volume hierarchies for fast digital prototyping using volumetric meshes
+  author: R Schmidtke, K Erleben
+  year: 2017
+  journal: IEEE transactions on visualization and computer graphics
+- title: A fast linear complementarity problem solver for fluid animation using high level algebra interfaces for GPU libraries
+  author: M Andersen, S Niebe, K Erleben
+  year: 2017
+  journal: Computers & Graphics
+- title: Inverse kinematics problems with exact hessian matrices
+  author: K Erleben, S Andrews
+  year: 2017
+  journal: Proceedings of the 10th International Conference on Motion in Games
+- title: Modeling Virtual Humans
+  author: J Bender, K Erleben, B Solenthaler
+  year: 2017
+  journal: IEEE Computer Graphics and Applications
+- title: Rigid body contact problems using proximal operators
+  author: K Erleben
+  year: 2017
+  journal: Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation …
+- title: Constraint reordering for iterative multi-body simulation with contact
+  author: S Andrews, K Erleben, PG Kry, M Teichmann
+  year: 2017
+  journal: ECCOMAS Thematic Conference on Multibody Dynamic
+- title: A fast linear complementarity problem (LCP) solver for separating fluid-solid wall boundary conditions
+  author: M Andersen, S Niebe, K Erleben
+  year: 2017
+  journal: Proceedings of the 13th Workshop on Virtual Reality Interactions and …
+- title: A numerical strategy for finite element modeling of frictionless asymmetric vocal fold collision
+  author: A Granados, MK Misztal, J Brunskog, V Visseq, K Erleben
+  year: 2017
+  journal: International Journal for Numerical Methods in Biomedical Engineering 33 (2 …
+- title: 'VRIPHYS 17: 13th Workshop on Virtual Reality Interactions and Physical Simulations'
+  author: F Zara
+  year: 2017
+  journal: ''
+- title: Photon differential splatting for rendering caustics
+  author: JR Frisvad, L Schjøth, K Erleben, J Sporring
+  year: 2014
+  journal: Computer Graphics Forum
+- title: Interactive simulation of rigid body dynamics in computer graphics
+  author: J Bender, K Erleben, J Trinkle
+  year: 2014
+  journal: Computer graphics forum
+- title: Proceedings of the ACM SIGGRAPHEurographics Symposium on Computer Animation
+  author: K Erleben
+  year: 2014
+  journal: Eurographics Association
+- title: Finite element modeling of the vocal folds with deformable interface tracking
+  author: AG Corsellas, J Brunskog, MK Misztal, V Visseq, K Erleben
+  year: 2014
+  journal: 7th Forum Acusticum
+- title: Disjoint domains interactions framework for hyperelastic simulations
+  author: U Bonde, MK Misztal, V Visseq, K Erleben
+  year: 2014
+  journal: 11th World Congress on Computational Mechanics
+- title: 'RPI-MATLAB-Simulator: A Tool for Efficient Research and Practical Teaching in Multibody Dynamics.'
+  author: J Williams, Y Lu, S Niebe, M Andersen, K Erleben, JC Trinkle
+  year: 2013
+  journal: VRIPHYS
+- title: Multiphase flow of immiscible fluids on unstructured moving meshes
+  author: MK Misztal, K Erleben, A Bargteil, J Fursund, BB Christensen, ...
+  year: 2013
+  journal: IEEE transactions on visualization and computer graphics
+- title: A joint-constraint model for human joints using signed distance-fields
+  author: M Engell-Nørregård, S Niebe, K Erleben
+  year: 2012
+  journal: Multibody System Dynamics
+- title: Mathematical foundation of the optimization-based fluid animation method
+  author: K Erleben, MK Misztal, JA Bærentzen
+  year: 2011
+  journal: Proceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium on Computer …
+- title: 'A hyper elasticity method for interactive virtual design of hearing aids: A parallel method for general non-linear hyper elasticity modeling'
+  author: S Darkner, K Erleben
+  year: 2011
+  journal: The Visual Computer
+- title: A projected back-tracking line-search for constrained interactive inverse kinematics
+  author: M Engell-Nørregård, K Erleben
+  year: 2011
+  journal: Computers & Graphics
+- title: Interactive Rigid Body Contact Force Problems
+  author: K Erleben
+  year: 2011
+  journal: ''
+- title: Time adaptive approximate SPH
+  author: P Goswami, R Pajarola
+  year: 2011
+  journal: Workshop in Virtual Reality Interactions and Physical Simulation
+- title: Optimization-based Fluid Simulation on Unstructured Meshes.
+  author: MK Misztal, R Bridson, K Erleben, JA Bærentzen, F Anton
+  year: 2010
+  journal: VRIPHYS
+- title: GPU accelerated likelihoods for stereo-based articulated tracking
+  author: RM Friborg, S Hauberg, K Erleben
+  year: 2010
+  journal: European Conference on Computer Vision
+- title: A Parallel Gauss-Seidel Method for Computing Contact Forces
+  author: M Poulsen, K ERLEBEN
+  year: 2010
+  journal: Master Thesis
+- title: Local jointlimits using distance field cones in euler angle space
+  author: M Engell-Nørregård, S Niebe, K Erleben
+  year: 2010
+  journal: Computer graphics international
+- title: A nonsmooth nonlinear conjugate gradient method for interactive contact force problems
+  author: M Silcowitz-Hansen, S Niebe, K Erleben
+  year: 2010
+  journal: The Visual Computer
+- title: Photon differentials in space and time
+  author: L Schjøth, JR Frisvad, K Erleben, J Sporring
+  year: 2010
+  journal: International Conference on Computer Vision, Imaging and Computer Graphics …
+- title: Temporal photon differentials
+  author: L Schjøth, JR Frisvad, K Erleben, J Sporring
+  year: 2010
+  journal: International Conference on Computer Graphics Theory and Applications
+- title: A nonlinear vertex-based model for animation of two-dimensional dry foam
+  author: M Kelager, K Erleben
+  year: 2010
+  journal: International Conference on Computer Graphics Theory and Applications
+- title: 'Den digitale revolution: fortællinger fra datalogiens verden'
+  author: P Naur, B Vinter, K Hansen, TÆ Mogensen, K Erleben, D Pisinger, ...
+  year: 2010
+  journal: University of Copenhagen
+- title: Projected gauss-seidel subspace minimization method for interactive rigid body dynamics
+  author: M Silcowitz, S Niebe, K Erleben
+  year: 2010
+  journal: 'GRAPP’10: Proceedings of the Fifth International Conference on Computer …'
+- title: Normal and Friction Stabilization Techniques for Interactive Rigid Body Constraint-based Contact Force Computations.
+  author: M Silcowitz, S Niebe, K Erleben
+  year: 2010
+  journal: VRIPHYS
+- title: A Triangle Bending Constraint Model for Position-Based Dynamics.
+  author: M Kelager, S Niebe, K Erleben
+  year: 2010
+  journal: Vriphys
+- title: Heuristic convergence rate improvements of the projected Gauss–Seidel method for frictional contact problems
+  author: M Poulsen
+  year: 2010
+  journal: Vaclav Skala-Union Agency
+- title: Tetrahedral mesh improvement using multi-face retriangulation
+  author: MK Misztal, JA Bærentzen, F Anton, K Erleben
+  year: 2009
+  journal: Proceedings of the 18th international meshing roundtable
+- title: Spatial and Temporal Ray Diffenrentials
+  author: J Sporring, L Schjøth, K Erleben
+  year: 2009
+  journal: Department of Computer Science, University of Copenhagen
+- title: Three dimensional monocular human motion analysis in end-effector space
+  author: S Hauberg, J Lapuyade, M Engell-Nørregård, K Erleben, ...
+  year: 2009
+  journal: International Workshop on Energy Minimization Methods in Computer Vision and …
+- title: Maximal independent set graph partitions for representations of body-centered cubic lattices
+  author: K Erleben
+  year: 2009
+  journal: The Visual Computer
+- title: Smoke simulation for fire engineering using a multigrid method on graphics hardware
+  author: SL Glimberg, K Erleben, JC Bennetsen
+  year: 2009
+  journal: 6th Workshop on Virtual Reality Interactions and Physical Simulations
+- title: GPU Accelerated Tandem Traversal of Blocked Bounding Volume Hierarchy Collision Detection for Multibody Dynamics.
+  author: J Damkjær, K Erleben
+  year: 2009
+  journal: VRIPHYS
+- title: Interactive Inverse Kinematics for Human Motion Estimation.
+  author: M Engell-Nørregård, S Hauberg, J Lapuyade, K Erleben, KS Pedersen
+  year: 2009
+  journal: VRIPHYS
+- title: A projected non-linear conjugate gradient method for interactive inverse kinematics
+  author: M Engell-Nørregård, K Erleben
+  year: 2009
+  journal: MATHMOD 2009-6th Vienna International Conference on Mathematical Modelling
+- title: Estimation of Joint types and Joint Limits from Motion capture data
+  author: M Engell-Nørregård
+  year: 2009
+  journal: Václav Skala-UNION Agency
+- title: Nonsmooth newton method for fischer function reformulation of contact force problems for interactive rigid body simulation
+  author: M Silcowitz, S Niebe, K Erleben
+  year: 2009
+  journal: Workshop in Virtual Reality Interactions and Physical Simulation
+- title: A Non‐smooth Newton Method for Multibody Dynamics
+  author: K Erleben, R Ortiz
+  year: 2008
+  journal: AIP Conference Proceedings
+- title: Guessing tangents in normal flows
+  author: B Markussen, J Sporring, K Erleben
+  year: 2008
+  journal: Journal of Mathematical Imaging and Vision
+- title: Volumetric Shells using Path Tracing
+  author: K Erleben
+  year: 2008
+  journal: ''
+- title: Signed distance fields using single-pass gpu scan conversion of tetrahedra
+  author: K Erleben, H Dohlmann
+  year: 2008
+  journal: Gpu Gems
+- title: Photon differentials
+  author: L Schjøth, JR Frisvad, K Erleben, J Sporring
+  year: 2007
+  journal: Proceedings of the 5th international conference on Computer graphics and …
+- title: Line-stepping for shell meshes
+  author: K Erleben, J Sporring
+  year: 2007
+  journal: Scandinavian Conference on Image Analysis
+- title: Boneless pose editing and animation
+  author: JA Bærentzen, KE Hansen, K Erleben
+  year: 2007
+  journal: Scandinavian Conference on Image Analysis
+- title: Velocity-based shock propagation for multibody dynamics animation
+  author: K Erleben
+  year: 2007
+  journal: ACM Transactions on Graphics (TOG) 26 (2), 12-es
+- title: Tetrahedral Shell Tesselation and Methods for Surface Mesh Extrusion
+  author: K Erleben, H Dohlmann, M Zachariasen, J Sporring
+  year: 2006
+  journal: ''
+- title: SIMS 2004
+  author: B Elmegaard, J Sporring, K Erleben, K Sørensen
+  year: 2006
+  journal: Simulation Modelling Practice and Theory
+- title: Ballet balance strategies
+  author: C Pedersen, K Erleben, J Sporring
+  year: 2006
+  journal: Simulation Modelling Practice and Theory
+- title: Scan conversion of signed distance fields
+  author: K Erleben, H Dohlmann
+  year: 2006
+  journal: Proceedings of DSAGM
+- title: A simple plane patcher algorithm
+  author: K Erleben, K Henriksen
+  year: 2006
+  journal: Department of Computer Science, University of Copenhagen
+- title: Area and volume restoration in elastically deformable solids
+  author: M Kelager, A Fleron, K Erleben
+  year: 2005
+  journal: ELCVIA Electronic Letters on Computer Vision and Image Analysis
+- title: Physics-based Animation
+  author: K Erleben, J Sporring, K Henriksen, H Dohlmann
+  year: 2005
+  journal: Graphics Series
+- title: A multi-scale singularity bounding volume hierarchy
+  author: K Somchaipeng
+  year: 2005
+  journal: UNION Agency
+- title: The adaptive thin shell tetrahedral mesh
+  author: K Erleben
+  year: 2005
+  journal: Václav Skala-UNION Agency
+- title: Versatile Multibody Dynamics Animation
+  author: K Erleben, R Stable
+  year: 2004
+  journal: The Department of Computer Science, University of Conpenhagen
+- title: Stable, robust, and versatile multibody dynamics animation
+  author: K Erleben
+  year: 2004
+  journal: Unpublished Ph. D. Thesis, University of Copenhagen, Copenhagen
+- title: Contact graphs in multibody dynamics simulation
+  author: K Erleben, H Dohlmann
+  year: 2004
+  journal: DIKU
+- title: The thin shell tetrahedral mesh
+  author: K Erleben, H Dohlmann
+  year: 2004
+  journal: Proceedings of DSAGM
+- title: Physics-based Animation and Simulation
+  author: K Erleben, J Sporring, K Henriksen, H Dohlmann
+  year: 2004
+  journal: DIKU H. Goldstein, CP Poole, and JL Safko (2002),[5]
+- title: The Lagrange Formulation of The Deformable Object Model
+  author: K Erleben
+  year: 2003
+  journal: ''
+- title: Scripted bodies and spline-driven animation
+  author: K Erleben, K Henriksen
+  year: 2003
+  journal: Graphics programming methods
+- title: Collision detection of deformable volumetric meshes
+  author: K Erleben, J Sporring
+  year: 2003
+  journal: Graphics programming methods
+- title: Sound interaction by use of comparative visual displays
+  author: TH Andersen, K Erleben
+  year: 2002
+  journal: Proceedings of the Second Danish HCI Symposium
+- title: B-splines
+  author: K Erleben, K Henriksen
+  year: 2002
+  journal: DIKU
+- title: Module based design for rigid body simulators
+  author: K Erleben
+  year: 2002
+  journal: Department of Computer Science, University of Copenhagen
+- title: An Introduction to Approximating Heterogeneous Bounding Volume Hierarchies
+  author: K Erleben
+  year: 2002
+  journal: University of Copenhagen, Department of Computer
+- title: En introducerende lærebog i dynamisk simulation af stive legemer
+  author: K Erleben
+  year: 2001
+  journal: Maj
+- title: PATIENT SPECIFIC BIOMECHANICS MODELING AND SIMULATION
+  author: RR BAIER, O BARRERA, SPA BORDAS, S COTIN, K ERLEBEN, ...
+  year: 1800
+  journal: SIMULATION
+- title: A clinical brain MRI dataset of polymicrogyria in patients suspected of epilepsy
+  author: L Coll, A Shafique, H Kaas, M Prener, LH Pinborg, GM Knudsen, M Ganz
+  year: 2026
+  journal: Machine Learning for Biomedical Imaging 2026 (Special Issue on MICCAI Open …
+- title: Preoperative limbic cortical thinning in mesial temporal lobe epilepsy surgical candidates is associated with pre‐existing and de novo postoperative depression
+  author: P Fink‐Jensen, B Ozenne, A Kloster, B Jespersen, K Vinter, G Rubboli, ...
+  year: 2026
+  journal: Epileptic Disorders
+- title: 'Neuroanatomical dimensions in recent-onset depression: clinical profiles, inflammatory markers, and proteomic ageing'
+  author: PA Lalousis, L Moles, M Antoniades, W Xiao, ACM Couch, G Erus, ...
+  year: 2026
+  journal: medRxiv, 2026.06. 01.26354320
+- title: 'MOSAIC: A Multilingual, Taxonomy-Agnostic, and Computationally Efficient Approach for Radiological Report Classification in Low-Resource Settings'
+  author: A Schiavone, M Fraccaro, LM Pehrson, S Ingala, R Bonnevie, MB Nielsen, ...
+  year: 2026
+  journal: Proceedings of the 8th Workshop on Clinical Natural Language Processing …
+- title: 'EXPRESS: Building an open infrastructure for molecular neuroimaging: standards and tools from the OpenNeuroPET initiative'
+  author: M Ganz, M Norgaard, C Pernet, GJ Matheson, A Galassi, EG Ceballos, ...
+  year: 2026
+  journal: Journal of Cerebral Blood Flow & Metabolism, 0271678X261490245
+- title: A dataset of clinical pediatric brain MRI with and without motion correction
+  author: L Coll, T Waagstein Madsen, K Skak Madsen, M Ganz
+  year: 2026
+  journal: Scientific Data
+- title: 'Neurophysiological correlates of neuroanatomical dimensions in major depressive disorder: EEG markers of brain function and treatment outcome'
+  author: W Xiao, RD Woodham, M Antoniades, D Srinivasan, Y Fan, G Erus, ...
+  year: 2026
+  journal: Biological Psychiatry Global Open Science
+- title: Regional Inequities and Cultural Sensitivity in AI Models for Psychiatric Care
+  author: A Valentine, H Coupland, E Petersen, E Beaman, M Osler, A Feragen, ...
+  year: 2026
+  journal: OSF
+- title: Brain MRI Dataset Featuring a Full Clinical Protocol With and Without Intentional Motion
+  author: K Skak Madsen, T Ruschke, H Eichhorn, P Rising, M Ganz
+  year: 2026
+  journal: Scientific Data
+- title: Psilocybin acutely reduces low-frequency BOLD power and frequency-specific connectivity
+  author: AS Olsen, K Larsen, DEW McCulloch, M Ganz, MK Madsen, B Ozenne, ...
+  year: 2026
+  journal: bioRxiv, 2026.04. 09.717379
+- title: Age-dependent acceleration of structural brain aging in medication-free major depressive disorder linked to neuroanatomical phenotype findings from COORDINATE-MDD consortium
+  author: B Sharma, PL Ballester, L Minuzzi, W Xiao, M Antoniades, D Srinivasan, ...
+  year: 2026
+  journal: MedRxiv
+- title: Independent evaluation of deep learning models for detecting focal cortical dysplasia
+  author: H Kaas, M Prener, M Ganz, GM Knudsen, LH Pinborg, V Beliveau
+  year: 2026
+  journal: Epilepsy Research
+- title: Inter-individual variability of neurotransmitter receptor and transporter density in the human brain
+  author: JY Hansen, J Tuisku, J Johansson, Z Chang, CJ McGinnity, V Beliveau, ...
+  year: 2026
+  journal: Brain Structure and Function
+- title: Prevalence of malformations of cortical development in patients with suspected epilepsy based on a clinical MRI dataset
+  author: L Coll, J Diaz-i-Calvete, A Schiavone, H Kaas, M Prener, V Beliveau, ...
+  year: 2026
+  journal: medRxiv, 2026.08. 19.26360591
+- title: 'Associations of serotonin-related brain morphology in early adolescence with behavioral and emotional problems: a population-based neuroimaging study'
+  author: D Koc, M Nørgaard, M Ganz, R Muetzel, H El Marroun, H Tiemeier, ...
+  year: 2026
+  journal: Neuroscience Applied
+- title: 'Prediction of brain age using structural magnetic resonance imaging: a comparison of clinical utility of publicly available software packages'
+  author: RP Dorfel, B Ozenne, M Ganz, JE Svensson, P Plaven-Sigray
+  year: 2026
+  journal: EBIOMEDICINE
+- title: Machine Learning for Longitudinal Brain-Age Prediction
+  author: M Wegmann, M Ganz, JE Svensson, P Plavén-Sigray, RP Dörfel
+  year: 2025
+  journal: medRxiv, 2025.12. 10.25341964
+- title: Agreement of image quality metrics with radiological evaluation in the presence of motion artifacts
+  author: E Marchetto, H Eichhorn, D Gallichan, JA Schnabel, M Ganz
+  year: 2025
+  journal: Magnetic Resonance Materials in Physics, Biology and Medicine
+- title: Neuroanatomical dimensions in major depression linked to cognition, adverse life events, self-harm, metabolomics and genetics
+  author: W Xiao, RD Woodham, Y Cui, J Wen, M Antoniades, D Srinivasan, Y Fan, ...
+  year: 2025
+  journal: Communications medicine
+- title: Generating Realistic Synthetic Motion Curves for MRI Retrospective Motion Correction
+  author: H Georgiev, J Sheye, M Wyburd, J Petersen, V Beliveau, M Ganz
+  year: 2025
+  journal: Reconstruction and Imaging Motion Estimation, and Graphs in Biomedical Image …
+- title: 'In the picture: Medical imaging datasets, artifacts, and their living review'
+  author: A Jiménez-Sánchez, NR Avlona, S De Boer, VM Campello, A Feragen, ...
+  year: 2025
+  journal: Proceedings of the 2025 ACM conference on fairness, accountability, and …
+- title: Measuring and interpreting individual differences in fetal, infant, and toddler neurodevelopment
+  author: HA Olson, MC Camacho, G Abdurokhmonova, S Ahmad, EM Chen, ...
+  year: 2025
+  journal: Developmental Cognitive Neuroscience
+- title: '128. Predicting Antidepressant Treatment Outcome in Major Depressive Disorder Using Multi-Domain Data: A Neuropharm Study'
+  author: B Ozenne, V Dam, M Ganz, E Beaman, K Köhler-Forsberg, C Ip, ...
+  year: 2025
+  journal: Biological Psychiatry 97 (9), S148
+- title: 'A sensitivity analysis of preprocessing pipelines: Toward a solution for multiverse analyses'
+  author: B Ozenne, M Nørgaard, C Pernet, M Ganz
+  year: 2025
+  journal: Imaging Neuroscience 3, imag_a_00523
+- title: 'Neuroanatomical dimensions in major depression: external validation and links with cognition, adverse life events, self-harm, metabolomics and genetics'
+  author: W Xiao, RD Woodham, Y Cui, J Wen, M Antoniades, D Srinivasan, Y Fan, ...
+  year: 2025
+  journal: ''
+- title: Building multivariate molecular imaging brain atlases using the NeuroMark PET independent component analysis framework
+  author: C Eierud, M Norgaard, M Bilgel, H Petropoulos, Z Fu, A Iraji, GJ Matheson, ...
+  year: 2025
+  journal: bioRxiv
+- title: Assessing the influence of preprocessing on the agreement of image quality metrics with radiological evaluation in the presence of motion
+  author: H Eichhorn, E Marchetto, D Gallichan, JA Schnabel, M Ganz
+  year: 2025
+  journal: Proceedings of the Annual Meeting of ISMRM
+- title: Associations of serotonin-related brain morphology in early adolescence with behavioral and emotional problems
+  author: D Koc, M Nørgaard, M Ganz, RL Muetzel, H El Marroun, H Tiemeier, ...
+  year: 2025
+  journal: 'NeuroImage: Clinical'
+- title: An exploration of interpretable deep learning models for the assessment of mild cognitive impairment
+  author: ECL Leschly, O Roesler, M Neumann, J Liscombe, A Hosamath, L Arbatti, ...
+  year: 2025
+  journal: Proc. Interspeech
+- title: Changes in hippocampal volume, 5-HT4 receptor binding, and verbal memory over the course of antidepressant treatment in major depressive disorder
+  author: KHR Jensen, VH Dam, K Köhler-Forsberg, B Ozenne, DS Stenbæk, ...
+  year: 2025
+  journal: Journal of psychiatric research
+- title: 'Multimodal brain age prediction using machine learning: combining structural MRI and 5-HT2AR PET-derived features'
+  author: RP Dörfel, JM Arenas-Gomez, C Svarer, M Ganz, GM Knudsen, ...
+  year: 2024
+  journal: Geroscience
+- title: Classification of radiological text in small and imbalanced datasets in a non-english language
+  author: V Beliveau, H Kaas, M Prener, CN Ladefoged, D Elliott, GM Knudsen, ...
+  year: 2024
+  journal: arXiv preprint arXiv:2409.20147
+- title: NeuroImaging of Babies during natural Sleep to assess typical development and Cerebral Palsy (NIBS-CP)
+  author: L Korsgaard, EKW Nielsen, H Lundell, K Kettless, CG Madsen, ...
+  year: 2024
+  journal: Fetal, Infant, & Toddler Neuroimaging Group Annual Conference
+- title: 'Simulating Head Motion in MRI: A Silicone Phantom Approach with Machine Learning Integration'
+  author: M Daugaard, E Riis-Jacobsen, H Yin, K Erleben, M Ganz
+  year: 2024
+  journal: ISMRM Workshop on Motion Correction in MR
+- title: Head Movement in the Resting-State Functional Magnetic Resonance Imaging (rs-fMRI) Data of the Adolescent Brain Cognitive Development (ABCD) Study
+  author: JF Sheye, HA Georgiev, M Ganz
+  year: 2024
+  journal: ISMRM Workshop on Motion Correction in MR
+- title: Generative Models for Children’s Head Motion in Resting-State Functional Magnetic Resonance Imaging (rs-fMRI)
+  author: HA Georgiev, JF Sheye, V Beliveau, M Ganz
+  year: 2024
+  journal: ISMRM Workshop on Motion Correction in MR
+- title: 'Publisher Correction: Neuroanatomical dimensions in medication-free individuals with major depressive disorder and treatment response to SSRI antidepressant medications or placebo'
+  author: CHY Fu, M Antoniades, G Erus, JA Garcia, Y Fan, D Arnone, SR Arnott, ...
+  year: 2024
+  journal: Nature Mental Health
+- title: 'PET2BIDS: a library for converting Positron Emission Tomography data to BIDS'
+  author: A Galassi, M Norgaard, AG Thomas, G Gonzalez-Escamilla, C Svarer, ...
+  year: 2024
+  journal: Journal of open source software
+- title: 'NeuroMark PET: Replicable positron emission tomography ICA templates for florbetapir and florbetaben radioligands'
+  author: C Eierud, Z Fu, H Petropoulos, A Bohsali, A Iraji, M Ganz, C Pernet, ...
+  year: 2024
+  journal: 2024 46th Annual International Conference of the IEEE Engineering in …
+- title: Quantifying the impact of preprocessing strategies on statistical analyses
+  author: B Ozenne, M Nørgaard, C Pernet, M Ganz
+  year: 2024
+  journal: OHBM Annual meeting
+- title: A sensitivity analysis to quantify the impact of neuroimaging preprocessing strategies on subsequent statistical analyses
+  author: B Ozenne, M Norgaard, C Pernet, M Ganz
+  year: 2024
+  journal: arXiv preprint arXiv:2404.14882
+- title: Assessing Image Quality Metric Alignment with Radiological Evaluation in Datasets with and without Motion Artifacts
+  author: E Marchetto, H Eichhorn, D Gallichan, ST Schwarz, N Shekhrajka, ...
+  year: 2024
+  journal: 2024 ISMRM & ISMRT Annual Meeting
+- title: The past, present, and future of the brain imaging data structure (BIDS)
+  author: RA Poldrack, CJ Markiewicz, S Appelhoff, YK Ashar, T Auer, S Baillet, ...
+  year: 2024
+  journal: Imaging Neuroscience 2, imag-2-00103
+- title: Neuroanatomical dimensions in medication-free individuals with major depressive disorder and treatment response to SSRI antidepressant medications or placebo
+  author: CHY Fu, M Antoniades, G Erus, JA Garcia, Y Fan, D Arnone, SR Arnott, ...
+  year: 2024
+  journal: Nature Mental Health
+- title: Classification of Medical Text in Small and Imbalanced Datasets in a Non-English Language
+  author: V Beliveau, H Kaas, M Prener, C Ladefoged, D Elliott, GM Knudsen, ...
+  year: 2024
+  journal: Medical Imaging with Deep Learning
+- title: 'Data sharing in neuroimaging: experiences from the BIDS project'
+  author: M Ganz, RA Poldrack
+  year: 2023
+  journal: Nature Reviews Neuroscience
+- title: 'Prediction of brain age using structural magnetic resonance imaging: A comparison of accuracy and test–retest reliability of publicly available software packages'
+  author: RP Dörfel, JM Arenas‐Gomez, PM Fisher, M Ganz, GM Knudsen, ...
+  year: 2023
+  journal: Human Brain Mapping
+- title: 'Cerebral Palsy–Early Diagnosis and Intervention Trial: protocol for the prospective multicentre CP-EDIT study with focus on diagnosis, prognostic factors, and intervention'
+  author: CE Hoei-Hansen, L Weber, M Johansen, R Fabricius, JK Hansen, ...
+  year: 2023
+  journal: BMC pediatrics
+- title: The path toward equal performance in medical machine learning
+  author: E Petersen, S Holm, M Ganz, A Feragen
+  year: 2023
+  journal: Patterns
+- title: On (assessing) the fairness of risk score models
+  author: E Petersen, M Ganz, S Holm, A Feragen
+  year: 2023
+  journal: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and …
+- title: Bias in context
+  author: S Holm, E Petersen, M Ganz, A Feragen
+  year: 2023
+  journal: Proceedings of the National Academy of Sciences of the United States of …
+- title: 'Bias in context: What to do when complete bias removal is not an option'
+  author: S Holm, E Petersen, M Ganz, A Feragen
+  year: 2023
+  journal: Proceedings of the National Academy of Sciences
+- title: The art, science, and secrets of scanning young children
+  author: MN Spann, JL Wisnowski, B Ahtam, W Gao, H Huang, MB Nebel, ...
+  year: 2023
+  journal: Biological Psychiatry
+- title: Are demographically invariant models and representations in medical imaging fair?
+  author: E Petersen, E Ferrante, M Ganz, A Feragen
+  year: 2023
+  journal: arXiv preprint arXiv:2305.01397
+- title: Association between the loudness dependence of auditory evoked potential, serotonergic neurotransmission and treatment outcome in patients with depression
+  author: CT Ip, M Ganz, B Ozenne, S Olbrich, V Beliveau, VH Dam, ...
+  year: 2023
+  journal: European Neuropsychopharmacology
+- title: '10 years of reproducibility in biomedical research: how can we achieve generalizability and fairness?'
+  author: AS Wagner, C Maumet, M Ganz, CG van Praag
+  year: 2023
+  journal: ISBI 2023-20th IEEE International Symposium on Biomedical Imaging
+- title: Deep phenotyping towards precision psychiatry of first-episode depression—the Brain Drugs-Depression cohort
+  author: KHR Jensen, VH Dam, M Ganz, PMD Fisher, CT Ip, A Sankar, ...
+  year: 2023
+  journal: BMC psychiatry
+- title: 'AI-based dimensional neuroimaging system for characterizing heterogeneity in brain structure and function in major depressive disorder: COORDINATE-MDD consortium design and …'
+  author: CHY Fu, G Erus, Y Fan, M Antoniades, D Arnone, SR Arnott, T Chen, ...
+  year: 2023
+  journal: BMC psychiatry
+- title: FAIMI Preface
+  author: E Puyol-Antón, A Feragen, AP King, E Ferrante, V Cheplygina, M Ganz, ...
+  year: 2023
+  journal: Lecture Notes in Computer Science (including subseries Lecture Notes in …
+- title: Research Article Postprocessing of MRIs Using FreeSurfer in Epilepsy Surgery Patients Provides an Excellent Imaging Marker of Hippocampal Sclerosis but Fails to Separate Subtypes
+  author: AG Kloster, G Opheim, KÅ Alfstad, KB Larsen, P Niehusmann, E Holm, ...
+  year: 2023
+  journal: ''
+- title: Why is the winner the best?
+  author: M Eisenmann, A Reinke, V Weru, MD Tizabi, F Isensee, TJ Adler, S Ali, ...
+  year: 2023
+  journal: Proceedings of the IEEE/CVF conference on computer vision and Pattern …
+- title: Selective MRI reacquisition to extend the working range of retrospective motion correction
+  author: M Laustsen, J Slipsager, T Gaaß, A Van der Kouwe, M Ganz, LG Hanson
+  year: 2023
+  journal: 2023 ISMRM & ISMRT Annual Meeting & Exhibition
+- title: Postprocessing of MRIs using FreeSurfer in epilepsy surgery patients provides an excellent imaging marker of hippocampal sclerosis but fails to separate subtypes
+  author: AG Kloster, G Opheim, KÅ Alfstad, KB Larsen, P Niehusmann, E Holm, ...
+  year: 2023
+  journal: Acta Neurologica Scandinavica
+- title: 'Biomedical image analysis competitions: The state of current participation practice'
+  author: M Eisenmann, A Reinke, V Weru, MD Tizabi, F Isensee, TJ Adler, ...
+  year: 2022
+  journal: arXiv preprint arXiv:2212.08568
+- title: Psilocybin modulation of time-varying functional connectivity is associated with plasma psilocin and subjective effects
+  author: AS Olsen, A Lykkebo-Valløe, B Ozenne, MK Madsen, DS Stenbæk, ...
+  year: 2022
+  journal: NeuroImage
+- title: Evaluating the performance of markerless prospective motion correction and selective reacquisition in a general clinical protocol for brain MRI
+  author: H Eichhorn, R Frost, A Kongsgaard, K Kettless, J Slipsager, S Glimberg, ...
+  year: 2022
+  journal: OSF
+- title: Mapping neurotransmitter systems to the structural and functional organization of the human neocortex
+  author: JY Hansen, G Shafiei, RD Markello, K Smart, SML Cox, M Nørgaard, ...
+  year: 2022
+  journal: Nature neuroscience
+- title: 'Open and reproducible neuroimaging: From study inception to publication'
+  author: G Niso, R Botvinik-Nezer, S Appelhoff, A De La Vega, O Esteban, JA Etzel, ...
+  year: 2022
+  journal: NeuroImage
+- title: 'Feature robustness and sex differences in medical imaging: a case study in MRI-based Alzheimer’s disease detection'
+  author: E Petersen, A Feragen, ML da Costa Zemsch, A Henriksen, ...
+  year: 2022
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Hippocampal volume changes in a pharmacological sex-hormone manipulation risk model for depression in women
+  author: C Borgsted, E Hoegsted, S Henningsson, A Pinborg, M Ganz, VG Frokjaer
+  year: 2022
+  journal: Hormones and Behavior
+- title: Evaluating the match of image quality metrics with radiological assessment in a dataset with and without motion artifacts
+  author: H Eichhorn, S Chemnitz-Thomsen, E Vouros, N Shekhrajka, R Frost, ...
+  year: 2022
+  journal: 2022 ISMRM & SMRT Annual Meeting & Exhibition
+- title: 'Emotional faces processing in major depressive disorder and prediction of antidepressant treatment response: a NeuroPharm study'
+  author: PM Fisher, B Ozenne, M Ganz, VG Frokjaer, VNH Dam, BWJH Penninx, ...
+  year: 2022
+  journal: Journal of Psychopharmacology
+- title: PET-BIDS, an extension to the brain imaging data structure for positron emission tomography
+  author: M Norgaard, GJ Matheson, HD Hansen, A Thomas, G Searle, G Rizzo, ...
+  year: 2022
+  journal: Scientific data
+- title: 'Predicting treatment outcome in major depressive disorder using structural magnetic resonance imaging: a NeuroPharm study'
+  author: V Beliveau, E Hedeboe, PM Fisher, VH Dam, MB Jørgensen, VG Frokjaer, ...
+  year: 2022
+  journal: Neuroscience Applied
+- title: 'Hippocampus volume and memory function in major depressive disorder-sensitivity to mood or treatment: a Neuropharm study'
+  author: KR Jensen, VH Dam, K Köhler-Forsberg, B Ozenne, DS Stenbæk, ...
+  year: 2022
+  journal: Neuroscience Applied
+- title: 'Predicting antidepressant treatment outcome in major depressive disorder using multi-domain data: A NeuroPharm study'
+  author: B Ozenne, VH Dam, M Ganz, E Beaman, V Beliveau, K Köhler-Forsberg, ...
+  year: 2022
+  journal: Neuroscience Applied
+- title: 'Generalizability of treatment outcome prediction in major depressive disorder using structural MRI: a NeuroPharm study'
+  author: V Beliveau, E Hedeboe, PM Fisher, VH Dam, MB Jørgensen, VG Frokjaer, ...
+  year: 2022
+  journal: 'NeuroImage: Clinical'
+- title: Psilocybin modulation of dynamic functional connectivity is associated with plasma psilocin and subjective effects
+  author: AS Olsen, A Lykkebo-Valløe, B Ozenne, MK Madsen, DS Stenbæk, ...
+  year: 2021
+  journal: medRxiv, 2021.12. 17.21267992
+- title: Characterisation of children's head motion for magnetic resonance imaging with and without general anaesthesia
+  author: H Eichhorn, AV Vascan, M Nørgaard, AH Ellegaard, JM Slipsager, ...
+  year: 2021
+  journal: Frontiers in radiology
+- title: P. 0567 Precision medicine in the treatment of first-episode depression–establishing the BrainDrugs-Depression Cohort
+  author: KR Jensen, VH Dam, M Ganz, PM Fisher, M Osler, VG Frokjaer, ...
+  year: 2021
+  journal: European Neuropsychopharmacology 53, S416-S417
+- title: P. 0054 The braindrugs-epilepsy cohort-precision medicine in the treatment of epilepsy
+  author: MR Marstrand-Joergensen, VNH Dam, K Vinter, NB Andersen, CT Ip, ...
+  year: 2021
+  journal: European Neuropsychopharmacology 53, S39-S40
+- title: 'The positron emission tomography brain imaging data structure (PET-BIDS) extension: A new standard for sharing PET data'
+  author: M Norgaard, GJ Matheson, HD Hansen, A Thomas, G Searle, G Rizzo, ...
+  year: 2021
+  journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM 41 (1_ SUPPL)
+- title: 'NeuroPharm study: EEG wakefulness regulation as a biomarker in MDD'
+  author: CT Ip, M Ganz, VH Dam, B Ozenne, A Rüesch, K Köhler-Forsberg, ...
+  year: 2021
+  journal: Journal of Psychiatric Research
+- title: Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective
+  author: E Levitis, CDG Van Praag, R Gau, S Heunis, E DuPre, G Kiar, ...
+  year: 2021
+  journal: GigaScience 10 (8), giab051
+- title: 'Pretreatment qEEG biomarkers for predicting pharmacological treatment outcome in major depressive disorder: Independent validation from the NeuroPharm study'
+  author: CT Ip, S Olbrich, M Ganz, B Ozenne, K Köhler-Forsberg, VH Dam, ...
+  year: 2021
+  journal: European Neuropsychopharmacology
+- title: Assessing Bias in Medical AI
+  author: M Ganz, SH Holm, A Feragen
+  year: 2021
+  journal: ICML 2021 Workshop Interpretable Machine Learning in Healthcare
+- title: A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABAA receptors
+  author: M Nørgaard, V Beliveau, M Ganz, C Svarer, LH Pinborg, SH Keller, ...
+  year: 2021
+  journal: Neuroimage
+- title: Reward processing in major depressive disorder and prediction of treatment response–Neuropharm study
+  author: IM Brandt, K Köhler-Forsberg, M Ganz, B Ozenne, MB Jorgensen, ...
+  year: 2021
+  journal: European Neuropsychopharmacology
+- title: Kan kunstig intelligens give fair forudsigelser?
+  author: SH Holm, M Ganz, A Feragen
+  year: 2020
+  journal: https://videnskab.dk/forskerzonen/teknologi-innovation/kan-kunstig …
+- title: False positive rates in positron emission tomography (PET) voxelwise analyses
+  author: M Ganz, M Noergaard, V Beliveau, C Svarer, GM Knudsen, DN Greve
+  year: 2020
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: 'P. 282 Hippocampal volume changes are linked to depressive symptoms independent of sex-steroid hormone manipulation: a pharmacological structural MRI study'
+  author: CB Larsen, M Ganz, S Henningsson, A Pinborg, V Frokjaer
+  year: 2020
+  journal: European Neuropsychopharmacology 40, S159-S160
+- title: 'Different preprocessing strategies lead to different conclusions: A [11C]DASB-PET reproducibility study'
+  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  year: 2020
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: Optimizing a preprocessing pipeline for structural 7T MR analyses in FreeSurfer
+  author: G Opheim, O Puonti, JO Pedersen, VO Boer, A Kloster, M Prener, ...
+  year: 2020
+  journal: International Society of Magnetic Resonance in Medicine
+- title: 'Guidelines for the content and format of PET brain data in publications and archives: a consensus paper'
+  author: GM Knudsen, M Ganz, S Appelhoff, R Boellaard, G Bormans, RE Carson, ...
+  year: 2020
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: 'Predicting treatment outcome in major depressive disorder using serotonin 4 receptor PET brain imaging, functional MRI, cognitive-, EEG-based, and peripheral biomarkers: a …'
+  author: K Köhler-Forsberg, A Jorgensen, VH Dam, DS Stenbæk, PM Fisher, CT Ip, ...
+  year: 2020
+  journal: Frontiers in psychiatry
+- title: 'The structure of the serotonin system: A PET imaging study'
+  author: V Beliveau, B Ozenne, S Strother, DN Greve, C Svarer, GM Knudsen, ...
+  year: 2020
+  journal: Neuroimage
+- title: 'JCB905433 Supplemental Material1-Supplemental material for Guidelines for the content and format of PET brain data in publications and archives: A consensus paper'
+  author: GM Knudsen, M Ganz, S Appelhoff, R Boellaard, G Bormans, RE Carson, ...
+  year: 2020
+  journal: (No Title)
+- title: Algoritmer kopierer lægers fordomme om race og køn
+  author: M Ganz, SH Holm, A Feragen
+  year: 2020
+  journal: Politiken
+- title: 'P. 263 The impact of different preprocessing strategies in positron emission tomography: a [11C] DASB Study'
+  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  year: 2019
+  journal: European Neuropsychopharmacology 29, S197-S198
+- title: 'Preprocessing, prediction and significance: framework and application to brain imaging'
+  author: M Nørgaard, B Ozenne, C Svarer, VG Frokjaer, M Schain, SC Strother, ...
+  year: 2019
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: 'Optimization of preprocessing strategies in positron emission tomography (PET) neuroimaging: a [11C] DASB PET study'
+  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  year: 2019
+  journal: Neuroimage
+- title: 'The impact of different preprocessing strategies in PET neuroimaging: A [C-11] DASB-PET study'
+  author: M Norgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  year: 2019
+  journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
+- title: 'Cerebral serotonin transporter measurements with [11C]DASB: A review on acquisition and preprocessing across 21 PET centres'
+  author: M Nørgaard, M Ganz, C Svarer, L Feng, M Ichise, R Lanzenberger, ...
+  year: 2019
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: Pre-intervention test-retest reliability of EEG and ERP over four recording intervals
+  author: CT Ip, M Ganz, B Ozenne, LB Sluth, M Gram, G Viardot, P l'Hostis, ...
+  year: 2018
+  journal: International Journal of Psychophysiology
+- title: Comparing fully automated state-of-the-art cerebellum parcellation from magnetic resonance images
+  author: A Carass, JL Cuzzocreo, S Han, CR Hernandez-Castillo, PE Rasser, ...
+  year: 2018
+  journal: Neuroimage
+- title: The impact of preprocessing pipeline choice in univariate and multivariate analyses of pet data
+  author: M Nørgaard, DN Greve, C Svarer, SC Strother, GM Knudsen, M Ganz
+  year: 2018
+  journal: 2018 International Workshop on Pattern Recognition in Neuroimaging (PRNI)
+- title: Multi-view consensus CNN for 3D facial landmark placement
+  author: RR Paulsen, KA Juhl, MT Haspang, T Hansen, M Ganz, G Einarsson
+  year: 2018
+  journal: Proceedings of the Asian Conference on Computer Vision (ACCV)
+- title: BASELINE RELIABILITY OF EEG AND ERP IN A FOUR-WAY CROSSOVER STUDY IN HEALTHY SUBJECTS
+  author: C Ip, M Ganz, B Ozenne, L Sluth, M Gram, G Viardot, l'Hostis, Philippe, ...
+  year: 2017
+  journal: PSYCHOPHYSIOLOGY 54, S59-S59
+- title: 'Brain Networks Implicated in Seasonal Affective Disorder: A Neuroimaging PET Study of the Serotonin Transporter'
+  author: M Nørgaard, M Ganz, C Svarer, PM Fisher, NW Churchill, V Beliveau, ...
+  year: 2017
+  journal: Frontiers in Neuroscience
+- title: Cerebellar heterogeneity and its impact on PET data quantification of 5-HT receptor radioligands
+  author: M Ganz, L Feng, HD Hansen, V Beliveau, C Svarer, GM Knudsen, ...
+  year: 2017
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: Permutations Tests for Binary Classification:Revisited
+  author: M Ganz, E Konukoglu
+  year: 2017
+  journal: Pattern Recognition in Neuroimaging (PRNI), 2017 International Workshop on
+- title: A High-Resolution In Vivo Atlas of the Human Brain's Serotonin System
+  author: V Beliveau, M Ganz, L Feng, B Ozenne, L Højgaard, PM Fisher, C Svarer, ...
+  year: 2017
+  journal: The Journal of Neuroscience
+- title: Crowdsourcing for error detection in cortical surface delineations
+  author: M Ganz, D Kondermann, J Andrulis, GM Knudsen, L Maier-Hein
+  year: 2017
+  journal: International journal of computer assisted radiology and surgery
+- title: 'Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test–retest reproducibility and head-to-head comparison with the antagonist [18F] altanserin'
+  author: A Ettrup, C Svarer, B McMahon, S da Cunha-Bang, S Lehel, K Møller, ...
+  year: 2016
+  journal: Neuroimage
+- title: Relevant feature set estimation with a knock-out strategy and random forests
+  author: M Ganz, DN Greve, B Fischl, E Konukoglu, ...
+  year: 2015
+  journal: NeuroImage
+- title: High-resolution surface and volume-based in vivo atlas of the serotonin system in the healthy brain
+  author: V Beliveau, M Ganz, C Svarer, G Knudsen, D Greve
+  year: 2015
+  journal: Human Brain Mapping
+- title: Vermis - to exclude or not exclude? Defining a proper reference region for PET modelling of the serotonin system
+  author: M Ganz, HD Hansen, V Beliveau, L Feng, C Svarer, GM Knudsen
+  year: 2015
+  journal: 12th International Conference on Quantification of Brain Function with PET
+- title: 'Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test-retest reproducibility and comparison with [18F] altanserin'
+  author: A Ettrup, C Svarer, B McMahon, S Da Cunha-Bang, S Lehel, K Møller, ...
+  year: 2015
+  journal: European Neuropsychopharmacology 25, S309-S310
+- title: 'Estimation of Regional Seasonal Variations in SERT-levels using the FreeSurfer PET pipeline: a reproducibility study'
+  author: M Nørgaard, M Ganz, C Svarer, V Beliveau, PM Fisher, B Mc Mahon, ...
+  year: 2015
+  journal: Proceedings of the MICCAI workshop on Computational Methods for Molecular …
+- title: Approximate false positive rate control in selection frequency for random forest
+  author: E Konukoglu, M Ganz
+  year: 2014
+  journal: arXiv preprint arXiv:1410.2838
+- title: An improved optimization method for the relevance voxel machine
+  author: M Ganz, MR Sabuncu, K Van Leemput
+  year: 2013
+  journal: International Workshop on Machine Learning in Medical Imaging
+- title: The improved relevance voxel machine
+  author: M Ganz, M Sabuncu, K Van Leemput
+  year: 2013
+  journal: Technical University of Denmark
+- title: 'On Feature Relevance in Image-based Prediction Models: An Empirical Study'
+  author: E Konukoglu, M Ganz, K van Leemput, MR Sabuncu
+  year: 2013
+  journal: 4th International Workshop for Machine Learning in Medical Imaging in …
+- title: Automatic segmentation of polyps in colonoscopic narrow-band imaging data
+  author: M Ganz, X Yang, G Slabaugh
+  year: 2012
+  journal: IEEE Transactions on Biomedical Engineering
+- title: Distribution, size, and shape of abdominal aortic calcified deposits and their relationship to mortality in postmenopausal women
+  author: M Ganz, M De Bruijne, EB Dam, P Pettersen, MA Karsdal, C Christiansen, ...
+  year: 2012
+  journal: International Journal of Biomedical Imaging
+- title: Abdominal aortic calcification quantified by the Morphological Atherosclerotic Calcification Distribution (MACD) index is associated with features of the metabolic syndrome
+  author: N Barascuk, M Ganz, M Nielsen, TC Register, LM Rasmussen, ...
+  year: 2011
+  journal: BMC cardiovascular disorders
+- title: A bayesian framework for automated cardiovascular risk scoring on standard lumbar radiographs
+  author: K Petersen, M Ganz, P Mysling, M Nielsen, L Lillemark, A Crimi, ...
+  year: 2011
+  journal: IEEE Transactions on Medical Imaging
+- title: Detection and Analysis of Calcified Deposits and Their Relation to Cardiovascular Diseases
+  author: M Ganz
+  year: 2011
+  journal: https://di.ku.dk/english/research/phd/phd-theses/2011 …
+- title: Distribution, size, shape, growth potential and extent of abdominal aortic calcified deposits predict mortality in postmenopausal women
+  author: M Nielsen, M Ganz, F Lauze, PC Pettersen, M de Bruijne, TB Clarkson, ...
+  year: 2010
+  journal: BMC cardiovascular disorders
+- title: Growth patterns of abdominal atherosclerotic calcified deposits from lumbar lateral X-rays
+  author: L Lillemark, M Ganz, N Barascuk, EB Dam, M Nielsen
+  year: 2010
+  journal: The international journal of cardiovascular imaging
+- title: Patch-based generative shape model and mdl model selection for statistical analysis of archipelagos
+  author: M Ganz, M Nielsen, S Brandt
+  year: 2010
+  journal: International Workshop on Machine Learning in Medical Imaging
+- title: 'MACD: an imaging marker for cardiovascular disease'
+  author: M Ganz, M De Bruijne, M Nielsen
+  year: 2010
+  journal: 'Medical Imaging 2010: Computer-Aided Diagnosis'
+- title: BMD prediction of death is encapsulated by the Morphological Atherosclerosis Calcification Distribution (MACD) index
+  author: M Ganz, M Nielsen, M Karsdal, C Christiansen
+  year: 2009
+  journal: 36th European Symposium on Calcified Tissues, Vienna, Austria 44, S265
+- title: Dense iterative contextual pixel classification using kriging
+  author: M Ganz, M Loog, S Brandt, M Nielsen
+  year: 2009
+  journal: 2009 IEEE Computer Society Conference on Computer Vision and Pattern …
+- title: Growth analysis of individual abdominal atherosclerotic calcified deposits
+  author: LL Larsen, M Ganz, M Nielsen
+  year: 2009
+  journal: 36th European Symposium on Calcified Tissues (ECTS)
+- title: Automated Quantification of the Morphological Atherosclerotic Calcification Distribution on X-Rays Is a Strong Predictor of Mortality in Postmenopausal Women
+  author: C Christiansen, M Karsdal, FB Lauze, E Dam, M Ganz, M de Bruijne, ...
+  year: 2008
+  journal: Arteriosclerosis, Thrombosis, and Vascular Biology
+- title: Superior assessment of CVD death by MACD index compared with the framingham score is highly associated with predisposition to diabetes
+  author: E Soltyskinska, N Barascuk, M Ganz, M Nielsen, M Karsdal, ...
+  year: 2008
+  journal: Keystone Symposia, nr. S2
+- title: Morphological Atherosclerosis Calcification Distribution (MACD) Index is a Strong Predictor of Cardio-Vascular Death and Include Predictive Power of BMD
+  author: C Christiansen, M Karsdal, M Ganz, E Dam, M Nielsen
+  year: 2008
+  journal: 30th ASBMR Annual Meeting
+- title: Growth Pattern of Atherosclerotic Calcifications
+  author: LL Larsen, M Ganz, E Dam, N Dandu, M Nielsen
+  year: 2008
+  journal: Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2th …
+- title: Top Quark Physics Beyond The Standard Model
+  author: M Ganz
+  year: 2007
+  journal: University of Karlsruhe, Germany
+- title: Time trends in cardiac doses in 10,000 patients receiving curative thoracic radiation therapy between 2009 and 2020
+  author: N Forbes, BB Irankunda, C Terrones-Campos, A Smith, J Reekie, ...
+  year: 2026
+  journal: Clinical Oncology
+- title: Evaluation of a volume and intensity-based FLAIR algorithm developed to assist in DWI-FLAIR mismatch assessment in wake-up stroke
+  author: CJM Offersen, J Johansen, AH Brandt, TC Truelsen, S Darkner, A Pai, ...
+  year: 2025
+  journal: European Journal of Radiology Artificial Intelligence
+- title: Toward a full-scale model of renal hemodynamics using a reconstructed vascular tree
+  author: P Xu, S Darkner, O Sosnovtseva, NH Holstein-Rathlou
+  year: 2025
+  journal: American Journal of Physiology-Renal Physiology 328 (5), F702-F723
+- title: Clinicians’ agreement on extrapulmonary radiographic findings in chest X-rays using a diagnostic labelling scheme
+  author: LM Pehrson, D Li, A Mayar, M Fraccaro, R Bonnevie, PJ Sørensen, ...
+  year: 2025
+  journal: Diagnostics
+- title: 'AI-guided delineation of gross tumor volume for body tumors: A systematic review'
+  author: LM Pehrson, J Petersen, NS Panduro, CA Lauridsen, JF Carlsen, ...
+  year: 2025
+  journal: Diagnostics
+- title: 'SmartField: A Danish Initiative for Advanced N2O Emission Accounting and Mitigation in Agriculture'
+  author: AB Vaerge, K Butterbach-Bahl, J Olesen, D Abalos, C Dold, S Darkner, ...
+  year: 2024
+  journal: AGU Fall Meeting Abstracts 2024 (1569), B33C-1569
+- title: In vivo deep learning estimation of diffusion coefficients of nanoparticles
+  author: JB Kirkegaard, NP Kutuzov, R Netterstrøm, S Darkner, M Lauritzen, ...
+  year: 2024
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Cardiac dose-volume analysis of 9,411 patients with registry data for cardiovascular disease and overall survival
+  author: N Forbes, C Terrones-Campos, AG Smith, J Reekie, S Darkner, ...
+  year: 2024
+  journal: medRxiv, 2024.08. 16.24312108
+- title: Locally orderless networks
+  author: J Sporring, P Xu, J Lu, F Lauze, S Darkner
+  year: 2024
+  journal: arXiv preprint arXiv:2406.13514
+- title: 'Xfibrosis: Explicit vessel-fiber modeling for fibrosis staging from liver pathology images'
+  author: C Yin, S Liu, F Lyu, J Lu, S Darkner, VWS Wong, PC Yuen
+  year: 2024
+  journal: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …
+- title: An automatic DWI/FLAIR mismatch assessment of stroke patients
+  author: J Johansen, CM Offersen, JF Carlsen, S Ingala, AE Hansen, MB Nielsen, ...
+  year: 2023
+  journal: Diagnostics
+- title: 'Localise to segment: crop to improve organ at risk segmentation accuracy'
+  author: AG Smith, D Kutnár, IR Vogelius, S Darkner, J Petersen
+  year: 2023
+  journal: arXiv preprint arXiv:2304.04606
+- title: Performance and agreement when annotating chest X-ray text reports—a preliminary step in the development of a deep learning-based prioritization and detection system
+  author: D Li, LM Pehrson, R Bonnevie, M Fraccaro, J Thrane, L Tøttrup, ...
+  year: 2023
+  journal: Diagnostics
+- title: 'U-Sleep: Automatic Clinical Sleep Staging'
+  author: PJ Jennum, M Perslev, C Igel, S Darkner
+  year: 2023
+  journal: ''
+- title: Inter-and intra-observer agreement when using a diagnostic labeling scheme for annotating findings on chest X-rays—an early step in the development of a deep learning-based …
+  author: D Li, LM Pehrson, L Tøttrup, M Fraccaro, R Bonnevie, J Thrane, ...
+  year: 2022
+  journal: Diagnostics
+- title: Revisiting transformer-based models for long document classification
+  author: X Dai, I Chalkidis, S Darkner, D Elliott
+  year: 2022
+  journal: 'Findings of the association for computational linguistics: EMNLP'
+- title: An algebra for local histograms
+  author: J Sporring, S Darkner
+  year: 2022
+  journal: Frontiers in Computer Science
+- title: Attenuation correction of Total Body PET using syntetic CT derived from the emission data.
+  author: M Montgomery, F Andersen, SH d'Este, S Darkner, L Højgaard, B Fischer, ...
+  year: 2022
+  journal: Journal of Nuclear Medicine 63 (supplement 2)
+- title: PO-1757 A framework for in-vivo, voxel-based assessment of radiation response through multimodal imaging
+  author: M Skaarup, MJ Lundemann, S Darkner, M Jørgensen, L Marner, ...
+  year: 2022
+  journal: Radiotherapy and Oncology 170, S1561-S1562
+- title: MO-0716 Radiotherapy exposure and association with observed cardiovascular toxicity in over 5000 patients
+  author: N Forbes, A Smith, J Petersen, C Terrones-Campos, J Reekie, S Darkner, ...
+  year: 2022
+  journal: Radiotherapy and Oncology 170, S627-S628
+- title: Reconstructing binary signals from local histograms
+  author: J Sporring, S Darkner
+  year: 2022
+  journal: Entropy
+- title: 'RootPainter3D: Interactive‐machine‐learning enables rapid and accurate contouring for radiotherapy'
+  author: AG Smith, J Petersen, C Terrones‐Campos, AK Berthelsen, NJ Forbes, ...
+  year: 2022
+  journal: Medical Physics
+- title: Information-theoretic registration with explicit reorientation of diffusion-weighted images
+  author: HG Jensen, F Lauze, S Darkner
+  year: 2022
+  journal: Journal of Mathematical Imaging and Vision
+- title: 'The added effect of artificial intelligence on physicians’ performance in detecting thoracic pathologies on CT and chest X-ray: A systematic review'
+  author: D Li, LM Pehrson, CA Lauridsen, L Tøttrup, M Fraccaro, D Elliott, ...
+  year: 2021
+  journal: Diagnostics
+- title: A framework for voxel‐based assessment of biological effect after proton radiotherapy in pediatric brain cancer patients using multi‐modal imaging
+  author: M Skaarup, MJ Lundemann, S Darkner, M Jørgensen, L Marner, ...
+  year: 2021
+  journal: Medical physics
+- title: First order locally orderless registration
+  author: S Darkner, JDT Vidarte, F Lauze
+  year: 2021
+  journal: International Conference on Scale Space and Variational Methods in Computer …
+- title: 'U-Sleep: resilient high-frequency sleep staging'
+  author: M Perslev, S Darkner, L Kempfner, M Nikolic, PJ Jennum, C Igel
+  year: 2021
+  journal: NPJ digital medicine
+- title: Is Dose Accumulation in online MR-guided treatment of Liver metastases Reproducible?
+  author: I Wahlstedt, JD Tascon-Vidarte, AG Smith, S Darkner, S Risum, M Pohl, ...
+  year: 2021
+  journal: Radiotherapy and Oncology 161, S1278-S1280
+- title: Restoring drifted electron microscope volumes using synaptic vesicles at sub-pixel accuracy
+  author: HJT Stephensen, S Darkner, J Sporring
+  year: 2020
+  journal: Communications biology
+- title: 'Topaware: Topology-aware registration'
+  author: RK Nielsen, S Darkner, A Feragen
+  year: 2019
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Accuracy of Deformable Image Registration in Radiotherapy for Liver Cancer
+  author: JD Tascón-Vidarte, LB Stick, IR Vogelius, S Darkner
+  year: 2019
+  journal: ''
+- title: Deterministic Group Tractography with Local Uncertainty Quantification
+  author: AN Holm, A Feragen, T Dela Haije, S Darkner
+  year: 2019
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Voxel-based assessment of proton RBE in paediatric brain cancer radiotherapy from multimodal imaging
+  author: M Skaarup, AL Appelt, MJ Lundemann, S Darkner, M Jørgensen, ...
+  year: 2019
+  journal: Radiotherapy and Oncology 133, S1043-S1044
+- title: 'U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging'
+  author: S Darkner
+  year: 2019
+  journal: ArXiv
+- title: What can physicians expect from deep learning in daily practice?
+  author: TH Andersen, S Darkner, H Gutte, L Lönn, JF Carlsen
+  year: 2019
+  journal: 'European Symposium on Vascular Biomaterials. 11th: Biomaterials and Digital …'
+- title: 'An average of the human ear canal: Recovering acoustical properties via shape analysis'
+  author: S Darkner, S Sommer, A Schuhmacher, HIAO Baandrup, C Thomsen, ...
+  year: 2018
+  journal: arXiv preprint arXiv:1811.03848
+- title: Brain extraction and segmentation framework for bias field rich cranial MRI scans of rats
+  author: JDK Hansen, F Lauze, S Darkner, KN Mortensen, S Sanggaard, ...
+  year: 2018
+  journal: Annual meeting ISMRM, Paris, France
+- title: Brain Segmentation in Rodent MR-Images Using Convolutional Neural Networks
+  author: B Sigurdsson, S Darkner, SH Sommer, KN Mortensen, S Sanggaard, ...
+  year: 2018
+  journal: Joint Annual Meeting ISMRM-ESMRMB
+- title: 'Safety and Efficacy of Autologous Tissue-derived Mesenchymal Stem Cells for Radiation-Induced Xerostomia: A Randomized, Placebo-Controlled Phase I/II Trial (MESRIX)'
+  author: C Grønhøj, DH Jensen, P Vester-Glowinski, SB Jensen, A Bardow, ...
+  year: 2018
+  journal: International Journal of Radiation Oncology• Biology• Physics
+- title: Collocation for diffeomorphic deformations in medical image registration
+  author: S Darkner, A Pai, MG Liptrot, J Sporring
+  year: 2017
+  journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+- title: '[P4–225]: HIPPOCAMPAL TEXTURE PREDICTS RATE OF COGNITIVE DECLINE IN MILD COGNITIVE IMPAIRMENT'
+  author: A Pai, JA Pillai, L Sørensen, S Darkner, S Sommer, M Nielsen, ...
+  year: 2017
+  journal: Alzheimer's & Dementia 13 (7S_Part_28), P1356-P1356
+- title: 'First-in-man mesenchymal stem cells for radiation-induced xerostomia (MESRIX): study protocol for a randomized controlled trial'
+  author: C Grønhøj, DH Jensen, PV Glovinski, SB Jensen, A Bardow, RS Oliveri, ...
+  year: 2017
+  journal: Trials
+- title: In vivo study of the human ear canal using contrast-enhanced MRI
+  author: S Darkner, S Jonsson, S Sommer
+  year: 2017
+  journal: 25th Annual Meeting of the International Society for Magnetic Resonance in …
+- title: 3D analysis of synaptic vesicle density and distribution after acute foot‐shock stress by using serial section transmission electron microscopy
+  author: M Khanmohammadi, S Darkner, N Nava, JR Nyengaard, G Wegener, ...
+  year: 2017
+  journal: Journal of Microscopy
+- title: A Statistical Model for Simultaneous Template Estimation, Bias Correction, and Registration of 3D Brain Images
+  author: A Pai, S Sommer, LL Raket, L Kühnel, S Darkner, L Sørensen, M Nielsen
+  year: 2016
+  journal: Bayesian and grAphical Models for Biomedical Imaging
+- title: The minimal energetic requirement of sustained awareness after brain injury
+  author: J Stender, KN Mortensen, A Thibaut, S Darkner, S Laureys, A Gjedde, ...
+  year: 2016
+  journal: Current Biology
+- title: RESTING-STATE BRAIN ENERGY METABOLISM PREDICTS LEVEL AND CONTENT OF CONSCIOUSNESS AFTER SEVERE BRAIN INJURY
+  author: J Stender, KN Mortensen, R Kupers, A Thibaut, S Darkner, S Laureys, ...
+  year: 2016
+  journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
+- title: Structural parcellation of the thalamus using shortest-path tractography
+  author: N Kasenburg, S Darkner, U Hahn, M Liptrot, A Feragen
+  year: 2016
+  journal: 2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)
+- title: Finding significantly connected voxels based on histograms of connection strengths
+  author: N Kasenburg, MV Pedersen, S Darkner
+  year: 2016
+  journal: 'Medical Imaging 2016: Image Processing'
+- title: Combining the boundary shift integral and tensor-based morphometry for brain atrophy estimation
+  author: M Michalkiewicz, A Pai, KK Leung, S Sommer, S Darkner, L Sørensen, ...
+  year: 2016
+  journal: 'Medical Imaging 2016: Image Processing'
+- title: Deformation-based atrophy computation by surface propagation and its application to Alzheimer’s disease
+  author: A Pai, J Sporring, S Darkner, EB Dam, M Lillholm, D Jørgensen, J Oh, ...
+  year: 2016
+  journal: Journal of Medical Imaging
+- title: Kernel bundle diffeomorphic image registration using stationary velocity fields and wendland basis functions
+  author: A Pai, S Sommer, L Sørensen, S Darkner, J Sporring, M Nielsen
+  year: 2015
+  journal: IEEE transactions on medical imaging
+- title: Locally orderless registration for diffusion weighted images
+  author: HG Jensen, F Lauze, M Nielsen, S Darkner
+  year: 2015
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Diffeomorphic image registration with automatic time-step adjustment
+  author: A Pai, S Klein, S Sommer, S Darkner, J Sporring, M Nielsen
+  year: 2015
+  journal: 2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI)
+- title: Automatic correction of dental artifacts in PET/MRI
+  author: CN Ladefoged, FL Andersen, SH Keller, T Beyer, I Law, L Højgaard, ...
+  year: 2015
+  journal: Journal of Medical Imaging
+- title: Image registration using stationary velocity fields parameterized by norm-minimizing wendland kernel
+  author: A Pai, S Sommer, L Sørensen, S Darkner, J Sporring, M Nielsen
+  year: 2015
+  journal: 'Medical Imaging 2015: Image Processing'
+- title: Multimodal Brain Extraction from Structural MRI using Co-registered FDG-PET
+  author: SD Henrik G Jensen, Frederik Federspiel, Maurice Ptito, Mads Nielsen, Albert ...
+  year: 2015
+  journal: CMMI Workshop MICCAI
+- title: Stepwise inverse consistent euler’s scheme for diffeomorphic image registration
+  author: A Pai, S Sommer, S Darkner, L Sørensen, J Sporring, M Nielsen
+  year: 2014
+  journal: International Workshop on Biomedical Image Registration
+- title: 'IC‐P‐131: WHITE MATTER HYPOINTENSITY GROWTH RATE CORRELATES WITH RATE OF BRAIN ATROPHY'
+  author: A Pai, L Sørensen, S Darkner, J Sporring, E Rostrup, M Nielsen
+  year: 2014
+  journal: Alzheimer's & Dementia 10, P75-P76
+- title: Estimating the thickness of ultra thin sections for electron microscopy by image statistics
+  author: J Sporring, M Khanmohammadi, S Darkner, N Nava, JR Nyengaard, ...
+  year: 2014
+  journal: 2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI)
+- title: Automatic FDG-PET-based tumor and metastatic lymph node segmentation in cervical cancer
+  author: DR Arbonès, HG Jensen, A Loft, PM af Rosenschöld, AE Hansen, C Igel, ...
+  year: 2014
+  journal: 'Medical Imaging 2014: Image Processing'
+- title: 'IC‐P‐059: Localized cerebral atrophy acceleration during Alzheimer''s disease'
+  author: A Pai, L Sorensen, S Darkner, M Lillholm, EB Dam, J Sporring, M Nielsen
+  year: 2013
+  journal: Alzheimer's & Dementia 9, P36-P37
+- title: Cube propagation for focal brain atrophy estimation
+  author: A Pai, L Sørensen, S Darkner, P Mysling, D Jørgensen, EB Dam, ...
+  year: 2013
+  journal: 2013 IEEE 10th International Symposium on Biomedical Imaging
+- title: 'Automatic measurement of wrist synovitis from contrast-enhanced MRI: a registration-centered approach'
+  author: P Mysling, S Darkner, J Sporring, E Dam, M Lillholm
+  year: 2013
+  journal: 'Medical Imaging 2013: Image Processing'
+- title: Hippocampal Texture Predicts One-Year Hippocampal Atrophy in Mild Cognitively Impaired Subjects
+  author: L Sørensen, A Pai, P Mysling, S Darkner, G Chen, J Oh, J Suhy, C Igel, ...
+  year: 2013
+  journal: European Congress of Radiology-ECR
+- title: Locally orderless registration
+  author: S Darkner, J Sporring
+  year: 2012
+  journal: IEEE transactions on pattern analysis and machine intelligence
+- title: Jet-based local image descriptors
+  author: ABL Larsen, S Darkner, AL Dahl, KS Pedersen
+  year: 2012
+  journal: European Conference on Computer Vision
+- title: Evaluation of bias in brain atrophy estimation
+  author: A Pai, S Darkner, L Sørensen, L Lillemark, P Mysling, J Sporring, EB Dam, ...
+  year: 2012
+  journal: NIBAD'12
+- title: Data driven constraints for the svm
+  author: S Darkner, LH Clemmensen
+  year: 2012
+  journal: International Workshop on Machine Learning in Medical Imaging
+- title: 'IC‐P‐013: Hippocampal texture provides volume independent information for Alzheimer''s diagnosis'
+  author: A Pai, L Sørensen, S Darkner, J Suhy, J Oh, G Chen, C Igel, M Nielsen
+  year: 2012
+  journal: Alzheimer's & Dementia 8 (4S_Part_1), P15-P15
+- title: 'In the July 2012 abstract issue of Alzheimer’s & Dementia (Volume 8, Issue 4, Supplement 2), the following errors were found: The order of authors in IC-P-013 and P1-157 …'
+  author: A Pai, S Darkner, J Suhy, J Oh, G Chen, C Igel, M Nielsen, ...
+  year: 2012
+  journal: Alzheimer’s & Dementia
+- title: Higher-Order Momentum Distributions and Locally Affine LDDMM Registration
+  author: S Sommer, M Nielsen, S Darkner, X Pennec
+  year: 2011
+  journal: arXiv preprint arXiv:1112.3166
+- title: 'Generalized partial volume: An inferior density estimator to parzen windows for normalized mutual information'
+  author: S Darkner, J Sporring
+  year: 2011
+  journal: Biennial International Conference on Information Processing in Medical …
+- title: Efficient hyperelastic regularization for registration
+  author: S Darkner, MS Hansen, R Larsen, MF Hansen
+  year: 2011
+  journal: Scandinavian Conference on Image Analysis
+- title: Jacobians for Lebesgue Registrations for a range of Sim ilarity Measures
+  author: J Sporring, S Darkner
+  year: 2011
+  journal: Department of Computer Science, University of Copenhagen
+- title: The cartilage bone junction and its implication for deep canal hearing instrument fittings
+  author: C Nielsen, S Darkner
+  year: 2011
+  journal: The Hearing Journal
+- title: Registration-based interpolation applied to cardiac MRI
+  author: H Ólafsdóttir, H Pedersen, MS Hansen, M Lyksborg, MF Hansen, ...
+  year: 2010
+  journal: 'Medical Imaging 2010: Image Processing'
+- title: 'Local Segmentation by Large Scale Hypothesis Testing: Segmentation as outlier detection'
+  author: S Darkner, AL Dahl, R Larsen, A Skimmige, E Garde, G Waldemar
+  year: 2010
+  journal: 5th International Conference on Computer Vision Theory and Applications
+- title: Active illumination and appearance model for face alignment
+  author: M GÖKMEN, F KAHRAMAN, S Darkner, R Larsen
+  year: 2010
+  journal: Turkish Journal of Electrical Engineering and Computer Sciences
+- title: Predictive Modelling of Cardiac 2D Multi-Slice MRI with Simultaneous Resolution of Cardiac and Respiratory Motion
+  author: H Pedersen, H Ólafsdóttir, S Darkner, M Lyksborg, R Larsen
+  year: 2009
+  journal: CI2BM09-MICCAI Workshop on Cardiovascular Interventional Imaging and …
+- title: Shape and Deformation Analysis of the Human Ear Canal
+  author: S Darkner
+  year: 2009
+  journal: Technical University of Denmark, DTU Informatics, Building
+- title: Analysis of surfaces using constrained regression models
+  author: S Darkner, MR Sabuncu, P Golland, RR Paulsen, R Larsen
+  year: 2008
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Estimation of shape model parameters for 3D surfaces
+  author: SGH Erbou, S Darkner, J Fripp, S Ourselin, BK Ersboll
+  year: 2008
+  journal: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano to …'
+- title: Robust registration for change detection
+  author: S Darkner, DW Hansen, RR Paulsen, R Larsen
+  year: 2008
+  journal: 'Medical Imaging 2008: Image Processing'
+- title: Non-rigid registration of 2D manifolds in 3D Euclidian space
+  author: S Darkner, M Vester-Christensen, RR Paulsen, R Larsen
+  year: 2008
+  journal: 'Medical Imaging 2008: Image Processing'
+- title: Robust registration for change detection [6914-101]
+  author: S Darkner, DW Hansen, RR Paulsen, R Larsen
+  year: 2008
+  journal: PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6914 (2 …
+- title: Non-rigid registration of 2D manifolds in 3D Euclidian space [6914-99]
+  author: S Darkner, M Vester-Christensen, RR Paulsen, R Larsen
+  year: 2008
+  journal: PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6914 (2 …
+- title: Analysis of deformation of the human ear and canal caused by mandibular movement
+  author: S Darkner, R Larsen, RR Paulsen
+  year: 2007
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: An active illumination and appearance (AIA) model for face alignment
+  author: F Kahraman, M Gokmen, S Darkner, R Larsen
+  year: 2007
+  journal: 2007 IEEE Conference on Computer Vision and Pattern Recognition
+- title: Texture enhanced appearance models
+  author: R Larsen, MB Stegmann, S Darkner, S Forchhammer, TF Cootes, ...
+  year: 2007
+  journal: Computer Vision and Image Understanding
+- title: Evaluating a method for automated rigid registration
+  author: S Darkner, M Vester-Christensen, R Larsen, RR Paulsen
+  year: 2007
+  journal: 'Medical Imaging 2007: Image Processing'
+- title: Accelerated 3D image registration
+  author: M Vester-Christensen, SG Erbou, S Darkner, R Larsen
+  year: 2007
+  journal: 'Medical Imaging 2007: Image Processing'
+- title: Automated 3D rigid registration of open 2D manifolds
+  author: S Darkner, M Vester-Christensen, R Larsen, RR Paulsen, C Nielsen
+  year: 2006
+  journal: MICCAI 2006 Workshop From Statistical Atlases to Personalized Models
+- title: Wedgelet enhanced appearance models
+  author: S Darkner, R Larsen, MB Stegmann, BK Ersboll
+  year: 2004
+  journal: 2004 Conference on Computer Vision and Pattern Recognition Workshop
+- title: Some issues of biological shape modelling with applications
+  author: R Larsen, KB Hilger, K Skoglund, S Darkner, RR Paulsen, MB Stegmann, ...
+  year: 2003
+  journal: Scandinavian Conference on Image Analysis
+- title: Wedgelet Compression for Appearance Models
+  author: S Darkner, R Larsen
+  year: 2003
+  journal: 12th Danish Conference on Pattern Recognition and Image Analysis
+- title: Automated visual scoring of psoriasis
+  author: DD Gomez, TK Jensen, S Darkner, JM Carstensen
+  year: 2002
+  journal: Informatics and Mathematical Modelling
+- title: 'MIPLS2: Exploiting PLS2 to impute missing values in a two-block system with multiple response variables'
+  author: A Tashk, KM Sørensen, SB Engelsen, KS Pedersen, CE Eskildsen
+  year: 2025
+  journal: Analytica Chimica Acta
+- title: 'Transforming hyperspectral images into chemical maps: a novel End‐to‐End Deep Learning approach'
+  author: OC Galbo Engstrøm, M Albano‐Gaglio, E Schou Dreier, Y Bouzembrak, ...
+  year: 2025
+  journal: Journal of Chemometrics
+- title: 'Integrating deep learning derived morphological traits and molecular data for total-evidence phylogenetics: lessons from digitized collections'
+  author: R Hunt, JL Reyes-Hernández, JJ Shaw, A Solodovnikov, KS Pedersen
+  year: 2025
+  journal: Systematic Biology
+- title: A Time Series Dataset of NIR Spectra and RGB and NIR-HSI Images of the Barley Germination Process
+  author: OCG Engstrøm, ES Dreier, BM Jespersen, KS Pedersen
+  year: 2025
+  journal: arXiv preprint arXiv:2504.16658
+- title: 'Transforming Hyperspectral Images Into Chemical Maps: An End-to-End Deep Learning Approach.'
+  author: OCG Engstrøm, M Albano-Gaglio, ES Dreier, Y Bouzembrak, ...
+  year: 2025
+  journal: CoRR
+- title: The Phantom of the Elytra--Phylogenetic Trait Extraction from Images of Rove Beetles Using Deep Learning--Is the Mask Enough?
+  author: R Hunt, KS Pedersen
+  year: 2025
+  journal: arXiv preprint arXiv:2502.04541
+- title: 'Ikpls: Improved kernel partial least squares and fast cross-validation algorithms for python with cpu and gpu implementations using numpy and jax'
+  author: OCG Engstrøm, ES Dreier, BM Jespersen, KS Pedersen
+  year: 2024
+  journal: Journal of Open Source Software
+- title: Analyzing near-infrared hyperspectral imaging for protein content regression and grain variety classification using bulk references and varying grain-to-background ratios
+  author: OCG Engstrøm, ES Dreier, BM Jespersen, KS Pedersen
+  year: 2023
+  journal: arXiv preprint arXiv:2311.04042
 - title: Improving deep learning on hyperspectral images of grain by incorporating domain knowledge from chemometrics
   author: OCG Engstrøm, ES Dreier, BM Jespersen, KS Pedersen
   year: 2023
   journal: 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW …
-- title: Differentiable depth for real2sim calibration of soft body simulations
-  author: K Arnavaz, MK Nielsen, PG Kry, M Macklin, K Erleben
+- title: 'Refractive pose refinement: Generalising the geometric relation between camera and refractive interface'
+  author: X Hu, F Lauze, KS Pedersen
   year: 2023
-  journal: Computer Graphics Forum 42 (1), 277-289
-- title: Deep-learning-based segmentation of individual tooth and bone with periodontal ligament interface details for simulation purposes
-  author: P Xu, T Gholamalizadeh, F Moshfeghifar, S Darkner, K Erleben
-  year: 2023
-  journal: IEEE Access 11, 102460-102470
-- title: 'cRedAnno+: Annotation Exploitation In Self-Explanatory Lung Nodule Diagnosis'
-  author: J Lu, C Yin, K Erleben, MB Nielsen, S Darkner
-  year: 2023
-  journal: 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI), 1-5
-- title: Controllable motion synthesis and reconstruction with autoregressive diffusion models
-  author: W Yin, R Tu, H Yin, D Kragic, H Kjellström, M Björkman
-  year: 2023
-  journal: 2023 32nd IEEE International Conference on Robot and Human Interactive …
-- title: Heterogeneous Full-body Control of a Mobile Manipulator with Behavior Trees
-  author: M Iannotta, D Cáceres Domínguez, JA Stork, E Schaffernicht, T Stoyanov
-  year: 2022
-  journal: arXiv preprint arXiv:2210.08600
-- title: Hyperspectral imaging for classification of bulk grain samples with deep convolutional neural networks
-  author: ES Dreier, KM Sorensen, T Lund-Hansen, BM Jespersen, KS Pedersen
-  year: 2022
-  journal: Journal of Near Infrared Spectroscopy 30 (3), 107-121
+  journal: International Journal of Computer Vision
 - title: 'Rove-Tree-11: the not-so-wild rover a hierarchically structured image dataset for deep metric learning research'
   author: R Hunt, KS Pedersen
   year: 2022
-  journal: Asian Conference on Computer Vision, 425-441
-- title: 'A stack-of-tasks approach combined with behavior trees: A new framework for robot control'
-  author: D Cáceres Domínguez, M Iannotta, JA Stork, E Schaffernicht, T Stoyanov
+  journal: Asian Conference on Computer Vision
+- title: Hyperspectral imaging for classification of bulk grain samples with deep convolutional neural networks
+  author: ES Dreier, KM Sorensen, T Lund-Hansen, BM Jespersen, KS Pedersen
   year: 2022
-  journal: IEEE Robotics and Automation Letters 7 (4), 12110-12117
-- title: 'Consensus-based normalizing-flow control: A case study in learning dual-arm coordination'
-  author: H Yin, CK Verginis, D Kragic
-  year: 2022
-  journal: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+  journal: Journal of Near Infrared Spectroscopy
 - title: Predicting protein content in grain using hyperspectral deep learning
   author: OCG Engstrøm, ES Dreier, KS Pedersen
   year: 2021
@@ -426,110 +2134,782 @@
   author: X Hu, F Lauze, KS Pedersen, J Mélou
   year: 2021
   journal: 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW …
+- title: Pre-harvest weed mapping of Cirsium arvense in wheat and barley with off-the-shelf UAVs
+  author: J Rasmussen, J Nielsen, JC Streibig, JE Jensen, KS Pedersen, SI Olsen
+  year: 2019
+  journal: Precision Agriculture
 - title: A cross-center smoothness prior for variational Bayesian brain tissue segmentation
   author: WM Kouw, SN Ørting, J Petersen, KS Pedersen, M de Bruijne
   year: 2019
-  journal: International Conference on Information Processing in Medical Imaging, 360-371
+  journal: International Conference on Information Processing in Medical Imaging
+- title: Deep learning for detection of railway signs and signals
+  author: G Karagiannis, S Olsen, K Pedersen
+  year: 2019
+  journal: Science and Information Conference
+- title: 'Big universe, big data: machine learning and image analysis for astronomy'
+  author: J Kremer, K Stensbo-Smidt, F Gieseke, KS Pedersen, C Igel
+  year: 2017
+  journal: IEEE Intelligent Systems
+- title: 'Sacrificing information for the greater good: how to select photometric bands for optimal accuracy'
+  author: K Stensbo-Smidt, F Gieseke, C Igel, A Zirm, K Steenstrup Pedersen
+  year: 2017
+  journal: Monthly Notices of the Royal Astronomical Society
+- title: Recycling on a Cosmic Scale
+  author: K Stensbo-Smidt, KS Pedersen, C Igel
+  year: 2016
+  journal: ''
+- title: Special section on 19th Scandinavian conference on image analysis (SCIA 2015)
+  author: K Steenstrup Pedersen, RR Paulsen
+  year: 2016
+  journal: Pattern Recognition Letters
+- title: Droner til monitering af flerårigt ukrudt i korn
+  author: J Rasmussen, J Nielsen, JC Streibig, SI Olsen, KS Pedersen, JE Jensen
+  year: 2016
+  journal: Bekæmpelsesmiddelforskning
+- title: Nearest neighbor density ratio estimation for large-scale applications in astronomy
+  author: J Kremer, F Gieseke, KS Pedersen, C Igel
+  year: 2015
+  journal: Astronomy and Computing
+- title: 'Image Analysis: 19th Scandinavian Conference, SCIA 2015, Copenhagen, Denmark, June 15-17, 2015. Proceedings'
+  author: RR Paulsen, KS Pedersen
+  year: 2015
+  journal: Springer
+- title: 'Image Analysis.: Proceedings. 19th Scandinavian Conference, SCIA 2015Copenhagen, Denmark, June 15–17, 2015'
+  author: RR Paulsen, KS Pedersen
+  year: 2015
+  journal: 19th Scandinavian Conference on Image Analysis
+- title: Pre-harvest assessment of perennial weeds in cereals based on images from unmanned aerial systems (UAS)
+  author: JG Egilsson, KS Pedersen, SI Olsen, J Nielsen, G Ntakos, J Rasmussen
+  year: 2015
+  journal: 17th European Weed Research Society Symposium “Weed management in changing …
+- title: 'Civile Droner i Danmark: Kortlægning og teknologivurdering'
+  author: A Lygum, JS Nielsen, NB Bådum, A la Cour-Harbo, JP Hansen, ...
+  year: 2014
+  journal: Teknologi Rådet
+- title: 'Civile droner i Danmark: Potentialer, udfordringer og anbefalinger'
+  author: AKS Lygum, JS Nielsen, NB Bådum, A la Cour-Harbo, JP Hansen, ...
+  year: 2014
+  journal: Teknologirådet
+- title: Active learning with support vector machines
+  author: J Kremer, K Steenstrup Pedersen, C Igel
+  year: 2014
+  journal: 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 4 (4 …'
+- title: 'Erratum to: Interesting Interest Points'
+  author: H Aanæs, AL Dahl, KS Pedersen
+  year: 2014
+  journal: International Journal of Computer Vision
+- title: Nearest neighbour regression outperforms model-based prediction of specific star formation rate
+  author: K Stensbo-Smidt, C Igel, A Zirm, KS Pedersen
+  year: 2013
+  journal: 2013 IEEE international conference on big data
+- title: Unscented Kalman filtering on Riemannian manifolds
+  author: S Hauberg, F Lauze, KS Pedersen
+  year: 2013
+  journal: Journal of mathematical imaging and vision
+- title: Shape index descriptors applied to texture-based galaxy analysis
+  author: KS Pedersen, K Stensbo-Smidt, A Zirm, C Igel
+  year: 2013
+  journal: Proceedings of the IEEE International Conference on Computer Vision
+- title: Spatial measures between human poses for classification and understanding
+  author: S Hauberg, K Steenstrup Pedersen
+  year: 2012
+  journal: International Conference on Articulated Motion and Deformable Objects
+- title: Natural metrics and least-committed priors for articulated tracking
+  author: S Hauberg, S Sommer, KS Pedersen
+  year: 2012
+  journal: Image and Vision Computing 30 (6-7)
+- title: HUMIM Software for Articulated Tracking
+  author: S Hauberg, KS Pedersen
+  year: 2012
+  journal: Technical report, DIKU, University of Copenhagen
+- title: Interesting interest points–a survey of interest point performance on a unique data set
+  author: H Aanæs, AL Dahl, KS Pedersen
+  year: 2012
+  journal: International Journal of Computer Vision 97 (1), 18--35
+- title: Predicting articulated human motion from spatial processes
+  author: S Hauberg, KS Pedersen
+  year: 2011
+  journal: International Journal of Computer Vision
+- title: Data-driven importance distributions for articulated tracking
+  author: S Hauberg, KS Pedersen
+  year: 2011
+  journal: International Workshop on Energy Minimization Methods in Computer Vision and …
+- title: An empirical study on the performance of spectral manifold learning techniques
+  author: P Mysling, S Hauberg, KS Pedersen
+  year: 2011
+  journal: International Conference on Artificial Neural Networks
+- title: Unscented kalman filtering for articulated human tracking
+  author: ABL Larsen, S Hauberg, KS Pedersen
+  year: 2011
+  journal: Scandinavian conference on Image analysis
+- title: Finding the best feature detector-descriptor combination
+  author: AL Dahl, H Aanæs, KS Pedersen
+  year: 2011
+  journal: 2011 international conference on 3d imaging, modeling, processing …
+- title: Stick it! articulated tracking using spatial rigid object priors
+  author: S Hauberg, KS Pedersen
+  year: 2010
+  journal: Asian Conference on Computer Vision
+- title: Gaussian-like spatial priors for articulated tracking
+  author: S Hauberg, S Sommer, KS Pedersen
+  year: 2010
+  journal: European Conference on Computer Vision
+- title: On recall rate of interest point detectors
+  author: H Aanæs, AL Dahl, KS Pedersen
+  year: 2010
+  journal: 5th International Symposium on 3D Data Processing, Visualization and …
+- title: On the rate of structural change in scale spaces
+  author: D Gustavsson, KS Pedersen, F Lauze, M Nielsen
+  year: 2009
+  journal: International Conference on Scale Space and Variational Methods in Computer …
+- title: On Texture and Geometry in Image Analysis
+  author: D Gustavsson, M Nielsen, KS Pedersen
+  year: 2009
+  journal: ''
+- title: A SVD Based Image Complexity Measure
+  author: DKJ Gustafsson, KS Pedersen, M Nielsen
+  year: 2009
+  journal: International Conference on Computer Vision Theory and Applications (VISAPP …
+- title: Interactive Inverse Kinematics for Human Motion Estimation
+  author: M Engell-Nørregård, S Hauberg, J Lapuyade, K Erleben, KS Pedersen
+  year: 2009
+  journal: Workshop on Virtual Reality Interaction and Physical Simulation VRIPHYS …
+- title: Special issue on tribute workshop for Peter Johansen
+  author: M Nielsen, M de Bruijne, C Jørgensen, SI Olsen, KS Pedersen, J Sporring
+  year: 2008
+  journal: Journal of Mathematical Imaging and Vision
+- title: Field of particle filters for image inpainting
+  author: A Cuzol, KS Pedersen, M Nielsen
+  year: 2008
+  journal: Journal of Mathematical Imaging and Vision
+- title: Second order structure of scale-space measurements
+  author: B Markussen, KS Pedersen, M Loog
+  year: 2008
+  journal: Journal of Mathematical Imaging and Vision
+- title: 'Multi-Scale Natural Images: A database and some statistics'
+  author: DKJ Gustafsson, KS Pedersen, M Nielsen
+  year: 2008
+  journal: Proceedings of 16'th Danish Conference on Pattern Recognition and Image …
+- title: Tribute Workshop for Peter Johansen
+  author: M Nielsen, M de Bruijne, CH Jørgensen, SI Olsen, KS Pedersen, ...
+  year: 2008
+  journal: Springer
+- title: 'A curious robot: an explorative-exploitive inference algorithm'
+  author: KS Pedersen, P Johansen
+  year: 2007
+  journal: ROBOMAT
+- title: Proceedings of the 15th Scandinavian conference on Image analysis
+  author: KB Ersbøll, KS Pedersen
+  year: 2007
+  journal: Springer-Verlag
+- title: Image inpainting by cooling and heating
+  author: D Gustavsson, KS Pedersen, M Nielsen
+  year: 2007
+  journal: Scandinavian Conference on Image Analysis
+- title: 'Image Analysis: 15th Scandinavian Conference, SCIA 2007, Aalborg, Denmark, June 10-24, 2007, Proceedings'
+  author: BK Ersbøll
+  year: 2007
+  journal: Springer Science & Business Media
+- title: 'Image Analysis: 15th Scandinavian Conference, SCIA 2007, Aalborg, Denmark, June 10-14, 2007 00'
+  author: KS Pedersen
+  year: 2007
+  journal: Springer-Verlag Berlin Heidelberg
+- title: Salient point and scale detection by minimum likelihood
+  author: KS Pedersen, M Loog, P van Dorst
+  year: 2007
+  journal: 'JMLR: Workshop and Conference Proceedings: Gaussian Processes in Practice, 1 …'
+- title: Generic maximum likely scale selection
+  author: K Pedersen, M Loog, B Markussen
+  year: 2007
+  journal: 1st International Conference on Scale Space and Variational Methods in …
+- title: Geometric and texture inpainting by Gibbs sampling
+  author: DKJ Gustafsson, KS Pedersen, M Nielsen
+  year: 2007
+  journal: Swedish Symposium on Image Analysis (SSBA '07)
+- title: AI for real-time strategy games
+  author: A Walther, KS Pedersen, M Loog
+  year: 2006
+  journal: Master's thesis, IT-University of Copenhagen
+- title: Minimum Likelihood Image Feature and Scale Detection Based on the Brownian Image Model
+  author: KS Pedersen, P van Dorst, M Loog
+  year: 2006
+  journal: Gaussian Processes in Practice Workshop
+- title: Detecting Interlaced or Progressive Source of Video
+  author: S Keller, KS Pedersen, F Lauze
+  year: 2005
+  journal: Multimedia Signal Processing, 2005 IEEE 7th Workshop on, 181 -
+- title: Maximum likely scale estimation
+  author: M Loog, KS Pedersen, B Markussen
+  year: 2005
+  journal: International Workshop on Deep Structure, Singularities, and Computer Vision …
+- title: A scale invariant covariance structure on jet space
+  author: B Markussen, KS Pedersen, M Loog
+  year: 2005
+  journal: International Workshop on Deep Structure, Singularities, and Computer Vision …
+- title: On α Kernels, Lévy Processes, and Natural Image Statistics
+  author: KS Pedersen, R Duits, M Nielsen
+  year: 2005
+  journal: International Conference on Scale-Space Theories in Computer Vision
+- title: Jet based feature classification
+  author: M Lillholm, KS Pedersen
+  year: 2004
+  journal: Proceedings of the 17th International Conference on Pattern Recognition …
+- title: 'Brownian images: A generic background model'
+  author: KS Pedersen, M Lillholm
+  year: 2004
+  journal: Proceedings of Workshop on Statistical Learning in Computer Vision
+- title: The nonlinear statistics of high-contrast patches in natural images
+  author: AB Lee, KS Pedersen, D Mumford
+  year: 2003
+  journal: International Journal of Computer Vision
+- title: Generalized Context Learning
+  author: P Johansen, KS Pedersen
+  year: 2003
+  journal: Proceedings of DSAGM'03
+- title: Properties of brownian image models in scale-space
+  author: KS Pedersen
+  year: 2003
+  journal: International Conference on Scale-Space Theories in Computer Vision
+- title: Statistics of natural image geometry
+  author: KS Pedersen
+  year: 2003
+  journal: Department of Computer Science
+- title: Toward a full probability model of edges in natural images
+  author: KS Pedersen, AB Lee
+  year: 2002
+  journal: European Conference on Computer Vision
+- title: Technical Report DIKU-TR-00/3 Department of Computer Science University of Copenhagen Universitetsparken
+  author: KS Pedersen
+  year: 2001
+  journal: ''
+- title: Computing optic flow by scale-space integration of normal flow
+  author: K Pedersen, M Nielsen
+  year: 2001
+  journal: Scale-Space and Morphology in Computer Vision
+- title: The complex statistics of high-contrast patches in natural images
+  author: AB Lee, KS Pedersen, D Mumford
+  year: 2001
+  journal: WWW Proceedings of Second International IEEE Workshop on Statistical and …
+- title: The hausdorff dimension and scale-space normalization of natural images
+  author: KS Pedersen, M Nielsen
+  year: 2000
+  journal: Journal of Visual communication and image representation
+- title: Turbulence in optical flow fields
+  author: KS Pedersen
+  year: 2000
+  journal: Datalogisk Institut, Københavns Universitet
+- title: The Hausdorff Dimension and Scale-Space
+  author: KS Pedersen, M Nielsen, U DIKU
+  year: 1999
+  journal: 'Scale-Space Theories in Computer Vision: Second International Conference …'
+- title: The hausdorff dimension and scale-space normalisation of natural images
+  author: K Pedersen, M Nielsen
+  year: 1999
+  journal: Scale-Space Theories in Computer Vision
+- title: 'CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection'
+  author: Z Cheng, H Wei, H Yin, X Xu, B Yu, J Zhou, J Lu
+  year: 2026
+  journal: arXiv preprint arXiv:2604.07457
+- title: Learning Multi-Robot Coordination with Invariant Consensus Stabilization
+  author: H Yin, CK Verginis, D Kragic
+  year: 2026
+  journal: Proceedings of Machine Learning Research vol
+- title: 'Towards Safe Reinforcement Learning with Reduced Conservativeness: A Case Study on Drone Flight Control'
+  author: L Hadjiloizou, MC Welle, H Yin, D Kragic
+  year: 2025
+  journal: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+- title: Real-time iteration scheme for diffusion policy
+  author: Y Duan, H Yin, D Kragic
+  year: 2025
+  journal: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+- title: 'GC-VLN: Instruction as graph constraints for training-free vision-and-language navigation'
+  author: H Yin, H Wei, X Xu, W Guo, J Zhou, J Lu
+  year: 2025
+  journal: arXiv preprint arXiv:2509.10454
+- title: 'Unfolding the literature: A review of robotic cloth manipulation'
+  author: A Longhini, Y Wang, I Garcia-Camacho, D Blanco-Mulero, M Moletta, ...
+  year: 2025
+  journal: Annual Review of Control, Robotics, and Autonomous Systems
+- title: Reducing Variance in Meta-Learning via Laplace Approximation for Regression Tasks
+  author: A Reichlin, G Tegnér, M Vasco, H Yin, M Björkman, D Kragic
+  year: 2024
+  journal: arXiv preprint arXiv:2410.01476
+- title: Interactive perception for deformable object manipulation
+  author: Z Weng, P Zhou, H Yin, A Kravberg, A Varava, D Navarro-Alarcon, ...
+  year: 2024
+  journal: IEEE Robotics and Automation Letters
+- title: Scalable motion style transfer with constrained diffusion generation
+  author: W Yin, Y Yu, H Yin, D Kragic, M Björkman
+  year: 2024
+  journal: Proceedings of the AAAI Conference on Artificial Intelligence 38 (9), 10234 …
+- title: 'Lm2d: Lyrics-and music-driven dance synthesis'
+  author: W Yin, X Zhao, Y Yu, H Yin, D Kragic, M Björkman
+  year: 2024
+  journal: arXiv preprint arXiv:2403.09407
+- title: Goal-Conditioned Reinforcement Learning from Sub-Optimal Data on Metric Spaces
+  author: A Reichlin, M Vasco, H Yin, D Kragic
+  year: 2024
+  journal: arXiv preprint arXiv:2402.10820
+- title: Learning goal-conditioned policies from sub-optimal offline data via metric learning
+  author: A Reichlin, M Vasco, H Yin, D Kragic
+  year: 2024
+  journal: arXiv preprint arXiv:2402.10820
+- title: Goal-conditioned offline reinforcement learning via metric learning
+  author: A Reichlin, M Vasco, H Yin, D Kragic
+  year: 2024
+  journal: arXiv preprint arXiv
+- title: Music-and Lyrics-driven Dance Synthesis
+  author: W Yin, Q Yao, Y Yu, H Yin, D Kragic, M Björkman
+  year: 2023
+  journal: arXiv preprint arXiv:2310.00455
+- title: Learning Geometric Representations of Objects via Interaction
+  author: A Reichlin, GL Marchetti, H Yin, A Varava, D Kragic
+  year: 2023
+  journal: Joint European Conference on Machine Learning and Knowledge Discovery in …
+- title: Controllable motion synthesis and reconstruction with autoregressive diffusion models
+  author: W Yin, R Tu, H Yin, D Kragic, H Kjellström, M Björkman
+  year: 2023
+  journal: 2023 32nd IEEE International Conference on Robot and Human Interactive …
+- title: 'Multimodal dance style transfer: W. Yin et al.'
+  author: W Yin, H Yin, K Baraka, D Kragic, M Björkman
+  year: 2023
+  journal: Machine Vision and Applications
+- title: Dance style transfer with cross-modal transformer
+  author: W Yin, H Yin, K Baraka, D Kragic, M Björkman
+  year: 2023
+  journal: 2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …
+- title: 'Consensus-based normalizing-flow control: A case study in learning dual-arm coordination'
+  author: H Yin, CK Verginis, D Kragic
+  year: 2022
+  journal: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+- title: 'Back to the manifold: Recovering from out-of-distribution states'
+  author: A Reichlin, GL Marchetti, H Yin, A Ghadirzadeh, D Kragic
+  year: 2022
+  journal: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+- title: Embedding Koopman optimal control in robot policy learning
+  author: H Yin, MC Welle, D Kragic
+  year: 2022
+  journal: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+- title: Enabling visual action planning for object manipulation through latent space roadmap
+  author: M Lippi, P Poklukar, MC Welle, A Varava, H Yin, A Marino, D Kragic
+  year: 2022
+  journal: IEEE Transactions on Robotics
+- title: On the Subspace Structure of Gradient-Based Meta-Learning
+  author: G Tegnér, A Reichlin, H Yin, M Björkman, D Kragic
+  year: 2022
+  journal: arXiv preprint arXiv:2207.03804
+- title: Geometric multimodal contrastive representation learning
+  author: P Poklukar, M Vasco, H Yin, FS Melo, A Paiva, D Kragic
+  year: 2022
+  journal: International Conference on Machine Learning
+- title: Call for Papers Focused Section on Design, Modeling, Learning and Control for Bimanual Manipulation Mechatronics
+  author: S Calinon, F Chen, M Li, N Figueroa, H Yin, J Silverio, A Billard
+  year: 2022
+  journal: IEEE-ASME TRANSACTIONS ON MECHATRONICS
+- title: Leveraging hierarchy in multimodal generative models for effective cross-modality inference
+  author: M Vasco, H Yin, FS Melo, A Paiva
+  year: 2022
+  journal: Neural Networks
+- title: Learning geometric representations of interactive objects
+  author: A Reichlin, GL Marchetti, H Yin, A Varava, D Kragic
+  year: 2022
+  journal: ''
+- title: 'How to sense the world: Leveraging hierarchy in multimodal perception for robust reinforcement learning agents'
+  author: M Vasco, H Yin, FS Melo, A Paiva
+  year: 2021
+  journal: arXiv preprint arXiv:2110.03608
+- title: Graph-based task-specific prediction models for interactions between deformable and rigid objects
+  author: Z Weng, F Paus, A Varava, H Yin, T Asfour, D Kragic
+  year: 2021
+  journal: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+- title: Learning deep energy shaping policies for stability-guaranteed manipulation
+  author: SA Khader, H Yin, P Falco, D Kragic
+  year: 2021
+  journal: IEEE Robotics and Automation Letters
+- title: Graph-based normalizing flow for human motion generation and reconstruction
+  author: W Yin, H Yin, D Kragic, M Björkman
+  year: 2021
+  journal: 2021 30th IEEE international conference on robot & human interactive …
+- title: Learning stable normalizing-flow control for robotic manipulation
+  author: SA Khader, H Yin, P Falco, D Kragic
+  year: 2021
+  journal: 2021 IEEE International Conference on Robotics and Automation (ICRA)
+- title: Modeling, learning, perception, and control methods for deformable object manipulation
+  author: H Yin, A Varava, D Kragic
+  year: 2021
+  journal: Science Robotics 6 (54), eabd8803
+- title: Long-term Human Motion Generation and Reconstruction Using Graph-based Normalizing Flow
+  author: W Yin, H Yin, D Kragic, M Björkman
+  year: 2021
+  journal: arXiv
+- title: Dynamic environments with deformable objects
+  author: R Antonova, P Shi, H Yin, Z Weng, DK Jensfelt
+  year: 2021
+  journal: Thirty-fifth Conference on Neural Information Processing Systems Datasets …
+- title: Learning Deep Neural Policies with Stability Guarantees
+  author: S Abdul Khader, H Yin, P Falco, D Kragic
+  year: 2021
+  journal: ''
+- title: Latent space roadmap for visual action planning of deformable and rigid object manipulation
+  author: M Lippi, P Poklukar, MC Welle, A Varava, H Yin, A Marino, D Kragic
+  year: 2020
+  journal: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …
+- title: Stability-guaranteed reinforcement learning for contact-rich manipulation
+  author: SA Khader, H Yin, P Falco, D Kragic
+  year: 2020
+  journal: IEEE Robotics and Automation Letters
+- title: In-hand manipulation of objects with unknown shapes
+  author: S Cruciani, H Yin, D Kragic
+  year: 2020
+  journal: 2020 IEEE International Conference on Robotics and Automation (ICRA)
+- title: Data-efficient model learning and prediction for contact-rich manipulation tasks
+  author: SA Khader, H Yin, P Falco, D Kragic
+  year: 2020
+  journal: IEEE robotics and automation letters
+- title: Benchmarking bimanual cloth manipulation
+  author: I Garcia-Camacho, M Lippi, MC Welle, H Yin, R Antonova, A Varava, ...
+  year: 2020
+  journal: IEEE Robotics and Automation Letters
+- title: An ensemble inverse optimal control approach for robotic task learning and adaptation
+  author: H Yin, FS Melo, A Paiva, A Billard
+  year: 2019
+  journal: Autonomous Robots
+- title: Probabilistic model learning and long-term prediction forcontact-rich manipulation tasks
+  author: P Khader, H Yin, D Kragic
+  year: 2019
+  journal: CoRR, vol. abs/1909.04915
+- title: Do children perceive whether a robotic peer is learning or not?
+  author: S Chandra, R Paradeda, H Yin, P Dillenbourg, R Prada, A Paiva
+  year: 2018
+  journal: Proceedings of the 2018 ACM/IEEE international conference on human-robot …
+- title: Incorporating human expertise in robot motion learning and synthesis
+  author: H Yin
+  year: 2018
+  journal: EPFL
+- title: Boosting Robot Learning and Control with Domain Constraints
+  author: H Yin, FS Melo, A Billard, A Paiva
+  year: 2018
+  journal: 'Robotics: Science and Systems: RSS Pioneer Workshop'
+- title: Affect of robot's competencies on children's perception
+  author: S Chandra, R Paradeda, H Yin, P Dillenbourg, R Prada, A Paiva
+  year: 2017
+  journal: Proceedings of the 16th Conference on Autonomous Agents and MultiAgent …
+- title: Associate latent encodings in learning from demonstrations
+  author: H Yin, F Melo, A Billard, A Paiva
+  year: 2017
+  journal: Proceedings of the AAAI conference on artificial intelligence
+- title: Synthesizing robotic handwriting motion by learning from human demonstrations
+  author: H Yin, P Alves-Oliveira, FS Melo, A Billard, A Paiva
+  year: 2016
+  journal: Proceedings of the 25th International Joint Conference on Artificial …
+- title: Bidirectional learning of handwriting skill in human-robot interaction
+  author: H Yin, A Billard, A Paiva
+  year: 2015
+  journal: Proceedings of the Tenth Annual ACM/IEEE International Conference on Human …
+- title: Learning cost function and trajectory for robotic writing motion
+  author: H Yin, A Paiva, A Billard
+  year: 2014
+  journal: 2014 IEEE-RAS International Conference on Humanoid Robots
+- title: Learning object-level impedance control for robust grasping and dexterous manipulation
+  author: M Li, H Yin, K Tahara, A Billard
+  year: 2014
+  journal: 2014 IEEE International Conference on Robotics and Automation (ICRA)
+- title: 'Optics based motion measurement for a catheter navigation system: A novel and low cost approach'
+  author: Y Yan, D Chen, H Yin
+  year: 2010
+  journal: International Conference on Intelligent Robotics and Applications
+- title: Design of a humanoid robot simulation platform based on MRDS
+  author: H Yin, YH Yan
+  year: 2010
+  journal: Shanghai Jiaotong Daxue Xuebao/Journal of Shanghai Jiaotong University 44 …
+- title: Planning and control of biped walking along curved paths on unknown and uneven terrain
+  author: GQ Zhang, M Xie, H Yin, L Wang, HJ Yang
+  year: 2009
+  journal: International Conference on Intelligent Robotics and Applications
+- title: The First WARA Robotics Mobile Manipulation Challenge-Lessons Learned
+  author: DC Domínguez, M Iannotta, A Kashyap, S Sun, Y Yang, C Cella, ...
+  year: 2025
+  journal: 2025 European Conference on Mobile Robots (ECMR)
+- title: 'Beyond predefined actions: Integrating behavior trees and dynamic movement primitives for robot learning from demonstration'
+  author: DC Domínguez, E Schaffernicht, T Stoyanov
+  year: 2025
+  journal: arXiv preprint arXiv:2505.08625
+- title: Learning Interpretable Robot Policies from Demonstration
+  author: DC Dominguez
+  year: 2025
+  journal: Ph. D. dissertation, Örebro University
+- title: Evaluating behavior trees
+  author: S Gugliermo, D Cáceres Domínguez, M Iannotta, T Stoyanov, ...
+  year: 2024
+  journal: Robotics and Autonomous Systems
+- title: Heterogeneous Full-body Control of a Mobile Manipulator with Behavior Trees
+  author: M Iannotta, D Cáceres Domínguez, JA Stork, E Schaffernicht, T Stoyanov
+  year: 2022
+  journal: arXiv preprint arXiv:2210.08600
+- title: 'A stack-of-tasks approach combined with behavior trees: A new framework for robot control'
+  author: D Cáceres Domínguez, M Iannotta, JA Stork, E Schaffernicht, T Stoyanov
+  year: 2022
+  journal: IEEE Robotics and Automation Letters
 - title: Research Article The Influence of Speed and Position in Dynamic Gesture Recognition for Human-Robot Interaction
   author: JC Castillo, F Alonso-Martín, D Cáceres-Domínguez, M Malfaz, ...
   year: 2019
   journal: ''
-- title: Pre-harvest weed mapping of Cirsium arvense in wheat and barley with off-the-shelf UAVs
-  author: J Rasmussen, J Nielsen, JC Streibig, JE Jensen, KS Pedersen, SI Olsen
-  year: 2019
-  journal: Precision Agriculture 20 (5), 983-999
-- title: Deep learning for detection of railway signs and signals
-  author: G Karagiannis, S Olsen, K Pedersen
-  year: 2019
-  journal: Science and Information Conference, 1-15
 - title: The Influence of Speed and Position in Dynamic Gesture Recognition for Human‐Robot Interaction
   author: JC Castillo, F Alonso-Martín, D Cáceres-Domínguez, M Malfaz, ...
   year: 2019
-  journal: Journal of Sensors 2019 (1), 7060491
+  journal: Journal of Sensors
 - title: Dynamic gesture recognition for social robots
   author: JC Castillo, D Cáceres-Domínguez, F Alonso-Martín, Á Castro-González, ...
   year: 2017
-  journal: International Conference on Social Robotics, 495-505
-- title: 'Big universe, big data: machine learning and image analysis for astronomy'
-  author: J Kremer, K Stensbo-Smidt, F Gieseke, KS Pedersen, C Igel
-  year: 2017
-  journal: IEEE Intelligent Systems 32 (2), 16-22
-- title: 'In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review'
-  author: NR Avlona, S de Boer, VM Campello, A Feragen, E Ferrante, M Ganz, ...
+  journal: International Conference on Social Robotics
+- title: 'Discrete Inverse Rendering: Biological Data Analysis with Integer Programming'
+  author: F Zdyb, JB Kirkegaard
+  year: 2026
+  journal: bioRxiv, 2026.07. 23.740284
+- title: A modular framework for automated segmentation and analysis of AFM imaging of chromatin organization
+  author: EW Sørensen, S Pangeni, R Merino Urteaga, PJ Murray, S Rudnizky, ...
+  year: 2026
+  journal: Nucleic Acids Research 54 (12), gkag632
+- title: 'Differentiable Vertex Model: Exploring Gradient-Based Optimization for Tissue Morphogenesis'
+  author: LEJ Skjegstad, S Oud, RMA Vroomans, JB Kirkegaard
+  year: 2026
+  journal: bioRxiv, 2026.05. 07.723189
+- title: Radiation-induced peroxide rupture and its temperature-dependent repair probed by homogeneous X-ray irradiation
+  author: S Koulas, S Bui, JB Kirkegaard, G Bourenkov, RA Steiner
+  year: 2026
+  journal: Biological Crystallography
+- title: 'Reply to van Haastert: Local competition between Ras/actin-driven protrusions'
+  author: A Alonso, JB Kirkegaard, RG Endres
+  year: 2026
+  journal: Proceedings of the National Academy of Sciences
+- title: Spline refinement with differentiable rendering
+  author: F Zdyb, A Alonso, JB Kirkegaard
   year: 2025
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Adaptive node positioning in biological transport networks
+  author: A Alonso, LEJ Skjegstad, JB Kirkegaard
+  year: 2025
+  journal: Physical Review Letters
+- title: Modeling full-scale leaf venation networks
+  author: LEJ Skjegstad, JB Kirkegaard
+  year: 2025
+  journal: PLOS Computational Biology
+- title: Detection limitations of bacteria in tissue samples
+  author: TH Jakobsen, JB Kirkegaard, M Lichtenberg, LA Kvich, H Gottlieb, ...
+  year: 2025
+  journal: Bone & joint research
+- title: Persistent pseudopod splitting is an effective chemotaxis strategy in shallow gradients
+  author: A Alonso, JB Kirkegaard, RG Endres
+  year: 2025
+  journal: Proceedings of the National Academy of Sciences
+- title: Local clustering and global spreading of receptors for optimal spatial gradient sensing
+  author: A Alonso, RG Endres, JB Kirkegaard
+  year: 2025
+  journal: Physical Review Letters
+- title: Receptors cluster in high-curvature membrane regions for optimal spatial gradient sensing
+  author: A Alonso, RG Endres, JB Kirkegaard
+  year: 2024
+  journal: 'arXiv e-prints, arXiv: 2410.03395'
+- title: Roles of network topology in the relaxation dynamics of simple chemical reaction network models
+  author: Y Himeoka, JB Kirkegaard, N Mitarai, S Krishna
+  year: 2024
+  journal: Scientific Reports
+- title: Learning optimal integration of spatial and temporal information in noisy chemotaxis
+  author: A Alonso, JB Kirkegaard
+  year: 2024
+  journal: PNAS nexus 3 (7), pgae235
+- title: Spontaneous breaking of symmetry in overlapping cell instance segmentation using diffusion models
+  author: JB Kirkegaard
+  year: 2024
+  journal: Biology Methods and Protocols 9 (1), bpae084
+- title: Fast detection of slender bodies in high density microscopy data
+  author: A Alonso, JB Kirkegaard
+  year: 2023
+  journal: Communications Biology
+- title: 'Systematics, Biology and Morphology of World Polychaeta: Proceedings of the 2nd International Polychaete Conference, Copenhagen 1986 (Ophelia, Supplement 5)'
+  author: ME Petersen, JB Kirkegaard
+  year: 2023
+  journal: Brill
+- title: Epigenetic switching with asymmetric bridging interactions
+  author: LEJ Skjegstad, JF Nickels, K Sneppen, JB Kirkegaard
+  year: 2023
+  journal: Biophysical Journal
+- title: Protocol to assess metabolic activity of Pseudomonas aeruginosa by measuring heat flow using isothermal calorimetry
+  author: K Beilharz, KN Kragh, B Fritz, JB Kirkegaard, T Tolker-Nielsen, ...
+  year: 2023
+  journal: STAR protocols
+- title: Emerging diversity in a population of evolving intransitive dice
+  author: JB Kirkegaard, K Sneppen
+  year: 2022
+  journal: Physical Review E
+- title: Cyclic-di-GMP signaling controls metabolic activity in Pseudomonas aeruginosa
+  author: M Lichtenberg, KN Kragh, B Fritz, JB Kirkegaard, T Tolker-Nielsen, ...
+  year: 2022
+  journal: Cell reports
+- title: Transcriptomic fingerprint of bacterial infection in lower extremity ulcers
+  author: BG Fritz, JB Kirkegaard, CH Nielsen, K Kirketerp‐Møller, M Malone, ...
+  year: 2022
+  journal: Apmis
+- title: Structural determinants of relaxation dynamics in chemical reaction networks
+  author: Y Himeoka, JB Kirkegaard, N Mitarai, S Krishna
+  year: 2022
+  journal: bioRxiv, 2022.05. 25.493374
+- title: 'Simultant: simultaneous curve fitting of functions and differential equations using analytical gradient calculations'
+  author: JB Kirkegaard
+  year: 2022
+  journal: BMC bioinformatics
+- title: Curvature strains as a global orchestrator of morphogenesis
+  author: JB Kirkegaard
+  year: 2022
+  journal: Physical Review Research
+- title: Method of tracking a plurality of objects
+  author: M PERNI, QAE Peter, PK Challa, T Kartanas, P SORMANNI, ...
+  year: 2022
+  journal: US Patent
+- title: Superspreading of airborne pathogens in a heterogeneous world
+  author: JB Kirkegaard, J Mathiesen, K Sneppen
+  year: 2021
+  journal: Scientific reports
+- title: Comparative Studies in the A30P and A53T α-Synuclein C. elegans Strains to Investigate the Molecular Origins of Parkinson's Disease
+  author: M Perni, A Van der Goot, R Limbocker, TJ Van Ham, FA Aprile, CK Xu, ...
+  year: 2021
+  journal: Frontiers in cell and developmental biology
+- title: Variability of individual infectiousness derived from aggregate statistics of Covid-19
+  author: JB Kirkegaard, K Sneppen
+  year: 2021
+  journal: medRxiv, 2021.01. 15.21249870
+- title: 'Airborne Pathogens in a Heterogeneous World: Superspreading & Mitigation'
+  author: JB Kirkegaard, J Mathiesen, K Sneppen
+  year: 2020
+  journal: medRxiv, 2020.10. 24.20218784
+- title: Metabolic flux fingerprinting differentiates planktonic and biofilm states of Pseudomonas aeruginosa and Staphylococcus aureus
+  author: M Lichtenberg, KN Kragh, B Fritz, J Bier-Kirkegaard, T Bjarnsholt
+  year: 2020
+  journal: BioRxiv, 2020.07. 15.203828
+- title: Optimal transport flows for distributed production networks
+  author: JB Kirkegaard, K Sneppen
+  year: 2020
+  journal: Physical Review Letters
+- title: Self-assembly, buckling and density-invariant growth of three-dimensional vascular networks
+  author: JB Kirkegaard, BF Nielsen, A Trusina, K Sneppen
+  year: 2019
+  journal: Journal of the Royal Society Interface
+- title: Physical and Stochastic Aspects of Microorganism Behaviour
+  author: JB Kirkegaard
+  year: 2018
   journal: ''
+- title: Massively parallel C. elegans tracking provides multi-dimensional fingerprints for phenotypic discovery
+  author: M Perni, PK Challa, JB Kirkegaard, R Limbocker, M Koopman, ...
+  year: 2018
+  journal: Journal of neuroscience methods
+- title: The role of tumbling frequency and persistence in optimal run-and-tumble chemotaxis
+  author: JB Kirkegaard, RE Goldstein
+  year: 2018
+  journal: IMA Journal of Applied Mathematics
+- title: 'The noisy basis of morphogenesis: Mechanisms and mechanics of cell sheet folding inferred from developmental variability'
+  author: PA Haas, SSMH Höhn, AR Honerkamp-Smith, JB Kirkegaard, ...
+  year: 2018
+  journal: PLoS biology
+- title: Multistep Inhibition of α-Synuclein Aggregation and Toxicity in Vitro and in Vivo by Trodusquemine
+  author: M Perni, P Flagmeier, R Limbocker, R Cascella, FA Aprile, C Galvagnion, ...
+  year: 2018
+  journal: ACS chemical biology
+- title: Mechanics and Variability of Cell Sheet Folding in the Embryonic Inversion of $ Volvox$
+  author: PA Haas, SSMH Höhn, AR Honerkamp-Smith, JB Kirkegaard, ...
+  year: 2017
+  journal: arXiv preprint arXiv:1708.07765
+- title: Intra-chain organisation of hydrophobic residues controls inter-chain aggregation rates of amphiphilic polymers
+  author: P Varilly, AP Willard, JB Kirkegaard, TPJ Knowles, D Chandler
+  year: 2017
+  journal: The Journal of Chemical Physics
+- title: A natural product inhibits the initiation of alpha-synuclein aggregation and suppresses its toxicity
+  author: M Perni, C Galvagnion, A Maltsev, G Meisl, MBD Mueller, PK Challa, ...
+  year: 2017
+  journal: Proceedings of the National Academy of Sciences of the United States of …
+- title: Aerotaxis in the closest relatives of animals
+  author: A Bouillant, RE Goldstein, K Leptos, JB Kirkegaard, AO Marron
+  year: 2016
+  journal: eLife Sciences Publications Ltd
+- title: Filter-feeding, near-field flows, and the morphologies of colonial choanoflagellates
+  author: RE Goldstein, JB Kirkegaard
+  year: 2016
+  journal: American Physical Society
+- title: Feeding, Swimming and Navigation of Colonial Microorganisms
+  author: J Kirkegaard, A Bouillant, A Marron, K Leptos, R Goldstein
+  year: 2016
+  journal: APS Division of Fluid Dynamics Meeting Abstracts, H39
+- title: Fluctuations in the kinetics of linear protein self-assembly
+  author: TCT Michaels, AJ Dear, JB Kirkegaard, KL Saar, DA Weitz, TPJ Knowles
+  year: 2016
+  journal: Physical review letters
+- title: Molecular mechanisms of protein aggregation from global fitting of kinetic models
+  author: G Meisl, JB Kirkegaard, P Arosio, TCT Michaels, M Vendruscolo, ...
+  year: 2016
+  journal: Nature protocols
+- title: Motility of Colonial Choanoflagellates and the Statistics of Aggregate Random Walkers
+  author: RE Goldstein, JB Kirkegaard, AO Marron
+  year: 2016
+  journal: American Physical Society
+- title: 'Easyworm: an open-source software tool to determine the mechanical properties of worm-like chains'
+  author: G Lamour, JB Kirkegaard, H Li, TPJ Knowles, J Gsponer
+  year: 2014
+  journal: Source code for biology and medicine
+- title: Differences in nucleation behavior underlie the contrasting aggregation kinetics of the Aβ40 and Aβ42 peptides
+  author: G Meisl, X Yang, E Hellstrand, B Frohm, JB Kirkegaard, SIA Cohen, ...
+  year: 2014
+  journal: Proceedings of the National Academy of Sciences
+- title: a.; Dobson, CM; Linse, S.; Knowles
+  author: G Meisl, X Yang, E Hellstrand, B Frohm, JB Kirkegaard, SI Cohen
+  year: 2014
+  journal: TPJ
+- title: Theories of Active Matter with Applications to Endothelial Cell Motility
+  author: JB Kirkegaard
+  year: 2014
+  journal: Niels Bohr Institute, Copenhagen University
+- title: Modelling electrolyte conductivity in a water electrolyzer cell
+  author: M Caspersen, JB Kirkegaard
+  year: 2012
+  journal: International journal of hydrogen energy
+- title: Lactic acid bacteria associated with a heat‐processed pork product and sources of variation affecting chemical indices of spoilage and sensory characteristics
+  author: BG Laursen, DV Byrne, JB Kirkegaard, JJ Leisner
+  year: 2009
+  journal: Journal of Applied Microbiology
+- title: Systematics, biology and morphology of world Polychaeta
+  author: ME Petersen, JB Kirkegaard
+  year: 1991
+  journal: ''
+- title: The Polychaeta of West Africa Part II. Errant species 1. Aphroditidae to Nereididae
+  author: JB Kirkegaard
+  year: 1983
+  journal: Atlantide Report
+- title: Settling, growth and life span of some common polychaetes from Danish waters [Denmark, Lagis koreni, Nephtys hombergi, N. ciliata, N. longosetosa, Ophelia borealis, Goniada …
+  author: JB Kirkegaard
+  year: 1978
+  journal: Meddelelser fra Danmarks Fiskeri og Havundersoegelser
+- title: 'A new species of Iphitime (Polychaeta: Iphitimidae) living under the tail of Hyas (Crustacea: Decapoda) in the Oslo Fjord'
+  author: JB Kirkegaard
+  year: 1977
+  journal: Essays on polychaetous annelids in memory of dr. Olga Hartman, Los Angeles …
+- title: A Quantitative Investigation of the Central North Sea Polychaeta-Copenhagen:(Munksgaard [in Komm.]) 1969
+  author: JB Kirkegaard
+  year: 1969
+  journal: ''
+- title: Pectinaria Lamarck, 1818 (Polychaeta), and the species names P. belgica
+  author: C Nielsen, JB Kirkegaard, H Lemche
+  year: 1766
+  journal: Pallas
+- title: 'Transforming Hyperspectral Images Into Chemical Maps: A Novel End‐to‐End Deep Learning Approach.'
+  author: OC Galbo Engstrøm, M Albano‐Gaglio, E Schou Dreier, Y Bouzembrak, ...
+  year: 2025
+  journal: Journal of Chemometrics 39 (8), 1
 - title: 'Collision Constraints & Diffeomorphisms: Dealing with Physics in Deformable Image Registration'
   author: T Alscher, J Petersen, F Lauze, K Erleben, S Darkner
   year: 2025
   journal: IEEE Access
-- title: Gaze assistance for efficient segmentation correction of medical images
-  author: L Khaertdinova, T Shmykova, I Pershin, A Laryukov, A Khanov, ...
-  year: 2025
-  journal: IEEE Access
-- title: '128. Predicting Antidepressant Treatment Outcome in Major Depressive Disorder Using Multi-Domain Data: A Neuropharm Study'
-  author: B Ozenne, V Dam, M Ganz, E Beaman, K Köhler-Forsberg, C Ip, ...
-  year: 2025
-  journal: Biological Psychiatry 97 (9), S148
-- title: Uncertainty Estimation in Cardio Landmark Detection and Heart Disease Diagnosis on Chest X-Ray Images
-  author: D Lvov, I Stebakov, A Kornaev, I Pershin, T Mustafaev, D Afonchikov, ...
-  year: 2025
-  journal: IEEE Access
-- title: 'Neuroanatomical dimensions in major depression: external validation and links with cognition, adverse life events, self-harm, metabolomics and genetics'
-  author: R Woodham, W Xiao, Y Cui, J Wen, M Antoniades, D Srinivasan, Y Fan, ...
-  year: 2025
-  journal: ''
-- title: 'NEMt: Fast Targeted Explanations for Medical Image Models via Neural Explanation Masks'
-  author: BL Møller, S Amiri, C Igel, KK Wickstrøm, R Jenssen, M Keicher, ...
-  year: 2025
-  journal: Northern Lights Deep Learning Conference 2025
-- title: Associations of serotonin-related brain morphology in early adolescence with behavioral and emotional problems
-  author: D Koc, M Nørgaard, M Ganz, R Muetzel, H El Marroun, H Tiemeier, ...
-  year: 2025
-  journal: 'NeuroImage: Clinical, 103851'
-- title: An Exploration of Interpretable Deep Learning Models for the Assessment of Mild Cognitive Impairment
-  author: ECL Leschly, O Roesler, M Neumann, J Liscombe, A Hosamath, L Arbatti, ...
-  year: 2025
-  journal: Proc. Interspeech 2025, 271-275
-- title: Prediction of radiological decision errors from longitudinal analysis of gaze and image features
-  author: A Anikina, D Ibragimova, T Mustafaev, C Mello-Thoms, B Ibragimov
-  year: 2025
-  journal: Artificial intelligence in medicine 160, 103051
-- title: 'CARMA: Collocation-Aware Resource Manager with GPU Memory Estimator'
-  author: E Yousefzadeh-Asl-Miandoab, R Karimzadeh, B Ibragimov, FM Ciorba, ...
-  year: 2025
-  journal: arXiv preprint arXiv:2508.19073
 - title: In-depth 3D Exploration of Autosomal Dominant Polycystic Kidney Disease Through Light Sheet Fluorescence Microscopy
   author: P Delgado-Rodriguez, I Vitoria, GR Ríos-Muñoz, L Bardia, ...
   year: 2025
   journal: bioRxiv.03. 18.644002
-- title: Prediction of Radiological Diagnostic Errors from Eye Tracking Data Using Graph Neural Networks and Gaze-Guided Transformers
-  author: T Mustafaev, C Mello-Thoms, B Ibragimov
-  year: 2025
-  journal: 'Graphs in Biomedical Image Analysis: 6th International Workshop, GRAIL 2024 …'
-- title: Changes in hippocampal volume, 5-HT4 receptor binding, and verbal memory over the course of antidepressant treatment in major depressive disorder
-  author: KHR Jensen, VH Dam, K Köhler-Forsberg, B Ozenne, DS Stenbæk, ...
-  year: 2025
-  journal: Journal of Psychiatric Research 181, 197-205
-- title: Building Multivariate Molecular Imaging Brain Atlases Using the NeuroMark PET Independent Component Analysis Framework
-  author: C Eierud, M Norgaard, M Bilgel, H Petropoulos, Z Fu, A Iraji, GJ Matheson, ...
-  year: 2025
-  journal: bioRxiv
-- title: 'A sensitivity analysis of preprocessing pipelines: Toward a solution for multiverse analyses'
-  author: B Ozenne, M Nørgaard, C Pernet, M Ganz
-  year: 2025
-  journal: Imaging Neuroscience 3, imag_a_00523
-- title: 'DentAssignNet: Assignment Network for Dental Cast Labeling in the Presence of Dental Abnormalities'
-  author: T Dascalu, S Ramezanzade, A Bakhshandeh, L Bjørndal, R Iurcov, ...
-  year: 2025
-  journal: IEEE Journal of Biomedical and Health Informatics
-- title: The relationship between eye tracking features and transfer learning in modeling decision prediction of radiologists reading mammograms
-  author: K Kelat, SE Gerard, B Ibragimov, C Mello-Thoms
-  year: 2025
-  journal: 'Medical Imaging 2025: Image Perception, Observer Performance, and Technology …'
-- title: 'Improving the Real-time Classification of Disease Severity in Ulcerative Colitis: Artificial Intelligence as the Trigger for a Second Opinion'
-  author: B Lo, B Møller, C Igel, S Wildt, I Vind, F Bendtsen, J Burisch, B Ibragimov
-  year: 2025
-  journal: Official journal of the American College of Gastroenterology| ACG, 10.14309
 - title: 'The value of artificial intelligence in PSMA PET: a pathway to improved efficiency and results'
   author: H Dadgar, X Hong, R Karimzadeh, B Ibragimov, J Majidpour, H Arabi, ...
   year: 2025
@@ -542,10 +2922,6 @@
   author: OCG Engstrøm, M Albano-Gaglio, ES Dreier, Y Bouzembrak, ...
   year: 2025
   journal: arXiv preprint arXiv:2504.14131
-- title: Measuring and interpreting individual differences in fetal, infant, and toddler neurodevelopment
-  author: HA Olson, MC Camacho, G Abdurokhmonova, S Ahmad, EM Chen, ...
-  year: 2025
-  journal: Developmental cognitive neuroscience 73, 101539
 - title: Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders
   author: A Bjerregaard, D Schumacher, J Sporring
   year: 2024
@@ -554,86 +2930,26 @@
   author: S Hasselholt, HJT Stephensen, D Janssen, AH Andersen, A Dubois, ...
   year: 2024
   journal: ''
-- title: 'Multimodal brain age prediction using machine learning: combining structural MRI and 5-HT2AR PET-derived features'
-  author: RP Dörfel, JM Arenas-Gomez, C Svarer, M Ganz, GM Knudsen, ...
-  year: 2024
-  journal: GeroScience 46 (5), 4123-4133
-- title: 'Simulating Head Motion in MRI: A Silicone Phantom Approach with Machine Learning Integration'
-  author: M Daugaard, E Riis-Jacobsen, H Yin, K Erleben, M Ganz
-  year: 2024
-  journal: ISMRM Workshop on Motion Correction in MR 2024
 - title: Statistical investigations into the geometry and homology of random programs
   author: J Sporring, KF Larsen
   year: 2024
   journal: arXiv preprint arXiv:2407.04854
-- title: NeuroImaging of Babies during natural Sleep to assess typical development and Cerebral Palsy (NIBS-CP)
-  author: L Korsgaard, EKW Nielsen, H Lundell, K Kettless, CG Madsen, ...
-  year: 2024
-  journal: Fetal, Infant, & Toddler Neuroimaging Group Annual Conference 2024
 - title: A semi-automatic method for extracting mitochondrial cristae characteristics from 3D focused ion beam scanning electron microscopy data
   author: C Wang, L Østergaard, S Hasselholt, J Sporring
   year: 2024
   journal: Communications Biology 7 (1), 377
-- title: 'Finding NEM-U: Explaining unsupervised representation learning through neural network generated explanation masks'
-  author: B Møller, C Igel, KK Wickstrøm, J Sporring, R Jenssen, B Ibragimov
-  year: 2024
-  journal: PMLR
-- title: 'Generating synthetic computed tomography for radiotherapy: SynthRAD2023 challenge report'
-  author: EMC Huijben, ML Terpstra, S Pai, A Thummerer, P Koopmans, M Afonso, ...
-  year: 2024
-  journal: Medical image analysis 97, 103276
-- title: Imaging the pancreas with photon-counting CT–A review of normal pancreatic anatomy
-  author: EGS Brandt, CF Müller, H Thomsen, AB Rodell, B Ibragimov, ...
-  year: 2024
-  journal: European Journal of Radiology 181, 111736
-- title: Classification of radiological text in small and imbalanced datasets in a non-english language
-  author: V Beliveau, H Kaas, M Prener, CN Ladefoged, D Elliott, GM Knudsen, ...
-  year: 2024
-  journal: arXiv preprint arXiv:2409.20147
-- title: Reinforcement learning‐based anatomical maps for pancreas subregion and duct segmentation
-  author: S Amiri, T Vrtovec, T Mustafaev, CL Deufel, HS Thomsen, MH Sillesen, ...
-  year: 2024
-  journal: Medical physics 51 (10), 7378-7392
 - title: Young glial progenitor cells competitively replace aged and diseased human glia in the adult chimeric mouse brain
   author: R Vieira, JN Mariani, NPT Huynh, HJT Stephensen, R Solly, A Tate, ...
   year: 2024
   journal: Nature biotechnology 42 (5), 719-730
-- title: Head Movement in the Resting-State Functional Magnetic Resonance Imaging (rs-fMRI) Data of the Adolescent Brain Cognitive Development (ABCD) Study
-  author: JF Sheye, HA Georgiev, M Ganz
-  year: 2024
-  journal: ISMRM Workshop on Motion Correction in MR 2024
-- title: Artificial neural networks as a natural tool in solution of variational problems in hydrodynamics
-  author: I Stebakov, A Kornaev, E Kornaeva, N Litvinenko, Y Kazakov, O Ivanov, ...
-  year: 2024
-  journal: IEEE Access
-- title: Approaching in vivo blood count tests with capillaroscopy and deep learning
-  author: A Kornaev, I Makovik, E Kornaeva, M Volkov, N Margaryants, E Potapova, ...
-  year: 2024
-  journal: ''
 - title: Multiscale and multiresolution analysis
   author: J Sporring
   year: 2024
   journal: Medical Image Analysis, 177-197
-- title: Building an AI Support Tool for Real-Time Ulcerative Colitis Diagnosis
-  author: BL Møller, BZS Lo, J Burisch, F Bendtsen, I Vind, B Ibragimov, C Igel
-  year: 2024
-  journal: KI-Künstliche Intelligenz 38 (3), 169-176
-- title: Automatic calculation of cardiometric coefficients on chest X-ray images
-  author: A Kornaev, D Lvov, I Pershin, S Kiselev, D Afonchikov, I Bariev, ...
-  year: 2024
-  journal: IEEE Access
 - title: Parametric volumetric registration
   author: PA Yushkevich, M Zhang, J Sporring
   year: 2024
   journal: Medical Image Analysis, 331-354
-- title: Gaze-assisted medical image segmentation
-  author: L Khaertdinova, I Pershin, T Shmykova, B Ibragimov
-  year: 2024
-  journal: arXiv preprint arXiv:2410.17920
-- title: Centerline-guided reinforcement learning model for pancreatic duct identifications
-  author: S Amiri, R Karimzadeh, T Vrtovec, E Gudmann Steuble Brandt, ...
-  year: 2024
-  journal: Journal of Medical Imaging 11 (6), 064002-064002
 - title: 3D Shape Analysis and Bias Correction with Persistent Homology
   author: C Wang, S Hasselholt, J Sporring
   year: 2024
@@ -666,55 +2982,11 @@
   author: CB Villanueva, HJT Stephensen, R Mokso, A Benraiss, J Sporring, ...
   year: 2023
   journal: Proceedings of the National Academy of Sciences 120 (24), e2210719120
-- title: An algebra for local histograms
-  author: J Sporring, S Darkner
-  year: 2022
-  journal: Frontiers in Computer Science 4, 939563
-- title: Enabling visual action planning for object manipulation through latent space roadmap
-  author: M Lippi, P Poklukar, MC Welle, A Varava, H Yin, A Marino, D Kragic
-  year: 2022
-  journal: IEEE Transactions on Robotics 39 (1), 57-75
-- title: Group convolutional neural networks for DWI segmentation
-  author: R Liu, F Lauze, E Bekkers, K Erleben, S Darkner
-  year: 2022
-  journal: Geometric deep learning in medical image analysis, 96-106
 - title: 'Rove-tree-11: the not-so-wild rover, a hierarchically structured image dataset for deep metric learning research'
   author: R Hunt, KS Pedersen
   year: 2022
   journal: Proceedings of the Asian Conference on Computer Vision, 2967-2983
-- title: Embedding Koopman optimal control in robot policy learning
-  author: H Yin, MC Welle, D Kragic
-  year: 2022
-  journal: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …
 - title: Structural and functional changes in a genetic model of amyotrophic lateral sclerosis
   author: S Hasselholt, HJT Stephensen, D Janssen, A Hasselholt, A Dubois, ...
   year: 2022
-  journal: ''
-- title: On the Subspace Structure of Gradient-Based Meta-Learning
-  author: G Tegnér, A Reichlin, H Yin, M Björkman, D Kragic
-  year: 2022
-  journal: arXiv preprint arXiv:2207.03804
-- title: Geometric multimodal contrastive representation learning
-  author: P Poklukar, M Vasco, H Yin, FS Melo, A Paiva, D Kragic
-  year: 2022
-  journal: International Conference on Machine Learning, 17782-17800
-- title: Bundle geodesic convolutional neural network for diffusion-weighted imaging segmentation
-  author: R Liu, F Lauze, K Erleben, RW Berg, S Darkner
-  year: 2022
-  journal: Journal of Medical Imaging 9 (6), 064002-064002
-- title: 'Back to the manifold: Recovering from out-of-distribution states'
-  author: A Reichlin, GL Marchetti, H Yin, A Ghadirzadeh, D Kragic
-  year: 2022
-  journal: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …
-- title: 'Sacrificing information for the greater good: how to select photometric bands for optimal accuracy'
-  author: K Stensbo-Smidt, F Gieseke, C Igel, A Zirm, K Steenstrup Pedersen
-  year: 2017
-  journal: Monthly Notices of the Royal Astronomical Society 464 (3), 2577-2596
-- title: Special section on 19th Scandinavian conference on image analysis (SCIA 2015)
-  author: K Steenstrup Pedersen, RR Paulsen
-  year: 2016
-  journal: Pattern Recognition Letters 80, 238-238
-- title: Recycling on a Cosmic Scale
-  author: K Stensbo-Smidt, KS Pedersen, C Igel
-  year: 2016
   journal: ''
