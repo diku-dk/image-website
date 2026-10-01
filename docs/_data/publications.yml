@@ -1724,7 +1724,7 @@
   journal: Pattern Recognition in Neuroimaging (PRNI), 2017 International Workshop on
 - title: A High-Resolution In Vivo Atlas of the Human Brain's Serotonin System
   author: V Beliveau, M Ganz, L Feng, B Ozenne, L Højgaard, PM Fisher, C Svarer, ...
-  authors_full: Vincent Beliveau, Melanie Ganz, Ling Feng, Brice Ozenne, Liselotte Højgaard, Patrick M Fisher, Claus Svarer, Douglas N Greve, Gitte M Knudsen
+  authors_full: ''
   year: 2017
   journal: The Journal of Neuroscience
 - title: Crowdsourcing for error detection in cortical surface delineations
@@ -1751,12 +1751,12 @@
   journal: 12th International Conference on Quantification of Brain Function with PET
 - title: 'Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test-retest reproducibility and comparison with [18F] altanserin'
   author: A Ettrup, C Svarer, B McMahon, S Da Cunha-Bang, S Lehel, K Møller, ...
-  authors_full: A Ettrup, C Svarer, B McMahon, S Da Cunha-Bang, S Lehel, K Møller, A Dyssegaard, M Ganz, V Beliveau, LM Jørgensen, N Gillings, GM Knudsen
+  authors_full: ''
   year: 2015
   journal: European Neuropsychopharmacology 25, S309-S310
 - title: 'Estimation of Regional Seasonal Variations in SERT-levels using the FreeSurfer PET pipeline: a reproducibility study'
   author: M Nørgaard, M Ganz, C Svarer, V Beliveau, PM Fisher, B Mc Mahon, ...
-  authors_full: Martin Nørgaard, Melanie Ganz, Claus Svarer, Vincent Beliveau, Patrick M Fisher, Brenda Mc Mahon, Douglas N Greve, Stephen C Strother, Gitte M Knudsen
+  authors_full: ''
   year: 2015
   journal: Proceedings of the MICCAI workshop on Computational Methods for Molecular …
 - title: Approximate false positive rate control in selection frequency for random forest
@@ -1829,12 +1829,12 @@
   journal: 36th European Symposium on Calcified Tissues (ECTS)
 - title: Automated Quantification of the Morphological Atherosclerotic Calcification Distribution on X-Rays Is a Strong Predictor of Mortality in Postmenopausal Women
   author: C Christiansen, M Karsdal, FB Lauze, E Dam, M Ganz, M de Bruijne, ...
-  authors_full: Claus Christiansen, Morten Karsdal, Francois Bernard Lauze, Erik Dam, Melanie Ganz, Marleen de Bruijne, Mette Sørensen, Natasha Barascuk, Mads Nielsen
+  authors_full: ''
   year: 2008
   journal: Arteriosclerosis, Thrombosis, and Vascular Biology
 - title: Superior assessment of CVD death by MACD index compared with the framingham score is highly associated with predisposition to diabetes
   author: E Soltyskinska, N Barascuk, M Ganz, M Nielsen, M Karsdal, ...
-  authors_full: Ewa Soltyskinska, Natascha Barascuk, Melanie Ganz, Mads Nielsen, Morten Karsdal, Claus Christiansen
+  authors_full: ''
   year: 2008
   journal: Keystone Symposia, nr. S2
 - title: Morphological Atherosclerosis Calcification Distribution (MACD) Index is a Strong Predictor of Cardio-Vascular Death and Include Predictive Power of BMD
@@ -1875,7 +1875,7 @@
   journal: Diagnostics
 - title: 'SmartField: A Danish Initiative for Advanced N2O Emission Accounting and Mitigation in Agriculture'
   author: AB Vaerge, K Butterbach-Bahl, J Olesen, D Abalos, C Dold, S Darkner, ...
-  authors_full: Ann Britt Vaerge, Klaus Butterbach-Bahl, Jørgen Olesen, Diego Abalos, Christian Dold, Sune Darkner, Bo Jellesmark Thorsen
+  authors_full: ''
   year: 2024
   journal: AGU Fall Meeting Abstracts 2024 (1569), B33C-1569
 - title: In vivo deep learning estimation of diffusion coefficients of nanoparticles
@@ -1916,7 +1916,7 @@
   journal: ''
 - title: Inter-and intra-observer agreement when using a diagnostic labeling scheme for annotating findings on chest X-rays—an early step in the development of a deep learning-based …
   author: D Li, LM Pehrson, L Tøttrup, M Fraccaro, R Bonnevie, J Thrane, ...
-  authors_full: Dana Li, Lea Marie Pehrson, Lea Tøttrup, Marco Fraccaro, Rasmus Bonnevie, Jakob Thrane, Peter Jagd Sørensen, Alexander Rykkje, Tobias Thostrup Andersen, Henrik Steglich-Arnholm, Dorte Marianne Rohde Stærk, Lotte Borgwardt, Kristoffer Lindskov Hansen, Sune Darkner, Jonathan Frederik Carlsen, Michael Bachmann Nielsen
+  authors_full: ''
   year: 2022
   journal: Diagnostics
 - title: Revisiting transformer-based models for long document classification
@@ -1929,7 +1929,7 @@
   journal: Frontiers in Computer Science
 - title: Attenuation correction of Total Body PET using syntetic CT derived from the emission data.
   author: M Montgomery, F Andersen, SH d'Este, S Darkner, L Højgaard, B Fischer, ...
-  authors_full: Maria Montgomery, Flemming Andersen, Sabrina Honoré d'Este, Sune Darkner, Liselotte Højgaard, Barbara Fischer, Claes Ladefoged
+  authors_full: ''
   year: 2022
   journal: Journal of Nuclear Medicine 63 (supplement 2)
 - title: PO-1757 A framework for in-vivo, voxel-based assessment of radiation response through multimodal imaging
@@ -1975,7 +1975,7 @@
   journal: NPJ digital medicine
 - title: Is Dose Accumulation in online MR-guided treatment of Liver metastases Reproducible?
   author: I Wahlstedt, JD Tascon-Vidarte, AG Smith, S Darkner, S Risum, M Pohl, ...
-  authors_full: I Wahlstedt, JD Tascon-Vidarte, AG Smith, S Darkner, S Risum, M Pohl, K Boye, M Josipovic, C Flensted Behrens, I Richter Vogelius
+  authors_full: ''
   year: 2021
   journal: Radiotherapy and Oncology 161, S1278-S1280
 - title: Restoring drifted electron microscope volumes using synaptic vesicles at sub-pixel accuracy
@@ -1996,7 +1996,7 @@
   journal: International Conference on Medical Image Computing and Computer-Assisted …
 - title: Voxel-based assessment of proton RBE in paediatric brain cancer radiotherapy from multimodal imaging
   author: M Skaarup, AL Appelt, MJ Lundemann, S Darkner, M Jørgensen, ...
-  authors_full: Mikkel Skaarup, Ane L Appelt, Michael J Lundemann, Sune Darkner, Morten Jørgensen, Carsten Thomsen, Ian Law, Dragan Mirkovic, Radhe Mohan, David Grosshans, Christopher Peeler, Ivan R Vogelius
+  authors_full: ''
   year: 2019
   journal: Radiotherapy and Oncology 133, S1043-S1044
 - title: 'U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging'
@@ -2009,22 +2009,22 @@
   journal: 'European Symposium on Vascular Biomaterials. 11th: Biomaterials and Digital …'
 - title: 'An average of the human ear canal: Recovering acoustical properties via shape analysis'
   author: S Darkner, S Sommer, A Schuhmacher, HIAO Baandrup, C Thomsen, ...
-  authors_full: Sune Darkner, Stefan Sommer, Andreas Schuhmacher, Henrik Ingerslev Anders O Baandrup, Carsten Thomsen, Søren Jønsson
+  authors_full: ''
   year: 2018
   journal: arXiv preprint arXiv:1811.03848
 - title: Brain extraction and segmentation framework for bias field rich cranial MRI scans of rats
   author: JDK Hansen, F Lauze, S Darkner, KN Mortensen, S Sanggaard, ...
-  authors_full: Jacob Daniel Kirstejn Hansen, François Lauze, Sune Darkner, Kristian Nygaard Mortensen, Simon Sanggaard, Helene Benveniste, Maiken Nedergaard
+  authors_full: ''
   year: 2018
   journal: Annual meeting ISMRM, Paris, France
 - title: Brain Segmentation in Rodent MR-Images Using Convolutional Neural Networks
   author: B Sigurdsson, S Darkner, SH Sommer, KN Mortensen, S Sanggaard, ...
-  authors_full: Björn Sigurdsson, Sune Darkner, Stefan Horst Sommer, Kristian Nygaard Mortensen, Simon Sanggaard, Serhii Kostrikov, Maiken Nedergaard
+  authors_full: ''
   year: 2018
   journal: Joint Annual Meeting ISMRM-ESMRMB
 - title: 'Safety and Efficacy of Autologous Tissue-derived Mesenchymal Stem Cells for Radiation-Induced Xerostomia: A Randomized, Placebo-Controlled Phase I/II Trial (MESRIX)'
   author: C Grønhøj, DH Jensen, P Vester-Glowinski, SB Jensen, A Bardow, ...
-  authors_full: Christian Grønhøj, David H Jensen, Peter Vester-Glowinski, Siri Beier Jensen, Allan Bardow, Roberto S Oliveri, Lea Munthe Fog, Lena Specht, Carsten Thomsen, Sune Darkner, Michael Jensen, Vera Müller, Katalin Kiss, Tina Agander, Elo Andersen, Anne Fischer-Nielsen, Christian von Buchwald
+  authors_full: ''
   year: 2018
   journal: International Journal of Radiation Oncology• Biology• Physics
 - title: Collocation for diffeomorphic deformations in medical image registration
@@ -2061,7 +2061,7 @@
   journal: Current Biology
 - title: RESTING-STATE BRAIN ENERGY METABOLISM PREDICTS LEVEL AND CONTENT OF CONSCIOUSNESS AFTER SEVERE BRAIN INJURY
   author: J Stender, KN Mortensen, R Kupers, A Thibaut, S Darkner, S Laureys, ...
-  authors_full: J Stender, K Nygaard Mortensen, R Kupers, A Thibaut, S Darkner, S Laureys, A Gjedde
+  authors_full: ''
   year: 2016
   journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
 - title: Structural parcellation of the thalamus using shortest-path tractography
@@ -2105,7 +2105,7 @@
   journal: 'Medical Imaging 2015: Image Processing'
 - title: Multimodal Brain Extraction from Structural MRI using Co-registered FDG-PET
   author: SD Henrik G Jensen, Frederik Federspiel, Maurice Ptito, Mads Nielsen, Albert ...
-  authors_full: Sune Darkner Henrik G Jensen, Frederik Federspiel, Maurice Ptito, Mads Nielsen, Albert Gjedde, Sune H Keller, Ian Law, Ron Kupers
+  authors_full: ''
   year: 2015
   journal: CMMI Workshop MICCAI
 - title: Stepwise inverse consistent euler’s scheme for diffeomorphic image registration
@@ -2141,7 +2141,7 @@
   journal: 'Medical Imaging 2013: Image Processing'
 - title: Hippocampal Texture Predicts One-Year Hippocampal Atrophy in Mild Cognitively Impaired Subjects
   author: L Sørensen, A Pai, P Mysling, S Darkner, G Chen, J Oh, J Suhy, C Igel, ...
-  authors_full: L Sørensen, A Pai, P Mysling, S Darkner, G Chen, J Oh, J Suhy, C Igel, M Nielsen
+  authors_full: ''
   year: 2013
   journal: European Congress of Radiology-ECR
 - title: Locally orderless registration
@@ -2154,7 +2154,7 @@
   journal: European Conference on Computer Vision
 - title: Evaluation of bias in brain atrophy estimation
   author: A Pai, S Darkner, L Sørensen, L Lillemark, P Mysling, J Sporring, EB Dam, ...
-  authors_full: Akshay Pai, Sune Darkner, Lauge Sørensen, Lene Lillemark, Peter Mysling, Jon Sporring, Erik B Dam, Mads Nielsen
+  authors_full: ''
   year: 2012
   journal: NIBAD'12
 - title: Data driven constraints for the svm
@@ -2167,7 +2167,7 @@
   journal: Alzheimer's & Dementia 8 (4S_Part_1), P15-P15
 - title: 'In the July 2012 abstract issue of Alzheimer’s & Dementia (Volume 8, Issue 4, Supplement 2), the following errors were found: The order of authors in IC-P-013 and P1-157 …'
   author: A Pai, S Darkner, J Suhy, J Oh, G Chen, C Igel, M Nielsen, ...
-  authors_full: Akshai Pai, Sune Darkner, Joyce Suhy, Joonmi Oh, Gennan Chen, Christian Igel, Mads Nielsen, Donatella Caruso Garcia-Segura, Roberto Melcangi, Christian J Pike
+  authors_full: ''
   year: 2012
   journal: Alzheimer’s & Dementia
 - title: Higher-Order Momentum Distributions and Locally Affine LDDMM Registration
@@ -2283,7 +2283,7 @@
   journal: Analytica Chimica Acta
 - title: 'Transforming hyperspectral images into chemical maps: a novel End‐to‐End Deep Learning approach'
   author: OC Galbo Engstrøm, M Albano‐Gaglio, E Schou Dreier, Y Bouzembrak, ...
-  authors_full: Ole‐Christian Galbo Engstrøm, Michela Albano‐Gaglio, Erik Schou Dreier, Yamine Bouzembrak, Maria Font‐i‐Furnols, Puneet Mishra, Kim Steenstrup Pedersen
+  authors_full: ''
   year: 2025
   journal: Journal of Chemometrics
 - title: 'Integrating deep learning derived morphological traits and molecular data for total-evidence phylogenetics: lessons from digitized collections'
@@ -2296,7 +2296,7 @@
   journal: arXiv preprint arXiv:2504.16658
 - title: 'Transforming Hyperspectral Images Into Chemical Maps: An End-to-End Deep Learning Approach.'
   author: OCG Engstrøm, M Albano-Gaglio, ES Dreier, Y Bouzembrak, ...
-  authors_full: Ole-Christian Galbo Engstrøm, Michela Albano-Gaglio, Erik Schou Dreier, Yamine Bouzembrak, Maria Font-i-Furnols, Puneet Mishra, Kim Steenstrup Pedersen
+  authors_full: ''
   year: 2025
   journal: CoRR
 - title: The Phantom of the Elytra--Phylogenetic Trait Extraction from Images of Rove Beetles Using Deep Learning--Is the Mask Enough?
@@ -2385,12 +2385,12 @@
   journal: 17th European Weed Research Society Symposium “Weed management in changing …
 - title: 'Civile Droner i Danmark: Kortlægning og teknologivurdering'
   author: A Lygum, JS Nielsen, NB Bådum, A la Cour-Harbo, JP Hansen, ...
-  authors_full: Anne Lygum, Jakon Skjødt Nielsen, Nicklas Bang Bådum, Anders la Cour-Harbo, John Paulin Hansen, Kim Steenstrup Pedersen, Lars Michael Larsen, Thomas Madsen Almdal, Thomas Ploug
+  authors_full: ''
   year: 2014
   journal: Teknologi Rådet
 - title: 'Civile droner i Danmark: Potentialer, udfordringer og anbefalinger'
   author: AKS Lygum, JS Nielsen, NB Bådum, A la Cour-Harbo, JP Hansen, ...
-  authors_full: Anne Kirstine Smith Lygum, Jacob Skjødt Nielsen, Nicklas Bang Bådum, Anders la Cour-Harbo, John Paulin Hansen, Kim Steenstrup Pedersen, Lars Michael Larsen, Peter Vedel Kessing, Thomas Madsen Almdal, Thomas Ploug, David Grønbæk
+  authors_full: ''
   year: 2014
   journal: Teknologirådet
 - title: Active learning with support vector machines
@@ -2495,7 +2495,7 @@
   journal: Proceedings of 16'th Danish Conference on Pattern Recognition and Image …
 - title: Tribute Workshop for Peter Johansen
   author: M Nielsen, M de Bruijne, CH Jørgensen, SI Olsen, KS Pedersen, ...
-  authors_full: Mads Nielsen, Marleen de Bruijne, Camilla Holm Jørgensen, Søren Ingvor Olsen, Kim Steenstrup Pedersen, Jon Sporring
+  authors_full: ''
   year: 2008
   journal: Springer
 - title: 'A curious robot: an explorative-exploitive inference algorithm'
@@ -2610,6 +2610,10 @@
   author: K Pedersen, M Nielsen
   year: 1999
   journal: Scale-Space Theories in Computer Vision
+- title: 'Direction-Scale Decomposition in Action Representation: Rethinking What to Tokenize for Vision-Language-Action Models'
+  author: Y Duan, H Yin, A Longhini, C Tang, D Kragic
+  year: 2026
+  journal: arXiv preprint arXiv:2609.28865
 - title: 'CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection'
   author: Z Cheng, H Wei, H Yin, X Xu, B Yu, J Zhou, J Lu
   year: 2026
@@ -2861,7 +2865,7 @@
   journal: IEEE Robotics and Automation Letters
 - title: Research Article The Influence of Speed and Position in Dynamic Gesture Recognition for Human-Robot Interaction
   author: JC Castillo, F Alonso-Martín, D Cáceres-Domínguez, M Malfaz, ...
-  authors_full: José Carlos Castillo, Fernando Alonso-Martín, David Cáceres-Domínguez, María Malfaz, Miguel A Salichs
+  authors_full: ''
   year: 2019
   journal: ''
 - title: The Influence of Speed and Position in Dynamic Gesture Recognition for Human‐Robot Interaction
@@ -3033,12 +3037,12 @@
   journal: PLoS biology
 - title: Multistep Inhibition of α-Synuclein Aggregation and Toxicity in Vitro and in Vivo by Trodusquemine
   author: M Perni, P Flagmeier, R Limbocker, R Cascella, FA Aprile, C Galvagnion, ...
-  authors_full: Michele Perni, Patrick Flagmeier, Ryan Limbocker, Roberta Cascella, Francesco A Aprile, Celine Galvagnion, Gabriella T Heller, Georg Meisl, Serene W Chen, Janet R Kumita, Pavan K Challa, Julius B Kirkegaard, Samuel IA Cohen, Benedetta Mannini, Denise Barbut, Ellen AA Nollen, Cristina Cecchi, Nunilo Cremades, Tuomas PJ Knowles, Fabrizio Chiti, Michael Zasloff, Michele Vendruscolo, Christopher M Dobson
+  authors_full: ''
   year: 2018
   journal: ACS chemical biology
 - title: Mechanics and Variability of Cell Sheet Folding in the Embryonic Inversion of $ Volvox$
   author: PA Haas, SSMH Höhn, AR Honerkamp-Smith, JB Kirkegaard, ...
-  authors_full: Pierre A Haas, Stephanie SMH Höhn, Aurelia R Honerkamp-Smith, Julius B Kirkegaard, Raymond E Goldstein
+  authors_full: ''
   year: 2017
   journal: arXiv preprint arXiv:1708.07765
 - title: Intra-chain organisation of hydrophobic residues controls inter-chain aggregation rates of amphiphilic polymers
@@ -3047,7 +3051,7 @@
   journal: The Journal of Chemical Physics
 - title: A natural product inhibits the initiation of alpha-synuclein aggregation and suppresses its toxicity
   author: M Perni, C Galvagnion, A Maltsev, G Meisl, MBD Mueller, PK Challa, ...
-  authors_full: Michele Perni, Celine Galvagnion, Alexander Maltsev, Georg Meisl, Martin BD Mueller, Pavan K Challa, Julius B Kirkegaard, Patrick Flagmeier, Samuel IA Cohen, Roberta Cascella, Serene W Chen, Ryan Limboker, Pietro Sormanni, Gabriella T Heller, Francesco A Aprile, Nunilo Cremades, Cristina Cecchi, Fabrizio Chiti, Ellen AA Nollen, Tuomas PJ Knowles, Michele Vendruscolo, Adriaan Bax, Michael Zasloff, Christopher M Dobson
+  authors_full: ''
   year: 2017
   journal: Proceedings of the National Academy of Sciences of the United States of …
 - title: Aerotaxis in the closest relatives of animals
@@ -3136,7 +3140,7 @@
   journal: Nature Protocols
 - title: '[11C]PS13 PET shows that age is positively correlated with constitutively expressed cyclooxygenase-1 in the brain'
   author: P Parcon, M Scrabis, M Nørgaard, A Galassi, P Zanotti-Fregonara, ...
-  authors_full: Paul Parcon, Mia Scrabis, Martin Nørgaard, Anthony Galassi, Paolo Zanotti-Fregonara, Jeih-San Liow, Robert B Innis, Min-Jeong Kim
+  authors_full: ''
   year: 2026
   journal: Journal of Cerebral Blood Flow & Metabolism, 0271678X261444895
 - title: 'NiQuery: Stop searching your neuroimaging datasets. Start testing your hypotheses'
@@ -3145,17 +3149,17 @@
   journal: OSF
 - title: 'Molecular connectivity studies of cerebral glucose metabolism and blood flow: a scoping review'
   author: C Cavaliere, A Galli, C Meneghini, M Severino, DE Peretti, M Nørgaard, ...
-  authors_full: Carlo Cavaliere, Alice Galli, Chiara Meneghini, Mario Severino, Débora Elisa Peretti, Martin Nørgaard, Chunmeng Tang, Anna Lisa Martini, Marjorie Bardiau, Matthieu Doyen, Gabriel Gonzalez-Escamilla, Tatiana Horwitz, Matej Perovnik, Michael Rullmann, Daniel Talmasov, Tommaso Volpi, Zhilei Xu, Vince Calhoun, Xin Di, Simon B Eickhoff, Christian Habeck, Sharna Jamadar, Daniela Perani, Vesna Sossi, Igor Yakushev, Arianna Sala, Joana B Pereira, Mattia Veronese, Silvia Paola Caminiti
+  authors_full: ''
   year: 2026
   journal: Neuroscience & Biobehavioral Reviews
 - title: Positron Emission Tomography Quantification in Healthy Humans of Cyclooxygenase-2 (COX-2), a Potential Biomarker of Neuroinflammation
   author: X Yan, M Norgaard, C Morse, J Liow, J Hong, S Telu, M Kim, A Galassi, ...
-  authors_full: Xuefeng Yan, Martin Norgaard, Cheryl Morse, Jeih-san Liow, Jinsoo Hong, Sanjay Telu, Min-jeong Kim, Anthony Galassi, Ningping Feng, Ted Usdin, Shawn Wu, Andrea Zhang, Lester Manly, Madeline Jenkins, Adrian Lee, Sami Zoghbi, Victor Pike, Robert Innis
+  authors_full: ''
   year: 2025
   journal: Journal of Nuclear Medicine 66 (supplement 1)
 - title: '[11C] PS13 PET shows that age is positively correlated with constitutively expressed cyclooxygenase-1 in the brain'
   author: M Kim, P Parcon, M Scrabis, M Norgaard, A Galassi, D Taboada, ...
-  authors_full: Paul Parcon, Mia Scrabis, Martin Nørgaard, Anthony Galassi, Paolo Zanotti-Fregonara, Jeih-San Liow, Robert B Innis, Min-Jeong Kim
+  authors_full: ''
   year: 2025
   journal: Journal of Nuclear Medicine 66 (supplement 1)
 - title: Frontostriatal salience network expands as executive networks contract in Obsessive-Compulsive Disorder
@@ -3169,7 +3173,7 @@
   journal: Biological Psychiatry 97 (9), S242-S243
 - title: 'Molecular connectivity studies in neurotransmission: a scoping review'
   author: M Severino, DE Peretti, M Bardiau, C Cavaliere, M Doyen, ...
-  authors_full: Mario Severino, Débora Elisa Peretti, Marjorie Bardiau, Carlo Cavaliere, Matthieu Doyen, Gabriel Gonzalez-Escamilla, Tatiana Horowitz, Martin Nørgaard, Jhony Alejandro Mejia Perez, Matej Perovnik, Michael Rullmann, Dilara Steenken, Daniel Talmasov, Chunmeng Tang, Tommaso Volpi, Zhilei Xu, Alessandra Bertoldo, Vince D Calhoun, Silvia Paola Caminiti, Xin Di, Christian Habeck, Sharna Jamadar, Daniela Perani, Arianna Sala, Vesna Sossi, Igor Yakushev, Joana B Pereira, Mattia Veronese
+  authors_full: ''
   year: 2025
   journal: Imaging Neuroscience 3, imag_a_00530
 - title: Can I have your data? Recommendations and practical tips for sharing neuroimaging data upon a direct personal request
@@ -3183,31 +3187,31 @@
   journal: Journal of Nuclear Medicine
 - title: GHAZANFARI N. 1, LIOW JS 1, KIM MJ 1, 2, CURETON R. 1, LEE A. 1
   author: C KNOER, M JENKINS, J HONG, JAM SANTAMARIA, HU SHETTY, ...
-  authors_full: C KNOER, M JENKINS, J HONG, JAM SANTAMARIA, HU SHETTY, A GALASSI, P WIGHTON, M NØRGAARD, DN GREVE, SS ZOGHBI, VW PIKE, RB INNIS, P ZANOTTI-FREGONARA
+  authors_full: ''
   year: 2025
   journal: JOURNAL OF NUCLEAR MEDICINE
 - title: '[11C]PS13 Demonstrates Pharmacologically Selective and Substantial Binding to Cyclooxygenase-1 in the Human Brain'
   author: N Ghazanfari, JS Liow, MJ Kim, R Cureton, A Lee, C Knoer, M Jenkins, ...
-  authors_full: Nafiseh Ghazanfari, Jeih-San Liow, Min-Jeong Kim, Raven Cureton, Adrian Lee, Carson Knoer, Madeline Jenkins, Jinsoo Hong, Jose A Montero Santamaria, H Umesha Shetty, Anthony Galassi, Paul Wighton, Martin Nørgaard, Douglas N Greve, Sami S Zoghbi, Victor W Pike, Robert B Innis, Paolo Zanotti-Fregonara
+  authors_full: ''
   year: 2025
   journal: Journal of Nuclear Medicine
 - title: 'eddymotion: An open implementation of FSL''s eddy with volume-to-volume artifact estimation for neuroimaging beyond diffusion MRI'
-  author: LG JH, E Savary, CJ Markiewicz, A Rokem, M Norgaard, O Esteban
+  author: JH Legarreta, E Savary, C Markiewicz, A Rokem, M Norgaard, O Esteban
   year: 2024
-  journal: ''
+  journal: OSF
 - title: Guided synthesis of labeled brain MRI data using latent diffusion models for segmentation of enlarged ventricles
   author: T Ruschke, JF Carlsen, AE Hansen, U Lindberg, AM Hindsholm, ...
-  authors_full: Tim Ruschke, Jonathan Frederik Carlsen, Adam Espe Hansen, Ulrich Lindberg, Amalie Monberg Hindsholm, Martin Norgaard, Claes Nøhr Ladefoged
+  authors_full: ''
   year: 2024
   journal: arXiv preprint arXiv:2411.01351
 - title: '[11C] PS13 shows pharmacologically selective binding to cyclooxygenase-1 (COX-1) in the human brain'
   author: N Ghazanfari, M Norgaard, JS Liow, R Cureton, J Hong, JAM Santamaria, ...
-  authors_full: Nafiseh Ghazanfari, Martin Norgaard, Jeih-San Liow, Raven Cureton, Jinsoo Hong, Jose Angel Montero Santamaria, H Umesha Shetty, Anthony Galassi, Paul Wighton, Sami Zoghbi, VICTOR PIKE, Robert Innis, Paolo Zanotti Fregonara
+  authors_full: ''
   year: 2024
   journal: Journal of Nuclear Medicine 65 (supplement 2)
 - title: 'Associations between behavioral and emotional problems and brain morphology in early adolescence: A neuroimaging study using the NRU Serotonin Atlas'
   author: D Koc, M Nørgaard, M Ganz, R Muetzel, H El Marroun, H Tiemeier, ...
-  authors_full: Dogukan Koc, Martin Nørgaard, Melanie Ganz, Ryan Muetzel, Hanan El Marroun, Henning Tiemeier, Vibe G Frokjaer
+  authors_full: ''
   year: 2024
   journal: OSF
 - title: Delivering Rules-Based Workflows for Science
@@ -3221,7 +3225,7 @@
   journal: NeuroImage
 - title: bids-matlab
   author: R Gau, G Flandin, A Janke, tanguyduval, R Oostenveld, C Madan, ...
-  authors_full: Rémi Gau, Guillaume Flandin, Andrew Janke, tanguyduval, Robert Oostenveld, Christopher Madan, Guiomar Niso Galán, Michał Szczepanik, Henk Mutsaerts, Nikita Beliy, Martin Norgaard, Cyril Pernet, Phillips Chrisophe
+  authors_full: ''
   year: 2022
   journal: https://doi.org/10.5281/zenodo.5910585
 - title: 'Nipype: a flexible, lightweight and extensible neuroimaging data processing framework in Python'
@@ -3240,9 +3244,7 @@
   journal: Journal of Cerebral Blood Flow & Metabolism
 - title: 'nipy/nipype: 1.5. 1'
   author: O Esteban, CJ Markiewicz, C Burns, M Goncalves, D Jarecka, E Ziegler, ...
-  authors_full: Oscar Esteban, Christopher J Markiewicz, Christopher Burns, Mathias Goncalves, Dorota Jarecka, Erik Ziegler, Shoshana Berleant, David Gage Ellis, Basile Pinsard, Cindee Madison, Michael Waskom, Michael Philipp Notter, Daniel Clark, Alexandre Manhães-Savio, Dav Clark, Kesshi Jordan, Michael Dayan, Yaroslav O Halchenko, Fred Loney, Taylor Salo, Blake E Dewey, Hans Johnson, Salma Bougacha, Anisha Keshavan, Benjamin Yvernault, Carlo Hamalainen, Horea Christian, Rastko Ćirić, Mathieu Dubois, Michael Joseph, Ben Cipollini, Steven Tilley II, Matteo Visconti di Oleggio Castello, Jason Wong, Alejandro De La Vega, Jakub Kaczmarzyk, Julia M Huntenburg, Michael G Clark, Erin Benderoff, Drew Erickson, James D Kent, Michael Hanke, Steven Giavasis, Brendan Moloney, B Nolan Nichols, Rosalia Tungaraza, Caroline Frohlich, Demian Wassermann, Gilles de Hollander, Arman Eshaghi, Jarrod Millman, Matteo Mancini, Dylan M Nielson, Gael Varoquaux, Aimi Watanabe, David Mordom, Jérémy Guillon, Serge
-    Koudoro, Andrey Chetverikov, Ariel Rokem, Benjamin Acland, Jessica Forbes, Ross Markello, Ashley Gillman, Xiang-Zhen Kong, Daniel Geisler, John Salvatore, Alexandre Gramfort, Anna Doll, Colin Buchanan, Elizabeth DuPre, Siqi Liu, Alexander Schaefer, Jens Kleesiek, Sharad Sikka, Yannick Schwartz, John A Lee, Aaron Mattfeld, Adam Richie-Halford, Franz Liem, Martin Felipe Perez-Guevara, Anibal Sólon Heinsfeld, Christian Haselgrove, Joke Durnez, Leonie Lampe, Russell Poldrack, Tristan Glatard, Alejandro Tabas, Chad Cumba, Fernando Pérez-García, Ross Blair, Shariq Iqbal, David Welch, William Triplett, Ali Ghayoor, R Cameron Craddock, Carlos Correa, Dimitri Papadopoulos Orfanos, Jörg Stadler, Joshua Warner, Lucinda M Sisk, Marcel Falkiewicz, Paul Sharp, Simon Rothmei, Sin Kim, Alejandro Weinstein, Ari E Kahn, Erik Kastman, Katherine Bottenhorn, Martin Grignard, L Nathan Perkins, Oliver Contier, Dale Zhou, Dmytro Bielievtsov, Gavin Cooper, Hrvoje Stojic, Janosch Linkersdörfer, Lea Waller, Mandy
-    Renfro, Oliver Hinds, Olivia Stanley, René Küttner, Wolfgang M Pauli, Daniel Glen, Adam Kimbler, Benjamin Meyers, Claire Tarbert, Daniel Ginsburg, Daniel Haehn, Daniel S Margulies, Feilong Ma, Ian B Malone, Lukas Snoek, Matthew Brett, Matthew Cieslak, Michael Hallquist, Miguel Molina-Romero, Murat Bilgel, Nat Lee, Souheil Inati, Stephan Gerhard, Sulantha Mathotaarachchi, Victor Saase, Andrew Van, Christopher John Steele, Eduard Ort, Eric Condamine, Garikoitz Lerma-Usabiaga, Isaac Schwabacher, Jaime Arias
+  authors_full: ''
   year: 2020
   journal: Zenodo
 - title: Estimating PET partial volume full-width-half-maximum directly from human data
@@ -3255,17 +3257,17 @@
   journal: 'København: Eget forlag'
 - title: HIGH-THROUGHPUT RAT BRAIN PET IMAGING AND AUTOMATIC SPATIAL NORMALIZATION OF THE DOPAMINE D2/3 RECEPTOR LIGAND [18F] FALLYPRIDE
   author: D Lange, IM Tejada, M Xiong, B Hillebrand, M Norgaard, S Baerentzen, ...
-  authors_full: D Lange, IM Tejada, M Xiong, B Hillebrand, M Norgaard, S Baerentzen, V Shalgunov, ET L’Estrade, SH Keller, MM Herth, C Svarer, M Palmer
+  authors_full: ''
   year: 2019
   journal: ''
 - title: Seasonality-resilient individuals downregulate their cerebral 5-HT transporter binding in winter – A longitudinal combined 11 C-DASB and 11 C-SB207145 PET study
   author: Mc Mahon B, Nørgaard M, Svarer C, Andersen SB, Madsen MK, Baaré WFC, Madsen ...
-  authors_full: Mc Mahon B, Nørgaard M, Svarer C, Andersen SB, Madsen MK, Baaré WFC, Madsen J, Frokjaer VG, Knudsen GM
+  authors_full: ''
   year: 2018
   journal: Eur Neuropsychopharmacol
 - title: 'Low 5-HT1B receptor binding in the migraine brain: A PET study'
   author: M Deen, HD Hansen, A Hougaard, S da Cunha-Bang, M Nørgaard, ...
-  authors_full: Marie Deen, Hanne D Hansen, Anders Hougaard, Sofi da Cunha-Bang, Martin Nørgaard, Claus Svarer, Sune H Keller, Carsten Thomsen, Messoud Ashina, Gitte M Knudsen
+  authors_full: ''
   year: 2018
   journal: Cephalalgia
 - title: 'High brain serotonin levels in migraine between attacks: A 5-HT4 receptor binding PET study'
@@ -3275,7 +3277,7 @@
   journal: 'NeuroImage: Clinical'
 - title: 'Seasonality-resilient individuals downregulate their cerebral serotonin transporter binding in winter while 5-HT levels appear unchanged: A longitudinal combined 11C-DASB and …'
   author: B Mc Mahon, M Nørgaard, C Svarer, SB Andersen, MK Madsen, ...
-  authors_full: Brenda Mc Mahon, Martin Nørgaard, Claus Svarer, Sofie Bech Andersen, Martin Korsbak Madsen, William Frans Christian Baaré, Jacob Madsen, Vibe Gedsø Frøkjær, Gitte Moos Knudsen
+  authors_full: ''
   year: 2017
   journal: ''
 - title: Feasibility of multiparametric imaging with PET/MR in head and neck squamous cell carcinoma
