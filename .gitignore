@@ -1,5 +1,7 @@
 _site
 __pycache__/
+updated-publications.yml
+updated-citation-ids.json
 devcontainer
 devcontainer.json
 .sass-cache

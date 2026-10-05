@@ -10,6 +10,8 @@ The workflow fetches publications through the [SerpApi Google Scholar Author API
 
 The monthly workflow merges newly scraped publications into `docs/_data/publications.yml` instead of replacing the file, so entries that the scraper no longer returns (for example older publications) are kept.
 
+Every SerpApi search counts against the monthly quota, so a run costs one search per author: the results are sorted by publication date, and the fetch stops as soon as a page ends on a title that is already stored. A run that finds nothing new therefore costs 11 searches. The fetch also leaves the citation ids it paid for in `updated-citation-ids.json`, which the enrichment step reuses instead of requesting every author profile again. Enrichment fills in complete author lists for entries whose Google Scholar author list is truncated ("..."), first from Crossref and, for at most 25 entries per run, from the SerpApi citation endpoint. A Google Scholar profile that is private returns no articles; the run then prints a warning naming the author id instead of dropping that author silently.
+
 The homepage shows the first five entries of `docs/_data/publications.yml`, i.e. the most recent publications by year in the order they appear in the file. The monthly merge keeps the newest scrape at the top of the file. Ordering within the same year is not meaningful: the scraper shuffles entries before sorting them by year.
 
 # Add student projects

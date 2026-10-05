@@ -23,9 +23,11 @@ import yaml
 from fetch_publications import fetch_author, read_authors
 
 DATA = Path("docs/_data/publications.yml")
+CITATION_IDS = Path("updated-citation-ids.json")
 CROSSREF = "https://api.crossref.org/works"
 SERPAPI = "https://serpapi.com/search.json"
 PAUSE_SECONDS = 0.2
+MAX_SERPAPI_LOOKUPS = 25
 FIELD_ORDER = ["title", "author", "authors_full", "year", "journal"]
 
 
@@ -62,10 +64,18 @@ def crossref_authors(title):
     return None
 
 
+def citation_ids_from_fetch():
+    """Reuse the citation ids the fetch step already paid for, if it left them behind."""
+    if CITATION_IDS.exists():
+        return json.loads(CITATION_IDS.read_text(encoding="utf-8"))
+    return None
+
+
 def serpapi_citation_map(api_key):
+    """Look up every author profile again; only used when no fetch output is available."""
     mapping = {}
     for author_id in read_authors():
-        for article in fetch_author(author_id, api_key):
+        for article in fetch_author(author_id, api_key, set()):
             citation_id = article.get("citation_id")
             if citation_id:
                 mapping.setdefault(normalize(article.get("title")), citation_id)
@@ -113,8 +123,17 @@ def main():
 
     from_serpapi = 0
     if missing and api_key:
-        citation_map = serpapi_citation_map(api_key)
+        citation_map = citation_ids_from_fetch()
+        if citation_map is None:
+            citation_map = serpapi_citation_map(api_key)
         for entry in missing:
+            if from_serpapi >= MAX_SERPAPI_LOOKUPS:
+                print(
+                    f"Skipped {len(missing) - from_serpapi} entries; "
+                    f"raise MAX_SERPAPI_LOOKUPS to look them up.",
+                    file=sys.stderr,
+                )
+                break
             citation_id = citation_map.get(normalize(entry["title"]))
             if not citation_id:
                 continue
