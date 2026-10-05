@@ -5,7 +5,7 @@ permalink: /student-projects/
 ---
 The IMAGE section regularly publishes project opportunities for BSc and MSc students. 
 
-The board below shows the current projects. This board is a read-only showcase: if you are interested in a project, contact the supervisor directly by e-mail.
+The board below shows the current projects. This board is a read-only showcase: if you are interested in a project, contact the supervisor directly by e-mail. Projects may list recommended courses to have been completed before starting the project.
 
 <div class="faq-box">
   <h2 class="faq-heading">FAQ</h2>
@@ -94,11 +94,11 @@ Computer graphics and simulation is both very theoretical and very practical. He
 It does not really matter exactly what you play around with, but gaining the experience of working with implementing math concepts into efficient code is something one is only going to benefit from.
 </div>
 
-<div class="faq-modal" id="faq-modal" role="dialog" aria-modal="true" aria-labelledby="faq-modal-title" hidden>
-  <button type="button" class="faq-modal-close" id="faq-modal-close" aria-label="Close">&times;</button>
-  <div class="faq-modal-content">
-    <h3 class="faq-modal-title" id="faq-modal-title"></h3>
-    <div class="faq-modal-body" id="faq-modal-body"></div>
+<div class="modal" id="faq-modal" role="dialog" aria-modal="true" aria-labelledby="faq-modal-title" hidden>
+  <button type="button" class="modal-close" id="faq-modal-close" aria-label="Close">&times;</button>
+  <div class="modal-content">
+    <h3 class="modal-title" id="faq-modal-title"></h3>
+    <div class="modal-body" id="faq-modal-body"></div>
   </div>
 </div>
 
@@ -161,6 +161,12 @@ It does not really matter exactly what you play around with, but gaining the exp
   .project-badge.status-taken { background: #eceff1; color: #78909c; text-transform: uppercase; }
   .project-badge-level { background: #e8f0fe; color: #1a56a8; }
   .project-badge-topic { background: #f3e8fd; color: #6b3fa0; }
+  .project-badge-course { background: #fff3e0; color: #b26a00; }
+  .project-courses {
+    margin: 0;
+    font-size: 0.8em;
+    color: #555;
+  }
   .project-card p.project-description {
     margin: 0;
     font-size: 0.9em;
@@ -297,7 +303,7 @@ It does not really matter exactly what you play around with, but gaining the exp
   .faq-answer[hidden] {
     display: none;
   }
-  .faq-modal {
+  .modal {
     position: fixed;
     inset: 0;
     z-index: 1001;
@@ -307,10 +313,10 @@ It does not really matter exactly what you play around with, but gaining the exp
     padding: 24px;
     background: rgba(0, 0, 0, 0.82);
   }
-  .faq-modal[hidden] {
+  .modal[hidden] {
     display: none;
   }
-  .faq-modal-content {
+  .modal-content {
     width: 100%;
     max-width: 720px;
     max-height: 85vh;
@@ -320,18 +326,18 @@ It does not really matter exactly what you play around with, but gaining the exp
     background: #fff;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
   }
-  .faq-modal-content .faq-modal-title {
+  .modal-content .modal-title {
     margin: 0 0 12px 0;
     font-size: 1.15em;
     color: #33475b;
   }
-  .faq-modal-body p:first-child {
+  .modal-body p:first-child {
     margin-top: 0;
   }
-  .faq-modal-body li {
+  .modal-body li {
     margin-bottom: 6px;
   }
-  .faq-modal-close {
+  .modal-close {
     position: absolute;
     top: 12px;
     right: 16px;
@@ -343,7 +349,7 @@ It does not really matter exactly what you play around with, but gaining the exp
     line-height: 1;
     cursor: pointer;
   }
-  .faq-modal-close:hover {
+  .modal-close:hover {
     color: #ccc;
   }
   .lightbox {
@@ -418,6 +424,9 @@ It does not really matter exactly what you play around with, but gaining the exp
         {% for level in project.levels %}<span class="project-badge project-badge-level">{{ level }}</span>{% endfor %}
         {% for topic in project.topics %}<span class="project-badge project-badge-topic">{{ topic }}</span>{% endfor %}
       </div>
+      {% if project.courses %}
+      <p class="project-courses">Recommended courses: {% for course in project.courses %}<span class="project-badge project-badge-course">{{ course }}</span>{% endfor %}</p>
+      {% endif %}
       <p class="project-description">{{ project.description }}</p>
       <p class="project-supervisor">
         Supervisor: {{ project.supervisor }}
