@@ -2,6 +2,23 @@
 # levels and topics are lists: a project can be open to several levels and cover several topics.
 # Set status to "open" or "taken". Cards are shuffled on each page load.
 # image paths are relative to docs/, e.g. assets/img/projects/my_project.png
+- title: Behavior Trees as Structure for Hierarchical World-Model Planning
+  image: assets/img/projects/wm-david.png
+  topics:
+  - Robotics
+  - Machine learning
+  - World models
+  - Planning
+  - Behavior trees
+  - JEPA
+  levels:
+  - Bachelor Thesis
+  - Master Project
+  - Master Thesis
+  status: open
+  description: Robots that plan with learned world models work well over short horizons and fall apart over long ones, because predicted futures drift. Recent work fixes this by planning in chunks, but leaves open where the chunks come from. This project uses a behavior tree — nodes with preconditions, postconditions and fallback branches — as that chunk structure, and asks whether an explicit, verifiable task structure beats a learned or hand-tuned one. Work is in simulation on standard benchmarks, one GPU is enough, and the project suits a student who is comfortable in PyTorch and wants to work on planning rather than training
+  supervisor: David Cáceres Domínguez
+  contact: dcd@di.ku.dk
 - title: Is conditioning possible for a trained diffusion model / flow matching?
   image: assets/img/projects/is-conditioning-possible-for-a-trained-diffusion-model-flow.jpg
   topics:
