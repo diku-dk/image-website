@@ -16,7 +16,7 @@
   - Master Project
   - Master Thesis
   status: open
-  description: Robots that plan with learned world models work well over short horizons and fall apart over long ones, because predicted futures drift. Recent work fixes this by planning in chunks, but leaves open where the chunks come from. This project uses a behavior tree — nodes with preconditions, postconditions and fallback branches — as that chunk structure, and asks whether an explicit, verifiable task structure beats a learned or hand-tuned one. Work is in simulation on standard benchmarks, one GPU is enough, and the project suits a student who is comfortable in PyTorch and wants to work on planning rather than training
+  description: Robots that plan with learned world models work well over short horizons and fall apart over long ones, because predicted futures drift. Recent work fixes this by planning in chunks, but leaves open where the chunks come from. This project uses a behavior tree as that chunk structure, and asks whether an explicit, verifiable task structure beats a learned or hand-tuned one. 
   supervisor: David Cáceres Domínguez
   contact: dcd@di.ku.dk
 - title: Is conditioning possible for a trained diffusion model / flow matching?
