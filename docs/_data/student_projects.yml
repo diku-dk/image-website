@@ -107,7 +107,7 @@
 - title: Dental image analysis
   image: assets/img/projects/dental-image-analysis.jpg
   topics:
-  - Medical image analysis
+  - Medical Image Analysis
   levels: []
   status: open
   description: This project focuses on the use of AI in dental image analysis and treatment planning.
@@ -191,7 +191,7 @@
   image: assets/img/projects/segment-and-analyse-human-organ-atlas-data.jpg
   topics:
   - Image segmentation
-  - Medical imaging
+  - Medical Image Analysis
   levels:
   - Bachelor Thesis
   - Master Project
@@ -203,7 +203,7 @@
 - title: Scaling laws in human organs
   image: assets/img/projects/scaling-laws-in-human-organs.jpg
   topics:
-  - Medical imaging
+  - Medical Image Analysis
   - Geometry
   levels:
   - Bachelor Thesis
@@ -216,7 +216,7 @@
 - title: Reconstruction of the coronary artery tree
   image: assets/img/projects/reconstruction-of-the-coronary-artery-tree.jpg
   topics:
-  - Medical imaging
+  - Medical Image Analysis
   - Image segmentation
   levels:
   - Bachelor Thesis
@@ -230,7 +230,7 @@
   image: assets/img/projects/automate-generation-of-3d-printed-neck-support-for-radiother.jpg
   topics:
   - Radiotherapy
-  - Medical imaging
+  - Medical Image Analysis
   levels: []
   status: open
   description: In this project, we will use the planning scan to design a 3D-printed, patient-specific neck support that extends to include the shoulders.
