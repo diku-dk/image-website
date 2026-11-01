@@ -1,3 +1,7 @@
+- title: 'For Those Who Believe in Faithfulness: Optimizing the Area Under Insertion and Deletion Curves for Ranking Relative Feature Importance'
+  author: BL Møller, B Ibragimov, C Igel
+  year: 2026
+  journal: arXiv preprint arXiv:2610.09844
 - title: Predicting Radiologist Expertise from 3D Gaze Patterns During CT Interpretation
   author: L Khaertdinova, A Anikina, C Mello-Thoms, B Ibragimov
   year: 2026
@@ -35,6 +39,10 @@
   authors_full: Erik Gudmann Steuble Brandt, Felix Christoph Müller, Yousef JW Nielsen, Anne Marie Ewald, Bulat Ibragimov, Henrik Thomsen, Anders Rodell, Michael Brun Andersen
   year: 2026
   journal: Acta Radiologica
+- title: Phase segmentation of a percutaneous medical procedure
+  author: E Ayvali, B IBRAGIMOV
+  year: 2026
+  journal: US Patent
 - title: 'Reduced beam hardening in urogenital imaging with photon-counting CT: a retrospective direct comparison with conventional CT'
   author: EGS Brandt, FC Müller, YJW Nielsen, AM Ewald, B Ibragimov, H Thomsen, ...
   authors_full: Erik Gudmann Steuble Brandt, Felix Christoph Müller, Yousef JW Nielsen, Anne Marie Ewald, Bulat Ibragimov, Henrik Thomsen, Anders Rodell, Michael Brun Andersen
@@ -196,10 +204,6 @@
   author: B Ibragimov, G Gusev
   year: 2024
   journal: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …
-- title: Uplift modelling via gradient boosting
-  author: B Ibragimov, A Vakhrushev
-  year: 2024
-  journal: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …
 - title: 'AI-initiated second opinions: a framework for advanced caries treatment planning'
   author: T Dascalu, S Ramezanzade, A Bakhshandeh, L Bjørndal, B Ibragimov
   year: 2024
@@ -265,10 +269,6 @@
   author: B Ibragimov
   year: 2023
   journal: Artificial Intelligence in Radiation Oncology and Biomedical Physics
-- title: Phase segmentation of a percutaneous medical procedure
-  author: E Ayvali, B IBRAGIMOV
-  year: 2023
-  journal: US Patent App. 18/186
 - title: Two-dimensional image registration
   author: E Ayvali, B IBRAGIMOV
   year: 2023
@@ -332,11 +332,6 @@
   authors_full: Ilya Pershin, Maksim Kholiavchenko, Bulat Maksudov, Tamerlan Mustafaev, Dilyara Ibragimova, Bulat Ibragimov
   year: 2022
   journal: IEEE Journal of Biomedical and Health Informatics
-- title: 'Neuralsympcheck: A symptom checking and disease diagnostic neural model with logic regularization'
-  author: A Nesterov, B Ibragimov, D Umerenkov, A Shelmanov, G Zubkova, ...
-  authors_full: Aleksandr Nesterov, Bulat Ibragimov, Dmitriy Umerenkov, Artem Shelmanov, Galina Zubkova, Vladimir Kokh
-  year: 2022
-  journal: International Conference on Artificial Intelligence in Medicine
 - title: Multi-landmark environment analysis with reinforcement learning for pelvic abnormality detection and quantification
   author: IEI Bekkouch, B Maksudov, S Kiselev, T Mustafaev, T Vrtovec, ...
   authors_full: Imad Eddine Ibrahim Bekkouch, Bulat Maksudov, Semen Kiselev, Tamerlan Mustafaev, Tomaž Vrtovec, Bulat Ibragimov
@@ -423,214 +418,6 @@
   author: T Vrtovec, D Močnik, P Strojan, F Pernuš, B Ibragimov
   year: 2020
   journal: Medical physics 47 (9), e929-e950
-- title: Deep learning for identification of critical regions associated with toxicities after liver stereotactic body radiation therapy
-  author: B Ibragimov, DAS Toesca, DT Chang, Y Yuan, AC Koong, L Xing, ...
-  authors_full: Bulat Ibragimov, Diego A. S. Toesca, Daniel T. Chang, Yixuan Yuan, Albert C. Koong, Lei Xing, Ivan R. Vogelius
-  year: 2020
-  journal: Medical physics
-- title: Automated hepatobiliary toxicity prediction after liver stereotactic body radiation therapy with deep learning-based portal vein segmentation
-  author: B Ibragimov, DAS Toesca, DT Chang, Y Yuan, AC Koong, L Xing
-  year: 2020
-  journal: Neurocomputing
-- title: Contour-aware multi-label chest X-ray organ segmentation
-  author: M Kholiavchenko, I Sirazitdinov, K Kubrak, R Badrutdinova, R Kuleev, ...
-  authors_full: M. Kholiavchenko, I. Sirazitdinov, K. Kubrak, R. Badrutdinova, R. Kuleev, Y. Yuan, T. Vrtovec, B. Ibragimov
-  year: 2020
-  journal: International Journal of Computer Assisted Radiology and Surgery
-- title: Densely connected neural network with unbalanced discriminant and category sensitive constraints for polyp recognition
-  author: Y Yuan, W Qin, B Ibragimov, G Zhang, B Han, MQH Meng, L Xing
-  year: 2019
-  journal: IEEE transactions on automation science and engineering
-- title: Deep neural network ensemble for pneumonia localization from a large-scale chest x-ray database
-  author: I Sirazitdinov, M Kholiavchenko, T Mustafaev, Y Yixuan, R Kuleev, ...
-  authors_full: Ilyas Sirazitdinov, Maksym Kholiavchenko, Tamerlan Mustafaev, Yuan Yixuan, Ramil Kuleev, Bulat Ibragimov
-  year: 2019
-  journal: Computers & electrical engineering
-- title: Data augmentation for chest pathologies classification
-  author: I Sirazitdinov, M Kholiavchenko, R Kuleev, B Ibragimov
-  year: 2019
-  journal: 2019 IEEE 16th international symposium on biomedical imaging (ISBI 2019 …
-- title: Neural networks for deep radiotherapy dose analysis and prediction of liver SBRT outcomes
-  author: B Ibragimov, DAS Toesca, Y Yuan, AC Koong, DT Chang, L Xing
-  year: 2019
-  journal: IEEE journal of biomedical and health informatics
-- title: Prostate cancer classification with multiparametric MRI transfer learning model
-  author: Y Yuan, W Qin, M Buyyounouski, B Ibragimov, S Hancock, B Han, L Xing
-  year: 2019
-  journal: Medical physics
-- title: Minimal variance sampling in stochastic gradient boosting
-  author: B Ibragimov, G Gusev
-  year: 2019
-  journal: Advances in Neural Information Processing Systems
-- title: Predicting Survival after Liver SBRT by Deep Learning-Based Analysis of Treatment Dose Plans
-  author: B Ibragimov, D Toesca, DT Chang, AC Koong, L Xing
-  year: 2018
-  journal: International Journal of Radiation Oncology, Biology, Physics
-- title: Learning deconvolutional deep neural network for high resolution medical image reconstruction
-  author: H Liu, J Xu, Y Wu, Q Guo, B Ibragimov, L Xing
-  year: 2018
-  journal: Information Sciences
-- title: Development of deep neural network for individualized hepatobiliary toxicity prediction after liver SBRT
-  author: B Ibragimov, D Toesca, D Chang, Y Yuan, A Koong, L Xing
-  year: 2018
-  journal: Medical physics
-- title: Deep 3D dose analysis for prediction of outcomes after liver stereotactic body radiation therapy
-  author: B Ibragimov, DAS Toesca, Y Yuan, AC Koong, DT Chang, L Xing
-  year: 2018
-  journal: International Conference on Medical Image Computing and Computer-Assisted …
-- title: 'RIIS-DenseNet: Rotation-invariant and image similarity constrained densely connected convolutional network for polyp detection'
-  author: Y Yuan, W Qin, B Ibragimov, B Han, L Xing
-  year: 2018
-  journal: International conference on medical image computing and computer-assisted …
-- title: Segmentation of parotid glands from registered CT and MR images
-  author: D Močnik, B Ibragimov, L Xing, P Strojan, B Likar, F Pernuš, T Vrtovec
-  year: 2018
-  journal: Physica Medica
-- title: Convolutional Neural Networks for Identifying Correlation Between Dose Patterns Associated with Poor Survival and Early Local Recurrence After Metastatic Liver SBRT
-  author: B Ibragimov, Y Yuan, D Toesca, D Chang, A Koong, L Xing
-  year: 2018
-  journal: MEDICAL PHYSICS 45 (6), E415-E415
-- title: Superpixel-based and boundary-sensitive convolutional neural network for automated liver segmentation
-  author: W Qin, J Wu, F Han, Y Yuan, W Zhao, B Ibragimov, J Gu, L Xing
-  year: 2018
-  journal: Physics in Medicine & Biology
-- title: Strategies for prediction and mitigation of radiation-induced liver toxicity
-  author: DAS Toesca, B Ibragimov, AJ Koong, L Xing, AC Koong, DT Chang
-  year: 2018
-  journal: Journal of radiation research 59 (suppl_1), i40-i49
-- title: Combining deep learning with anatomical analysis for segmentation of the portal vein for liver SBRT planning
-  author: B Ibragimov, D Toesca, D Chang, A Koong, L Xing
-  year: 2017
-  journal: Physics in Medicine & Biology
-- title: Deep learning-based autosegmentation of portal vein for prediction of central liver toxicity after SBRT
-  author: B Ibragimov, DAS Toesca, DT Chang, AC Koong, L Xing
-  year: 2017
-  journal: International Journal of Radiation Oncology, Biology, Physics 99 (2), E672
-- title: Intervertebral disc segmentation in MR images with 3D convolutional networks
-  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2017
-  journal: 'Medical Imaging 2017: Image Processing'
-- title: Segmentation of pathological structures by landmark-assisted deformable models
-  author: B Ibragimov, R Korez, B Likar, F Pernuš, L Xing, T Vrtovec
-  year: 2017
-  journal: IEEE transactions on medical imaging
-- title: Segmentation of organs‐at‐risks in head and neck CT images using convolutional neural networks
-  author: B Ibragimov, L Xing
-  year: 2017
-  journal: Medical physics
-- title: Augmenting atlas-based liver segmentation for radiotherapy treatment planning by incorporating image features proximal to the atlas contours
-  author: D Li, L Liu, J Chen, H Li, Y Yin, B Ibragimov, L Xing
-  year: 2017
-  journal: Physics in Medicine & Biology
-- title: Landmark-based statistical shape representations
-  author: B Ibragimov, T Vrtovec
-  year: 2017
-  journal: Statistical shape and deformation analysis
-- title: Fully automated quantitative cephalometry using convolutional neural networks
-  author: SÖ Arık, B Ibragimov, L Xing
-  year: 2017
-  journal: Journal of Medical Imaging
-- title: 'Evaluation and comparison of 3D intervertebral disc localization and segmentation methods for 3D T2 MR data: A grand challenge'
-  author: G Zheng, C Chu, DL Belavý, B Ibragimov, R Korez, T Vrtovec, H Hutt, ...
-  authors_full: Guoyan Zheng, Chengwen Chu, Daniel L. Belavý, Bulat Ibragimov, Robert Korez, Tomaž Vrtovec, Hugo Hutt, Richard Everson, Judith Meakin, Isabel Lŏpez Andrade, Ben Glocker, Hao Chen, Qi Dou, Pheng-Ann Heng, Chunliang Wang, Daniel Forsberg, Aleš Neubert, Jurgen Fripp, Martin Urschler, Darko Stern, Maria Wimmer, Alexey A. Novikov, Hui Cheng, Gabriele Armbrecht, Dieter Felsenberg, Shuo Li
-  year: 2017
-  journal: Medical image analysis
-- title: Development of a novel deep learning algorithm for autosegmentation of clinical tumor volume and organs at risk in head and neck radiation therapy planning
-  author: B Ibragimov, F Pernuš, P Strojan, L Xing
-  year: 2016
-  journal: International Journal of Radiation Oncology, Biology, Physics 96 (2), S226
-- title: A benchmark for comparison of dental radiography analysis algorithms
-  author: CW Wang, CT Huang, JH Lee, CH Li, SW Chang, MJ Siao, TM Lai, ...
-  authors_full: Ching-Wei Wang, Cheng-Ta Huang, Jia-Hong Lee, Chung-Hsing Li, Sheng-Wei Chang, Ming-Jhih Siao, Tat-Ming Lai, Bulat Ibragimov, Tomaž Vrtovec, Olaf Ronneberger, Philipp Fischer, Tim F. Cootes, Claudia Lindner
-  year: 2016
-  journal: Medical image analysis
-- title: 'TH‐CD‐206‐05: Machine‐Learning Based Segmentation of Organs at Risks for Head and Neck Radiotherapy Planning'
-  author: B Ibragimov, F Pernus, P Strojan, L Xing
-  year: 2016
-  journal: Medical physics 43 (6Part46)
-- title: Accurate landmark-based segmentation by incorporating landmark misdetections
-  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2016
-  journal: 2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)
-- title: A multi-center milestone study of clinical vertebral CT segmentation
-  author: J Yao, JE Burns, D Forsberg, A Seitel, A Rasoulian, P Abolmaesumi, ...
-  authors_full: Jianhua Yao, Joseph E. Burns, Daniel Forsberg, Alexander Seitel, Abtin Rasoulian, Purang Abolmaesumi, Kerstin Hammernik, Martin Urschler, Bulat Ibragimov, Robert Korez, Tomaž Vrtovec, Isaac Castro-Mateos, Jose M. Pozo, Alejandro F. Frangi, Ronald M. Summers, Shuo Li
-  year: 2016
-  journal: Computerized medical imaging and graphics
-- title: Deformable model-based segmentation of intervertebral discs from MR spine images by using the SSC descriptor
-  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2015
-  journal: International Workshop and Challenge on Computational Methods and Clinical …
-- title: Computerized cephalometry by game theory with shape-and appearance-based landmark refinement
-  author: B Ibragimov, B Likar, F Pernus, T Vrtovec
-  year: 2015
-  journal: Proceedings of International Symposium on Biomedical imaging (ISBI)
-- title: Optimal reinforcement of training datasets in semi-supervised landmark-based segmentation
-  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2015
-  journal: 'Medical Imaging 2015: Image Processing'
-- title: 'Evaluation and comparison of anatomical landmark detection methods for cephalometric x-ray images: a grand challenge'
-  author: CW Wang, CT Huang, MC Hsieh, CH Li, SW Chang, WC Li, R Vandaele, ...
-  authors_full: Ching-Wei Wang, Cheng-Ta Huang, Meng-Che Hsieh, Chung-Hsing Li, Sheng-Wei Chang, Wei-Cheng Li, Remy Vandaele, Raphael Maree, Sebastien Jodogne, Pierre Geurts, Cheng Chen, Guoyan Zheng, Chengwen Chu, Hengameh Mirzaalian, Ghassan Hamarneh, Tomaz Vrtovec, Bulat Ibragimov
-  year: 2015
-  journal: IEEE transactions on medical imaging
-- title: Interpolation-based shape-constrained deformable model approach for segmentation of vertebrae from CT spine images
-  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2015
-  journal: Recent advances in computational methods and clinical applications for spine …
-- title: Interpolation-based detection of lumbar vertebrae in CT spine images
-  author: B Ibragimov, R Korez, B Likar, F Pernuš, T Vrtovec
-  year: 2015
-  journal: Recent Advances in Computational Methods and Clinical Applications for Spine …
-- title: An improved shape-constrained deformable model for segmentation of vertebrae from CT lumbar spine images
-  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2015
-  journal: Recent Advances in Computational Methods and Clinical Applications for Spine …
-- title: Segmentation of tongue muscles from super-resolution magnetic resonance images
-  author: B Ibragimov, JL Prince, EZ Murano, J Woo, M Stone, B Likar, F Pernuš, ...
-  authors_full: Bulat Ibragimov, Jerry L. Prince, Emi Z. Murano, Jonghye Woo, Maureen Stone, Boštjan Likar, Franjo Pernuš, Tomaž Vrtovec
-  year: 2015
-  journal: Medical image analysis
-- title: A framework for automated spine and vertebrae interpolation-based detection and model-based segmentation
-  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2015
-  journal: IEEE transactions on medical imaging
-- title: Segmentation of vertebrae from 3D spine images by applying concepts from transportation and game theories
-  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2014
-  journal: Computational Methods and Clinical Applications for Spine Imaging …
-- title: Automatic cephalometric X-ray landmark detection by applying game theory and random forests
-  author: B Ibragimov, B Likar, F Pernus, T Vrtovec
-  year: 2014
-  journal: Proc. ISBI Int. Symp. on Biomedical Imaging
-- title: Shape representation for efficient landmark-based segmentation in 3-D
-  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2014
-  journal: IEEE transactions on medical imaging
-- title: 'Segmentation of Medical Images by Game-theoretic Approaches: PhD Thesis'
-  author: B Ibragimov
-  year: 2014
-  journal: B. Ibragimov
-- title: Statistical shape representation with landmark clustering by solving the assignment problem
-  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2013
-  journal: 'Medical Imaging 2013: Image Processing'
-- title: A game-theoretic framework for landmark-based image segmentation
-  author: B Ibragimov, B Likar, F Pernus
-  year: 2012
-  journal: IEEE Transactions on Medical Imaging
-- title: Automated measurement of anterior and posterior acetabular sector angles
-  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
-  year: 2012
-  journal: 'Medical Imaging 2012: Computer-Aided Diagnosis'
-- title: Segmentation of lung fields by game theory and dynamic programming
-  author: B Ibragimov, T Vrtovec, B Likar, F Pernuš
-  year: 2011
-  journal: the 4th International Workshop on Pulmonary Image Analysis, PIA
-- title: Boundary detection by linear programming with application to lung fields segmentation
-  author: B Ibragimov, B Likar, F Pernuš
-  year: 2011
-  journal: 'Medical Imaging 2011: Image Processing'
 - title: 'ARCGym: Benchmarking Deep Reinforcement Learning in Autonomous Robotic Colonoscopy'
   author: G Ji, M Finocchiaro, K Erleben, H Yin
   year: 2026
@@ -953,6 +740,10 @@
   author: M Engell-Nørregård, S Niebe, K Erleben
   year: 2012
   journal: Multibody System Dynamics
+- title: Time adaptive approximate SPH
+  author: P Goswami, R Pajarola, J Bender, K Erleben, E Galin
+  year: 2011
+  journal: Workshop on Virtual Reality Interaction and Physical Simulation VRIPHYS
 - title: Mathematical foundation of the optimization-based fluid animation method
   author: K Erleben, MK Misztal, JA Bærentzen
   year: 2011
@@ -969,10 +760,6 @@
   author: K Erleben
   year: 2011
   journal: ''
-- title: Time adaptive approximate SPH
-  author: P Goswami, R Pajarola
-  year: 2011
-  journal: Workshop in Virtual Reality Interactions and Physical Simulation
 - title: Optimization-based Fluid Simulation on Unstructured Meshes.
   author: MK Misztal, R Bridson, K Erleben, JA Bærentzen, F Anton
   year: 2010
@@ -1039,163 +826,29 @@
   authors_full: Søren Hauberg, Jerome Lapuyade, Morten Engell-Nørregård, Kenny Erleben, Kim Steenstrup Pedersen
   year: 2009
   journal: International Workshop on Energy Minimization Methods in Computer Vision and …
-- title: Maximal independent set graph partitions for representations of body-centered cubic lattices
-  author: K Erleben
-  year: 2009
-  journal: The Visual Computer
-- title: Smoke simulation for fire engineering using a multigrid method on graphics hardware
-  author: SL Glimberg, K Erleben, JC Bennetsen
-  year: 2009
-  journal: 6th Workshop on Virtual Reality Interactions and Physical Simulations
-- title: GPU Accelerated Tandem Traversal of Blocked Bounding Volume Hierarchy Collision Detection for Multibody Dynamics.
-  author: J Damkjær, K Erleben
-  year: 2009
-  journal: VRIPHYS
-- title: Interactive Inverse Kinematics for Human Motion Estimation.
-  author: M Engell-Nørregård, S Hauberg, J Lapuyade, K Erleben, KS Pedersen
-  year: 2009
-  journal: VRIPHYS
-- title: A projected non-linear conjugate gradient method for interactive inverse kinematics
-  author: M Engell-Nørregård, K Erleben
-  year: 2009
-  journal: MATHMOD 2009-6th Vienna International Conference on Mathematical Modelling
-- title: Estimation of Joint types and Joint Limits from Motion capture data
-  author: M Engell-Nørregård
-  year: 2009
-  journal: Václav Skala-UNION Agency
-- title: Nonsmooth newton method for fischer function reformulation of contact force problems for interactive rigid body simulation
-  author: M Silcowitz, S Niebe, K Erleben
-  year: 2009
-  journal: Workshop in Virtual Reality Interactions and Physical Simulation
-- title: A Non‐smooth Newton Method for Multibody Dynamics
-  author: K Erleben, R Ortiz
-  year: 2008
-  journal: AIP Conference Proceedings
-- title: Guessing tangents in normal flows
-  author: B Markussen, J Sporring, K Erleben
-  year: 2008
-  journal: Journal of Mathematical Imaging and Vision
-- title: Volumetric Shells using Path Tracing
-  author: K Erleben
-  year: 2008
-  journal: ''
-- title: Signed distance fields using single-pass gpu scan conversion of tetrahedra
-  author: K Erleben, H Dohlmann
-  year: 2008
-  journal: Gpu Gems
-- title: Photon differentials
-  author: L Schjøth, JR Frisvad, K Erleben, J Sporring
-  year: 2007
-  journal: Proceedings of the 5th international conference on Computer graphics and …
-- title: Line-stepping for shell meshes
-  author: K Erleben, J Sporring
-  year: 2007
-  journal: Scandinavian Conference on Image Analysis
-- title: Boneless pose editing and animation
-  author: JA Bærentzen, KE Hansen, K Erleben
-  year: 2007
-  journal: Scandinavian Conference on Image Analysis
-- title: Velocity-based shock propagation for multibody dynamics animation
-  author: K Erleben
-  year: 2007
-  journal: ACM Transactions on Graphics (TOG) 26 (2), 12-es
-- title: Tetrahedral Shell Tesselation and Methods for Surface Mesh Extrusion
-  author: K Erleben, H Dohlmann, M Zachariasen, J Sporring
-  year: 2006
-  journal: ''
-- title: SIMS 2004
-  author: B Elmegaard, J Sporring, K Erleben, K Sørensen
-  year: 2006
-  journal: Simulation Modelling Practice and Theory
-- title: Ballet balance strategies
-  author: C Pedersen, K Erleben, J Sporring
-  year: 2006
-  journal: Simulation Modelling Practice and Theory
-- title: Scan conversion of signed distance fields
-  author: K Erleben, H Dohlmann
-  year: 2006
-  journal: Proceedings of DSAGM
-- title: A simple plane patcher algorithm
-  author: K Erleben, K Henriksen
-  year: 2006
-  journal: Department of Computer Science, University of Copenhagen
-- title: Area and volume restoration in elastically deformable solids
-  author: M Kelager, A Fleron, K Erleben
-  year: 2005
-  journal: ELCVIA Electronic Letters on Computer Vision and Image Analysis
-- title: Physics-based Animation
-  author: K Erleben, J Sporring, K Henriksen, H Dohlmann
-  year: 2005
-  journal: Graphics Series
-- title: A multi-scale singularity bounding volume hierarchy
-  author: K Somchaipeng
-  year: 2005
-  journal: UNION Agency
-- title: The adaptive thin shell tetrahedral mesh
-  author: K Erleben
-  year: 2005
-  journal: Václav Skala-UNION Agency
-- title: Versatile Multibody Dynamics Animation
-  author: K Erleben, R Stable
-  year: 2004
-  journal: The Department of Computer Science, University of Conpenhagen
-- title: Stable, robust, and versatile multibody dynamics animation
-  author: K Erleben
-  year: 2004
-  journal: Unpublished Ph. D. Thesis, University of Copenhagen, Copenhagen
-- title: Contact graphs in multibody dynamics simulation
-  author: K Erleben, H Dohlmann
-  year: 2004
-  journal: DIKU
-- title: The thin shell tetrahedral mesh
-  author: K Erleben, H Dohlmann
-  year: 2004
-  journal: Proceedings of DSAGM
-- title: Physics-based Animation and Simulation
-  author: K Erleben, J Sporring, K Henriksen, H Dohlmann
-  year: 2004
-  journal: DIKU H. Goldstein, CP Poole, and JL Safko (2002),[5]
-- title: The Lagrange Formulation of The Deformable Object Model
-  author: K Erleben
-  year: 2003
-  journal: ''
-- title: Scripted bodies and spline-driven animation
-  author: K Erleben, K Henriksen
-  year: 2003
-  journal: Graphics programming methods
-- title: Collision detection of deformable volumetric meshes
-  author: K Erleben, J Sporring
-  year: 2003
-  journal: Graphics programming methods
-- title: Sound interaction by use of comparative visual displays
-  author: TH Andersen, K Erleben
-  year: 2002
-  journal: Proceedings of the Second Danish HCI Symposium
-- title: B-splines
-  author: K Erleben, K Henriksen
-  year: 2002
-  journal: DIKU
-- title: Module based design for rigid body simulators
-  author: K Erleben
-  year: 2002
-  journal: Department of Computer Science, University of Copenhagen
-- title: An Introduction to Approximating Heterogeneous Bounding Volume Hierarchies
-  author: K Erleben
-  year: 2002
-  journal: University of Copenhagen, Department of Computer
-- title: En introducerende lærebog i dynamisk simulation af stive legemer
-  author: K Erleben
-  year: 2001
-  journal: Maj
-- title: PATIENT SPECIFIC BIOMECHANICS MODELING AND SIMULATION
-  author: RR BAIER, O BARRERA, SPA BORDAS, S COTIN, K ERLEBEN, ...
-  authors_full: RICARDO R BAIER, OLGA BARRERA, STÉPHANE PA BORDAS, STÉPHANE COTIN, KENNY ERLEBEN, JAVIER LLORCA, JOSÉ A RODRIGUES, MICHAEL SACKS
-  year: 1800
-  journal: SIMULATION
+- title: 'Nationwide AI Models for Depression Prediction: Regional Generalizability and Culturally Sensitive Variable Selection'
+  author: A Valentine, H Coupland, E Petersen, E Beaman, M Osler, A Feragen, ...
+  authors_full: Alissa Valentine, Helen Coupland, Eike Petersen, Emily Beaman, Merete Osler, Aasa Feragen, Melanie Ganz
+  year: 2026
+  journal: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 9 (4 …
+- title: Is invariance all you need for algorithmic fairness? Removing demographic information can create new bias
+  author: A Parikh, E Petersen, S Frank, E Ferrante, M Ganz, A Feragen
+  year: 2026
+  journal: arXiv preprint arXiv:2609.32004
 - title: A clinical brain MRI dataset of polymicrogyria in patients suspected of epilepsy
   author: L Coll, A Shafique, H Kaas, M Prener, LH Pinborg, GM Knudsen, M Ganz
   year: 2026
   journal: Machine Learning for Biomedical Imaging 2026 (Special Issue on MICCAI Open …
+- title: 'Building an open infrastructure for molecular neuroimaging: Standards and tools from the OpenNeuroPET initiative'
+  author: M Ganz, M Norgaard, C Pernet, GJ Matheson, A Galassi, E Ceballos, ...
+  authors_full: Melanie Ganz, Martin Norgaard, Cyril Pernet, Granville J. Matheson, Anthony Galassi, Eric G. Ceballos, Paul Wighton, Murat Bilgel, Cyrus Eierud, Gabriel Gonzalez-Escamilla, Joshua Buckholtz, Ross Blair, Christopher J Markiewicz, Nell Hardcastle, Douglas N. Greve, Adam G. Thomas, Russell A. Poldrack, Vince D. Calhoun, Robert B. Innis, Gitte M. Knudsen
+  year: 2026
+  journal: Journal of Cerebral Blood Flow & Metabolism, 0271678X261490245
+- title: Prevalence of malformations of cortical development in patients with suspected epilepsy based on a clinical MRI dataset
+  author: L Coll, J Díaz-i-Calvete, A Schiavone, H Kaas, M Prener, V Beliveau, ...
+  authors_full: Llucia Coll, Júlia Díaz-i-Calvete, Alice Schiavone, Helene Kaas, Martin Prener, Vincent Beliveau, Gitte Moos Knudsen, Lars Hageman Pinborg, Melanie Ganz
+  year: 2026
+  journal: medRxiv, 2026.08. 19.26360591
 - title: Preoperative limbic cortical thinning in mesial temporal lobe epilepsy surgical candidates is associated with pre‐existing and de novo postoperative depression
   author: P Fink‐Jensen, B Ozenne, A Kloster, B Jespersen, K Vinter, G Rubboli, ...
   authors_full: Philip Fink‐Jensen, Brice Ozenne, Ane Kloster, Bo Jespersen, Kirsten Vinter, Guido Rubboli, Martin Balslev Jørgensen, Sandor Beniczky, Melanie Ganz, Lars Hageman Pinborg
@@ -1212,11 +865,6 @@
   authors_full: Alice Schiavone, Marco Fraccaro, Lea Marie Pehrson, Silvia Ingala, Rasmus Bonnevie, Michael Bachmann Nielsen, Vincent Beliveau, Melanie Ganz, Desmond Elliott
   year: 2026
   journal: Proceedings of the 8th Workshop on Clinical Natural Language Processing …
-- title: 'EXPRESS: Building an open infrastructure for molecular neuroimaging: standards and tools from the OpenNeuroPET initiative'
-  author: M Ganz, M Norgaard, C Pernet, GJ Matheson, A Galassi, EG Ceballos, ...
-  authors_full: Melanie Ganz, Martin Norgaard, Cyril Pernet, Granville J Matheson, Anthony Galassi, Eric G Ceballos, Murat Bilgel, Cyrus Eierud, Gabriel Gonzalez-Escamilla, Paul Wighton, Christopher J Markiewicz, Nell Hardcastle, Joshua Buckholtz, Ross Blair, Douglas N Greve, Adam Thomas, Russell A Poldrack, Vince Calhoun, Robert B. Innis, Gitte Moos Knudsen
-  year: 2026
-  journal: Journal of Cerebral Blood Flow & Metabolism, 0271678X261490245
 - title: A dataset of clinical pediatric brain MRI with and without motion correction
   author: L Coll, T Waagstein Madsen, K Skak Madsen, M Ganz
   year: 2026
@@ -1254,11 +902,6 @@
   authors_full: Justine Y Hansen, Jouni Tuisku, Jarkko Johansson, Zeyu Chang, Colm McGinnity, Vincent Beliveau, Synthia Guimond, Melanie Ganz, Martin Norgaard, Marian Galovic, Gleb Bezgin, Sylvia ML Cox, Jarmo Hietala, Marco Leyton, Eliane Kobayashi, Pedro Rosa-Neto, Thomas Funck, Nicola Palomero-Gallagher, Gitte Moos Knudsen, Paul Marsden, Alexander Hammers, Lauri Nummenmaa, Lauri Tuominen, Bratislav Misic
   year: 2026
   journal: Brain Structure and Function
-- title: Prevalence of malformations of cortical development in patients with suspected epilepsy based on a clinical MRI dataset
-  author: L Coll, J Diaz-i-Calvete, A Schiavone, H Kaas, M Prener, V Beliveau, ...
-  authors_full: Llucia Coll, Júlia Díaz-i-Calvete, Alice Schiavone, Helene Kaas, Martin Prener, Vincent Beliveau, Gitte Moos Knudsen, Lars Hageman Pinborg, Melanie Ganz
-  year: 2026
-  journal: medRxiv, 2026.08. 19.26360591
 - title: 'Associations of serotonin-related brain morphology in early adolescence with behavioral and emotional problems: a population-based neuroimaging study'
   author: D Koc, M Nørgaard, M Ganz, R Muetzel, H El Marroun, H Tiemeier, ...
   authors_full: D. Koc, M. Nørgaard, M. Ganz, R. Muetzel, H. El Marroun, H. Tiemeier, V. Frokjaer
@@ -1536,7 +1179,7 @@
   journal: Journal of Psychopharmacology
 - title: PET-BIDS, an extension to the brain imaging data structure for positron emission tomography
   author: M Norgaard, GJ Matheson, HD Hansen, A Thomas, G Searle, G Rizzo, ...
-  authors_full: Martin Norgaard, Granville J Matheson, Hanne D Hansen, Adam Thomas, Graham Searle, Gaia Rizzo, Mattia Veronese, Alessio Giacomel, Maqsood Yaqub, Matteo Tonietto, Thomas Funck, Ashley Gillman, Hugo Boniface, Alexandre Routier, Jelle R Dalenberg, Tobey Betthauser, Franklin Feingold, Christopher J Markiewicz, Krzysztof J Gorgolewski, Ross W Blair, Stefan Appelhoff, Remi Gau, Taylor Salo, Guiomar Niso, Cyril Pernet, Christophe Phillips, Robert Oostenveld, Jean-Dominique Gallezot, Richard E Carson, Gitte M Knudsen, Robert B Innis, Melanie Ganz
+  authors_full: ''
   year: 2022
   journal: Scientific data
 - title: 'Predicting treatment outcome in major depressive disorder using structural magnetic resonance imaging: a NeuroPharm study'
@@ -1581,7 +1224,7 @@
   journal: European Neuropsychopharmacology 53, S39-S40
 - title: 'The positron emission tomography brain imaging data structure (PET-BIDS) extension: A new standard for sharing PET data'
   author: M Norgaard, GJ Matheson, HD Hansen, A Thomas, G Searle, G Rizzo, ...
-  authors_full: Martin Norgaard, Granville J Matheson, Hanne D Hansen, Adam Thomas, Graham Searle, Gaia Rizzo, Mattia Veronese, Alessio Giacomel, Maqsood Yaqub, Matteo Tonietto, Thomas Funck, Ashley Gillman, Hugo Boniface, Alexandre Routier, Jelle R Dalenberg, Tobey Betthauser, Franklin Feingold, Christopher J Markiewicz, Krzysztof J Gorgolewski, Ross W Blair, Stefan Appelhoff, Remi Gau, Taylor Salo, Guiomar Niso, Cyril Pernet, Christophe Phillips, Robert Oostenveld, Jean-Dominique Gallezot, Richard E Carson, Gitte M Knudsen, Robert B Innis, Melanie Ganz
+  authors_full: ''
   year: 2021
   journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM 41 (1_ SUPPL)
 - title: 'NeuroPharm study: EEG wakefulness regulation as a biomarker in MDD'
@@ -1591,8 +1234,7 @@
   journal: Journal of Psychiatric Research
 - title: Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective
   author: E Levitis, CDG Van Praag, R Gau, S Heunis, E DuPre, G Kiar, ...
-  authors_full: Elizabeth Levitis, Cassandra D Gould Van Praag, Remi Gau, Stephan Heunis, Elizabeth DuPre, Gregory Kiar, Katherine L Bottenhorn, Tristan Glatard, Aki Nikolaidis, Kirstie Jane Whitaker, Matteo Mancini, Guiomar Niso, Soroosh Afyouni, Eva Alonso-Ortiz, Stefan Appelhoff, Aurina Arnatkeviciute, Selim Melvin Atay, Tibor Auer, Giulia Baracchini, Johanna MM Bayer, Michael JS Beauvais, Janine D Bijsterbosch, Isil P Bilgin, Saskia Bollmann, Steffen Bollmann, Rotem Botvinik-Nezer, Molly G Bright, Vince D Calhoun, Xiao Chen, Sidhant Chopra, Hu Chuan-Peng, Thomas G Close, Savannah L Cookson, R Cameron Craddock, Alejandro De La Vega, Benjamin De Leener, Damion V Demeter, Paola Di Maio, Erin W Dickie, Simon B Eickhoff, Oscar Esteban, Karolina Finc, Matteo Frigo, Saampras Ganesan, Melanie Ganz, Kelly G Garner, Eduardo A Garza-Villarreal, Gabriel Gonzalez-Escamilla, Rohit Goswami, John D Griffiths, Tijl Grootswagers, Samuel Guay, Olivia Guest, Daniel A Handwerker, Peer Herholz, Katja Heuer,
-    Dorien C Huijser, Vittorio Iacovella, Michael JE Joseph, Agah Karakuzu, David B Keator, Xenia Kobeleva, Manoj Kumar, Angela R Laird, Linda J Larson-Prior, Alexandra Lautarescu, Alberto Lazari, Jon Haitz Legarreta, Xue-Ying Li, Jinglei Lv, Sina Mansour L, David Meunier, Dustin Moraczewski, Tulika Nandi, Samuel A Nastase, Matthias Nau, Stephanie Noble, Martin Norgaard, Johnes Obungoloch, Robert Oostenveld, Edwina R Orchard, Ana Luísa Pinho, Russell A Poldrack, Anqi Qiu, Pradeep Reddy Raamana, Ariel Rokem, Saige Rutherford, Malvika Sharan, Thomas B Shaw, Warda T Syeda, Meghan M Testerman, Roberto Toro, Sofie L Valk, Sofie Van Den Bossche, Gaël Varoquaux, František Váša, Michele Veldsman, Jakub Vohryzek, Adina S Wagner, Reubs J Walsh, Tonya White, Fu-Te Wong, Xihe Xie, Chao-Gan Yan, Yu-Fang Yang, Yohan Yee, Gaston E Zanitti, Ana E Van Gulick, Eugene Duff, Camille Maumet
+  authors_full: ''
   year: 2021
   journal: GigaScience 10 (8), giab051
 - title: 'Pretreatment qEEG biomarkers for predicting pharmacological treatment outcome in major depressive disorder: Independent validation from the NeuroPharm study'
@@ -1604,6 +1246,11 @@
   author: M Ganz, SH Holm, A Feragen
   year: 2021
   journal: ICML 2021 Workshop Interpretable Machine Learning in Healthcare
+- title: A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABA (A) receptors
+  author: M Norgaard, V Beliveau, M Ganz, C Svarer, LH Pinborg, SH Keller, ...
+  authors_full: ''
+  year: 2021
+  journal: Neuroimage
 - title: A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABAA receptors
   author: M Nørgaard, V Beliveau, M Ganz, C Svarer, LH Pinborg, SH Keller, ...
   authors_full: Martin Nørgaard, Vincent Beliveau, Melanie Ganz, Claus Svarer, Lars H Pinborg, Sune H Keller, Peter S Jensen, Douglas N. Greve, Gitte M. Knudsen
@@ -1622,238 +1269,6 @@
   author: M Ganz, M Noergaard, V Beliveau, C Svarer, GM Knudsen, DN Greve
   year: 2020
   journal: Journal of Cerebral Blood Flow & Metabolism
-- title: 'P. 282 Hippocampal volume changes are linked to depressive symptoms independent of sex-steroid hormone manipulation: a pharmacological structural MRI study'
-  author: CB Larsen, M Ganz, S Henningsson, A Pinborg, V Frokjaer
-  year: 2020
-  journal: European Neuropsychopharmacology 40, S159-S160
-- title: 'Different preprocessing strategies lead to different conclusions: A [11C]DASB-PET reproducibility study'
-  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
-  authors_full: Martin Nørgaard, Melanie Ganz, Claus Svarer, Vibe G Frokjaer, Douglas N Greve, Stephen C Strother, Gitte M Knudsen
-  year: 2020
-  journal: Journal of Cerebral Blood Flow & Metabolism
-- title: Optimizing a preprocessing pipeline for structural 7T MR analyses in FreeSurfer
-  author: G Opheim, O Puonti, JO Pedersen, VO Boer, A Kloster, M Prener, ...
-  authors_full: Giske Opheim, Oula Puonti, Jan Ole Pedersen, Vincent O. Boer, Ane Kloster, Martin Prener, Helle J. Simonsen, Olaf B. Paulson, Lars H. Pinborg, Melanie Ganz
-  year: 2020
-  journal: International Society of Magnetic Resonance in Medicine
-- title: 'Guidelines for the content and format of PET brain data in publications and archives: a consensus paper'
-  author: GM Knudsen, M Ganz, S Appelhoff, R Boellaard, G Bormans, RE Carson, ...
-  authors_full: Gitte M Knudsen, Melanie Ganz, Stefan Appelhoff, Ronald Boellaard, Guy Bormans, Richard E Carson, Ciprian Catana, Doris Doudet, Antony D Gee, Douglas N Greve, Roger N Gunn, Christer Halldin, Peter Herscovitch, Henry Huang, Sune H Keller, Adriaan A Lammertsma, Rupert Lanzenberger, Jeih-San Liow, Talakad G Lohith, Mark Lubberink, Chul H Lyoo, J John Mann, Granville J Matheson, Thomas E Nichols, Martin Nørgaard, Todd Ogden, Ramin Parsey, Victor W Pike, Julie Price, Gaia Rizzo, Pedro Rosa-Neto, Martin Schain, Peter JH Scott, Graham Searle, Mark Slifstein, Tetsuya Suhara, Peter S Talbot, Adam Thomas, Mattia Veronese, Dean F Wong, Maqsood Yaqub, Francesca Zanderigo, Sami Zoghbi, Robert B Innis
-  year: 2020
-  journal: Journal of Cerebral Blood Flow & Metabolism
-- title: 'Predicting treatment outcome in major depressive disorder using serotonin 4 receptor PET brain imaging, functional MRI, cognitive-, EEG-based, and peripheral biomarkers: a …'
-  author: K Köhler-Forsberg, A Jorgensen, VH Dam, DS Stenbæk, PM Fisher, CT Ip, ...
-  authors_full: Kristin Köhler-Forsberg, Anders Jorgensen, Vibeke H Dam, Dea Siggaard Stenbæk, Patrick M Fisher, Cheng-Teng Ip, Melanie Ganz, Henrik Enghusen Poulsen, Annamaria Giraldi, Brice Ozenne, Martin Balslev Jørgensen, Gitte Moos Knudsen, Vibe Gedsoe Frokjaer
-  year: 2020
-  journal: Frontiers in psychiatry
-- title: 'The structure of the serotonin system: A PET imaging study'
-  author: V Beliveau, B Ozenne, S Strother, DN Greve, C Svarer, GM Knudsen, ...
-  authors_full: Vincent Beliveau, Brice Ozenne, Stephen Strother, Douglas N. Greve, Claus Svarer, Gitte Moos Knudsen, Melanie Ganz
-  year: 2020
-  journal: Neuroimage
-- title: 'JCB905433 Supplemental Material1-Supplemental material for Guidelines for the content and format of PET brain data in publications and archives: A consensus paper'
-  author: GM Knudsen, M Ganz, S Appelhoff, R Boellaard, G Bormans, RE Carson, ...
-  authors_full: Gitte M Knudsen, Melanie Ganz, Stefan Appelhoff, Ronald Boellaard, Guy Bormans, Richard E Carson, Ciprian Catana, Doris Doudet, Antony D Gee, Douglas N Greve, Roger N Gunn, Christer Halldin, Peter Herscovitch, Henry Huang, Sune H Keller, Adriaan A Lammertsma, Rupert Lanzenberger, Jeih-San Liow, Talakad G Lohith, Mark Lubberink, Chul H Lyoo, J John Mann, Granville J Matheson, Thomas E Nichols, Martin Nørgaard, Todd Ogden, Ramin Parsey, Victor W Pike, Julie Price, Gaia Rizzo, Pedro Rosa-Neto, Martin Schain, Peter JH Scott, Graham Searle, Mark Slifstein, Tetsuya Suhara, Peter S Talbot, Adam Thomas, Mattia Veronese, Dean F Wong, Maqsood Yaqub, Francesca Zanderigo, Sami Zoghbi, Robert B Innis
-  year: 2020
-  journal: (No Title)
-- title: Algoritmer kopierer lægers fordomme om race og køn
-  author: M Ganz, SH Holm, A Feragen
-  year: 2020
-  journal: Politiken
-- title: 'P. 263 The impact of different preprocessing strategies in positron emission tomography: a [11C] DASB Study'
-  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
-  authors_full: M. Nørgaard, M. Ganz, C. Svarer, V.G. Frokjaer, D.N. Greve, S.C. Strother, G.M. Knudsen
-  year: 2019
-  journal: European Neuropsychopharmacology 29, S197-S198
-- title: 'Preprocessing, prediction and significance: framework and application to brain imaging'
-  author: M Nørgaard, B Ozenne, C Svarer, VG Frokjaer, M Schain, SC Strother, ...
-  authors_full: Martin Nørgaard, Brice Ozenne, Claus Svarer, Vibe G. Frokjaer, Martin Schain, Stephen C. Strother, Melanie Ganz
-  year: 2019
-  journal: International Conference on Medical Image Computing and Computer-Assisted …
-- title: 'Optimization of preprocessing strategies in positron emission tomography (PET) neuroimaging: a [11C] DASB PET study'
-  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
-  authors_full: Martin Nørgaard, Melanie Ganz, Claus Svarer, Vibe G. Frokjaer, Douglas N. Greve, Stephen C. Strother, Gitte M. Knudsen
-  year: 2019
-  journal: Neuroimage
-- title: 'The impact of different preprocessing strategies in PET neuroimaging: A [C-11] DASB-PET study'
-  author: M Norgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
-  authors_full: M Norgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, GM Knudsen
-  year: 2019
-  journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
-- title: 'Cerebral serotonin transporter measurements with [11C]DASB: A review on acquisition and preprocessing across 21 PET centres'
-  author: M Nørgaard, M Ganz, C Svarer, L Feng, M Ichise, R Lanzenberger, ...
-  authors_full: Martin Nørgaard, Melanie Ganz, Claus Svarer, Ling Feng, Masanori Ichise, Rupert Lanzenberger, Mark Lubberink, Ramin V Parsey, Marios Politis, Eugenii A Rabiner, Mark Slifstein, Vesna Sossi, Tetsuya Suhara, Peter S Talbot, Federico Turkheimer, Stephen C Strother, Gitte M Knudsen
-  year: 2019
-  journal: Journal of Cerebral Blood Flow & Metabolism
-- title: Pre-intervention test-retest reliability of EEG and ERP over four recording intervals
-  author: CT Ip, M Ganz, B Ozenne, LB Sluth, M Gram, G Viardot, P l'Hostis, ...
-  authors_full: Cheng-Teng Ip, Melanie Ganz, Brice Ozenne, Lasse B. Sluth, Mikkel Gram, Geoffrey Viardot, Philippe l'Hostis, Philippe Danjou, Gitte M. Knudsen, Søren R. Christensen
-  year: 2018
-  journal: International Journal of Psychophysiology
-- title: Comparing fully automated state-of-the-art cerebellum parcellation from magnetic resonance images
-  author: A Carass, JL Cuzzocreo, S Han, CR Hernandez-Castillo, PE Rasser, ...
-  authors_full: Aaron Carass, Jennifer L. Cuzzocreo, Shuo Han, Carlos R. Hernandez-Castillo, Paul E. Rasser, Melanie Ganz, Vincent Beliveau, Jose Dolz, Ismail Ben Ayed, Christian Desrosiers, Benjamin Thyreau, José E. Romero, Pierrick Coupé, José V. Manjón, Vladimir S. Fonov, D. Louis Collins, Sarah H. Ying, Chiadi U. Onyike, Deana Crocetti, Bennett A. Landman, Stewart H. Mostofsky, Paul M. Thompson, Jerry L. Prince
-  year: 2018
-  journal: Neuroimage
-- title: The impact of preprocessing pipeline choice in univariate and multivariate analyses of pet data
-  author: M Nørgaard, DN Greve, C Svarer, SC Strother, GM Knudsen, M Ganz
-  year: 2018
-  journal: 2018 International Workshop on Pattern Recognition in Neuroimaging (PRNI)
-- title: Multi-view consensus CNN for 3D facial landmark placement
-  author: RR Paulsen, KA Juhl, MT Haspang, T Hansen, M Ganz, G Einarsson
-  year: 2018
-  journal: Proceedings of the Asian Conference on Computer Vision (ACCV)
-- title: BASELINE RELIABILITY OF EEG AND ERP IN A FOUR-WAY CROSSOVER STUDY IN HEALTHY SUBJECTS
-  author: C Ip, M Ganz, B Ozenne, L Sluth, M Gram, G Viardot, l'Hostis, Philippe, ...
-  authors_full: Chengteng Ip, Melanie Ganz, Brice Ozenne, Lasse Sluth, Mikkel Gram, Geoffrey Viardot, l'Hostis, Philippe, Philippe Danjou, Gitte Kundsen, Soren Christensen
-  year: 2017
-  journal: PSYCHOPHYSIOLOGY 54, S59-S59
-- title: 'Brain Networks Implicated in Seasonal Affective Disorder: A Neuroimaging PET Study of the Serotonin Transporter'
-  author: M Nørgaard, M Ganz, C Svarer, PM Fisher, NW Churchill, V Beliveau, ...
-  authors_full: Martin Nørgaard, Melanie Ganz, Claus Svarer, Patrick M. Fisher, Nathan W. Churchill, Vincent Beliveau, Cheryl Grady, Stephen C. Strother, Gitte M. Knudsen
-  year: 2017
-  journal: Frontiers in Neuroscience
-- title: Cerebellar heterogeneity and its impact on PET data quantification of 5-HT receptor radioligands
-  author: M Ganz, L Feng, HD Hansen, V Beliveau, C Svarer, GM Knudsen, ...
-  authors_full: Melanie Ganz, Ling Feng, Hanne Demant Hansen, Vincent Beliveau, Claus Svarer, Gitte M Knudsen, Douglas N Greve
-  year: 2017
-  journal: Journal of Cerebral Blood Flow & Metabolism
-- title: Permutations Tests for Binary Classification:Revisited
-  author: M Ganz, E Konukoglu
-  year: 2017
-  journal: Pattern Recognition in Neuroimaging (PRNI), 2017 International Workshop on
-- title: A High-Resolution In Vivo Atlas of the Human Brain's Serotonin System
-  author: V Beliveau, M Ganz, L Feng, B Ozenne, L Højgaard, PM Fisher, C Svarer, ...
-  authors_full: ''
-  year: 2017
-  journal: The Journal of Neuroscience
-- title: Crowdsourcing for error detection in cortical surface delineations
-  author: M Ganz, D Kondermann, J Andrulis, GM Knudsen, L Maier-Hein
-  year: 2017
-  journal: International journal of computer assisted radiology and surgery
-- title: 'Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test–retest reproducibility and head-to-head comparison with the antagonist [18F] altanserin'
-  author: A Ettrup, C Svarer, B McMahon, S da Cunha-Bang, S Lehel, K Møller, ...
-  authors_full: Anders Ettrup, Claus Svarer, Brenda McMahon, Sofi da Cunha-Bang, Szabolcs Lehel, Kirsten Møller, Agnete Dyssegaard, Melanie Ganz, Vincent Beliveau, Louise Møller Jørgensen, Nic Gillings, Gitte Moos Knudsen
-  year: 2016
-  journal: Neuroimage
-- title: Relevant feature set estimation with a knock-out strategy and random forests
-  author: M Ganz, DN Greve, B Fischl, E Konukoglu, ...
-  authors_full: Melanie Ganz, Douglas N. Greve, Bruce Fischl, Ender Konukoglu
-  year: 2015
-  journal: NeuroImage
-- title: High-resolution surface and volume-based in vivo atlas of the serotonin system in the healthy brain
-  author: V Beliveau, M Ganz, C Svarer, G Knudsen, D Greve
-  year: 2015
-  journal: Human Brain Mapping
-- title: Vermis - to exclude or not exclude? Defining a proper reference region for PET modelling of the serotonin system
-  author: M Ganz, HD Hansen, V Beliveau, L Feng, C Svarer, GM Knudsen
-  year: 2015
-  journal: 12th International Conference on Quantification of Brain Function with PET
-- title: 'Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test-retest reproducibility and comparison with [18F] altanserin'
-  author: A Ettrup, C Svarer, B McMahon, S Da Cunha-Bang, S Lehel, K Møller, ...
-  authors_full: ''
-  year: 2015
-  journal: European Neuropsychopharmacology 25, S309-S310
-- title: 'Estimation of Regional Seasonal Variations in SERT-levels using the FreeSurfer PET pipeline: a reproducibility study'
-  author: M Nørgaard, M Ganz, C Svarer, V Beliveau, PM Fisher, B Mc Mahon, ...
-  authors_full: ''
-  year: 2015
-  journal: Proceedings of the MICCAI workshop on Computational Methods for Molecular …
-- title: Approximate false positive rate control in selection frequency for random forest
-  author: E Konukoglu, M Ganz
-  year: 2014
-  journal: arXiv preprint arXiv:1410.2838
-- title: An improved optimization method for the relevance voxel machine
-  author: M Ganz, MR Sabuncu, K Van Leemput
-  year: 2013
-  journal: International Workshop on Machine Learning in Medical Imaging
-- title: The improved relevance voxel machine
-  author: M Ganz, M Sabuncu, K Van Leemput
-  year: 2013
-  journal: Technical University of Denmark
-- title: 'On Feature Relevance in Image-based Prediction Models: An Empirical Study'
-  author: E Konukoglu, M Ganz, K van Leemput, MR Sabuncu
-  year: 2013
-  journal: 4th International Workshop for Machine Learning in Medical Imaging in …
-- title: Automatic segmentation of polyps in colonoscopic narrow-band imaging data
-  author: M Ganz, X Yang, G Slabaugh
-  year: 2012
-  journal: IEEE Transactions on Biomedical Engineering
-- title: Distribution, size, and shape of abdominal aortic calcified deposits and their relationship to mortality in postmenopausal women
-  author: M Ganz, M De Bruijne, EB Dam, P Pettersen, MA Karsdal, C Christiansen, ...
-  authors_full: Melanie Ganz, Marleen de Bruijne, Erik B. Dam, Paola Pettersen, Morten A. Karsdal, Claus Christiansen, Mads Nielsen
-  year: 2012
-  journal: International Journal of Biomedical Imaging
-- title: Abdominal aortic calcification quantified by the Morphological Atherosclerotic Calcification Distribution (MACD) index is associated with features of the metabolic syndrome
-  author: N Barascuk, M Ganz, M Nielsen, TC Register, LM Rasmussen, ...
-  authors_full: Natasha Barascuk, Melanie Ganz, Mads Nielsen, Thomas C Register, Lars M Rasmussen, Morten A Karsdal, Claus Christiansen
-  year: 2011
-  journal: BMC cardiovascular disorders
-- title: A bayesian framework for automated cardiovascular risk scoring on standard lumbar radiographs
-  author: K Petersen, M Ganz, P Mysling, M Nielsen, L Lillemark, A Crimi, ...
-  authors_full: Kersten Petersen, Melanie Ganz, Peter Mysling, Mads Nielsen, Lene Lillemark, Alessandro Crimi, Sami S. Brandt
-  year: 2011
-  journal: IEEE Transactions on Medical Imaging
-- title: Detection and Analysis of Calcified Deposits and Their Relation to Cardiovascular Diseases
-  author: M Ganz
-  year: 2011
-  journal: https://di.ku.dk/english/research/phd/phd-theses/2011 …
-- title: Distribution, size, shape, growth potential and extent of abdominal aortic calcified deposits predict mortality in postmenopausal women
-  author: M Nielsen, M Ganz, F Lauze, PC Pettersen, M de Bruijne, TB Clarkson, ...
-  authors_full: Mads Nielsen, Melanie Ganz, Francois Lauze, Paola C Pettersen, Marleen de Bruijne, Thomas B Clarkson, Erik B Dam, Claus Christiansen, Morten A Karsdal
-  year: 2010
-  journal: BMC cardiovascular disorders
-- title: Growth patterns of abdominal atherosclerotic calcified deposits from lumbar lateral X-rays
-  author: L Lillemark, M Ganz, N Barascuk, EB Dam, M Nielsen
-  year: 2010
-  journal: The international journal of cardiovascular imaging
-- title: Patch-based generative shape model and mdl model selection for statistical analysis of archipelagos
-  author: M Ganz, M Nielsen, S Brandt
-  year: 2010
-  journal: International Workshop on Machine Learning in Medical Imaging
-- title: 'MACD: an imaging marker for cardiovascular disease'
-  author: M Ganz, M De Bruijne, M Nielsen
-  year: 2010
-  journal: 'Medical Imaging 2010: Computer-Aided Diagnosis'
-- title: BMD prediction of death is encapsulated by the Morphological Atherosclerosis Calcification Distribution (MACD) index
-  author: M Ganz, M Nielsen, M Karsdal, C Christiansen
-  year: 2009
-  journal: 36th European Symposium on Calcified Tissues, Vienna, Austria 44, S265
-- title: Dense iterative contextual pixel classification using kriging
-  author: M Ganz, M Loog, S Brandt, M Nielsen
-  year: 2009
-  journal: 2009 IEEE Computer Society Conference on Computer Vision and Pattern …
-- title: Growth analysis of individual abdominal atherosclerotic calcified deposits
-  author: LL Larsen, M Ganz, M Nielsen
-  year: 2009
-  journal: 36th European Symposium on Calcified Tissues (ECTS)
-- title: Automated Quantification of the Morphological Atherosclerotic Calcification Distribution on X-Rays Is a Strong Predictor of Mortality in Postmenopausal Women
-  author: C Christiansen, M Karsdal, FB Lauze, E Dam, M Ganz, M de Bruijne, ...
-  authors_full: ''
-  year: 2008
-  journal: Arteriosclerosis, Thrombosis, and Vascular Biology
-- title: Superior assessment of CVD death by MACD index compared with the framingham score is highly associated with predisposition to diabetes
-  author: E Soltyskinska, N Barascuk, M Ganz, M Nielsen, M Karsdal, ...
-  authors_full: ''
-  year: 2008
-  journal: Keystone Symposia, nr. S2
-- title: Morphological Atherosclerosis Calcification Distribution (MACD) Index is a Strong Predictor of Cardio-Vascular Death and Include Predictive Power of BMD
-  author: C Christiansen, M Karsdal, M Ganz, E Dam, M Nielsen
-  year: 2008
-  journal: 30th ASBMR Annual Meeting
-- title: Growth Pattern of Atherosclerotic Calcifications
-  author: LL Larsen, M Ganz, E Dam, N Dandu, M Nielsen
-  year: 2008
-  journal: Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2th …
-- title: Top Quark Physics Beyond The Standard Model
-  author: M Ganz
-  year: 2007
-  journal: University of Karlsruhe, Germany
-- title: Time trends in cardiac doses in 10,000 patients receiving curative thoracic radiation therapy between 2009 and 2020
-  author: N Forbes, BB Irankunda, C Terrones-Campos, A Smith, J Reekie, ...
-  authors_full: Nora Forbes, Cynthia Terrones-Campos, Abraham Smith, Joanne Reekie, Sune Darkner, Maja Maraldo, Mette Pøhl, Signe Risumlund, Lena Specht, Soren M. Bentzen, Jens Petersen, Ivan R. Vogelius
-  year: 2026
-  journal: Clinical Oncology
 - title: Evaluation of a volume and intensity-based FLAIR algorithm developed to assist in DWI-FLAIR mismatch assessment in wake-up stroke
   author: CJM Offersen, J Johansen, AH Brandt, TC Truelsen, S Darkner, A Pai, ...
   authors_full: Cecilie Juul Mørck Offersen, Jacob Johansen, Andreas Hjelm Brandt, Thomas Clement Truelsen, Sune Darkner, Akshay Pai, Michael Bachmann Nielsen, Jonathan Frederik Carlsen
@@ -1896,6 +1311,11 @@
   author: C Yin, S Liu, F Lyu, J Lu, S Darkner, VWS Wong, PC Yuen
   year: 2024
   journal: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …
+- title: Time trends in cardiac doses in 10,000 patients receiving curative thoracic radiation therapy between 2009 and 2020
+  author: N Forbes, C Terrones-Campos, A Smith, J Reekie, S Darkner, M Maraldo, ...
+  authors_full: Nora Forbes, Cynthia Terrones-Campos, Abraham Smith, Joanne Reekie, Sune Darkner, Maja Maraldo, Mette Pøhl, Signe Risumlund, Lena Specht, Soren M. Bentzen, Jens Petersen, Ivan R. Vogelius
+  year: 2024
+  journal: medRxiv, 2024.02. 18.24303007
 - title: An automatic DWI/FLAIR mismatch assessment of stroke patients
   author: J Johansen, CM Offersen, JF Carlsen, S Ingala, AE Hansen, MB Nielsen, ...
   authors_full: Jacob Johansen, Cecilie Mørck Offersen, Jonathan Frederik Carlsen, Silvia Ingala, Adam Espe Hansen, Michael Bachmann Nielsen, Sune Darkner, Akshay Pai
@@ -2148,135 +1568,6 @@
   author: S Darkner, J Sporring
   year: 2012
   journal: IEEE transactions on pattern analysis and machine intelligence
-- title: Jet-based local image descriptors
-  author: ABL Larsen, S Darkner, AL Dahl, KS Pedersen
-  year: 2012
-  journal: European Conference on Computer Vision
-- title: Evaluation of bias in brain atrophy estimation
-  author: A Pai, S Darkner, L Sørensen, L Lillemark, P Mysling, J Sporring, EB Dam, ...
-  authors_full: ''
-  year: 2012
-  journal: NIBAD'12
-- title: Data driven constraints for the svm
-  author: S Darkner, LH Clemmensen
-  year: 2012
-  journal: International Workshop on Machine Learning in Medical Imaging
-- title: 'IC‐P‐013: Hippocampal texture provides volume independent information for Alzheimer''s diagnosis'
-  author: A Pai, L Sørensen, S Darkner, J Suhy, J Oh, G Chen, C Igel, M Nielsen
-  year: 2012
-  journal: Alzheimer's & Dementia 8 (4S_Part_1), P15-P15
-- title: 'In the July 2012 abstract issue of Alzheimer’s & Dementia (Volume 8, Issue 4, Supplement 2), the following errors were found: The order of authors in IC-P-013 and P1-157 …'
-  author: A Pai, S Darkner, J Suhy, J Oh, G Chen, C Igel, M Nielsen, ...
-  authors_full: ''
-  year: 2012
-  journal: Alzheimer’s & Dementia
-- title: Higher-Order Momentum Distributions and Locally Affine LDDMM Registration
-  author: S Sommer, M Nielsen, S Darkner, X Pennec
-  year: 2011
-  journal: arXiv preprint arXiv:1112.3166
-- title: 'Generalized partial volume: An inferior density estimator to parzen windows for normalized mutual information'
-  author: S Darkner, J Sporring
-  year: 2011
-  journal: Biennial International Conference on Information Processing in Medical …
-- title: Efficient hyperelastic regularization for registration
-  author: S Darkner, MS Hansen, R Larsen, MF Hansen
-  year: 2011
-  journal: Scandinavian Conference on Image Analysis
-- title: Jacobians for Lebesgue Registrations for a range of Sim ilarity Measures
-  author: J Sporring, S Darkner
-  year: 2011
-  journal: Department of Computer Science, University of Copenhagen
-- title: The cartilage bone junction and its implication for deep canal hearing instrument fittings
-  author: C Nielsen, S Darkner
-  year: 2011
-  journal: The Hearing Journal
-- title: Registration-based interpolation applied to cardiac MRI
-  author: H Ólafsdóttir, H Pedersen, MS Hansen, M Lyksborg, MF Hansen, ...
-  authors_full: Hildur Ólafsdóttir, Henrik Pedersen, Michael S. Hansen, Mark Lyksborg, Mads Fogtmann Hansen, Sune Darkner, Rasmus Larsen
-  year: 2010
-  journal: 'Medical Imaging 2010: Image Processing'
-- title: 'Local Segmentation by Large Scale Hypothesis Testing: Segmentation as outlier detection'
-  author: S Darkner, AL Dahl, R Larsen, A Skimmige, E Garde, G Waldemar
-  year: 2010
-  journal: 5th International Conference on Computer Vision Theory and Applications
-- title: Active illumination and appearance model for face alignment
-  author: M GÖKMEN, F KAHRAMAN, S Darkner, R Larsen
-  year: 2010
-  journal: Turkish Journal of Electrical Engineering and Computer Sciences
-- title: Predictive Modelling of Cardiac 2D Multi-Slice MRI with Simultaneous Resolution of Cardiac and Respiratory Motion
-  author: H Pedersen, H Ólafsdóttir, S Darkner, M Lyksborg, R Larsen
-  year: 2009
-  journal: CI2BM09-MICCAI Workshop on Cardiovascular Interventional Imaging and …
-- title: Shape and Deformation Analysis of the Human Ear Canal
-  author: S Darkner
-  year: 2009
-  journal: Technical University of Denmark, DTU Informatics, Building
-- title: Analysis of surfaces using constrained regression models
-  author: S Darkner, MR Sabuncu, P Golland, RR Paulsen, R Larsen
-  year: 2008
-  journal: International Conference on Medical Image Computing and Computer-Assisted …
-- title: Estimation of shape model parameters for 3D surfaces
-  author: SGH Erbou, S Darkner, J Fripp, S Ourselin, BK Ersboll
-  year: 2008
-  journal: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano to …'
-- title: Robust registration for change detection
-  author: S Darkner, DW Hansen, RR Paulsen, R Larsen
-  year: 2008
-  journal: 'Medical Imaging 2008: Image Processing'
-- title: Non-rigid registration of 2D manifolds in 3D Euclidian space
-  author: S Darkner, M Vester-Christensen, RR Paulsen, R Larsen
-  year: 2008
-  journal: 'Medical Imaging 2008: Image Processing'
-- title: Robust registration for change detection [6914-101]
-  author: S Darkner, DW Hansen, RR Paulsen, R Larsen
-  year: 2008
-  journal: PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6914 (2 …
-- title: Non-rigid registration of 2D manifolds in 3D Euclidian space [6914-99]
-  author: S Darkner, M Vester-Christensen, RR Paulsen, R Larsen
-  year: 2008
-  journal: PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6914 (2 …
-- title: Analysis of deformation of the human ear and canal caused by mandibular movement
-  author: S Darkner, R Larsen, RR Paulsen
-  year: 2007
-  journal: International Conference on Medical Image Computing and Computer-Assisted …
-- title: An active illumination and appearance (AIA) model for face alignment
-  author: F Kahraman, M Gokmen, S Darkner, R Larsen
-  year: 2007
-  journal: 2007 IEEE Conference on Computer Vision and Pattern Recognition
-- title: Texture enhanced appearance models
-  author: R Larsen, MB Stegmann, S Darkner, S Forchhammer, TF Cootes, ...
-  authors_full: Rasmus Larsen, Mikkel B. Stegmann, Sune Darkner, Søren Forchhammer, Timothy F. Cootes, Bjarne Kjær Ersbøll
-  year: 2007
-  journal: Computer Vision and Image Understanding
-- title: Evaluating a method for automated rigid registration
-  author: S Darkner, M Vester-Christensen, R Larsen, RR Paulsen
-  year: 2007
-  journal: 'Medical Imaging 2007: Image Processing'
-- title: Accelerated 3D image registration
-  author: M Vester-Christensen, SG Erbou, S Darkner, R Larsen
-  year: 2007
-  journal: 'Medical Imaging 2007: Image Processing'
-- title: Automated 3D rigid registration of open 2D manifolds
-  author: S Darkner, M Vester-Christensen, R Larsen, RR Paulsen, C Nielsen
-  year: 2006
-  journal: MICCAI 2006 Workshop From Statistical Atlases to Personalized Models
-- title: Wedgelet enhanced appearance models
-  author: S Darkner, R Larsen, MB Stegmann, BK Ersboll
-  year: 2004
-  journal: 2004 Conference on Computer Vision and Pattern Recognition Workshop
-- title: Some issues of biological shape modelling with applications
-  author: R Larsen, KB Hilger, K Skoglund, S Darkner, RR Paulsen, MB Stegmann, ...
-  authors_full: Rasmus Larsen, Klaus Baggesen Hilger, Karl Skoglund, Sune Darkner, Rasmus R. Paulsen, Mikkel B. Stegmann, Brian Lading, Hans Henrik Thodberg, Hrafnkell Eiriksson
-  year: 2003
-  journal: Scandinavian Conference on Image Analysis
-- title: Wedgelet Compression for Appearance Models
-  author: S Darkner, R Larsen
-  year: 2003
-  journal: 12th Danish Conference on Pattern Recognition and Image Analysis
-- title: Automated visual scoring of psoriasis
-  author: DD Gomez, TK Jensen, S Darkner, JM Carstensen
-  year: 2002
-  journal: Informatics and Mathematical Modelling
 - title: 'MIPLS2: Exploiting PLS2 to impute missing values in a two-block system with multiple response variables'
   author: A Tashk, KM Sørensen, SB Engelsen, KS Pedersen, CE Eskildsen
   year: 2025
@@ -2413,6 +1704,10 @@
   author: KS Pedersen, K Stensbo-Smidt, A Zirm, C Igel
   year: 2013
   journal: Proceedings of the IEEE International Conference on Computer Vision
+- title: Jet-based local image descriptors
+  author: ABL Larsen, S Darkner, AL Dahl, KS Pedersen
+  year: 2012
+  journal: European Conference on Computer Vision
 - title: Spatial measures between human poses for classification and understanding
   author: S Hauberg, K Steenstrup Pedersen
   year: 2012
@@ -2878,6 +2173,10 @@
   authors_full: José Carlos Castillo, David Cáceres-Domínguez, Fernando Alonso-Martín, Álvaro Castro-González, Miguel Ángel Salichs
   year: 2017
   journal: International Conference on Social Robotics
+- title: 'Discrete Inverse Rendering: Biological Image Analysis with Integer Programming'
+  author: F Zdyb, JB Kirkegaard
+  year: 2026
+  journal: ''
 - title: 'Discrete Inverse Rendering: Biological Data Analysis with Integer Programming'
   author: F Zdyb, JB Kirkegaard
   year: 2026
@@ -3152,6 +2451,11 @@
   authors_full: ''
   year: 2026
   journal: Neuroscience & Biobehavioral Reviews
+- title: 'nipy/nipype: 1.11. 0 (Version 1.11. 0)[Computer software]'
+  author: O Esteban, CJ Markiewicz, C Burns, M Goncalves, D Jarecka, E Ziegler, ...
+  authors_full: ''
+  year: 2026
+  journal: Zenodo
 - title: Positron Emission Tomography Quantification in Healthy Humans of Cyclooxygenase-2 (COX-2), a Potential Biomarker of Neuroinflammation
   author: X Yan, M Norgaard, C Morse, J Liow, J Hong, S Telu, M Kim, A Galassi, ...
   authors_full: ''
@@ -3247,10 +2551,50 @@
   authors_full: ''
   year: 2020
   journal: Zenodo
+- title: 'Different preprocessing strategies lead to different conclusions: A [11C]DASB-PET reproducibility study'
+  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  authors_full: ''
+  year: 2020
+  journal: Journal of Cerebral Blood Flow and Metabolism
+- title: 'Guidelines for the content and format of PET brain data in publications and archives: a consensus paper'
+  author: GM Knudsen, M Ganz, S Appelhoff, R Boellaard, G Bormans, RE Carson, ...
+  authors_full: ''
+  year: 2020
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: 'JCB905433 Supplemental Material1-Supplemental material for Guidelines for the content and format of PET brain data in publications and archives: A consensus paper'
+  author: GM Knudsen, M Ganz, S Appelhoff, R Boellaard, G Bormans, RE Carson, ...
+  authors_full: ''
+  year: 2020
+  journal: (No Title)
 - title: Estimating PET partial volume full-width-half-maximum directly from human data
   author: DN Greve, M Schain, M Ganz, M Nørgaard, C Svarer, G Knudsen
   year: 2020
   journal: ''
+- title: 'P. 263 The impact of different preprocessing strategies in positron emission tomography: a [11C] DASB Study'
+  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  authors_full: M. Nørgaard, M. Ganz, C. Svarer, V.G. Frokjaer, D.N. Greve, S.C. Strother, G.M. Knudsen
+  year: 2019
+  journal: European Neuropsychopharmacology 29, S197-S198
+- title: 'Preprocessing, Prediction and Significance: Framework and Application to Brain Imaging'
+  author: M Nørgaard, B Ozenne, C Svarer, VG Frokjaer, M Schain, SC Strother, ...
+  authors_full: Martin Nørgaard, Brice Ozenne, Claus Svarer, Vibe G. Frokjaer, Martin Schain, Stephen C. Strother, Melanie Ganz
+  year: 2019
+  journal: Medical Image Computing and Computer Assisted Intervention - MICCAI 2019 …
+- title: 'The impact of different preprocessing strategies in PET neuroimaging: A [C-11] DASB-PET study'
+  author: M Norgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  authors_full: ''
+  year: 2019
+  journal: JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM
+- title: 'Optimization of preprocessing strategies in Positron Emission Tomography (PET) neuroimaging: A [11C] DASB PET study'
+  author: M Nørgaard, M Ganz, C Svarer, VG Frokjaer, DN Greve, SC Strother, ...
+  authors_full: Martin Nørgaard, Melanie Ganz, Claus Svarer, Vibe G. Frokjaer, Douglas N. Greve, Stephen C. Strother, Gitte M. Knudsen
+  year: 2019
+  journal: NeuroImage
+- title: 'Cerebral serotonin transporter measurements with [11C]DASB: A review on acquisition and preprocessing across 21 PET centres'
+  author: M Nørgaard, M Ganz, C Svarer, L Feng, M Ichise, R Lanzenberger, ...
+  authors_full: ''
+  year: 2019
+  journal: Journal of Cerebral Blood Flow & Metabolism
 - title: Optimizing Preprocessing Pipelines in PET/MR Neuroimaging
   author: M Nørgaard
   year: 2019
@@ -3265,6 +2609,10 @@
   authors_full: ''
   year: 2018
   journal: Eur Neuropsychopharmacol
+- title: The impact of preprocessing pipeline choice in univariate and multivariate analyses of PET data
+  author: M Nørgaard, DN Greve, C Svarer, SC Strother, GM Knudsen, M Ganz
+  year: 2018
+  journal: 2018 International Workshop on Pattern Recognition in Neuroimaging (PRNI)
 - title: 'Low 5-HT1B receptor binding in the migraine brain: A PET study'
   author: M Deen, HD Hansen, A Hougaard, S da Cunha-Bang, M Nørgaard, ...
   authors_full: ''
@@ -3275,6 +2623,11 @@
   authors_full: Marie Deen, Hanne D. Hansen, Anders Hougaard, Martin Nørgaard, Hans Eiberg, Szabolcs Lehel, Messoud Ashina, Gitte M. Knudsen
   year: 2018
   journal: 'NeuroImage: Clinical'
+- title: 'Brain networks implicated in seasonal affective disorder: a neuroimaging PET study of the serotonin transporter'
+  author: M Nørgaard, M Ganz, C Svarer, PM Fisher, NW Churchill, V Beliveau, ...
+  authors_full: Martin Nørgaard, Melanie Ganz, Claus Svarer, Patrick M. Fisher, Nathan W. Churchill, Vincent Beliveau, Cheryl Grady, Stephen C. Strother, Gitte M. Knudsen
+  year: 2017
+  journal: Frontiers in neuroscience
 - title: 'Seasonality-resilient individuals downregulate their cerebral serotonin transporter binding in winter while 5-HT levels appear unchanged: A longitudinal combined 11C-DASB and …'
   author: B Mc Mahon, M Nørgaard, C Svarer, SB Andersen, MK Madsen, ...
   authors_full: ''
@@ -3285,6 +2638,11 @@
   authors_full: Jacob H. Rasmussen, Martin Nørgaard, Adam E. Hansen, Ivan R. Vogelius, Marianne C. Aznar, Helle H. Johannesen, Junia Costa, Astrid M.E. Engberg, Andreas Kjær, Lena Specht, Barbara M. Fischer
   year: 2017
   journal: Journal of Nuclear Medicine
+- title: 'Estimation of Regional Seasonal Variations in SERT-levels using the FreeSurfer PET pipeline: a reproducibility study'
+  author: M Nørgaard, M Ganz, C Svarer, V Beliveau, PM Fisher, B Mc Mahon, ...
+  authors_full: ''
+  year: 2015
+  journal: Proceedings of the MICCAI workshop on computational methods for molecular …
 - title: Non-Parametric Bayesian Modeling of Complex Networks using a Bernoulli-Poisson Model
   author: TN Nielsen, M Nørgaard
   year: 2014
@@ -3297,6 +2655,679 @@
   author: M Nørgaard, JS Møller, AG Gonzalez
   year: 2014
   journal: ''
+- title: Uplift modelling via gradient boosting
+  author: B Ibragimov, A Vakhrushev
+  year: 2024
+  journal: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and …
+- title: 'Neuralsympcheck: A symptom checking and disease diagnostic neural model with logic regularization'
+  author: A Nesterov, B Ibragimov, D Umerenkov, A Shelmanov, G Zubkova, ...
+  authors_full: Aleksandr Nesterov, Bulat Ibragimov, Dmitriy Umerenkov, Artem Shelmanov, Galina Zubkova, Vladimir Kokh
+  year: 2022
+  journal: International Conference on Artificial Intelligence in Medicine
+- title: Deep learning for identification of critical regions associated with toxicities after liver stereotactic body radiation therapy
+  author: B Ibragimov, DAS Toesca, DT Chang, Y Yuan, AC Koong, L Xing, ...
+  authors_full: Bulat Ibragimov, Diego A. S. Toesca, Daniel T. Chang, Yixuan Yuan, Albert C. Koong, Lei Xing, Ivan R. Vogelius
+  year: 2020
+  journal: Medical physics
+- title: Automated hepatobiliary toxicity prediction after liver stereotactic body radiation therapy with deep learning-based portal vein segmentation
+  author: B Ibragimov, DAS Toesca, DT Chang, Y Yuan, AC Koong, L Xing
+  year: 2020
+  journal: Neurocomputing
+- title: Contour-aware multi-label chest X-ray organ segmentation
+  author: M Kholiavchenko, I Sirazitdinov, K Kubrak, R Badrutdinova, R Kuleev, ...
+  authors_full: M. Kholiavchenko, I. Sirazitdinov, K. Kubrak, R. Badrutdinova, R. Kuleev, Y. Yuan, T. Vrtovec, B. Ibragimov
+  year: 2020
+  journal: International Journal of Computer Assisted Radiology and Surgery
+- title: Densely connected neural network with unbalanced discriminant and category sensitive constraints for polyp recognition
+  author: Y Yuan, W Qin, B Ibragimov, G Zhang, B Han, MQH Meng, L Xing
+  year: 2019
+  journal: IEEE transactions on automation science and engineering
+- title: Deep neural network ensemble for pneumonia localization from a large-scale chest x-ray database
+  author: I Sirazitdinov, M Kholiavchenko, T Mustafaev, Y Yixuan, R Kuleev, ...
+  authors_full: Ilyas Sirazitdinov, Maksym Kholiavchenko, Tamerlan Mustafaev, Yuan Yixuan, Ramil Kuleev, Bulat Ibragimov
+  year: 2019
+  journal: Computers & electrical engineering
+- title: Data augmentation for chest pathologies classification
+  author: I Sirazitdinov, M Kholiavchenko, R Kuleev, B Ibragimov
+  year: 2019
+  journal: 2019 IEEE 16th international symposium on biomedical imaging (ISBI 2019 …
+- title: Neural networks for deep radiotherapy dose analysis and prediction of liver SBRT outcomes
+  author: B Ibragimov, DAS Toesca, Y Yuan, AC Koong, DT Chang, L Xing
+  year: 2019
+  journal: IEEE journal of biomedical and health informatics
+- title: Prostate cancer classification with multiparametric MRI transfer learning model
+  author: Y Yuan, W Qin, M Buyyounouski, B Ibragimov, S Hancock, B Han, L Xing
+  year: 2019
+  journal: Medical physics
+- title: Minimal variance sampling in stochastic gradient boosting
+  author: B Ibragimov, G Gusev
+  year: 2019
+  journal: Advances in Neural Information Processing Systems
+- title: Predicting Survival after Liver SBRT by Deep Learning-Based Analysis of Treatment Dose Plans
+  author: B Ibragimov, D Toesca, DT Chang, AC Koong, L Xing
+  year: 2018
+  journal: International Journal of Radiation Oncology, Biology, Physics
+- title: Learning deconvolutional deep neural network for high resolution medical image reconstruction
+  author: H Liu, J Xu, Y Wu, Q Guo, B Ibragimov, L Xing
+  year: 2018
+  journal: Information Sciences
+- title: Development of deep neural network for individualized hepatobiliary toxicity prediction after liver SBRT
+  author: B Ibragimov, D Toesca, D Chang, Y Yuan, A Koong, L Xing
+  year: 2018
+  journal: Medical physics
+- title: Deep 3D dose analysis for prediction of outcomes after liver stereotactic body radiation therapy
+  author: B Ibragimov, DAS Toesca, Y Yuan, AC Koong, DT Chang, L Xing
+  year: 2018
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: 'RIIS-DenseNet: Rotation-invariant and image similarity constrained densely connected convolutional network for polyp detection'
+  author: Y Yuan, W Qin, B Ibragimov, B Han, L Xing
+  year: 2018
+  journal: International conference on medical image computing and computer-assisted …
+- title: Segmentation of parotid glands from registered CT and MR images
+  author: D Močnik, B Ibragimov, L Xing, P Strojan, B Likar, F Pernuš, T Vrtovec
+  year: 2018
+  journal: Physica Medica
+- title: Convolutional Neural Networks for Identifying Correlation Between Dose Patterns Associated with Poor Survival and Early Local Recurrence After Metastatic Liver SBRT
+  author: B Ibragimov, Y Yuan, D Toesca, D Chang, A Koong, L Xing
+  year: 2018
+  journal: MEDICAL PHYSICS 45 (6), E415-E415
+- title: Superpixel-based and boundary-sensitive convolutional neural network for automated liver segmentation
+  author: W Qin, J Wu, F Han, Y Yuan, W Zhao, B Ibragimov, J Gu, L Xing
+  year: 2018
+  journal: Physics in Medicine & Biology
+- title: Strategies for prediction and mitigation of radiation-induced liver toxicity
+  author: DAS Toesca, B Ibragimov, AJ Koong, L Xing, AC Koong, DT Chang
+  year: 2018
+  journal: Journal of radiation research 59 (suppl_1), i40-i49
+- title: Combining deep learning with anatomical analysis for segmentation of the portal vein for liver SBRT planning
+  author: B Ibragimov, D Toesca, D Chang, A Koong, L Xing
+  year: 2017
+  journal: Physics in Medicine & Biology
+- title: Deep learning-based autosegmentation of portal vein for prediction of central liver toxicity after SBRT
+  author: B Ibragimov, DAS Toesca, DT Chang, AC Koong, L Xing
+  year: 2017
+  journal: International Journal of Radiation Oncology, Biology, Physics 99 (2), E672
+- title: Intervertebral disc segmentation in MR images with 3D convolutional networks
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2017
+  journal: 'Medical Imaging 2017: Image Processing'
+- title: Segmentation of pathological structures by landmark-assisted deformable models
+  author: B Ibragimov, R Korez, B Likar, F Pernuš, L Xing, T Vrtovec
+  year: 2017
+  journal: IEEE transactions on medical imaging
+- title: Segmentation of organs‐at‐risks in head and neck CT images using convolutional neural networks
+  author: B Ibragimov, L Xing
+  year: 2017
+  journal: Medical physics
+- title: Augmenting atlas-based liver segmentation for radiotherapy treatment planning by incorporating image features proximal to the atlas contours
+  author: D Li, L Liu, J Chen, H Li, Y Yin, B Ibragimov, L Xing
+  year: 2017
+  journal: Physics in Medicine & Biology
+- title: Landmark-based statistical shape representations
+  author: B Ibragimov, T Vrtovec
+  year: 2017
+  journal: Statistical shape and deformation analysis
+- title: Fully automated quantitative cephalometry using convolutional neural networks
+  author: SÖ Arık, B Ibragimov, L Xing
+  year: 2017
+  journal: Journal of Medical Imaging
+- title: 'Evaluation and comparison of 3D intervertebral disc localization and segmentation methods for 3D T2 MR data: A grand challenge'
+  author: G Zheng, C Chu, DL Belavý, B Ibragimov, R Korez, T Vrtovec, H Hutt, ...
+  authors_full: Guoyan Zheng, Chengwen Chu, Daniel L. Belavý, Bulat Ibragimov, Robert Korez, Tomaž Vrtovec, Hugo Hutt, Richard Everson, Judith Meakin, Isabel Lŏpez Andrade, Ben Glocker, Hao Chen, Qi Dou, Pheng-Ann Heng, Chunliang Wang, Daniel Forsberg, Aleš Neubert, Jurgen Fripp, Martin Urschler, Darko Stern, Maria Wimmer, Alexey A. Novikov, Hui Cheng, Gabriele Armbrecht, Dieter Felsenberg, Shuo Li
+  year: 2017
+  journal: Medical image analysis
+- title: Development of a novel deep learning algorithm for autosegmentation of clinical tumor volume and organs at risk in head and neck radiation therapy planning
+  author: B Ibragimov, F Pernuš, P Strojan, L Xing
+  year: 2016
+  journal: International Journal of Radiation Oncology, Biology, Physics 96 (2), S226
+- title: A benchmark for comparison of dental radiography analysis algorithms
+  author: CW Wang, CT Huang, JH Lee, CH Li, SW Chang, MJ Siao, TM Lai, ...
+  authors_full: Ching-Wei Wang, Cheng-Ta Huang, Jia-Hong Lee, Chung-Hsing Li, Sheng-Wei Chang, Ming-Jhih Siao, Tat-Ming Lai, Bulat Ibragimov, Tomaž Vrtovec, Olaf Ronneberger, Philipp Fischer, Tim F. Cootes, Claudia Lindner
+  year: 2016
+  journal: Medical image analysis
+- title: 'TH‐CD‐206‐05: Machine‐Learning Based Segmentation of Organs at Risks for Head and Neck Radiotherapy Planning'
+  author: B Ibragimov, F Pernus, P Strojan, L Xing
+  year: 2016
+  journal: Medical physics 43 (6Part46)
+- title: Accurate landmark-based segmentation by incorporating landmark misdetections
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2016
+  journal: 2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)
+- title: A multi-center milestone study of clinical vertebral CT segmentation
+  author: J Yao, JE Burns, D Forsberg, A Seitel, A Rasoulian, P Abolmaesumi, ...
+  authors_full: Jianhua Yao, Joseph E. Burns, Daniel Forsberg, Alexander Seitel, Abtin Rasoulian, Purang Abolmaesumi, Kerstin Hammernik, Martin Urschler, Bulat Ibragimov, Robert Korez, Tomaž Vrtovec, Isaac Castro-Mateos, Jose M. Pozo, Alejandro F. Frangi, Ronald M. Summers, Shuo Li
+  year: 2016
+  journal: Computerized medical imaging and graphics
+- title: Deformable model-based segmentation of intervertebral discs from MR spine images by using the SSC descriptor
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: International Workshop and Challenge on Computational Methods and Clinical …
+- title: Computerized cephalometry by game theory with shape-and appearance-based landmark refinement
+  author: B Ibragimov, B Likar, F Pernus, T Vrtovec
+  year: 2015
+  journal: Proceedings of International Symposium on Biomedical imaging (ISBI)
+- title: Optimal reinforcement of training datasets in semi-supervised landmark-based segmentation
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: 'Medical Imaging 2015: Image Processing'
+- title: 'Evaluation and comparison of anatomical landmark detection methods for cephalometric x-ray images: a grand challenge'
+  author: CW Wang, CT Huang, MC Hsieh, CH Li, SW Chang, WC Li, R Vandaele, ...
+  authors_full: Ching-Wei Wang, Cheng-Ta Huang, Meng-Che Hsieh, Chung-Hsing Li, Sheng-Wei Chang, Wei-Cheng Li, Remy Vandaele, Raphael Maree, Sebastien Jodogne, Pierre Geurts, Cheng Chen, Guoyan Zheng, Chengwen Chu, Hengameh Mirzaalian, Ghassan Hamarneh, Tomaz Vrtovec, Bulat Ibragimov
+  year: 2015
+  journal: IEEE transactions on medical imaging
+- title: Interpolation-based shape-constrained deformable model approach for segmentation of vertebrae from CT spine images
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: Recent advances in computational methods and clinical applications for spine …
+- title: Interpolation-based detection of lumbar vertebrae in CT spine images
+  author: B Ibragimov, R Korez, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: Recent Advances in Computational Methods and Clinical Applications for Spine …
+- title: An improved shape-constrained deformable model for segmentation of vertebrae from CT lumbar spine images
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: Recent Advances in Computational Methods and Clinical Applications for Spine …
+- title: Segmentation of tongue muscles from super-resolution magnetic resonance images
+  author: B Ibragimov, JL Prince, EZ Murano, J Woo, M Stone, B Likar, F Pernuš, ...
+  authors_full: Bulat Ibragimov, Jerry L. Prince, Emi Z. Murano, Jonghye Woo, Maureen Stone, Boštjan Likar, Franjo Pernuš, Tomaž Vrtovec
+  year: 2015
+  journal: Medical image analysis
+- title: A framework for automated spine and vertebrae interpolation-based detection and model-based segmentation
+  author: R Korez, B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2015
+  journal: IEEE transactions on medical imaging
+- title: Segmentation of vertebrae from 3D spine images by applying concepts from transportation and game theories
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2014
+  journal: Computational Methods and Clinical Applications for Spine Imaging …
+- title: Automatic cephalometric X-ray landmark detection by applying game theory and random forests
+  author: B Ibragimov, B Likar, F Pernus, T Vrtovec
+  year: 2014
+  journal: Proc. ISBI Int. Symp. on Biomedical Imaging
+- title: Shape representation for efficient landmark-based segmentation in 3-D
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2014
+  journal: IEEE transactions on medical imaging
+- title: 'Segmentation of Medical Images by Game-theoretic Approaches: PhD Thesis'
+  author: B Ibragimov
+  year: 2014
+  journal: B. Ibragimov
+- title: Statistical shape representation with landmark clustering by solving the assignment problem
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2013
+  journal: 'Medical Imaging 2013: Image Processing'
+- title: A game-theoretic framework for landmark-based image segmentation
+  author: B Ibragimov, B Likar, F Pernus
+  year: 2012
+  journal: IEEE Transactions on Medical Imaging
+- title: Automated measurement of anterior and posterior acetabular sector angles
+  author: B Ibragimov, B Likar, F Pernuš, T Vrtovec
+  year: 2012
+  journal: 'Medical Imaging 2012: Computer-Aided Diagnosis'
+- title: Segmentation of lung fields by game theory and dynamic programming
+  author: B Ibragimov, T Vrtovec, B Likar, F Pernuš
+  year: 2011
+  journal: the 4th International Workshop on Pulmonary Image Analysis, PIA
+- title: Boundary detection by linear programming with application to lung fields segmentation
+  author: B Ibragimov, B Likar, F Pernuš
+  year: 2011
+  journal: 'Medical Imaging 2011: Image Processing'
+- title: Maximal independent set graph partitions for representations of body-centered cubic lattices
+  author: K Erleben
+  year: 2009
+  journal: The Visual Computer
+- title: Smoke simulation for fire engineering using a multigrid method on graphics hardware
+  author: SL Glimberg, K Erleben, JC Bennetsen
+  year: 2009
+  journal: 6th Workshop on Virtual Reality Interactions and Physical Simulations
+- title: GPU Accelerated Tandem Traversal of Blocked Bounding Volume Hierarchy Collision Detection for Multibody Dynamics.
+  author: J Damkjær, K Erleben
+  year: 2009
+  journal: VRIPHYS
+- title: Interactive Inverse Kinematics for Human Motion Estimation.
+  author: M Engell-Nørregård, S Hauberg, J Lapuyade, K Erleben, KS Pedersen
+  year: 2009
+  journal: VRIPHYS
+- title: A projected non-linear conjugate gradient method for interactive inverse kinematics
+  author: M Engell-Nørregård, K Erleben
+  year: 2009
+  journal: MATHMOD 2009-6th Vienna International Conference on Mathematical Modelling
+- title: Estimation of Joint types and Joint Limits from Motion capture data
+  author: M Engell-Nørregård
+  year: 2009
+  journal: Václav Skala-UNION Agency
+- title: Nonsmooth newton method for fischer function reformulation of contact force problems for interactive rigid body simulation
+  author: M Silcowitz, S Niebe, K Erleben
+  year: 2009
+  journal: Workshop in Virtual Reality Interactions and Physical Simulation
+- title: A Non‐smooth Newton Method for Multibody Dynamics
+  author: K Erleben, R Ortiz
+  year: 2008
+  journal: AIP Conference Proceedings
+- title: Guessing tangents in normal flows
+  author: B Markussen, J Sporring, K Erleben
+  year: 2008
+  journal: Journal of Mathematical Imaging and Vision
+- title: Volumetric Shells using Path Tracing
+  author: K Erleben
+  year: 2008
+  journal: ''
+- title: Signed distance fields using single-pass gpu scan conversion of tetrahedra
+  author: K Erleben, H Dohlmann
+  year: 2008
+  journal: Gpu Gems
+- title: Photon differentials
+  author: L Schjøth, JR Frisvad, K Erleben, J Sporring
+  year: 2007
+  journal: Proceedings of the 5th international conference on Computer graphics and …
+- title: Line-stepping for shell meshes
+  author: K Erleben, J Sporring
+  year: 2007
+  journal: Scandinavian Conference on Image Analysis
+- title: Boneless pose editing and animation
+  author: JA Bærentzen, KE Hansen, K Erleben
+  year: 2007
+  journal: Scandinavian Conference on Image Analysis
+- title: Velocity-based shock propagation for multibody dynamics animation
+  author: K Erleben
+  year: 2007
+  journal: ACM Transactions on Graphics (TOG) 26 (2), 12-es
+- title: Tetrahedral Shell Tesselation and Methods for Surface Mesh Extrusion
+  author: K Erleben, H Dohlmann, M Zachariasen, J Sporring
+  year: 2006
+  journal: ''
+- title: SIMS 2004
+  author: B Elmegaard, J Sporring, K Erleben, K Sørensen
+  year: 2006
+  journal: Simulation Modelling Practice and Theory
+- title: Ballet balance strategies
+  author: C Pedersen, K Erleben, J Sporring
+  year: 2006
+  journal: Simulation Modelling Practice and Theory
+- title: Scan conversion of signed distance fields
+  author: K Erleben, H Dohlmann
+  year: 2006
+  journal: Proceedings of DSAGM
+- title: A simple plane patcher algorithm
+  author: K Erleben, K Henriksen
+  year: 2006
+  journal: Department of Computer Science, University of Copenhagen
+- title: Area and volume restoration in elastically deformable solids
+  author: M Kelager, A Fleron, K Erleben
+  year: 2005
+  journal: ELCVIA Electronic Letters on Computer Vision and Image Analysis
+- title: Physics-based Animation
+  author: K Erleben, J Sporring, K Henriksen, H Dohlmann
+  year: 2005
+  journal: Graphics Series
+- title: A multi-scale singularity bounding volume hierarchy
+  author: K Somchaipeng
+  year: 2005
+  journal: UNION Agency
+- title: The adaptive thin shell tetrahedral mesh
+  author: K Erleben
+  year: 2005
+  journal: Václav Skala-UNION Agency
+- title: Versatile Multibody Dynamics Animation
+  author: K Erleben, R Stable
+  year: 2004
+  journal: The Department of Computer Science, University of Conpenhagen
+- title: Stable, robust, and versatile multibody dynamics animation
+  author: K Erleben
+  year: 2004
+  journal: Unpublished Ph. D. Thesis, University of Copenhagen, Copenhagen
+- title: Contact graphs in multibody dynamics simulation
+  author: K Erleben, H Dohlmann
+  year: 2004
+  journal: DIKU
+- title: The thin shell tetrahedral mesh
+  author: K Erleben, H Dohlmann
+  year: 2004
+  journal: Proceedings of DSAGM
+- title: Physics-based Animation and Simulation
+  author: K Erleben, J Sporring, K Henriksen, H Dohlmann
+  year: 2004
+  journal: DIKU H. Goldstein, CP Poole, and JL Safko (2002),[5]
+- title: The Lagrange Formulation of The Deformable Object Model
+  author: K Erleben
+  year: 2003
+  journal: ''
+- title: Scripted bodies and spline-driven animation
+  author: K Erleben, K Henriksen
+  year: 2003
+  journal: Graphics programming methods
+- title: Collision detection of deformable volumetric meshes
+  author: K Erleben, J Sporring
+  year: 2003
+  journal: Graphics programming methods
+- title: Sound interaction by use of comparative visual displays
+  author: TH Andersen, K Erleben
+  year: 2002
+  journal: Proceedings of the Second Danish HCI Symposium
+- title: B-splines
+  author: K Erleben, K Henriksen
+  year: 2002
+  journal: DIKU
+- title: Module based design for rigid body simulators
+  author: K Erleben
+  year: 2002
+  journal: Department of Computer Science, University of Copenhagen
+- title: An Introduction to Approximating Heterogeneous Bounding Volume Hierarchies
+  author: K Erleben
+  year: 2002
+  journal: University of Copenhagen, Department of Computer
+- title: En introducerende lærebog i dynamisk simulation af stive legemer
+  author: K Erleben
+  year: 2001
+  journal: Maj
+- title: PATIENT SPECIFIC BIOMECHANICS MODELING AND SIMULATION
+  author: RR BAIER, O BARRERA, SPA BORDAS, S COTIN, K ERLEBEN, ...
+  authors_full: RICARDO R BAIER, OLGA BARRERA, STÉPHANE PA BORDAS, STÉPHANE COTIN, KENNY ERLEBEN, JAVIER LLORCA, JOSÉ A RODRIGUES, MICHAEL SACKS
+  year: 1800
+  journal: SIMULATION
+- title: 'EXPRESS: Building an open infrastructure for molecular neuroimaging: standards and tools from the OpenNeuroPET initiative'
+  author: M Ganz, M Norgaard, C Pernet, GJ Matheson, A Galassi, EG Ceballos, ...
+  authors_full: Melanie Ganz, Martin Norgaard, Cyril Pernet, Granville J Matheson, Anthony Galassi, Eric G Ceballos, Murat Bilgel, Cyrus Eierud, Gabriel Gonzalez-Escamilla, Paul Wighton, Christopher J Markiewicz, Nell Hardcastle, Joshua Buckholtz, Ross Blair, Douglas N Greve, Adam Thomas, Russell A Poldrack, Vince Calhoun, Robert B. Innis, Gitte Moos Knudsen
+  year: 2026
+  journal: Journal of Cerebral Blood Flow & Metabolism, 0271678X261490245
+- title: 'P. 282 Hippocampal volume changes are linked to depressive symptoms independent of sex-steroid hormone manipulation: a pharmacological structural MRI study'
+  author: CB Larsen, M Ganz, S Henningsson, A Pinborg, V Frokjaer
+  year: 2020
+  journal: European Neuropsychopharmacology 40, S159-S160
+- title: Optimizing a preprocessing pipeline for structural 7T MR analyses in FreeSurfer
+  author: G Opheim, O Puonti, JO Pedersen, VO Boer, A Kloster, M Prener, ...
+  authors_full: Giske Opheim, Oula Puonti, Jan Ole Pedersen, Vincent O. Boer, Ane Kloster, Martin Prener, Helle J. Simonsen, Olaf B. Paulson, Lars H. Pinborg, Melanie Ganz
+  year: 2020
+  journal: International Society of Magnetic Resonance in Medicine
+- title: 'Predicting treatment outcome in major depressive disorder using serotonin 4 receptor PET brain imaging, functional MRI, cognitive-, EEG-based, and peripheral biomarkers: a …'
+  author: K Köhler-Forsberg, A Jorgensen, VH Dam, DS Stenbæk, PM Fisher, CT Ip, ...
+  authors_full: Kristin Köhler-Forsberg, Anders Jorgensen, Vibeke H Dam, Dea Siggaard Stenbæk, Patrick M Fisher, Cheng-Teng Ip, Melanie Ganz, Henrik Enghusen Poulsen, Annamaria Giraldi, Brice Ozenne, Martin Balslev Jørgensen, Gitte Moos Knudsen, Vibe Gedsoe Frokjaer
+  year: 2020
+  journal: Frontiers in psychiatry
+- title: 'The structure of the serotonin system: A PET imaging study'
+  author: V Beliveau, B Ozenne, S Strother, DN Greve, C Svarer, GM Knudsen, ...
+  authors_full: Vincent Beliveau, Brice Ozenne, Stephen Strother, Douglas N. Greve, Claus Svarer, Gitte Moos Knudsen, Melanie Ganz
+  year: 2020
+  journal: Neuroimage
+- title: Algoritmer kopierer lægers fordomme om race og køn
+  author: M Ganz, SH Holm, A Feragen
+  year: 2020
+  journal: Politiken
+- title: Pre-intervention test-retest reliability of EEG and ERP over four recording intervals
+  author: CT Ip, M Ganz, B Ozenne, LB Sluth, M Gram, G Viardot, P l'Hostis, ...
+  authors_full: Cheng-Teng Ip, Melanie Ganz, Brice Ozenne, Lasse B. Sluth, Mikkel Gram, Geoffrey Viardot, Philippe l'Hostis, Philippe Danjou, Gitte M. Knudsen, Søren R. Christensen
+  year: 2018
+  journal: International Journal of Psychophysiology
+- title: Comparing fully automated state-of-the-art cerebellum parcellation from magnetic resonance images
+  author: A Carass, JL Cuzzocreo, S Han, CR Hernandez-Castillo, PE Rasser, ...
+  authors_full: Aaron Carass, Jennifer L. Cuzzocreo, Shuo Han, Carlos R. Hernandez-Castillo, Paul E. Rasser, Melanie Ganz, Vincent Beliveau, Jose Dolz, Ismail Ben Ayed, Christian Desrosiers, Benjamin Thyreau, José E. Romero, Pierrick Coupé, José V. Manjón, Vladimir S. Fonov, D. Louis Collins, Sarah H. Ying, Chiadi U. Onyike, Deana Crocetti, Bennett A. Landman, Stewart H. Mostofsky, Paul M. Thompson, Jerry L. Prince
+  year: 2018
+  journal: Neuroimage
+- title: Multi-view consensus CNN for 3D facial landmark placement
+  author: RR Paulsen, KA Juhl, MT Haspang, T Hansen, M Ganz, G Einarsson
+  year: 2018
+  journal: Proceedings of the Asian Conference on Computer Vision (ACCV)
+- title: BASELINE RELIABILITY OF EEG AND ERP IN A FOUR-WAY CROSSOVER STUDY IN HEALTHY SUBJECTS
+  author: C Ip, M Ganz, B Ozenne, L Sluth, M Gram, G Viardot, l'Hostis, Philippe, ...
+  authors_full: Chengteng Ip, Melanie Ganz, Brice Ozenne, Lasse Sluth, Mikkel Gram, Geoffrey Viardot, l'Hostis, Philippe, Philippe Danjou, Gitte Kundsen, Soren Christensen
+  year: 2017
+  journal: PSYCHOPHYSIOLOGY 54, S59-S59
+- title: Cerebellar heterogeneity and its impact on PET data quantification of 5-HT receptor radioligands
+  author: M Ganz, L Feng, HD Hansen, V Beliveau, C Svarer, GM Knudsen, ...
+  authors_full: Melanie Ganz, Ling Feng, Hanne Demant Hansen, Vincent Beliveau, Claus Svarer, Gitte M Knudsen, Douglas N Greve
+  year: 2017
+  journal: Journal of Cerebral Blood Flow & Metabolism
+- title: Permutations Tests for Binary Classification:Revisited
+  author: M Ganz, E Konukoglu
+  year: 2017
+  journal: Pattern Recognition in Neuroimaging (PRNI), 2017 International Workshop on
+- title: A High-Resolution In Vivo Atlas of the Human Brain's Serotonin System
+  author: V Beliveau, M Ganz, L Feng, B Ozenne, L Højgaard, PM Fisher, C Svarer, ...
+  authors_full: ''
+  year: 2017
+  journal: The Journal of Neuroscience
+- title: Crowdsourcing for error detection in cortical surface delineations
+  author: M Ganz, D Kondermann, J Andrulis, GM Knudsen, L Maier-Hein
+  year: 2017
+  journal: International journal of computer assisted radiology and surgery
+- title: 'Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test–retest reproducibility and head-to-head comparison with the antagonist [18F] altanserin'
+  author: A Ettrup, C Svarer, B McMahon, S da Cunha-Bang, S Lehel, K Møller, ...
+  authors_full: Anders Ettrup, Claus Svarer, Brenda McMahon, Sofi da Cunha-Bang, Szabolcs Lehel, Kirsten Møller, Agnete Dyssegaard, Melanie Ganz, Vincent Beliveau, Louise Møller Jørgensen, Nic Gillings, Gitte Moos Knudsen
+  year: 2016
+  journal: Neuroimage
+- title: Relevant feature set estimation with a knock-out strategy and random forests
+  author: M Ganz, DN Greve, B Fischl, E Konukoglu, ...
+  authors_full: Melanie Ganz, Douglas N. Greve, Bruce Fischl, Ender Konukoglu
+  year: 2015
+  journal: NeuroImage
+- title: High-resolution surface and volume-based in vivo atlas of the serotonin system in the healthy brain
+  author: V Beliveau, M Ganz, C Svarer, G Knudsen, D Greve
+  year: 2015
+  journal: Human Brain Mapping
+- title: Vermis - to exclude or not exclude? Defining a proper reference region for PET modelling of the serotonin system
+  author: M Ganz, HD Hansen, V Beliveau, L Feng, C Svarer, GM Knudsen
+  year: 2015
+  journal: 12th International Conference on Quantification of Brain Function with PET
+- title: 'Serotonin 2A receptor agonist binding in the human brain with [11C] Cimbi-36: test-retest reproducibility and comparison with [18F] altanserin'
+  author: A Ettrup, C Svarer, B McMahon, S Da Cunha-Bang, S Lehel, K Møller, ...
+  authors_full: ''
+  year: 2015
+  journal: European Neuropsychopharmacology 25, S309-S310
+- title: Approximate false positive rate control in selection frequency for random forest
+  author: E Konukoglu, M Ganz
+  year: 2014
+  journal: arXiv preprint arXiv:1410.2838
+- title: An improved optimization method for the relevance voxel machine
+  author: M Ganz, MR Sabuncu, K Van Leemput
+  year: 2013
+  journal: International Workshop on Machine Learning in Medical Imaging
+- title: The improved relevance voxel machine
+  author: M Ganz, M Sabuncu, K Van Leemput
+  year: 2013
+  journal: Technical University of Denmark
+- title: 'On Feature Relevance in Image-based Prediction Models: An Empirical Study'
+  author: E Konukoglu, M Ganz, K van Leemput, MR Sabuncu
+  year: 2013
+  journal: 4th International Workshop for Machine Learning in Medical Imaging in …
+- title: Automatic segmentation of polyps in colonoscopic narrow-band imaging data
+  author: M Ganz, X Yang, G Slabaugh
+  year: 2012
+  journal: IEEE Transactions on Biomedical Engineering
+- title: Distribution, size, and shape of abdominal aortic calcified deposits and their relationship to mortality in postmenopausal women
+  author: M Ganz, M De Bruijne, EB Dam, P Pettersen, MA Karsdal, C Christiansen, ...
+  authors_full: Melanie Ganz, Marleen de Bruijne, Erik B. Dam, Paola Pettersen, Morten A. Karsdal, Claus Christiansen, Mads Nielsen
+  year: 2012
+  journal: International Journal of Biomedical Imaging
+- title: Abdominal aortic calcification quantified by the Morphological Atherosclerotic Calcification Distribution (MACD) index is associated with features of the metabolic syndrome
+  author: N Barascuk, M Ganz, M Nielsen, TC Register, LM Rasmussen, ...
+  authors_full: Natasha Barascuk, Melanie Ganz, Mads Nielsen, Thomas C Register, Lars M Rasmussen, Morten A Karsdal, Claus Christiansen
+  year: 2011
+  journal: BMC cardiovascular disorders
+- title: A bayesian framework for automated cardiovascular risk scoring on standard lumbar radiographs
+  author: K Petersen, M Ganz, P Mysling, M Nielsen, L Lillemark, A Crimi, ...
+  authors_full: Kersten Petersen, Melanie Ganz, Peter Mysling, Mads Nielsen, Lene Lillemark, Alessandro Crimi, Sami S. Brandt
+  year: 2011
+  journal: IEEE Transactions on Medical Imaging
+- title: Detection and Analysis of Calcified Deposits and Their Relation to Cardiovascular Diseases
+  author: M Ganz
+  year: 2011
+  journal: https://di.ku.dk/english/research/phd/phd-theses/2011 …
+- title: Distribution, size, shape, growth potential and extent of abdominal aortic calcified deposits predict mortality in postmenopausal women
+  author: M Nielsen, M Ganz, F Lauze, PC Pettersen, M de Bruijne, TB Clarkson, ...
+  authors_full: Mads Nielsen, Melanie Ganz, Francois Lauze, Paola C Pettersen, Marleen de Bruijne, Thomas B Clarkson, Erik B Dam, Claus Christiansen, Morten A Karsdal
+  year: 2010
+  journal: BMC cardiovascular disorders
+- title: Growth patterns of abdominal atherosclerotic calcified deposits from lumbar lateral X-rays
+  author: L Lillemark, M Ganz, N Barascuk, EB Dam, M Nielsen
+  year: 2010
+  journal: The international journal of cardiovascular imaging
+- title: Patch-based generative shape model and mdl model selection for statistical analysis of archipelagos
+  author: M Ganz, M Nielsen, S Brandt
+  year: 2010
+  journal: International Workshop on Machine Learning in Medical Imaging
+- title: 'MACD: an imaging marker for cardiovascular disease'
+  author: M Ganz, M De Bruijne, M Nielsen
+  year: 2010
+  journal: 'Medical Imaging 2010: Computer-Aided Diagnosis'
+- title: BMD prediction of death is encapsulated by the Morphological Atherosclerosis Calcification Distribution (MACD) index
+  author: M Ganz, M Nielsen, M Karsdal, C Christiansen
+  year: 2009
+  journal: 36th European Symposium on Calcified Tissues, Vienna, Austria 44, S265
+- title: Dense iterative contextual pixel classification using kriging
+  author: M Ganz, M Loog, S Brandt, M Nielsen
+  year: 2009
+  journal: 2009 IEEE Computer Society Conference on Computer Vision and Pattern …
+- title: Growth analysis of individual abdominal atherosclerotic calcified deposits
+  author: LL Larsen, M Ganz, M Nielsen
+  year: 2009
+  journal: 36th European Symposium on Calcified Tissues (ECTS)
+- title: Automated Quantification of the Morphological Atherosclerotic Calcification Distribution on X-Rays Is a Strong Predictor of Mortality in Postmenopausal Women
+  author: C Christiansen, M Karsdal, FB Lauze, E Dam, M Ganz, M de Bruijne, ...
+  authors_full: ''
+  year: 2008
+  journal: Arteriosclerosis, Thrombosis, and Vascular Biology
+- title: Superior assessment of CVD death by MACD index compared with the framingham score is highly associated with predisposition to diabetes
+  author: E Soltyskinska, N Barascuk, M Ganz, M Nielsen, M Karsdal, ...
+  authors_full: ''
+  year: 2008
+  journal: Keystone Symposia, nr. S2
+- title: Morphological Atherosclerosis Calcification Distribution (MACD) Index is a Strong Predictor of Cardio-Vascular Death and Include Predictive Power of BMD
+  author: C Christiansen, M Karsdal, M Ganz, E Dam, M Nielsen
+  year: 2008
+  journal: 30th ASBMR Annual Meeting
+- title: Growth Pattern of Atherosclerotic Calcifications
+  author: LL Larsen, M Ganz, E Dam, N Dandu, M Nielsen
+  year: 2008
+  journal: Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2th …
+- title: Top Quark Physics Beyond The Standard Model
+  author: M Ganz
+  year: 2007
+  journal: University of Karlsruhe, Germany
+- title: Evaluation of bias in brain atrophy estimation
+  author: A Pai, S Darkner, L Sørensen, L Lillemark, P Mysling, J Sporring, EB Dam, ...
+  authors_full: ''
+  year: 2012
+  journal: NIBAD'12
+- title: Data driven constraints for the svm
+  author: S Darkner, LH Clemmensen
+  year: 2012
+  journal: International Workshop on Machine Learning in Medical Imaging
+- title: 'IC‐P‐013: Hippocampal texture provides volume independent information for Alzheimer''s diagnosis'
+  author: A Pai, L Sørensen, S Darkner, J Suhy, J Oh, G Chen, C Igel, M Nielsen
+  year: 2012
+  journal: Alzheimer's & Dementia 8 (4S_Part_1), P15-P15
+- title: 'In the July 2012 abstract issue of Alzheimer’s & Dementia (Volume 8, Issue 4, Supplement 2), the following errors were found: The order of authors in IC-P-013 and P1-157 …'
+  author: A Pai, S Darkner, J Suhy, J Oh, G Chen, C Igel, M Nielsen, ...
+  authors_full: ''
+  year: 2012
+  journal: Alzheimer’s & Dementia
+- title: Higher-Order Momentum Distributions and Locally Affine LDDMM Registration
+  author: S Sommer, M Nielsen, S Darkner, X Pennec
+  year: 2011
+  journal: arXiv preprint arXiv:1112.3166
+- title: 'Generalized partial volume: An inferior density estimator to parzen windows for normalized mutual information'
+  author: S Darkner, J Sporring
+  year: 2011
+  journal: Biennial International Conference on Information Processing in Medical …
+- title: Efficient hyperelastic regularization for registration
+  author: S Darkner, MS Hansen, R Larsen, MF Hansen
+  year: 2011
+  journal: Scandinavian Conference on Image Analysis
+- title: Jacobians for Lebesgue Registrations for a range of Sim ilarity Measures
+  author: J Sporring, S Darkner
+  year: 2011
+  journal: Department of Computer Science, University of Copenhagen
+- title: The cartilage bone junction and its implication for deep canal hearing instrument fittings
+  author: C Nielsen, S Darkner
+  year: 2011
+  journal: The Hearing Journal
+- title: Registration-based interpolation applied to cardiac MRI
+  author: H Ólafsdóttir, H Pedersen, MS Hansen, M Lyksborg, MF Hansen, ...
+  authors_full: Hildur Ólafsdóttir, Henrik Pedersen, Michael S. Hansen, Mark Lyksborg, Mads Fogtmann Hansen, Sune Darkner, Rasmus Larsen
+  year: 2010
+  journal: 'Medical Imaging 2010: Image Processing'
+- title: 'Local Segmentation by Large Scale Hypothesis Testing: Segmentation as outlier detection'
+  author: S Darkner, AL Dahl, R Larsen, A Skimmige, E Garde, G Waldemar
+  year: 2010
+  journal: 5th International Conference on Computer Vision Theory and Applications
+- title: Active illumination and appearance model for face alignment
+  author: M GÖKMEN, F KAHRAMAN, S Darkner, R Larsen
+  year: 2010
+  journal: Turkish Journal of Electrical Engineering and Computer Sciences
+- title: Predictive Modelling of Cardiac 2D Multi-Slice MRI with Simultaneous Resolution of Cardiac and Respiratory Motion
+  author: H Pedersen, H Ólafsdóttir, S Darkner, M Lyksborg, R Larsen
+  year: 2009
+  journal: CI2BM09-MICCAI Workshop on Cardiovascular Interventional Imaging and …
+- title: Shape and Deformation Analysis of the Human Ear Canal
+  author: S Darkner
+  year: 2009
+  journal: Technical University of Denmark, DTU Informatics, Building
+- title: Analysis of surfaces using constrained regression models
+  author: S Darkner, MR Sabuncu, P Golland, RR Paulsen, R Larsen
+  year: 2008
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: Estimation of shape model parameters for 3D surfaces
+  author: SGH Erbou, S Darkner, J Fripp, S Ourselin, BK Ersboll
+  year: 2008
+  journal: '2008 5th IEEE International Symposium on Biomedical Imaging: From Nano to …'
+- title: Robust registration for change detection
+  author: S Darkner, DW Hansen, RR Paulsen, R Larsen
+  year: 2008
+  journal: 'Medical Imaging 2008: Image Processing'
+- title: Non-rigid registration of 2D manifolds in 3D Euclidian space
+  author: S Darkner, M Vester-Christensen, RR Paulsen, R Larsen
+  year: 2008
+  journal: 'Medical Imaging 2008: Image Processing'
+- title: Robust registration for change detection [6914-101]
+  author: S Darkner, DW Hansen, RR Paulsen, R Larsen
+  year: 2008
+  journal: PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6914 (2 …
+- title: Non-rigid registration of 2D manifolds in 3D Euclidian space [6914-99]
+  author: S Darkner, M Vester-Christensen, RR Paulsen, R Larsen
+  year: 2008
+  journal: PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6914 (2 …
+- title: Analysis of deformation of the human ear and canal caused by mandibular movement
+  author: S Darkner, R Larsen, RR Paulsen
+  year: 2007
+  journal: International Conference on Medical Image Computing and Computer-Assisted …
+- title: An active illumination and appearance (AIA) model for face alignment
+  author: F Kahraman, M Gokmen, S Darkner, R Larsen
+  year: 2007
+  journal: 2007 IEEE Conference on Computer Vision and Pattern Recognition
+- title: Texture enhanced appearance models
+  author: R Larsen, MB Stegmann, S Darkner, S Forchhammer, TF Cootes, ...
+  authors_full: Rasmus Larsen, Mikkel B. Stegmann, Sune Darkner, Søren Forchhammer, Timothy F. Cootes, Bjarne Kjær Ersbøll
+  year: 2007
+  journal: Computer Vision and Image Understanding
+- title: Evaluating a method for automated rigid registration
+  author: S Darkner, M Vester-Christensen, R Larsen, RR Paulsen
+  year: 2007
+  journal: 'Medical Imaging 2007: Image Processing'
+- title: Accelerated 3D image registration
+  author: M Vester-Christensen, SG Erbou, S Darkner, R Larsen
+  year: 2007
+  journal: 'Medical Imaging 2007: Image Processing'
+- title: Automated 3D rigid registration of open 2D manifolds
+  author: S Darkner, M Vester-Christensen, R Larsen, RR Paulsen, C Nielsen
+  year: 2006
+  journal: MICCAI 2006 Workshop From Statistical Atlases to Personalized Models
+- title: Wedgelet enhanced appearance models
+  author: S Darkner, R Larsen, MB Stegmann, BK Ersboll
+  year: 2004
+  journal: 2004 Conference on Computer Vision and Pattern Recognition Workshop
+- title: Some issues of biological shape modelling with applications
+  author: R Larsen, KB Hilger, K Skoglund, S Darkner, RR Paulsen, MB Stegmann, ...
+  authors_full: Rasmus Larsen, Klaus Baggesen Hilger, Karl Skoglund, Sune Darkner, Rasmus R. Paulsen, Mikkel B. Stegmann, Brian Lading, Hans Henrik Thodberg, Hrafnkell Eiriksson
+  year: 2003
+  journal: Scandinavian Conference on Image Analysis
+- title: Wedgelet Compression for Appearance Models
+  author: S Darkner, R Larsen
+  year: 2003
+  journal: 12th Danish Conference on Pattern Recognition and Image Analysis
+- title: Automated visual scoring of psoriasis
+  author: DD Gomez, TK Jensen, S Darkner, JM Carstensen
+  year: 2002
+  journal: Informatics and Mathematical Modelling
 - title: 'Transforming Hyperspectral Images Into Chemical Maps: A Novel End‐to‐End Deep Learning Approach.'
   author: OC Galbo Engstrøm, M Albano‐Gaglio, E Schou Dreier, Y Bouzembrak, ...
   authors_full: Ole‐Christian Galbo Engstrøm, Michela Albano‐Gaglio, Erik Schou Dreier, Yamine Bouzembrak, Maria Font‐i‐Furnols, Puneet Mishra, Kim Steenstrup Pedersen
