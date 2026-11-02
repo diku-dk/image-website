@@ -126,7 +126,7 @@
   description: 'Think of simulation as a robot''s rehearsal space: practice thousands of times virtually, predicting outcomes and perfecting movements, to develop and validate control algorithms safely.'
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
-- title: 'Medical Robotics: Simulation & Mapping'
+- title: 'Medical Robotics: Simulation & Control'
   image: assets/img/projects/medical-robotics-simulation-mapping.jpg
   topics:
   - Medical robotics
@@ -135,7 +135,7 @@
   - Master Thesis
   - Master Project
   status: open
-  description: Develop ultra-realistic simulation environments for colonoscopy training, using digital twins of the colon and 3D Gaussian splatting so robots and clinicians can practice safely.
+  description: Develop realistic simulation environments for colonoscopy training, implementing algorithms to control complex soft robots for complicated medical procedures.
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
 - title: Flying Drones as a Team
@@ -158,7 +158,7 @@
   levels:
   - Master Project
   - Master Thesis
-  status: open
+  status: closed
   description: Build a complete system where a robot arm responds to natural language commands, combining language and vision models with real manipulation tasks.
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
@@ -170,8 +170,30 @@
   - Bachelor Thesis
   - Master Project
   - Master Thesis
-  status: open
+  status: closed
   description: 'Put robot arms to work in real scientific workflows: automate sample scanning and handling so scientists can focus on discovery.'
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
+- title: 'Robot Artist: '
+  image: assets/img/projects/robotsketch.png
+  topics:
+  - Robotics
+  levels:
+  - Bachelor Thesis
+  status: open
+  description: 'Link an vision system to an artist embodied as a robot arm that can draw a sketch of portrait.'
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
+- title: 'Humanoid Robot: '
+  image: assets/img/projects/humanoid.jpg
+  topics:
+  - Robotics
+  - Reinforcement Learning
+  levels:
+  - Master Project
+  - Master Thesis
+  status: open
+  description: 'Simulation-based reinforcement learning of whole-body motion of a humanoid robot to do agile motion while keeping balance.'
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
 - title: Processing of larger than memory images
