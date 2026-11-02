@@ -174,7 +174,7 @@
 #  description: 'Put robot arms to work in real scientific workflows: automate sample scanning and handling so scientists can focus on discovery.'
 #  supervisor: Hang Yin
 #  contact: hayi@di.ku.dk
-- title: 'Robot Artist: '
+- title: 'Robot Artist'
   image: assets/img/projects/robotsketch.png
   topics:
   - Robotics
@@ -184,7 +184,7 @@
   description: 'Link an vision system to an artist embodied as a robot arm that can draw a sketch of portrait.'
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
-- title: 'Humanoid Robot: '
+- title: 'Humanoid Robot'
   image: assets/img/projects/humanoid.jpeg
   topics:
   - Robotics
