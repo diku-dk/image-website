@@ -150,30 +150,30 @@
   description: Program a team of drones to move in a coordinated way, implementing barrier-function or consensus-based control so they fly without colliding.
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
-- title: 'Teach Robots to Understand You: Building Language-Controlled Robot Arms'
-  image: assets/img/projects/teach-robots-to-understand-you-building-language-controlled.jpg
-  topics:
-  - Robotics
-  - Natural language processing
-  levels:
-  - Master Project
-  - Master Thesis
-  status: closed
-  description: Build a complete system where a robot arm responds to natural language commands, combining language and vision models with real manipulation tasks.
-  supervisor: Hang Yin
-  contact: hayi@di.ku.dk
-- title: 'Robots in the Lab: Automating Science So Scientists Can Focus on Discovery'
-  image: assets/img/projects/robots-in-the-lab-automating-science-so-scientists-can-focus.jpg
-  topics:
-  - Robotics
-  levels:
-  - Bachelor Thesis
-  - Master Project
-  - Master Thesis
-  status: closed
-  description: 'Put robot arms to work in real scientific workflows: automate sample scanning and handling so scientists can focus on discovery.'
-  supervisor: Hang Yin
-  contact: hayi@di.ku.dk
+# - title: 'Teach Robots to Understand You: Building Language-Controlled Robot Arms'
+#   image: assets/img/projects/teach-robots-to-understand-you-building-language-controlled.jpg
+#   topics:
+#   - Robotics
+#   - Natural language processing
+#   levels:
+#   - Master Project
+#   - Master Thesis
+#   status: open
+#   description: Build a complete system where a robot arm responds to natural language commands, combining language and vision models with real manipulation tasks.
+#   supervisor: Hang Yin
+#   contact: hayi@di.ku.dk
+# - title: 'Robots in the Lab: Automating Science So Scientists Can Focus on Discovery'
+#   image: assets/img/projects/robots-in-the-lab-automating-science-so-scientists-can-focus.jpg
+#   topics:
+#   - Robotics
+#   levels:
+#   - Bachelor Thesis
+#   - Master Project
+#   - Master Thesis
+#   status: open
+#  description: 'Put robot arms to work in real scientific workflows: automate sample scanning and handling so scientists can focus on discovery.'
+#  supervisor: Hang Yin
+#  contact: hayi@di.ku.dk
 - title: 'Robot Artist: '
   image: assets/img/projects/robotsketch.png
   topics:
@@ -185,7 +185,7 @@
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
 - title: 'Humanoid Robot: '
-  image: assets/img/projects/humanoid.jpg
+  image: assets/img/projects/humanoid.jpeg
   topics:
   - Robotics
   - Reinforcement Learning
