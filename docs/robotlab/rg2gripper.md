@@ -45,7 +45,12 @@ Using robot I/O to control the gripper needs to install URCap to the teaching pe
 
 Ideally, one would like to control the grip/release of the gripper from a remote computer, e.g. with Python/C++ APIs. Unfortunately, no official support seems to be there. There are, however, solutions discussed in the community.
 
+### Mobus/TCP
+
+This is the recommended way as it bypasses the need of using a customised URCap (as below) that can make the gripper less responsive to the function call. If you are a ROS user, you might find this [package](https://github.com/tonydle/ur_onrobot) can be useful. For a native python interface without the ROS dependency, see our student Asger Ren Nordberg's [implementation](https://github.com/AsgerRN/UR5_RG2_python).
+
 ### ur_rtde
+__This is deprecated as a direct communication with Modbus/TCP can be done with python libraries. See above__
 
 ur-rtde provides APIs to command the robot and read/write I/O interfaces. The command is exclusive to UR5e itself so we will need an extended script to run on the controller, listening to certain I/O port and then executing the URCap function accordingly. There are two ways of running such an extended script on controller/teach pendant, see [the issue and related discussion on ur_rtde](https://gitlab.com/sdurobotics/ur_rtde/-/issues/108). The lab space has implemented the manually loaded custom script solution as the other is facing some problem of setting a local script, possibly related to [an active issue](https://gitlab.com/sdurobotics/ur_rtde/-/issues/297). 
 
