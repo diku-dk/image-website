@@ -184,6 +184,17 @@
   description: 'Link an vision system to an artist embodied as a robot arm that can draw a sketch of portrait.'
   supervisor: Hang Yin
   contact: hayi@di.ku.dk
+- title: 'Flying Hand'
+  image: assets/img/projects/dronegrasp.png
+  topics:
+  - Robotics
+  levels:
+  - Master Project
+  - Master Thesis
+  status: open
+  description: 'A drone is not necessarily just flying around, but can do actual work when equipped with a hand.'
+  supervisor: Hang Yin
+  contact: hayi@di.ku.dk
 - title: 'Humanoid Robot'
   image: assets/img/projects/humanoid.jpeg
   topics:
